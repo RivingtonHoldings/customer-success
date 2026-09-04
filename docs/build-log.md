@@ -43,7 +43,7 @@ Phase 8, verify and push. Check all of these and fix any failure: no .mcp.json e
 - [x] Phase 5, setup-check skill (2026-09-04)
 - [x] Phase 6, help center mirror (CHECKPOINT 1 inside) (2026-09-04)
 - [x] Phase 7, golden-questions v1 (2026-09-04)
-- [x] Phase 8, verify (2026-09-04); push pending CHECKPOINT 2
+- [x] Phase 8, verify and push (2026-09-04)
 
 ## Judgment calls
 
@@ -90,3 +90,5 @@ Phase 8, verify and push. Check all of these and fix any failure: no .mcp.json e
 - Phase 8: all seven checks pass. No .mcp.json; all 42 connector tools in settings.json appear in docs/connector-tools.md; all nine command files resolve to a skill; git would add only .gitkeep files under confidential/; the second sync run reported zero added, updated, or removed for both MLSs; the setup-check smoke test lists five Baldwin articles.
 - Phase 8: /setup-check's git pull step fails today with "couldn't find remote ref main" because the GitHub repository has no commits yet; it passes as soon as the first push lands. Not a repo defect.
 - Phase 8: the @perchwell.com grep hits, outside the contacts table in project-status.md, are all generic or illustrative: the support@ example in CLAUDE.md, the support footer in the article-draft references, the support@ and no-reply@ mailboxes inside mirrored public articles, and two rule descriptions in this log and decisions.md. No personal addresses outside the contacts table.
+- Phase 8 (after CHECKPOINT 2): pre-commit checks passed. Branch was already main. Name scan of all 285 committed files against the 330 member, teammate, and third-party names from the pull found only the MLS name "Baldwin", "Keller Williams", example names in the ported skill-creator docs, and the project contacts sourced from Notion; phone hits were public MLS and Perchwell office numbers inside mirrored articles. Both scripts contain no tokens, keys, or cookies. git check-ignore confirms the confidential run folder is ignored and the .gitkeep is not.
+- Phase 8: first commit pushed to origin/main; /setup-check pull step now returns "Already up to date."
