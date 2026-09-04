@@ -14,19 +14,14 @@ Decided by Leo, matching the marketing repo's pattern. Drafts are created in Not
 
 From the Notion project page. Fin resolved means Fin answered, no teammate message followed, and no same-topic follow-up from the member within 48 hours. Reported weekly next to Intercom's number, never blended, so the two cannot be confused.
 
-## 2026-09-04: Golden questions sample the two weeks after Baldwin cutover
+## 2026-09-04: "Golden questions" means Intercom's 14 content readiness factors
 
-Decided by Leo. Window is August 3 to August 17, 2026, because that is when new-member questions were densest and Fin's gaps most visible. Filter problems found while building the first set are logged below for Session 2.
+Decided by Leo. The golden questions are the checklist every article must pass (`docs/standards/golden-questions.md`), not a set of mined member questions. A first pass at mining member questions from the two weeks after Baldwin cutover was built and then dropped; its findings that still matter for the weekly Fin report are below.
 
-## Session 2 notes
+## Notes for Fin reporting (from the dropped member-question pull, 2026-09-04)
 
-Filter problems and follow-ups discovered while running `/golden-questions` v1 on 2026-09-04.
-
-- Internal test traffic is inside the Baldwin workflow. Teammates testing Fin with +alias perchwell.com accounts created 52 conversations in the window (637 raw, 585 after removing them). The MLS attribute is Baldwin at creation and is only changed to "Test / Internal" by hand afterward, so the pool now drops any conversation whose author email ends in @perchwell.com or whose attributes say Test / Internal. Two such conversations still reached the sample before the filter existed and were excluded at extract time.
-- The compact `search` rows have no created_at, so the sample spreads across the window by conversation ID order rather than by day. IDs increase with creation time, so the spread is right, but per-day counts are only available after `get_conversation`.
-- Paging with the compact `search` tool is sorted by last update, and jumping ahead with synthetic cursors left an 88-conversation gap the first time. The skill now pages sequentially with the cursors the API returns and verifies the unique count against total_count.
-- A bare acknowledgement ("thanks", "yes", "got it") after Fin's answer was counted as a same-topic follow-up in the first pass, which marked four clean Fin answers unresolved. The extract now ignores short acknowledgements. Session 2 should confirm this reading of the Perchwell definition with Rafe.
-- Teammate courtesy check-ins after a correct Fin answer ("let me know if you need anything else") count as intervention under the Perchwell definition as written. Three of the 12 interventions in the sample were courtesy only. Decide whether a check-in with no new information should count.
-- Fin cites articles from the default help center and Fin snippets that are not in the Baldwin help center; the mirror lookup reports these as "not in Baldwin mirror". Related to the retrieval scoping question Jeff owns.
-- Scrubbing replaces every member and teammate name the run saw, but third parties named inside a message (a client, a colleague) are only caught when they match a known name. The committed set avoids quoting those messages; Session 2 should add a general capitalized-name pass or a review step.
-- The sample's Perchwell-resolved share was 13 of 25 (52 percent) with a teammate stepping in on 12 of 25 (48 percent), in line with the roughly 40 percent human intervention the project page cites for Baldwin.
+- Teammate test traffic sits inside the Baldwin chat workflow with `MLS: Baldwin` at creation; it is only relabeled Test / Internal by hand later. 52 of 637 Fin conversations in August 3 to 17 were tests. Any Fin count should drop conversations whose author email ends in @perchwell.com or whose attributes say Test / Internal.
+- A bare acknowledgement from the member ("thanks", "yes", "got it") after Fin's answer should not count as a same-topic follow-up under the Perchwell definition; confirm with Rafe.
+- Teammate courtesy check-ins after a correct Fin answer count as intervention under the definition as written. Decide whether a check-in with no new information should count.
+- Fin cites articles from the default help center and Fin snippets that are not in the Baldwin help center. Related to the retrieval scoping question Jeff owns.
+- In a 25-conversation sample, 13 met the Perchwell resolved definition and a teammate stepped in on 12, in line with the roughly 40 percent human intervention the project page cites.

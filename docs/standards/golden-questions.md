@@ -1,10 +1,10 @@
-# Content readiness checklist (14 factors)
+# Golden questions: the 14 content readiness factors
 
-Source: Intercom's Content Readiness feature, which scores knowledge base content across 14 factors. Recorded here 2026-09-04 from the team's working copy. The project's success criteria require 100 percent of in-scope articles to pass this checklist before launch.
+The team calls these the golden questions. Source: Intercom's Content Readiness feature, which scores knowledge base content across 14 factors. Recorded here 2026-09-04 from the team's working copy. The project's success criteria require 100 percent of in-scope articles to pass this checklist before launch.
 
 Apply all 14 factors as a quality checklist when creating a new article, snippet, or internal article; when proposing updates to existing content; and when reviewing content for accuracy or completeness. Flag any factor that would fail before submitting a proposal. If the information needed to fix a factor is not available (for example exact limits for numerical clarity, or which plans or roles are affected for audience specification), ask the user rather than leaving it vague or making it up.
 
-## The factors
+## The 14 golden questions
 
 1. **disambiguation**: Avoid vague references like "this screen" or "the field shown above." Every reference must be self-descriptive. Do not use emoji (👇 ☝️) to point at visual content.
 2. **visual_content_text**: Every image must have descriptive alt text explaining what the screenshot or diagram shows. A trailing colon followed by an image with no alt text is not acceptable; describe the visual in text too.
@@ -23,8 +23,8 @@ Apply all 14 factors as a quality checklist when creating a new article, snippet
 
 ## How the skills use this
 
-`/article-draft` and `/article-rewrite` run every factor against the finished draft before saving and list any that fail, with the fix or the question for the user, in their report. The QA pass in `workstreams/help-center-overhaul/qa/` records the result per article.
+`/article-draft` and `/article-rewrite` run every golden question against the finished draft before saving and list any that fail, with the fix or the question for the user, in their report. The QA pass in `workstreams/help-center-overhaul/qa/` records the result per article. Golden questions are a checklist for articles, not a set of member questions; real member questions, if the team wants them later, would be a separate artifact.
 
 ## Known tension with the current house style
 
-Factor 5 prefers "How to..." or question-form headings. The bundled style rules in `.claude/skills/article-draft/references/style-rules.md` say article titles avoid questions and section headings are task-based sentence case. Until `docs/standards/content-standards.md` settles it, follow this checklist for section headings (question form or "How to...") and keep article titles as the style rules say, and note the choice in the draft's open items.
+Factor 5 prefers "How to..." or question-form headings. The bundled style rules in `.claude/skills/article-draft/references/style-rules.md` say article titles avoid questions and section headings are task-based sentence case. Until `docs/standards/content-standards.md` settles it, follow the golden questions for section headings (question form or "How to...") and keep article titles as the style rules say, and note the choice in the draft's open items.

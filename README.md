@@ -65,7 +65,7 @@ Run `/setup-check` at the start of every session. It takes a few seconds and mak
 Talk to it the way you would talk to a capable colleague. Some examples tied to the help center project:
 
 - "Refresh the help center mirror so I am looking at the latest Baldwin articles." (Claude runs `/sync-help-center`.)
-- "Pull the member questions from the two weeks after the Baldwin cutover and group them into golden questions." (Claude runs `/golden-questions`.)
+- "Check this draft against the golden questions before I send it for review." (Claude runs the 14 content readiness factors in `docs/standards/golden-questions.md`.)
 - "Draft a help center article for the new saved search alert frequency options. Here are the release notes." (Claude runs `/article-draft` and creates a Notion draft for review.)
 - "Rewrite the Baldwin Dashboard Overview article to match our content standards." (Claude runs `/article-rewrite` on the mirrored article.)
 - "Write macros the support team can paste when members ask how to print search results." (Claude runs `/intercom-macros` and saves the drafts in the repo.)
@@ -76,7 +76,7 @@ You can also just ask questions: "Which Baldwin articles mention Tags?" or "What
 
 Work is organized into folders called workstreams.
 
-- **workstreams/help-center-overhaul/** is the September 2026 project to standardize the Baldwin and CRMLS help centers and get Fin's human-intervention rate down. Inside it: `docs/` for status and decisions, `audit/` for the article audit, `golden-questions/` for the member question set, `qa/` for checklists and test results, `fin-reports/` for weekly Fin numbers, `outputs/` for finished deliverables, and `confidential/` (see below).
+- **workstreams/help-center-overhaul/** is the September 2026 project to standardize the Baldwin and CRMLS help centers and get Fin's human-intervention rate down. Inside it: `docs/` for status and decisions, `audit/` for the article audit, `qa/` for golden question results and Fin test runs, `fin-reports/` for weekly Fin numbers, `outputs/` for finished deliverables, and `confidential/` (see below).
 - **workstreams/support-ops/** is for support content that outlives any single project, mainly macro drafts. One file per feature, indexed in `macros/README.md`.
 
 ## The confidential folder rule

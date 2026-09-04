@@ -8,6 +8,7 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 - **Timeline:** September 1 to October 2, 2026 (five weeks)
 - **Lead:** Tara
 - **Scope:** Baldwin and CRMLS help centers
+- **Golden questions:** the 14 content readiness factors in `docs/standards/golden-questions.md`; every in-scope article must pass all 14 before launch.
 - **Goal:** 10 percent or less human intervention on Fin across MLS help centers, with CRMLS meeting it at cutover. Baldwin is around 40 percent today (August 25 cutover-conversation sampling).
 - **System of record:** the Notion project page, ID `3c88b9e0143880ec8fbee25ec0b38975` (https://app.notion.com/p/3c88b9e0143880ec8fbee25ec0b38975). When this repo and Notion disagree, Notion wins and the repo gets updated.
 - **Fin-resolved, Perchwell definition:** Fin answered, no teammate sent a message on that conversation afterward, and no follow-up from the same member on the same topic within 48 hours. Report it weekly alongside Intercom's own resolution number, kept separate, never blended.
@@ -26,8 +27,7 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 
 - `docs/` - `project-status.md` (contacts, current status, open questions) and `decisions.md` (what was decided and why). Update these, do not append to them.
 - `audit/` - The article-by-article audit of Baldwin and CRMLS content: recommendation, rationale, and priority per article. Kelly owns the Baldwin audit.
-- `golden-questions/` - The golden question set mined from real member conversations, used to test Fin. Built by `/golden-questions`.
-- `qa/` - Results of the 14-factor content readiness checklist (`docs/standards/qa-checklist.md`, Intercom's Content Readiness factors) per article, and Fin answer-quality test runs.
+- `qa/` - Per-article results against the 14 golden questions (`docs/standards/golden-questions.md`, Intercom's content readiness factors), and Fin answer-quality test runs.
 - `fin-reports/` - Weekly Fin resolution reports using the Perchwell definition.
 - `outputs/` - Finished deliverables, including article drafts under `outputs/drafts/`. Do not read this folder unless asked.
 - `confidential/` - Raw conversation excerpts and anything with a member name, email, phone, or address. Git-ignored.
@@ -36,6 +36,6 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 
 - Read `docs/standards/` before drafting or rewriting any article. If a standards file is still a placeholder, say so and fall back to the skill's bundled rules.
 - Every article recommendation in the audit needs a rationale and a priority, not just a verdict.
-- Golden questions and QA results must be free of member identifiers before they leave `confidential/`.
+- QA results and Fin reports must be free of member identifiers before they leave `confidential/`.
 - Fin numbers always state which definition they use.
 - This workstream can be archived after October 2, 2026. Evergreen content (macros, standards) belongs in `workstreams/support-ops/` or `docs/standards/`, not here.

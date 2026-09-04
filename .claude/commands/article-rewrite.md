@@ -1,1 +1,1 @@
-Follow `.claude/skills/article-rewrite/SKILL.md` to rewrite the existing help center article named or pasted in $ARGUMENTS (a mirror path under `docs/help-center/` is preferred) using the nine transformation patterns and `docs/standards/`.
+Follow `.claude/skills/article-rewrite/SKILL.md` to rewrite the existing help center article named or pasted in $ARGUMENTS (a mirror path under `docs/help-center/` is preferred) using the nine transformation patterns and the 14 golden questions in `docs/standards/golden-questions.md`.
