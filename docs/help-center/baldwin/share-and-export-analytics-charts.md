@@ -6,9 +6,9 @@ description: "In this article, you will learn how to export a chart as a PDF or 
 url: "http://support.perchwell.com/en/articles/8955876-share-and-export-analytics-charts"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19585615"
+collection: "Analytics / Analytics Tools"
 collection_ids: [19585615]
-collections: ["19585615"]
+collections: ["Analytics / Analytics Tools"]
 state: published
 author_id: 9490228
 created_at: 2024-02-15T22:06:54Z

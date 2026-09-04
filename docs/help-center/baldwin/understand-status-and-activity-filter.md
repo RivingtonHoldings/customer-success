@@ -6,9 +6,9 @@ description: "In this article, you will learn how to use the Status and Activity
 url: "http://support.perchwell.com/en/articles/11010696-understand-status-and-activity-filter"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2025-04-01T14:00:59Z

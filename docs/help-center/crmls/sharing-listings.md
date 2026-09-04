@@ -6,9 +6,9 @@ description: "Easily share listings with your clients or team across the Perchwe
 url: ""
 help_center: crmls
 help_center_id: 4767477
-collection: "16866993"
+collection: "Client Collaboration / Agents"
 collection_ids: [16866993]
-collections: ["16866993"]
+collections: ["Client Collaboration / Agents"]
 state: draft
 author_id: 9490228
 created_at: 2025-05-13T03:48:43Z

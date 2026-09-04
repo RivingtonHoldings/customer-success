@@ -6,9 +6,9 @@ description: "Use Map Search to view listings geographically and refine results 
 url: "http://support.perchwell.com/en/articles/10535900-using-the-map-on-the-search-page"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2025-02-10T21:38:16Z

@@ -6,9 +6,9 @@ description: "In this article, you will learn how to find listings with schedule
 url: "http://support.perchwell.com/en/articles/11517245-search-for-open-houses"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866944"
+collection: "Search / Filters"
 collection_ids: [16866944]
-collections: ["16866944"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2025-06-05T15:34:35Z

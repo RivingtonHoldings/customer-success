@@ -6,9 +6,9 @@ description: "In this article, learn how to use filters to view Agent Ranking, O
 url: "http://support.perchwell.com/baldwin/en/articles/13623210-analytics-tab-overview"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19585615"
+collection: "Analytics / Analytics Tools"
 collection_ids: [19585615]
-collections: ["19585615"]
+collections: ["Analytics / Analytics Tools"]
 state: published
 author_id: 9490228
 created_at: 2026-02-04T23:29:24Z

@@ -6,9 +6,9 @@ description: "In this article, you will learn how to export listing results from
 url: "http://support.perchwell.com/en/articles/11776740-export-listings-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2025-07-15T14:08:07Z

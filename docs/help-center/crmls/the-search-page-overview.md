@@ -6,9 +6,9 @@ description: "The Search page is the primary workspace for finding listings, app
 url: "https://support.perchwell.com/crmls/en/articles/11994112-the-search-page-overview"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2025-08-12T16:00:18Z

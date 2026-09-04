@@ -6,9 +6,9 @@ description: "In this article, you will learn how to print your search results f
 url: "http://support.perchwell.com/baldwin/en/articles/16302253-print-search-results"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 8314814
 created_at: 2026-08-10T22:05:48Z

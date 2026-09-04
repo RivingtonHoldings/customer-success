@@ -6,9 +6,9 @@ description: "Learn the different ways to search for condos in Perchwell, whethe
 url: "http://support.perchwell.com/en/articles/15363551-search-for-a-condo"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797942"
+collection: "Search / Filters"
 collection_ids: [17797942]
-collections: ["17797942"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2026-06-03T17:53:00Z

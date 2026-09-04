@@ -6,9 +6,9 @@ description: "In this article: In this article, you will learn how to access you
 url: "http://support.perchwell.com/baldwin/en/articles/15280170-how-to-log-in-to-the-perchwell-mobile-app"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19648857"
+collection: "User Settings / Log In to Perchwell"
 collection_ids: [19648857]
-collections: ["19648857"]
+collections: ["User Settings / Log In to Perchwell"]
 state: published
 author_id: 9490228
 created_at: 2026-05-27T17:42:04Z

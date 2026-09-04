@@ -6,9 +6,9 @@ description: "As an invited client you can engage with multiple agents within th
 url: ""
 help_center: crmls
 help_center_id: 4767477
-collection: "16867003"
+collection: "Client Collaboration / Invited Clients"
 collection_ids: [16867003]
-collections: ["16867003"]
+collections: ["Client Collaboration / Invited Clients"]
 state: draft
 author_id: 9490228
 created_at: 2025-05-19T14:36:03Z

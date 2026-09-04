@@ -6,9 +6,9 @@ description: "Questions about Hot Sheets, the Market Monitor, and what you see o
 url: "http://support.perchwell.com/en/articles/15216626-dashboard-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19644346"
+collection: "Dashboard / FAQs"
 collection_ids: [19644346]
-collections: ["19644346"]
+collections: ["Dashboard / FAQs"]
 state: published
 author_id: 9490228
 created_at: 2026-05-21T19:11:58Z

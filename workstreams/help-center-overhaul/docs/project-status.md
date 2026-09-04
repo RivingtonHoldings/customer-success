@@ -1,6 +1,6 @@
 # Project status: help center overhaul
 
-Living document. Update in place; do not append dated sections. Last updated: 2026-09-04.
+Living document. Update in place; do not append dated sections. Last updated: 2026-09-04 (afternoon).
 
 ## Roles and contacts
 
@@ -35,7 +35,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 
 | Initiative | Owner | Due | Status |
 |---|---|---|---|
-| Help center standards finalized and approved | Tara, with Rafe and Kelly | Sep 4, 2026 | Not started |
+| Help center standards finalized and approved | Tara, with Rafe and Kelly | Sep 4, 2026 | Golden questions in place; content standards not started; Fin labeling drafted with [decide] items for Tara |
 | All 115 Baldwin articles audited with recommendation, rationale, priority | Kelly Miragliotta | Sep 11, 2026 | Not started |
 | Fin answer-quality pass-rate target set | Rafe Petkovic | Sep 15, 2026 | Open |
 | Article updates and new content complete | Tara | Sep 18, 2026 | Not started |

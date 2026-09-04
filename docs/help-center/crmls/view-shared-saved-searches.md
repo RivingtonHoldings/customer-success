@@ -6,9 +6,9 @@ description: "In this article: You will learn how to open a Saved Search, explor
 url: "https://support.perchwell.com/crmls/en/articles/11373447-view-shared-saved-searches"
 help_center: crmls
 help_center_id: 4767477
-collection: "16867003"
+collection: "Client Collaboration / Invited Clients"
 collection_ids: [16867003]
-collections: ["16867003"]
+collections: ["Client Collaboration / Invited Clients"]
 state: published
 author_id: 9490228
 created_at: 2025-05-13T02:39:06Z

@@ -6,9 +6,9 @@ description: "In this article, you will learn how to open Analytics from Search,
 url: "http://support.perchwell.com/en/articles/8955889-analytics-tab-walkthrough"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19585615"
+collection: "Analytics / Analytics Tools"
 collection_ids: [19585615]
-collections: ["19585615"]
+collections: ["Analytics / Analytics Tools"]
 state: published
 author_id: 9490228
 created_at: 2024-02-15T22:11:52Z

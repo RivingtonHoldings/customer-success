@@ -6,9 +6,9 @@ description: "You will learn how to create a Saved Search Template and use it to
 url: "http://support.perchwell.com/baldwin/en/articles/13903342-customize-your-search-defaults-with-template-searches"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2026-03-02T04:45:20Z

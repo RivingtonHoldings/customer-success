@@ -6,9 +6,9 @@ description: "In this article, learn how to use map tools, including radius, pol
 url: "http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797942"
+collection: "Search / Filters"
 collection_ids: [17797942]
-collections: ["17797942"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2026-04-23T19:43:17Z

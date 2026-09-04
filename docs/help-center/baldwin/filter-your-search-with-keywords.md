@@ -6,9 +6,9 @@ description: "In this article:\n\nYou will learn how to filter listings by exact
 url: "http://support.perchwell.com/baldwin/en/articles/16053548-filter-your-search-with-keywords"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797942"
+collection: "Search / Filters"
 collection_ids: [17797942]
-collections: ["17797942"]
+collections: ["Search / Filters"]
 state: published
 author_id: 10644865
 created_at: 2026-07-23T14:29:38Z

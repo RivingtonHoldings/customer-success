@@ -6,9 +6,9 @@ description: "Sort search results by one or more fields to control the order in 
 url: "http://support.perchwell.com/en/articles/13930735-sorting-listings-on-the-search-page"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2026-03-04T22:04:29Z

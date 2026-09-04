@@ -6,9 +6,9 @@ description: "Questions about managing, sharing, and editing tags."
 url: "http://support.perchwell.com/baldwin/en/articles/15216706-tags-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19644367"
+collection: "Tags / FAQs"
 collection_ids: [19644367]
-collections: ["19644367"]
+collections: ["Tags / FAQs"]
 state: published
 author_id: 9490228
 created_at: 2026-05-21T19:26:21Z

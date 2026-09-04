@@ -6,9 +6,9 @@ description: "Launch a CloudCMA Listing Presentation directly from Perchwell Sea
 url: "https://support.perchwell.com/crmls/en/articles/13923137-create-a-cloud-cma-presentation-from-search"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2026-03-04T02:35:28Z

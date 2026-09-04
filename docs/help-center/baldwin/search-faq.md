@@ -6,9 +6,9 @@ description: "Questions about searching for listings, using search filters, and 
 url: "http://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19642611"
+collection: "Search / FAQs"
 collection_ids: [19642611]
-collections: ["19642611"]
+collections: ["Search / FAQs"]
 state: published
 author_id: 8314814
 created_at: 2026-05-21T02:36:19Z

@@ -6,9 +6,9 @@ description: "Use smart search filters to find properties by price, bedrooms, ne
 url: "https://support.perchwell.com/crmls/en/articles/10536081-enhancing-your-search-with-filters"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866944"
+collection: "Search / Filters"
 collection_ids: [16866944]
-collections: ["16866944"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2025-02-10T22:52:09Z

@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-04T17:09:41Z. Articles: 123 (120 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-04T20:02:38Z. Articles: 123 (120 published, 3 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -170,13 +170,28 @@ Collection ID 19652175. 1 articles.
 
 - [May Features](may-features.md), updated 2026-07-02
 
-## Collection 19644346 (under Dashboard)
+## Dashboard / FAQs (under Dashboard)
 
 Collection ID 19644346. 1 articles.
 
 - [Dashboard FAQ](dashboard-faq.md), updated 2026-07-20
 
-## Collection 17797941 (under Search)
+## Search / FAQs (under Search)
+
+Collection ID 19642611. 1 articles.
+
+- [Search FAQ](search-faq.md), updated 2026-08-31
+
+## Search / Filters (under Search)
+
+Collection ID 17797942. 4 articles.
+
+- [Filter Your Search with Keywords](filter-your-search-with-keywords.md), updated 2026-07-23
+- [Map Tools in Search](map-tools-in-search.md), updated 2026-07-02
+- [Search for Open Houses](search-for-open-houses.md), updated 2026-07-02
+- [Search for a Condo](search-for-a-condo.md), updated 2026-07-02
+
+## Search / Search (under Search)
 
 Collection ID 17797941. 14 articles.
 
@@ -195,47 +210,32 @@ Collection ID 17797941. 14 articles.
 - [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
 - [Universal Search Bar](universal-search-bar.md), updated 2026-08-10
 
-## Collection 17797942 (under Search)
-
-Collection ID 17797942. 4 articles.
-
-- [Filter Your Search with Keywords](filter-your-search-with-keywords.md), updated 2026-07-23
-- [Map Tools in Search](map-tools-in-search.md), updated 2026-07-02
-- [Search for Open Houses](search-for-open-houses.md), updated 2026-07-02
-- [Search for a Condo](search-for-a-condo.md), updated 2026-07-02
-
-## Collection 19642611 (under Search)
-
-Collection ID 19642611. 1 articles.
-
-- [Search FAQ](search-faq.md), updated 2026-08-31
-
-## Collection 19642616 (under Listing Maintenance)
+## Listing Maintenance / FAQs (under Listing Maintenance)
 
 Collection ID 19642616. 2 articles.
 
 - [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-09-01
 - [Listings FAQ](listings-faq.md), updated 2026-09-01
 
-## Collection 19644367 (under Tags)
+## Tags / FAQs (under Tags)
 
 Collection ID 19644367. 1 articles.
 
 - [Tags FAQ](tags-faq.md), updated 2026-08-05
 
-## Collection 19642645 (under Client Collaboration)
+## Client Collaboration / FAQs (under Client Collaboration)
 
 Collection ID 19642645. 1 articles.
 
 - [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-07-02
 
-## Collection 19642643 (under Reports)
+## Reports / FAQ (under Reports)
 
 Collection ID 19642643. 1 articles.
 
 - [Reports FAQ](reports-faq.md), updated 2026-08-31
 
-## Collection 19585615 (under Analytics)
+## Analytics / Analytics Tools (under Analytics)
 
 Collection ID 19585615. 3 articles.
 
@@ -243,25 +243,25 @@ Collection ID 19585615. 3 articles.
 - [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-07-02
 - [Share and Export Analytics Charts](share-and-export-analytics-charts.md), updated 2026-07-02
 
-## Collection 19642621 (under Analytics)
+## Analytics / FAQs (under Analytics)
 
 Collection ID 19642621. 1 articles.
 
 - [Analytics FAQ](analytics-faq.md), updated 2026-07-02
 
-## Collection 19642626 (under Manage People)
+## Manage People / FAQs (under Manage People)
 
 Collection ID 19642626. 1 articles.
 
 - [Manage People FAQ](manage-people-faq.md), updated 2026-07-02
 
-## Collection 19648857 (under User Settings)
+## User Settings / Log In to Perchwell (under User Settings)
 
 Collection ID 19648857. 1 articles.
 
 - [How to Log in to the Perchwell Mobile App](how-to-log-in-to-the-perchwell-mobile-app.md), updated 2026-07-02
 
-## Collection 19642648 (under Mobile)
+## Mobile / FAQs (under Mobile)
 
 Collection ID 19642648. 1 articles.
 

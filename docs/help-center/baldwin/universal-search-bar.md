@@ -6,9 +6,9 @@ description: "In this article, you will learn how to use the Universal Search Ba
 url: "http://support.perchwell.com/baldwin/en/articles/11002620-universal-search-bar"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2025-03-31T14:29:22Z

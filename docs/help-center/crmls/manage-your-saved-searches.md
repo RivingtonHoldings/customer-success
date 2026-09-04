@@ -6,9 +6,9 @@ description: "In this article, you will learn how to open Saved Searches, sort a
 url: "http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 8314814
 created_at: 2024-02-15T20:44:01Z

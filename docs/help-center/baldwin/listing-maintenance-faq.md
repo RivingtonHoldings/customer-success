@@ -6,9 +6,9 @@ description: "Questions about adding, editing, and managing listing data in Perc
 url: "http://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19642616"
+collection: "Listing Maintenance / FAQs"
 collection_ids: [19642616]
-collections: ["19642616"]
+collections: ["Listing Maintenance / FAQs"]
 state: published
 author_id: 8314814
 created_at: 2026-05-21T02:07:42Z

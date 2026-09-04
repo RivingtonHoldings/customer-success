@@ -6,9 +6,9 @@ description: "In this article, you will learn how to turn on email alerts for a 
 url: "http://support.perchwell.com/en/articles/11112420-set-up-email-alerts-for-saved-searches"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: published
 author_id: 8314814
 created_at: 2025-04-20T17:01:49Z

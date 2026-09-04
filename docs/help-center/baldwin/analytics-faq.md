@@ -6,9 +6,9 @@ description: "Questions about market reports and analytics features."
 url: "http://support.perchwell.com/baldwin/en/articles/15200594-analytics-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19642621"
+collection: "Analytics / FAQs"
 collection_ids: [19642621]
-collections: ["19642621"]
+collections: ["Analytics / FAQs"]
 state: published
 author_id: 9490228
 created_at: 2026-05-21T02:53:38Z

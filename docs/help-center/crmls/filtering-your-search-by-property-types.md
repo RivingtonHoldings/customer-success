@@ -6,9 +6,9 @@ description: "Use the Property Type filter to search for listings based on categ
 url: "https://support.perchwell.com/crmls/en/articles/13921850-filtering-your-search-by-property-types"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866944"
+collection: "Search / Filters"
 collection_ids: [16866944]
-collections: ["16866944"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2026-03-03T23:58:29Z

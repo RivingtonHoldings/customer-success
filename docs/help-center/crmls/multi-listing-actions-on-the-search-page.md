@@ -6,9 +6,9 @@ description: "Select multiple listings from the Search page to perform actions s
 url: ""
 help_center: crmls
 help_center_id: 4767477
-collection: "16866865"
+collection: "Search / Search"
 collection_ids: [16866865]
-collections: ["16866865"]
+collections: ["Search / Search"]
 state: draft
 author_id: 9490228
 created_at: 2026-03-05T03:02:48Z

@@ -6,9 +6,9 @@ description: "In this article, you will learn how to message invited clients in 
 url: "http://support.perchwell.com/en/articles/12541968-message-clients-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866993"
+collection: "Client Collaboration / Agents"
 collection_ids: [16866993]
-collections: ["16866993"]
+collections: ["Client Collaboration / Agents"]
 state: published
 author_id: 9490228
 created_at: 2025-10-08T15:16:51Z

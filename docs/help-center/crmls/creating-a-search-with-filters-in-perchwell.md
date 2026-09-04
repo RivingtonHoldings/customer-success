@@ -6,9 +6,9 @@ description: "Use Perchwell\u2019s smart search filters to quickly find properti
 url: "https://support.perchwell.com/crmls/en/articles/13923637-creating-a-search-with-filters-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
-collection: "16866944"
+collection: "Search / Filters"
 collection_ids: [16866944]
-collections: ["16866944"]
+collections: ["Search / Filters"]
 state: published
 author_id: 9490228
 created_at: 2026-03-04T04:09:13Z

@@ -6,9 +6,9 @@ description: "Questions about using Perchwell on your phone or tablet."
 url: "http://support.perchwell.com/en/articles/15201164-mobile-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19642648"
+collection: "Mobile / FAQs"
 collection_ids: [19642648]
-collections: ["19642648"]
+collections: ["Mobile / FAQs"]
 state: published
 author_id: 9490228
 created_at: 2026-05-21T04:40:49Z

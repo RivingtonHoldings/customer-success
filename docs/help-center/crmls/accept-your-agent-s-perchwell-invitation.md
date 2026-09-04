@@ -6,9 +6,9 @@ description: "In this article, you will learn how to accept your agent\u2019s Pe
 url: "http://support.perchwell.com/en/articles/11373210-accept-your-agent-s-perchwell-invitation"
 help_center: crmls
 help_center_id: 4767477
-collection: "16867003"
+collection: "Client Collaboration / Invited Clients"
 collection_ids: [16867003]
-collections: ["16867003"]
+collections: ["Client Collaboration / Invited Clients"]
 state: published
 author_id: 9490228
 created_at: 2025-05-13T02:33:08Z

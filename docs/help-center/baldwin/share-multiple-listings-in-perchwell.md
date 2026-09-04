@@ -6,9 +6,9 @@ description: "In this article, you will learn how to share multiple listings fro
 url: "http://support.perchwell.com/en/articles/13903326-share-multiple-listings-in-perchwell"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2026-03-02T04:39:35Z

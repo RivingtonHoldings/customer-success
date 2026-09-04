@@ -6,9 +6,9 @@ description: "Questions about customizing reports, creating CMAs, and sharing li
 url: "http://support.perchwell.com/baldwin/en/articles/15201097-reports-faq"
 help_center: baldwin
 help_center_id: 4755399
-collection: "19642643"
+collection: "Reports / FAQ"
 collection_ids: [19642643]
-collections: ["19642643"]
+collections: ["Reports / FAQ"]
 state: published
 author_id: 8314814
 created_at: 2026-05-21T04:27:08Z

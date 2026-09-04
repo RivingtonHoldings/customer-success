@@ -6,9 +6,9 @@ description: "Quick reference to help you locate transferred searches, contacts,
 url: "https://support.perchwell.com/crmls/en/articles/12881759-perchwell-transfer-guide-searches-contacts-more"
 help_center: crmls
 help_center_id: 4767477
-collection: "16869046"
+collection: "Welcome to Perchwell / From Legacy to Perchwell: Getting Started after Migrations"
 collection_ids: [16869046]
-collections: ["16869046"]
+collections: ["Welcome to Perchwell / From Legacy to Perchwell: Getting Started after Migrations"]
 state: published
 author_id: 9490228
 created_at: 2025-11-19T14:39:27Z

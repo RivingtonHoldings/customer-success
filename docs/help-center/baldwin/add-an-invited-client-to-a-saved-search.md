@@ -6,9 +6,9 @@ description: "In this article, you will learn how to add a client to a saved sea
 url: "http://support.perchwell.com/en/articles/8955682-add-an-invited-client-to-a-saved-search"
 help_center: baldwin
 help_center_id: 4755399
-collection: "17797941"
+collection: "Search / Search"
 collection_ids: [17797941]
-collections: ["17797941"]
+collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2024-02-15T20:58:38Z
