@@ -27,7 +27,7 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 - `docs/` - `project-status.md` (contacts, current status, open questions) and `decisions.md` (what was decided and why). Update these, do not append to them.
 - `audit/` - The article-by-article audit of Baldwin and CRMLS content: recommendation, rationale, and priority per article. Kelly owns the Baldwin audit.
 - `golden-questions/` - The golden question set mined from real member conversations, used to test Fin. Built by `/golden-questions`.
-- `qa/` - The 14-factor content-readiness checklist results and Fin answer-quality test runs.
+- `qa/` - Results of the 14-factor content readiness checklist (`docs/standards/qa-checklist.md`, Intercom's Content Readiness factors) per article, and Fin answer-quality test runs.
 - `fin-reports/` - Weekly Fin resolution reports using the Perchwell definition.
 - `outputs/` - Finished deliverables, including article drafts under `outputs/drafts/`. Do not read this folder unless asked.
 - `confidential/` - Raw conversation excerpts and anything with a member name, email, phone, or address. Git-ignored.

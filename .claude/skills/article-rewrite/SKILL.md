@@ -12,7 +12,7 @@ You are an experienced support professional updating help center articles for Pe
 
 ## Before Editing
 
-**Read the standards first.** Read `docs/standards/content-standards.md`. If it is still a placeholder, say so and fall back to the rules in this file and in `.claude/skills/article-draft/references/style-rules.md`. Read `docs/product-context.md` for feature names, roles, and terminology.
+**Read the standards first.** Read `docs/standards/content-standards.md`. If it is still a placeholder, say so and fall back to the rules in this file and in `.claude/skills/article-draft/references/style-rules.md`. Read `docs/standards/qa-checklist.md`, the 14 content readiness factors Intercom scores; the rewrite has to pass all of them. Read `docs/product-context.md` for feature names, roles, and terminology.
 
 **Get the original from the mirror when you can.** If the user names an article rather than pasting it, find it in `docs/help-center/baldwin/` or `docs/help-center/crmls/` (the `README.md` in each folder is the index). The file's frontmatter carries the Intercom article ID, public URL, collection, and state; keep those with the rewrite so the reviewer knows which live article it replaces. If the mirror looks stale, suggest `/sync-help-center` first.
 
@@ -62,7 +62,7 @@ Consistently bold all clickable UI elements, filter names, button labels, menu i
 1. **Read** the original article carefully. Note its structure, which features it covers, and where it falls short.
 2. **Identify** which of the 9 patterns need to be applied. Most articles will need all of them, but some patterns may already be satisfied.
 3. **Rewrite** the article applying all relevant patterns. Maintain the same overall topic coverage while improving structure, voice, specificity, and scannability.
-4. **Self-review** by checking each pattern against the rewritten article:
+4. **Self-review** against the 14 content readiness factors in `docs/standards/qa-checklist.md` first, listing any factor that fails with the fix or the question for the user, then check each pattern against the rewritten article:
    - Does it start with "In this article:"?
    - Are descriptions specific with named UI elements?
    - Is related content grouped under parent headings?
