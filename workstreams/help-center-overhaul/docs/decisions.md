@@ -2,6 +2,24 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-04: The Perchwell Help Center Database [Sep 2026] is where project articles live
+
+Decided by Tara. The team created a new Notion database for this project to simplify the work and make each article's state obvious, and set its properties the way they want them. For the rest of this project, an article we draft or update is added to the new database. The old Master Article List is read-only: query it for history, never write to it, and do not mirror a change back into it. `Article Name`, `Article Status`, `MLS/AOR`, `Collection`, `Roles`, `Videos`, `Visuals`. Database `https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8`, data source `collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389`.
+
+Two consequences to watch: the new database has no equivalent of the old `Fin AI`, `Text`, `Screenshot`, and `Video` workflow-status fields, so per-asset progress is not tracked in Notion any more, and `docs/standards/fin-labeling.md` now derives labels from `MLS/AOR` and `Collection` plus the article's shape.
+
+## 2026-09-04: Content standards written and grounded in Intercom's Fin guidance
+
+Decided by Tara, with Kelly and Rafe as approvers. `docs/standards/content-standards.md` is now the single rulebook; the bundled fallback in `.claude/skills/article-draft/references/style-rules.md` is retired to a pointer. Three rules changed because Intercom's own Fin guidance contradicted the old house style, and because no live article followed it:
+
+- Articles open with a jobs-to-be-done paragraph ("Use this article to ...") instead of an `In this article:` heading. Intercom names the topic-describing form as the weaker one.
+- The "Connect with our Support Team" footer is gone. Intercom renders Related Articles and a feedback prompt itself, and no live article carried the footer.
+- Callouts lead with a bold **Note:**, **Important:**, or **Tip:** label instead of an emoji. Intercom says the bold label is what flags a passage for Fin; emoji do nothing for retrieval.
+
+Heading levels are now fixed at H1 title, H2 sections, H3 subsections and `Steps:`, following Intercom's formatting guidance. Three sampled live articles used three different schemes, which cost retrieval quality since headings are weighted heavily. This also settles the standing conflict between golden question 5 and the old house style: headings must name what the section answers and carry the feature name, question form is required in FAQ articles and allowed anywhere it matches how members ask.
+
+The two model articles the team chose as the standard are [How to Share a Tag](https://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) and [Create a Market Conditions Addendum Report (1004MC)](https://support.perchwell.com/baldwin/en/articles/16414760-create-a-market-conditions-addendum-report-1004mc). Both are reproduced, normalized, and annotated in `.claude/skills/article-draft/references/example-article.md`.
+
 ## 2026-09-04: Repo is read-only toward Intercom until pushes are turned on (target September 11)
 
 Decided by Leo during repo bootstrap. The skills document how Intercom pushes will work, but the article write tools sit on the ask list and no skill calls them today. Reason: the team wants to trust the mirror and the review flow before anything touches production.

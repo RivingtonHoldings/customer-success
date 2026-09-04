@@ -8,7 +8,7 @@ Do not add a call to `mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__create_article`
 
 1. The team has turned pushes on (target September 11, 2026) and `docs/build-log.md` or `workstreams/help-center-overhaul/docs/decisions.md` records the decision.
 2. `/sync-help-center` has run at least twice with a clean second run, so the mirror is trusted.
-3. The Notion draft's `HC Status` is `Peer Review Complete` or `Transfer to Intercom`. A `Draft` or `Needs Review` page is never pushed.
+3. The Notion draft's `Article Status` in the Perchwell Help Center Database [Sep 2026] is `Ready to Transfer`. A `Draft` or `New Article Request` page is never pushed.
 4. The collection (and section, if any) the article belongs to has been identified in the mirror, so `parent_id` and `parent_type` are known rather than guessed.
 5. An `author_id` for the pushing teammate is known. The Intercom connector does not expose an admin lookup, so this comes from an existing article's `author` field in the mirror.
 

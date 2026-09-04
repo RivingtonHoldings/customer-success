@@ -2,17 +2,20 @@
 
 Detailed examples for each of the 9 help center article transformation patterns. Use these as a guide when rewriting articles.
 
-## 1. Intro Framing
+## 1. Jobs-to-be-Done Opening
 
-Every article opens with "In this article:" followed by a second-person statement.
+Every article opens with one paragraph stating what the reader will accomplish. Intercom's Fin guidance is explicit that the opening must state the job, not the topic.
 
 **Before:**
 > Use the Dashboard to monitor real-time market activity and manage client needs in one view.
 
-**After:**
+**Also before (the older house style, now retired):**
 > In this article: You will learn how the Perchwell Dashboard allows you to monitor real-time market activity and manage all your client needs in one view.
 
-The intro should be clear, simple, and set expectations. One to two sentences max.
+**After:**
+> Use this article to set up your Perchwell Dashboard, add and rearrange widgets, and track market activity and client needs from one view.
+
+One paragraph, no heading above it. Name the feature. Say who it is for when the workflow needs a role. The description field carries a shorter version of the same idea in 120 to 140 characters.
 
 ## 2. Specific Over Vague
 
@@ -93,16 +96,28 @@ Make titles specific enough for scanning.
 
 The reader should know what's in the section before reading it.
 
-## 7. Varied Callout Language
+## 7. Callout Labels and Varied Link Phrasing
 
-Don't repeat the same link phrasing. Mix it up across the article.
+Two rules that used to be one.
+
+**Callouts lead with a bold label.** Intercom's guidance is that a bold "Note" or "Important" label is what flags a passage for Fin to include in an answer; the colored block is for the human reader, and emoji do nothing for retrieval.
+
+**Before:**
+> 💡 **Tip**: Use fewer columns to keep the printout easy to read.
+
+**After:**
+> **Tip:** Use fewer columns to keep the printout easy to read.
+
+Labels are **Note:** for system behavior, **Important:** for a limit, a deadline, or something irreversible, and **Tip:** for a recommendation. Do not stack two callouts, and do not use one where a plain sentence in the flow would carry the point just as well.
+
+**Link phrasing varies.** Links to related articles are ordinary sentences or bullets, not callouts.
 
 **Variations to use:**
-- "Visit this article for step-by-step insights on [adding hot sheets] to your Dashboard."
-- "Check out this article to learn more about [third-party integrations] in Perchwell."
-- "Learn how the [Listings Widget] works and what it means for you in this article."
+- "Learn how the [Listings Widget] works in [Dashboard Widgets Overview]."
+- "[Customize Your Search View] covers column templates in detail."
+- "For step-by-step guidance on adding hot sheets, see [Add a Hot Sheet to Your Dashboard]."
 
-Each linked article reference should feel fresh, not copy-pasted.
+Never "click here" or "view our article here." Each reference should feel fresh, not copy-pasted.
 
 ## 8. Coverage Gaps
 

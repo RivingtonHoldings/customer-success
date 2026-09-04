@@ -11,6 +11,7 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 - **Golden questions:** the 14 content readiness factors in `docs/standards/golden-questions.md`; every in-scope article must pass all 14 before launch.
 - **Goal:** 10 percent or less human intervention on Fin across MLS help centers, with CRMLS meeting it at cutover. Baldwin is around 40 percent today (August 25 cutover-conversation sampling).
 - **System of record:** the Notion project page, ID `3c88b9e0143880ec8fbee25ec0b38975` (https://app.notion.com/p/3c88b9e0143880ec8fbee25ec0b38975). When this repo and Notion disagree, Notion wins and the repo gets updated.
+- **Where project articles live:** the Perchwell Help Center Database [Sep 2026] (https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8). Every article this project drafts or updates is added there. The old Master Article List is read-only for the rest of the project: query it for history, never write to it, and do not mirror a change back into it.
 - **Fin-resolved, Perchwell definition:** Fin answered, no teammate sent a message on that conversation afterward, and no follow-up from the same member on the same topic within 48 hours. Report it weekly alongside Intercom's own resolution number, kept separate, never blended.
 
 ## Milestones
@@ -34,7 +35,8 @@ Workstream rules and goals for the MLS Help Center Standardization and Scalabili
 
 ## Working rules
 
-- Read `docs/standards/` before drafting or rewriting any article. If a standards file is still a placeholder, say so and fall back to the skill's bundled rules.
+- Read `docs/standards/content-standards.md` before drafting or rewriting any article. It is the rulebook as of September 4, 2026, and it replaces the bundled fallback rules the skills used to carry.
+- New or updated articles go in the Perchwell Help Center Database [Sep 2026], never in the old Master Article List. See `.claude/skills/article-draft/references/notion-publishing.md` for the schema and the queries.
 - Every article recommendation in the audit needs a rationale and a priority, not just a verdict.
 - QA results and Fin reports must be free of member identifiers before they leave `confidential/`.
 - Fin numbers always state which definition they use.

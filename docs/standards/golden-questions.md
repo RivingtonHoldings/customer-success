@@ -25,6 +25,13 @@ Apply all 14 factors as a quality checklist when creating a new article, snippet
 
 `/article-draft` and `/article-rewrite` run every golden question against the finished draft before saving and list any that fail, with the fix or the question for the user, in their report. The QA pass in `workstreams/help-center-overhaul/qa/` records the result per article. Golden questions are a checklist for articles, not a set of member questions; real member questions, if the team wants them later, would be a separate artifact.
 
-## Known tension with the current house style
+## How the house standard resolves factor 5
 
-Factor 5 prefers "How to..." or question-form headings. The bundled style rules in `.claude/skills/article-draft/references/style-rules.md` say article titles avoid questions and section headings are task-based sentence case. Until `docs/standards/content-standards.md` settles it, follow the golden questions for section headings (question form or "How to...") and keep article titles as the style rules say, and note the choice in the draft's open items.
+Factor 5 prefers "How to..." or question-form headings, and the older house style banned questions outright. `content-standards.md`, approved September 4, 2026, settles it:
+
+- Section headings must name what the section answers and carry the feature name. "Set the report max date" and "Refunds for cancelled subscriptions" pass; "Settings" and "Refunds" do not. Intercom's own wording is that a heading should name what the section answers, which a specific task-led heading does as well as a question does.
+- FAQ articles use one question-form heading per question. Intercom recommends a header per question for FAQ content.
+- Question-form headings are allowed in any article type when they match how members ask.
+- Article titles follow the approved Notion naming standard, which permits questions, "How to," and -ing constructions when they read more naturally, and prefers concise action-led titles otherwise.
+
+A draft no longer needs to note this choice in its open items.

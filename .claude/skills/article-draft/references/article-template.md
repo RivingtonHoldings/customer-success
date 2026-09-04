@@ -1,32 +1,32 @@
 # Article Templates
 
-Copy the skeleton that matches the article type. Replace every `<...>`. Remove sections that do not apply. Heading levels match the live Notion Master Article List pages: `## In this article:` for the intro, `#` for major sections, `###` for subsections and `### Steps:`.
+Copy the skeleton that matches the article type. Replace every `<...>`. Remove sections that do not apply. Every rule these skeletons encode is explained in `docs/standards/content-standards.md`; read that first when something here looks arbitrary.
+
+Heading levels are fixed: H1 is the article title and nothing else, H2 is a major section, H3 is a subsection and the `Steps:` heading. Intercom renders the title in its own tag and expects H2 and H3 inside the body, and Fin weights headings heavily when it retrieves.
 
 ## Workflow article (default)
 
 ```markdown
-# <Title in Title Case, No Gerund>
+# <Title, Task-Focused, Title Case>
 
-<!-- Status: Draft | MLS: Baldwin | Collection: <Collection in Intercom> | Roles: <Roles> | Notion: <notion url once created> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <page url once created> -->
 
-**Description:** <120 to 160 characters: what the reader will accomplish, with the primary keyword.>
+**Description:** <120 to 140 characters: what the member will accomplish, naming the feature.>
 
-## In this article:
+Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<If the article is role-limited, say so here: "You need <role> access to ..."><If a walkthrough exists, the Loom or Arcade link goes on the next line.>
 
-You will learn how to <primary task> from the **<page>** page, <secondary task>, and <secondary task>.
+> Video placeholder: <what the walkthrough should show, from where to where>
 
-> 📹 Video placeholder: <what the walkthrough should show>
+## When to use <the feature>
 
-# <When to use this feature, or a one-sentence description heading>
-
-<One or two sentences: what the feature does and the situation it fits. Bullets if there are multiple concrete situations.>
+<One or two sentences naming the feature and the situation it fits. The first sentence repeats the heading's key terms.>
 
 - <Situation or outcome 1>
 - <Situation or outcome 2>
 
-# <Create or start the key workflow>
+## <Create or start the key workflow, named>
 
-<One lead sentence about where the workflow begins and anything to set up first.>
+<Lead sentence that repeats the section heading's key terms and says where the workflow begins and what to set up first.>
 
 ### Steps:
 
@@ -35,46 +35,55 @@ You will learn how to <primary task> from the **<page>** page, <secondary task>,
 3. <Action> **<UI element>**
 4. *(Optional)* <Action>
 
-<One sentence about what happens after the last step.>
+<One sentence on what happens after the last step: the confirmation, the file, where the member lands.>
 
-> 🖼️ Screenshot placeholder: <exact screen or modal>
+> Screenshot placeholder: <the exact screen or modal to capture> | Alt text: <the alt text the image will carry>
 
-> 💡 **Tip**: <one recommendation>
+## <Customize or configure, named>
 
-# <Customize or configure>
+<Lead sentence echoing the heading.>
 
-<Lead sentence.>
-
-### <Option group 1>
+### <Option group, named>
 
 - **<Option>** (default) <what it does>
 - **<Option>** <what it does>
 
-### <Option group 2>
+### <Option group, named>
 
 <Explain the behavior, including defaults and limits, with a "which means" clause for any system term.>
 
-# <Share, export, or print>
+## <Share, export, or print, named>
 
 <Lead sentence, then steps or bullets.>
 
-> 📖 <Varied link phrasing> [<Related Article Title>](<url>).
+<Plain sentence or bullet linking the related article, phrasing varied: "Learn how column templates work in [<Related Article Title>](<url>).">
 
-# Things to Know
+## Limitations of <the feature>
 
-- <System behavior the reader cannot discover on their own>
-- <Limit, default, or irreversible action not already called out>
+<Exact limits, gaps, and the workaround for each. Delete this section only when the feature genuinely has none.>
 
-> **Connect with our Support Team:**
-> ✉️ **Email:** [support@perchwell.com](mailto:support@perchwell.com)
-> 💬 **Chat:** Click the chat icon at the bottom of the page to reach our support team.
+- <Limit with the exact number, then what to do instead>
+
+## Things to Know
+
+<Optional. Only system behaviors the member cannot discover alone and that no earlier section already stated. Use `## Tips` instead when every item is a recommendation. Delete the section when there is nothing left to say.>
+
+- <System behavior, default, or irreversible action not already called out>
 ```
+
+Notes on the skeleton:
+
+- No `In this article:` heading and no support footer. The opening paragraph does that work in the form Intercom asks for, and Intercom renders Related Articles and the feedback prompt itself.
+- The audience sentence in the opening paragraph is not optional when the workflow needs a role. It is how the article passes the audience factor in the golden questions.
+- Screenshot placeholders carry the alt text the image will use, so the media owner does not have to invent it later.
 
 ## Multi-path workflow table
 
-Insert inside any section when the same result can be reached more than one way.
+Insert inside any section when the same result can be reached more than one way. The intro sentence is required: a retrieved table with no heading context cannot be read.
 
 ```markdown
+Tags can be added from the Search page or from a listing's detail page. Both add the listing to the same Tag.
+
 | Option | Steps or when to choose it |
 |---|---|
 | **From the Search page** | 1. Select listings, 2. Click **Actions**, 3. Select **Add to Tag** |
@@ -83,71 +92,59 @@ Insert inside any section when the same result can be reached more than one way.
 
 ## Overview article
 
-For "<Page> Overview" articles that orient the reader rather than walk one workflow.
+For "\<Page\> Overview" articles that orient the member rather than walk one workflow.
 
 ```markdown
 # <Page> Overview
 
-<!-- Status: Draft | MLS: Baldwin | Collection: <Collection> | Roles: <Roles> | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <url> -->
 
-**Description:** <120 to 160 characters>
+**Description:** <120 to 140 characters>
 
-## In this article:
+Use this article to find your way around the **<Page>** page in Perchwell, understand what each area does, and reach the workflows that start there.
 
-You will learn how the **<Page>** page is organized and what each area is for.
+## What you do on the <Page> page
 
-# What the <Page> page is for
+<Two or three sentences. What the member does here and how it connects to the rest of Perchwell. Repeat the page name.>
 
-<Two or three sentences. What the reader does here and how it connects to the rest of Perchwell.>
+## <Area or widget group, named>
 
-# <Area or widget group 1>
-
-<Lead sentence, then bullets of concrete actions.>
+<Lead sentence echoing the heading, then bullets of concrete actions.>
 
 - <Action> **<UI element>** to <result>
 - <Action> **<UI element>** to <result>
 
-> 📖 <Varied link phrasing> [<Article for the deeper workflow>](<url>).
+<Sentence linking the article that covers the deeper workflow.>
 
-# <Area or widget group 2>
+## <Area or widget group, named>
 
-...
+<Same shape.>
 
-# Things to Know
+## Things to Know
 
-- ...
-
-> **Connect with our Support Team:**
-> ✉️ **Email:** [support@perchwell.com](mailto:support@perchwell.com)
-> 💬 **Chat:** Click the chat icon at the bottom of the page to reach our support team.
+<Optional, same rule as the workflow article.>
 ```
 
 ## FAQ article
 
-For "<Area> FAQ" articles. Each question is an H1 in the reader's words (questions are allowed here, in headings only, never in the article title); the answer is a short imperative paragraph or steps.
+For "\<Area\> FAQ" articles. Every heading is one question in the member's words. Intercom recommends a header per question, and question-form headings are how a member's phrasing gets matched.
 
 ```markdown
 # <Area> FAQ
 
-<!-- Status: Draft | MLS: Baldwin | Collection: <Collection> | Roles: <Roles> | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: FAQs | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <url> -->
 
-**Description:** <120 to 160 characters>
+**Description:** <120 to 140 characters>
 
-## In this article:
+Use this article to answer the questions members ask most about <area> in Perchwell.
 
-You will find answers to the most common questions about <area> in Perchwell.
+## Can I <question, in the member's words>?
 
-# Can I <question 1>?
+<Answer in one to three sentences, opening by restating the question's key terms. Steps become a numbered list under a `### Steps:` heading. Link the workflow article when one exists.>
 
-<Answer in one to three sentences. Link to the workflow article if steps exist.>
+## Why does <question, in the member's words>?
 
-# Why <question 2>?
-
-<Answer.>
-
-> **Connect with our Support Team:**
-> ✉️ **Email:** [support@perchwell.com](mailto:support@perchwell.com)
-> 💬 **Chat:** Click the chat icon at the bottom of the page to reach our support team.
+<Same shape. Each answer stands alone: no "as described above", no reliance on the question before it.>
 ```
 
 ## Update change sheet
@@ -168,14 +165,14 @@ Rules that keep it short:
 
 <!-- Status: Update proposal | Trigger: <release note url> | Enable: <flag or date note> | Articles: <count> -->
 
-Release: <one line on what changed for the reader>. Hold Intercom transfer until <flag or date condition>.
+Release: <one line on what changed for the member>. Hold Intercom transfer until <flag or date condition>.
 
 ## <Existing Article Title> ([Notion](url) · [Live](url))
 
-- **<Section heading>**: "<quoted current text>" → "<proposed text>"
-- **<Section heading>**, step <n>: "<quoted>" → "<proposed>"
+- **<Section heading>**: "<quoted current text>" -> "<proposed text>"
+- **<Section heading>**, step <n>: "<quoted>" -> "<proposed>"
 - **<Section heading>** (new): paste-ready section follows
-- **Media**: <what to re-record or capture, or "none">
+- **Media**: <what to re-record or capture, with alt text, or "none">
 
 ### <New or rewritten section heading>
 
@@ -189,3 +186,5 @@ Release: <one line on what changed for the reader>. Hold Intercom transfer until
 
 - [confirm: <what is missing>] (<article>)
 ```
+
+When an article being updated predates this standard, bring the sections you touch up to it and note the rest in Open items. Do not silently rewrite the whole article inside an update sheet.

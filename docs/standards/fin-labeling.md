@@ -65,7 +65,7 @@ Conversation triage tags stay on conversations: Feedback: *, Bug: *, FIN: *, Sel
 
 ## Rule for assigning labels to a new article
 
-1. The Notion draft row already carries `MLS`, `Collection in Intercom`, and the article type. Labels are read from those three fields, not chosen fresh.
+1. The Notion draft row in the Perchwell Help Center Database [Sep 2026] already carries `MLS/AOR` and `Collection`. The MLS and Topic labels are read from those two fields, not chosen fresh. The new database has no article-type field, so the Type label is read from the article's shape: a workflow article is How-to, a `<Page> Overview` is Overview, an `<Area> FAQ` is FAQ.
 2. MLS label: `MLS` value Baldwin gives MLS: Baldwin, CRMLS gives MLS: CRMLS, both or All Regions gives MLS: Shared.
 3. Topic label: look the collection up in the Topic table above. A collection missing from the table is a signal to add a row here first, not to invent a label.
 4. Type label: How-to if the article has a Steps section, FAQ if it lives in a FAQs collection or uses question headings throughout, Overview for "<Page> Overview" titles, Reference for definitions and lists, Training for sessions and videos, Release notes for What's New.

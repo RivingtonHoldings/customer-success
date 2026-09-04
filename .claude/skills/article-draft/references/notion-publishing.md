@@ -1,108 +1,101 @@
-# Notion Publishing: Master Article List
+# Notion Publishing: Perchwell Help Center Database [Sep 2026]
 
-The CS team's source of truth for help center content is the Master Article List database inside the Master Resource Center in Notion. Every article, live or in progress, is a row. Intercom is downstream: approved Notion pages are transferred to Intercom as unpublished drafts (today by hand, later by the `/article-draft` push stub in `references/intercom-push.md` once the team turns pushes on), and a human publishes them there. Fin reads published articles only.
+The CS team created a new Notion database for the September 2026 help center project, to simplify the work and make the state of each article obvious. It is the system of record for this project.
+
+**The rule for the rest of the project:** articles this project drafts or updates are added to the new database. The old Master Article List is read-only. Query it for history and triage, never write to it, and do not mirror a change into it.
+
+Intercom is downstream of both: approved Notion pages are transferred to Intercom as unpublished drafts by hand, and a human publishes them there. Fin reads published articles only.
 
 ## IDs
 
 | Thing | Value |
 |---|---|
-| Master Resource Center page | `https://app.notion.com/p/1c78b9e0143880ee9b21cd479d6e248e` |
-| External Resource Center Hub (database) | `https://app.notion.com/p/1c78b9e01438802082c4eb08025fbb0a` |
-| Master Article List (data source, use for SQL and create-pages) | `collection://1c78b9e0-1438-80b8-951d-000bc128f119` |
-| Data source ID (for `parent.data_source_id`) | `1c78b9e0-1438-80b8-951d-000bc128f119` |
-| Workflow Article Template (page template) | `2ca8b9e014388058a52fdb91f3a06609` |
-| Navigation Article Template (page template) | `1c78b9e0143880b6a5becf3ec8d28c1b` |
-| One Pager Author Style Guide | `https://app.notion.com/p/2ca8b9e014388073aa29fba8407a5684` |
-| SEO Guidelines for Help Center Articles | `https://app.notion.com/p/2ca8b9e0143880b28d8edeeb89d597a1` |
-| Master Article List SOP | `https://app.notion.com/p/2c98b9e01438803eb60dc494bba29e47` |
+| Perchwell Help Center Database [Sep 2026] | `https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8` |
+| Data source (use for SQL and create-pages) | `collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389` |
+| Data source ID (for `parent.data_source_id`) | `3d18b9e0-1438-80cc-ab0f-000bf0fc1389` |
+| Template Article (the standard as a fill-in page) | `https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500` |
+| Notion project page (system of record for the project) | `https://app.notion.com/p/3c88b9e0143880ec8fbee25ec0b38975` |
+| Article & Collection Naming Standards | `https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009` |
+| Perchwell Product Style Guide | `https://app.notion.com/p/2a48b9e014388092a38cd7d1f4b4cb60` |
 | Baldwin public help center | `https://support.perchwell.com/baldwin/en` |
+| Master Article List (old, read-only) | `collection://1c78b9e0-1438-80b8-951d-000bc128f119` |
 
-Before the first Notion write in a session, read `notion://docs/enhanced-markdown-spec` with `mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-fetch` so the body markdown is valid.
+Before the first Notion write in a session, read `notion://docs/enhanced-markdown-spec` with the Notion connector's fetch tool so the body markdown is valid. Tool names are in `docs/connector-tools.md`; the server ID differs per teammate, so match on the tool name, not the full prefix.
 
-## Schema (properties the skill sets or reads)
+## Schema
 
-| Property | Type | Values the skill uses |
+Seven properties. `Last updated` is system-managed; do not set it.
+
+| Property | Type | Values |
 |---|---|---|
-| `Resource Title` | title | The article title, Title Case, no gerund |
-| `HC Status` | status | `New Article Request`, `Draft`, `Needs Review`, `Peer Review Complete`, `Transfer to Intercom`, `Live ✅`, `Deprecated ❌`, `Remove from HC` |
-| `Update Status` | status | `New Article Request`, `Update Needed`, `Draft`, `Needs Review`, `Peer Review Complete`, `Transfer to Intercom`, `Updated ✅`, `Update needed 7/20`, `Update needed 8/3`, `Deprecated ❌`, `Remove from HC` |
-| `MLS` | multi_select | `Baldwin`, `CRMLS`, `NYC`, `ICAAR`, `All Regions` |
-| `Which HC is it in` | multi_select | same options as MLS plus `None` |
-| `Product Area (Internal)` | select | `Search`, `Dashboard`, `Property Details`, `Listing Management`, `Presentation & Reports`, `Reports`, `Client Collaboration`, `Manage People`, `Tagging`, `User Settings`, `Analytics`, `Mobile`, `Integrations`, `Workspaces`, `Security`, `Legacy Platform / Conversion`, `MLS Specific Content`, `General`, `Internal Tools` |
-| `Collection in Intercom` | multi_select | `Search`, `Filtering`, `Dashboard`, `Reports`, `Listing Presentations`, `Listing Management`, `Listing Maintenance`, `Tags`, `Client Collaboration`, `Client Experience`, `Invited Client`, `Manage People`, `User Settings`, `Analytics`, `Mobile`, `Workspaces`, `Building Detail Page`, `Getting Started Guide`, `Critical Worklows`, `Then vs. Now`, `FAQ Tips and What's New in Perchwell`, `FAQs & What's Coming`, `What's New in Perchwell`, `Perchie (Snippet)`, `General` |
-| `Roles` | multi_select | `All`, `Agent`, `Admin / Broker`, `Invited client`, `All - but client` |
-| `Text` | status | `Update Required`, `In progress`, `Needs Review`, `Done`, `Not Required` |
-| `Screenshot` | status | `New Screenshots`, `Update Required`, `In progress`, `Needs Review`, `Done`, `Not Required` |
-| `Video` | status | `New Video`, `Update Required`, `In progress`, `Needs Review`, `Done`, `Not Required` |
-| `Fin AI` | multi_select | `Yes`, `No`, `?` |
-| `Links to another articles` | multi_select | `YES`, `NO`, `?` |
-| `Video Links` | url | Loom or Arcade share link |
-| `Help Center URL (Public)` | url | read only for triage |
-| `Intercom Internal URL` | url | read only for triage |
-| `Upcoming Feature & Dates` | text | set when decision is D with a future enable date |
-| `Comments` | text | short note on provenance, see below |
-| `Baldwin?`, `CRMLS?`, `NYC?` | multi_select | `Article for MLS`, `100% Applicable`, `Text Changes`, `0% MLS Specific`, `New screenshots`, `New videos` |
+| `Article Name` | title | The article title, matching the title in the body exactly |
+| `Article Status` | status | `New Article Request`, `Draft`, `Ready to Transfer`, `Live in Intercom`, `Deprecated` |
+| `MLS/AOR` | select | `Baldwin`, `CRLMS All`, `NYC` |
+| `Collection` | select | `Getting Started Guide`, `Then vs. Now`, `Dashboard`, `Search`, `Tags`, `Client Collaboration`, `Manage People`, `Manage Listings`, `Reports`, `Analytics`, `User Settings`, `Client Experience`, `FAQs`, `Mobile`, `What's New`, `Integrations` |
+| `Roles` | select | `All`, `Agent`, `Admin/Broker`, `Invited Client`, `All Except Client` |
+| `Videos` | select | `Yes`, `No` |
+| `Visuals` | select | `Yes`, `No` |
+| `Last updated` | last_edited_time | Read only |
 
-Read-only, do not set: `Author`, `Last Updated`, `Text Owner`, `Screenshot Owner`, `Video Owner`, `Final Review & Upload`.
+Every property except `Article Name` is a single select, so an article belongs to exactly one collection, one MLS, and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
+
+Two open items for the team, flagged rather than worked around:
+
+- The new database has no equivalent of the old `Fin AI`, `Text`, `Screenshot`, or `Video` workflow-status fields. `Videos` and `Visuals` record whether the article has them, not whether they are done. `docs/standards/fin-labeling.md` derives Fin labels from Notion fields, so it now derives them from `MLS/AOR` and `Collection`.
+- The `MLS/AOR` option reads `CRLMS All`. If that is meant to be CRMLS, the option needs renaming in Notion; use the string exactly as it appears until then, since a select write with an unknown option fails.
 
 ## Triage queries
 
-Use `mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-query-data-sources` with `data_source_urls: ["collection://1c78b9e0-1438-80b8-951d-000bc128f119"]`. Table name in SQL is the data source URL in double quotes.
+Query the new database first with the Notion connector's query-data-sources tool. The table name in SQL is the data source URL in double quotes.
 
-By product area:
+By collection:
 
 ```sql
-SELECT "Resource Title", "HC Status", "Update Status", "MLS", "Collection in Intercom",
-       "Help Center URL (Public)", url, "Last Updated"
-FROM "collection://1c78b9e0-1438-80b8-951d-000bc128f119"
-WHERE "Product Area (Internal)" = ?
-  AND "HC Status" NOT IN ('Deprecated ❌', 'Remove from HC')
-ORDER BY "Last Updated" DESC
+SELECT "Article Name", "Article Status", "MLS/AOR", "Collection", "Roles", url, "Last updated"
+FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
+WHERE "Collection" = ?
+  AND "Article Status" != 'Deprecated'
+ORDER BY "Last updated" DESC
 ```
 
-By title keyword (run once per keyword):
+By title keyword (run once per keyword, binding `%keyword%`):
 
 ```sql
-SELECT "Resource Title", "HC Status", "Update Status", "MLS", "Product Area (Internal)", url
+SELECT "Article Name", "Article Status", "MLS/AOR", "Collection", url
+FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
+WHERE "Article Name" LIKE ?
+ORDER BY "Last updated" DESC
+```
+
+By MLS:
+
+```sql
+SELECT "Article Name", "Article Status", "Collection", url
+FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
+WHERE "MLS/AOR" = ?
+ORDER BY "Last updated" DESC
+```
+
+The new database only holds what this project has touched, so an article that exists in the live help center may have no row yet. When a keyword search comes back empty, check the mirror in `docs/help-center/`, then the old Master Article List for the article's history:
+
+```sql
+SELECT "Resource Title", "HC Status", "Update Status", "MLS", "Help Center URL (Public)", url
 FROM "collection://1c78b9e0-1438-80b8-951d-000bc128f119"
 WHERE "Resource Title" LIKE ?
 ORDER BY "Last Updated" DESC
 ```
 
-Bind `%keyword%`.
+That query is for reading only. When an article with an old row needs work, create a new row in the new database and carry the facts across. Leave the old row alone.
 
-By Intercom collection:
+## Creating a page
 
-```sql
-SELECT "Resource Title", "HC Status", "Update Status", url
-FROM "collection://1c78b9e0-1438-80b8-951d-000bc128f119"
-WHERE "Collection in Intercom" LIKE ?
-  AND ("MLS" LIKE '%Baldwin%' OR "MLS" LIKE '%All Regions%')
-ORDER BY "Last Updated" DESC
-```
-
-Bind `%Reports%` style patterns; multi-selects are stored as JSON arrays, so `LIKE` is the practical match. Verified working on 2026-08-27.
-
-Already flagged for update in the same area:
-
-```sql
-SELECT "Resource Title", "Update Status", url
-FROM "collection://1c78b9e0-1438-80b8-951d-000bc128f119"
-WHERE "Product Area (Internal)" = ?
-  AND "Update Status" IN ('Update Needed', 'Update needed 7/20', 'Update needed 8/3')
-```
-
-Then fetch each candidate's body with `mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-fetch` using its `url`.
-
-## Creating a new article page
-
-Confirm once with the user before writing, in the marketing-weekly-planning style: a compact summary of the page and its properties, then wait for "go."
+Confirm once with the user before writing: a compact summary of the page and its properties, then wait for "go."
 
 ```
-Creating 1 Draft in the Master Article List:
+Creating 1 Draft in the Perchwell Help Center Database [Sep 2026]:
 - Create a Market Conditions Addendum Report (1004MC)
-  HC Status: Draft | Update Status: Draft | MLS: Baldwin | Product Area: Presentation & Reports
-  Collection: Reports | Roles: All - but client | Text: In progress | Screenshot: New Screenshots | Video: New Video
+  Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports
+  Roles: All Except Client | Videos: No | Visuals: Yes
 Go?
 ```
 
@@ -110,48 +103,38 @@ Call shape:
 
 ```json
 {
-  "parent": { "type": "data_source_id", "data_source_id": "1c78b9e0-1438-80b8-951d-000bc128f119" },
+  "parent": { "type": "data_source_id", "data_source_id": "3d18b9e0-1438-80cc-ab0f-000bf0fc1389" },
   "pages": [{
     "properties": {
-      "Resource Title": "<title>",
-      "HC Status": "Draft",
-      "Update Status": "Draft",
-      "MLS": ["Baldwin"],
-      "Which HC is it in": ["Baldwin"],
-      "Product Area (Internal)": "<area>",
-      "Collection in Intercom": ["<collection>"],
-      "Roles": ["<role>"],
-      "Text": "In progress",
-      "Screenshot": "New Screenshots",
-      "Video": "New Video",
-      "Fin AI": ["?"],
-      "Links to another articles": ["YES"],
-      "Comments": "Drafted from release notes via /article-draft on YYYY-MM-DD. Repo copy: workstreams/help-center-overhaul/outputs/drafts/<file>.md"
+      "Article Name": "<title>",
+      "Article Status": "Draft",
+      "MLS/AOR": "Baldwin",
+      "Collection": "<collection>",
+      "Roles": "<role>",
+      "Videos": "<Yes or No>",
+      "Visuals": "<Yes or No>"
     },
     "content": "<Notion markdown body>"
   }]
 }
 ```
 
-Set `Screenshot` and `Video` to `Not Required` only if the user says the article needs none. If a Loom or Arcade link exists, set `Video Links` and `Video: Needs Review`.
-
-Do not pass `template_id` together with `content`; the skill writes the full body itself.
+`Videos` and `Visuals` record whether the finished article will carry them, so a draft with screenshot placeholders is `Visuals: Yes`. Do not pass `template_id` together with `content`; the skill writes the full body itself.
 
 ## Publishing an update change sheet
 
-Never overwrite a `Live ✅` page. The change sheet is one page for the whole release.
+Never overwrite a page whose `Article Status` is `Live in Intercom`. The change sheet is one page for the whole release.
 
-If the user names a target page (a launch task, the release note, a CS task), write the sheet there with `mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-update-page` (`insert_content` at end, or `replace_content` if the user says the page is empty or theirs to overwrite). Otherwise create one sibling row in the Master Article List:
+If the user names a target page, write the sheet there with the Notion update-page tool (`insert_content` at the end, or `replace_content` if the user says the page is empty or theirs to overwrite). Otherwise create one sibling row in the new database:
 
-- `Resource Title`: `Help center changes: <feature> (YYYY-MM-DD)`
-- `HC Status`: `Draft`, `Update Status`: `Update Needed`
-- `MLS`, `Which HC is it in`: from the release note's target MLS
-- `Comments`: `Change sheet for <n> articles, triggered by <release note url>. Repo copy: workstreams/help-center-overhaul/outputs/drafts/<file>-changes.md`
+- `Article Name`: `Help center changes: <feature> (YYYY-MM-DD)`
+- `Article Status`: `Draft`
+- `MLS/AOR` and `Collection`: from the release note's target
 - `content`: the change sheet body
 
-Notion shape for the sheet: a one-line intro, `##` heading per article with the Notion page mentioned via `<mention-page>`, plain bullets for edits using `→`, a `###` heading plus final-form text only for new or rewritten sections, and one `## Open items` list. No callouts, toggles, or tables in the sheet; keep callouts for the paste-ready sections themselves where the live article style calls for them.
+Notion shape for the sheet: a one-line intro, an `##` heading per article with the Notion page mentioned via `<mention-page>`, plain bullets for edits using `->`, an `###` heading plus final-form text only for new or rewritten sections, and one `## Open items` list. No callouts or tables in the sheet.
 
-After publishing, offer to set each source row's `Update Status` to `Update Needed` with `mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-update-page`. Only do it when the user says yes.
+After publishing, offer to set the affected rows' `Article Status`. Only do it when the user says yes.
 
 ## Markdown to Notion mapping
 
@@ -159,25 +142,26 @@ The repo file is plain markdown. Convert when building `content`:
 
 | Repo markdown | Notion markdown |
 |---|---|
-| `# Title` line at the top | Omit. The title lives in `Resource Title`. |
-| `<!-- Status: ... -->` metadata comment | Omit. |
+| `# Title` line at the top | Omit. The title lives in `Article Name` |
+| `<!-- Article Status: ... -->` metadata comment | Omit |
 | `**Description:** text` | Keep as the first paragraph, `**Description:** text` |
-| `## In this article:` | `## In this article:` (unchanged) |
-| `# Section` / `### Subsection` / `### Steps:` | Unchanged |
-| `> 💡 **Tip**: text` | `<callout icon="💡" color="gray_bg">` then a tab-indented line `**Tip**: text`, then `</callout>` |
-| `> ⚠️ **Note**: text` | `<callout icon="⚠️" color="yellow_bg">` ... `</callout>` |
-| `> 📖 phrasing [Title](url)` | `<callout icon="📖" color="gray_bg">` with the link. If the target is a Notion page, use `<mention-page url="<notion url>"/>` instead of a markdown link |
-| `> 📹 phrasing [Loom](url)` | `<callout icon="📹" color="gray_bg">` with the link |
-| `> ⚒️ **Paragon vs. Perchwell**: text` | `<callout icon="⚒️" color="orange_bg">` ... `</callout>` |
-| A bare Loom or Arcade URL under the intro | `<video src="<url>"></video>` |
-| `> 📹 Video placeholder: ...` / `> 🖼️ Screenshot placeholder: ...` | `<callout icon="🖼️" color="orange_bg">` with the placeholder text, so owners can spot it |
+| Opening `Use this article to ...` paragraph | Keep as an ordinary paragraph, no heading above it |
+| `## Section` / `### Subsection` / `### Steps:` | Unchanged |
+| `> **Note:** text` | `<callout color="gray_bg">` then a tab-indented line `**Note:** text`, then `</callout>` |
+| `> **Important:** text` | `<callout color="yellow_bg">` with the same shape |
+| `> **Tip:** text` | `<callout color="gray_bg">` with the same shape |
+| A link to a related article | An ordinary sentence with a markdown link, or `<mention-page url="<notion url>"/>` when the target is a Notion page |
+| A bare Loom or Arcade URL under the opening paragraph | `<video src="<url>"></video>` |
+| `> Video placeholder: ...` / `> Screenshot placeholder: ... | Alt text: ...` | `<callout color="orange_bg">` with the placeholder text, so owners can spot it |
+| Markdown image with alt text | Keep the alt text; it is required |
 | Markdown table | `<table header-row="true">` with `<tr>` and `<td>` rows; cells hold plain rich text |
-| Support footer blockquote | `<callout color="green_bg">` with three tab-indented lines: `**Connect with our Support Team:**`, `✉️ **Email:** [support@perchwell.com](mailto:support@perchwell.com)`, `💬 **Chat:** Click the chat icon at the bottom of the page to reach our support team.` |
 | Blank lines | Drop them. Notion spaces blocks itself; use `<empty-block/>` only if a visual gap is essential |
 | Em dashes | Must not exist. Fix before converting |
 
-Escape `*`, `[`, `]`, `<`, `>`, `|`, `{`, `}` when they appear as literal text outside markdown syntax (for example a literal `%` needs no escape, but `1004MC / Form 71 [MC]` would need `\[MC\]`).
+There is no support footer and no `In this article:` heading to convert. Both were retired on September 4, 2026.
+
+Escape `*`, `[`, `]`, `<`, `>`, `|`, `{`, `}` when they appear as literal text outside markdown syntax (for example `1004MC / Form 71 [MC]` needs `\[MC\]`).
 
 ## After publishing
 
-Report the new page URL(s). Remind the user that, per the SOP, the remaining steps are manual and owned by CS: peer review, `Transfer to Intercom`, setting `Help Center URL (Public)`, toggling Fin AI on, and assigning the MLS audience in Intercom.
+Report the new page URL(s). Remind the user that the remaining steps are manual and owned by CS: peer review, moving the row to `Ready to Transfer`, transferring to Intercom, setting the Fin labels, assigning the MLS audience, and publishing.
