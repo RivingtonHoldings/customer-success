@@ -15,8 +15,8 @@ Every refinement the user makes is a signal. If you wrote a help center step tha
 
 Read through the full conversation and identify:
 
-- **What was the task?** (an article draft, a rewrite, a macro set, a golden question run, a QA pass)
-- **Which skills were involved?** (`/article-draft`, `/article-rewrite`, `/intercom-macros`, `/golden-questions`, `/sync-help-center`, and so on)
+- **What was the task?** (an article draft, a rewrite, a macro set, a golden question QA pass, a Fin report)
+- **Which skills were involved?** (`/article-draft`, `/article-rewrite`, `/intercom-macros`, `/sync-help-center`, and so on)
 - **Which workstream does this belong to?** (`workstreams/help-center-overhaul/` or `workstreams/support-ops/`)
 - **What refinements did the user make?** Look for:
   - Direct corrections ("don't do X", "change this to Y")
