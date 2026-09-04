@@ -1,0 +1,1 @@
+Follow `.claude/skills/article-draft/SKILL.md` to draft a new help center article, or an update change sheet, from the release notes in $ARGUMENTS, saving to `workstreams/help-center-overhaul/outputs/drafts/` and creating a Notion draft for review; ask for release notes if none were given.

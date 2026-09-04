@@ -1,0 +1,1 @@
+Follow `.claude/skills/sync-help-center/SKILL.md` to refresh the read-only Intercom help center mirror in `docs/help-center/baldwin/` and `docs/help-center/crmls/`, then report added, updated, removed, and unchanged counts per MLS.

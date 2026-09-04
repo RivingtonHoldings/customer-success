@@ -1,0 +1,66 @@
+{
+  "skill_name": "intercom-macros",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "formal-release-notes-alerts",
+      "prompt": "Here are the release notes for the saved search alerts update that ships to Baldwin next week. Build the Intercom macros CS will need.\n\nRelease notes: Saved Search Alert Frequency Options. Agents can now choose how often each saved search sends email alerts: Instant (default), Daily Digest, or Weekly Digest. Daily digests send at 7:00 AM local time; weekly digests send Monday at 7:00 AM. To change frequency, open the Saved Searches page, click the bell icon on a saved search, and select a frequency from the Alert Frequency dropdown. Agents can also add invited clients as alert recipients from the same bell icon menu via Add Recipients. All existing saved search alerts were defaulted to Instant at rollout, which matches their previous behavior. Turning a frequency to Off stops emails but keeps the saved search. Limit: 25 recipients per saved search.",
+      "expected_output": "A macro file at workstreams/support-ops/macros/ with 2-5 macros: at least changing alert frequency, stopping alerts, and adding clients / why did my client get an email. Titles phrased as members ask, ALL-CAPS topic prefix, Intercom settings line, numbered one-action steps with bold UI labels, screenshot placeholders with highlight instructions, related article link (setting-up-email-alerts-for-saved-searches exists in the help center index), friendly closer, no em dashes.",
+      "files": [],
+      "assertions": [
+        "A macro file is saved and follows the skill's naming pattern YYYY-MM-DD-<feature-slug>-macros.md",
+        "The file contains at least 2 distinct macros, each under its own heading",
+        "Each macro title is phrased the way a member would ask (question or lookup phrase) and carries an ALL-CAPS topic or MLS prefix",
+        "Each macro states the Intercom availability settings (Available for Everyone; available when Starting conversations, Replying, Adding notes)",
+        "Workflow macros use numbered steps, one action per step, with the exact UI element named and bolded",
+        "Screenshot placeholders appear after on-screen steps and specify both what to capture and what to highlight",
+        "A related live help center article is linked (or a [link: <title>] placeholder is used when the URL could not be resolved)",
+        "Each macro ends with a short friendly closing line inviting follow-up",
+        "No em dashes and no horizontal rules anywhere in the output",
+        "The macro set covers, at minimum: changing alert frequency, stopping/turning off alerts, and adding clients as recipients or explaining why a client received an email",
+        "Facts from the release notes are preserved: Instant default, 7:00 AM digest send times, Off keeps the saved search, 25-recipient limit"
+      ]
+    },
+    {
+      "id": 1,
+      "eval_name": "casual-prompt-csv-templates",
+      "prompt": "yo we just shipped csv export templates on search and CS is already getting tickets about it. can you write up some macros for them? basically: pick your listings, Actions menu upper right > Export CSV, that opens the template page where you add/remove/reorder columns (drag the 6-dot icon), search bar to find extra columns like HOA or lot size, Save as template button top right to name and save it, and a Set as default list toggle. saved templates show up on the left side next time you export",
+      "expected_output": "A macro file with macros covering creating/saving a CSV template and likely setting a default / reusing templates. Same structural requirements: question-style titles with prefix, settings line, one-action steps, screenshot placeholders, warm closer. Should link the exporting-listings-in-perchwell article from the help center index.",
+      "files": [],
+      "assertions": [
+        "A macro file is saved and follows the skill's naming pattern YYYY-MM-DD-<feature-slug>-macros.md",
+        "The file contains at least 2 distinct macros, each under its own heading",
+        "Each macro title is phrased the way a member would ask (question or lookup phrase) and carries an ALL-CAPS topic or MLS prefix",
+        "Each macro states the Intercom availability settings (Available for Everyone; available when Starting conversations, Replying, Adding notes)",
+        "Workflow macros use numbered steps, one action per step, with the exact UI element named and bolded",
+        "Screenshot placeholders appear after on-screen steps and specify both what to capture and what to highlight",
+        "A related live help center article is linked (or a [link: <title>] placeholder is used when the URL could not be resolved)",
+        "Each macro ends with a short friendly closing line inviting follow-up",
+        "No em dashes and no horizontal rules anywhere in the output",
+        "The macro set covers creating/saving a CSV template and setting or using a default template",
+        "Steps reflect the described flow accurately: Actions (upper right) > Export CSV, six-dot drag to reorder, Search columns bar, Save as template, Set as default list toggle"
+      ]
+    },
+    {
+      "id": 2,
+      "eval_name": "transition-flavored-print",
+      "prompt": "Baldwin members coming over from Paragon keep asking support how to print their search results now. Here are the release notes for the print feature, please make macros for the CS team.\n\nRelease notes: Print Search Results. From Search, select up to 100 listings (or leave all selected), then Actions > Print. A print preview opens with two layout options: Landscape (default, fits more columns) and Portrait. The printout uses the columns currently visible on the Search page, which means agents customize the printout by customizing their columns first. Click Print to send to a printer or Save as PDF in the browser print dialog. In Paragon, printing lived under the Reports menu; in Perchwell every print starts from Search.",
+      "expected_output": "A macro file whose question set includes a 'where did printing go' style macro for ex-Paragon members plus the how-to. Must respect the Baldwin transition voice (no 'old system'/'retired'/'sunsetted'), link the print-search-results article, state the 100-listing limit, and include screenshot placeholders and the standard structure.",
+      "files": [],
+      "assertions": [
+        "A macro file is saved and follows the skill's naming pattern YYYY-MM-DD-<feature-slug>-macros.md",
+        "The file contains at least 2 distinct macros, each under its own heading",
+        "Each macro title is phrased the way a member would ask (question or lookup phrase) and carries an ALL-CAPS topic or MLS prefix",
+        "Each macro states the Intercom availability settings (Available for Everyone; available when Starting conversations, Replying, Adding notes)",
+        "Workflow macros use numbered steps, one action per step, with the exact UI element named and bolded",
+        "Screenshot placeholders appear after on-screen steps and specify both what to capture and what to highlight",
+        "A related live help center article is linked (or a [link: <title>] placeholder is used when the URL could not be resolved)",
+        "Each macro ends with a short friendly closing line inviting follow-up",
+        "No em dashes and no horizontal rules anywhere in the output",
+        "The macro set includes a 'where did printing go' style macro addressed to members coming from Paragon, alongside the how-to macro",
+        "Transition voice respected: Paragon is named neutrally, never called 'old system', 'retired', or 'sunsetted'",
+        "Facts preserved: 100-listing limit, Landscape default, printout uses currently visible columns, Save as PDF via the browser print dialog"
+      ]
+    }
+  ]
+}

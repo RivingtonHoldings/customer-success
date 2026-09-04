@@ -1,0 +1,1 @@
+Follow `.claude/skills/setup-check/SKILL.md`: pull the latest from main, confirm the Notion and Intercom connector tools are present, list the five most recently updated Baldwin articles from the local mirror, and end with a one-paragraph plain-language status.

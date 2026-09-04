@@ -1,0 +1,62 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status)",
+      "Bash(git status:*)",
+      "Bash(git pull)",
+      "Bash(git pull:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(git push:*)",
+
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-ai-search",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-search",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-fetch",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-query-data-sources",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-query-multiple-data-sources",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-query-meeting-notes",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-get-comments",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-get-users",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-get-teams",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-list-recent-pages",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-list-favorite-pages",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-list-private-pages",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-list-shared-pages",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-download-attachment",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-get-async-task",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-search-skills",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-search-agents",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-search-sessions",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-query-sessions",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-get-session-status",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-list-session-events",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-read-session-event",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-wait-session",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-check-mcp-next-steps",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-show-advanced-analysis-next-steps",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-create-pages",
+      "mcp__c9a24086-67bc-4593-858e-3f11e07b6f9d__notion-update-page",
+
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__list_articles",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__search_articles",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__get_article",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__search_conversations",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__get_conversation",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__search",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__fetch",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__search_contacts",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__get_contact",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__list_companies",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__get_company"
+    ],
+    "ask": [
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__create_article",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__update_article"
+    ],
+    "deny": [
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__add_internal_note",
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__submit_mcp_feedback"
+    ]
+  }
+}

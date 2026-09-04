@@ -1,0 +1,1 @@
+Follow `.claude/skills/learn-and-update-repo/SKILL.md` to review this session, extract generalizable learnings, and propose edits to the root `CLAUDE.md`, the skills, or the workstream docs; wait for approval before changing anything.

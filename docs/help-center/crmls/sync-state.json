@@ -1,0 +1,687 @@
+{
+ "last_run": "2026-09-04T17:09:42Z",
+ "help_center_id": 4767477,
+ "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
+ "articles": {
+  "12816780": {
+   "file": "create-one-page-reports.md",
+   "updated_at": 1788200848,
+   "state": "published",
+   "title": "Create One Page Reports",
+   "content_id": "14458010",
+   "body_sha1": "c6802cf71a592f8a043514b4589a43c98f132e02"
+  },
+  "12816757": {
+   "file": "create-and-share-full-reports.md",
+   "updated_at": 1788200838,
+   "state": "published",
+   "title": "Create and Share Full Reports",
+   "content_id": "14457971",
+   "body_sha1": "fe9569056b7577bb4857076cecbdc040d8e94381"
+  },
+  "11112420": {
+   "file": "set-up-email-alerts-for-saved-searches.md",
+   "updated_at": 1788200121,
+   "state": "published",
+   "title": "Set Up Email Alerts for Saved Searches",
+   "content_id": "11986197",
+   "body_sha1": "7c9531f7f92a2cfba4f491f82d19e2d1bca95111"
+  },
+  "8955646": {
+   "file": "manage-your-saved-searches.md",
+   "updated_at": 1788187258,
+   "state": "published",
+   "title": "Manage Your Saved Searches",
+   "content_id": "9098936",
+   "body_sha1": "26e8c1bda62ed195a145ccbfb82dbebeaf98525b"
+  },
+  "11373849": {
+   "file": "share-listings-with-your-agent.md",
+   "updated_at": 1787692908,
+   "state": "published",
+   "title": "Share Listings with Your Agent",
+   "content_id": "12304821",
+   "body_sha1": "2ed2505402ba9acd133b08fb790b3165964277fa"
+  },
+  "8955767": {
+   "file": "create-a-show-sheet.md",
+   "updated_at": 1786495297,
+   "state": "published",
+   "title": "Create a Show Sheet",
+   "content_id": "9099063",
+   "body_sha1": "121db02caf52b15e7a93517d3b39252954ba1bea"
+  },
+  "13959293": {
+   "file": "create-a-quick-cma-report.md",
+   "updated_at": 1786495246,
+   "state": "published",
+   "title": "Create a Quick CMA Report",
+   "content_id": "16237971",
+   "body_sha1": "cbd02a53f89d0baca31307ed6c0cccfaf8f6a895"
+  },
+  "8955772": {
+   "file": "create-an-itinerary-report.md",
+   "updated_at": 1786495185,
+   "state": "published",
+   "title": "Create an Itinerary Report",
+   "content_id": "9099068",
+   "body_sha1": "69ed28354a7eb3ad8bf3b253d8b5e216df4bd00f"
+  },
+  "8955755": {
+   "file": "create-a-listing-report.md",
+   "updated_at": 1786495064,
+   "state": "published",
+   "title": "Create a Listing Report",
+   "content_id": "9099049",
+   "body_sha1": "49fc371fec9664c9fc3369fad62c82efa1d75ac8"
+  },
+  "11962073": {
+   "file": "customize-your-search-view.md",
+   "updated_at": 1786399621,
+   "state": "published",
+   "title": "Customize Your Search View",
+   "content_id": "13190641",
+   "body_sha1": "255fad7773af2b2f3f27cc9b0fd9a011a27f8819"
+  },
+  "11002620": {
+   "file": "universal-search-bar.md",
+   "updated_at": 1786397388,
+   "state": "published",
+   "title": "Universal Search Bar",
+   "content_id": "11821319",
+   "body_sha1": "91a52c6556d65c56ca4437d95afc03741030ce99"
+  },
+  "14324175": {
+   "file": "creating-and-editing-tags.md",
+   "updated_at": 1782959972,
+   "state": "published",
+   "title": "Creating and Editing Tags",
+   "content_id": "16734204",
+   "body_sha1": "2746f745b7ccf68670cfe8ef866cdc5150b39283"
+  },
+  "13930735": {
+   "file": "sorting-listings-on-the-search-page.md",
+   "updated_at": 1782959965,
+   "state": "published",
+   "title": "Sorting Listings on the Search Page",
+   "content_id": "16199094",
+   "body_sha1": "033aefc1defbbc61561eae9c94c89b76f53bc6e8"
+  },
+  "13923637": {
+   "file": "creating-a-search-with-filters-in-perchwell.md",
+   "updated_at": 1782959965,
+   "state": "published",
+   "title": "Creating a Search with Filters in Perchwell",
+   "content_id": "16185917",
+   "body_sha1": "b93a9fefbc1177981aa01f84bf078925f0b93a98"
+  },
+  "13923137": {
+   "file": "create-a-cloud-cma-presentation-from-search.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Create a Cloud CMA Presentation from Search",
+   "content_id": "16185172",
+   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
+  },
+  "13923207": {
+   "file": "using-searchwell.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Using Searchwell",
+   "content_id": "16185254",
+   "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
+  },
+  "13921850": {
+   "file": "filtering-your-search-by-property-types.md",
+   "updated_at": 1782959960,
+   "state": "published",
+   "title": "Filtering your Search by Property Types",
+   "content_id": "16183138",
+   "body_sha1": "a218aae5ec5de9e5a58ab85760148c3f9317ecf3"
+  },
+  "13921493": {
+   "file": "integration-tools-on-the-dashboard.md",
+   "updated_at": 1782959959,
+   "state": "published",
+   "title": "Integration Tools on the Dashboard",
+   "content_id": "16182357",
+   "body_sha1": "17b6053b0995413224beb94c34542bd65152d198"
+  },
+  "13921348": {
+   "file": "adding-a-hot-sheet-to-the-dashboard.md",
+   "updated_at": 1782959959,
+   "state": "published",
+   "title": "Adding a Hot Sheet to the Dashboard",
+   "content_id": "16182104",
+   "body_sha1": "ca22d7dadacdee501ffbcb2f4ce3fa70e345f88c"
+  },
+  "13921294": {
+   "file": "the-days-active-on-market-widget.md",
+   "updated_at": 1782959958,
+   "state": "published",
+   "title": "The Days Active on Market Widget",
+   "content_id": "16182026",
+   "body_sha1": "bdc1183395659a27d51d3cf383bc5b8fee4077ce"
+  },
+  "13921071": {
+   "file": "filtering-listing-by-office-mls-or-your-listings-on-the-dashboard.md",
+   "updated_at": 1782959958,
+   "state": "published",
+   "title": "Filtering Listing by Office, MLS, or Your Listings on the Dashboard",
+   "content_id": "16181767",
+   "body_sha1": "fde3a3a135bb43637c289cd01f0da0a5810a4cb8"
+  },
+  "13920731": {
+   "file": "the-dashboard-page-overview.md",
+   "updated_at": 1782959956,
+   "state": "published",
+   "title": "The Dashboard Page Overview",
+   "content_id": "16181210",
+   "body_sha1": "beaf6036bfdd7188e80a0bea628f8b7936cf8836"
+  },
+  "13623493": {
+   "file": "create-custom-boundaries-with-the-draw-filter.md",
+   "updated_at": 1782959941,
+   "state": "published",
+   "title": "Create Custom Boundaries with the Draw Filter",
+   "content_id": "15695592",
+   "body_sha1": "8e3c4f2b018187637898678ced31beca36c6a521"
+  },
+  "13615153": {
+   "file": "sharing-multiple-listings-via-email-or-with-a-public-link.md",
+   "updated_at": 1782959937,
+   "state": "published",
+   "title": "Sharing Multiple Listings via Email or with a Public Link",
+   "content_id": "15683422",
+   "body_sha1": "081254dfa4191d8127336bf928999ab89102e363"
+  },
+  "13602428": {
+   "file": "unsubscribe-from-notifications-for-invited-clients.md",
+   "updated_at": 1782959935,
+   "state": "published",
+   "title": "Unsubscribe from Notifications (For Invited Clients)",
+   "content_id": "15664447",
+   "body_sha1": "14f6749abc6e39998d279e4072f6c493661f7988"
+  },
+  "12971066": {
+   "file": "using-enhanced-filters-to-find-listings.md",
+   "updated_at": 1782959934,
+   "state": "published",
+   "title": "Using Enhanced Filters to find Listings",
+   "content_id": "14710892",
+   "body_sha1": "95c94e3d15f216348d24ba62497ee80a8063b8d8"
+  },
+  "12975959": {
+   "file": "frequently-asked-questions.md",
+   "updated_at": 1782959934,
+   "state": "published",
+   "title": "Frequently Asked Questions",
+   "content_id": "14718074",
+   "body_sha1": "ef81efa36d88a4789eacf4d40474aa2f9344cdef"
+  },
+  "12921357": {
+   "file": "creating-one-page-and-full-reports.md",
+   "updated_at": 1782959933,
+   "state": "published",
+   "title": "Creating One Page and Full Reports",
+   "content_id": "14634921",
+   "body_sha1": "7a0ad490f54c2ca3c45507ecb4e85beee8ef5377"
+  },
+  "12921217": {
+   "file": "managing-your-tag-alerts-and-sharing-tags.md",
+   "updated_at": 1782959932,
+   "state": "published",
+   "title": "Managing your Tag Alerts and Sharing Tags.",
+   "content_id": "14634726",
+   "body_sha1": "629864d686a8c58669206f5f3857ba7dbcf46a5f"
+  },
+  "12921294": {
+   "file": "creating-and-sharing-a-cma-report.md",
+   "updated_at": 1782959932,
+   "state": "published",
+   "title": "Creating and Sharing a CMA Report",
+   "content_id": "14634827",
+   "body_sha1": "1ec3c51cbd647e096fc7b35ba7452d5a25dbcbe0"
+  },
+  "12920870": {
+   "file": "saving-listings-with-tags.md",
+   "updated_at": 1782959931,
+   "state": "published",
+   "title": "Saving Listings with Tags",
+   "content_id": "14634307",
+   "body_sha1": "ed14f57e72863b129a7f3fa2b586afa03b3c87ad"
+  },
+  "12896093": {
+   "file": "export-your-contact-list.md",
+   "updated_at": 1782959930,
+   "state": "published",
+   "title": "Export Your Contact List",
+   "content_id": "14593607",
+   "body_sha1": "1a29b0a72a7a19cd8778aa1defa9896d80243922"
+  },
+  "12883229": {
+   "file": "sharing-listings-with-clients.md",
+   "updated_at": 1782959929,
+   "state": "published",
+   "title": "Sharing Listings with Clients",
+   "content_id": "14575428",
+   "body_sha1": "8d85251b1561c08f4dab959ff16181f10766b9e9"
+  },
+  "12882855": {
+   "file": "creating-a-saved-search.md",
+   "updated_at": 1782959928,
+   "state": "published",
+   "title": "Creating a Saved Search",
+   "content_id": "14574161",
+   "body_sha1": "770705424701c9e05463d5e4deb66160421abe74"
+  },
+  "12881759": {
+   "file": "perchwell-transfer-guide-searches-contacts-more.md",
+   "updated_at": 1782959927,
+   "state": "published",
+   "title": "Perchwell Transfer Guide: Searches, Contacts & More",
+   "content_id": "14570766",
+   "body_sha1": "09abaa29e0e323915192c44d54fb5366140d9a8a"
+  },
+  "12543753": {
+   "file": "navigating-the-listing-detail-page.md",
+   "updated_at": 1782959923,
+   "state": "published",
+   "title": "Navigating the Listing Detail Page",
+   "content_id": "14018302",
+   "body_sha1": "42814349f4c5606311223f89d8a17001fb163162"
+  },
+  "12541968": {
+   "file": "message-clients-in-perchwell.md",
+   "updated_at": 1782959922,
+   "state": "published",
+   "title": "Message Clients in Perchwell",
+   "content_id": "14014573",
+   "body_sha1": "6b34edfebae4b276437296562a1a3b451a523cdd"
+  },
+  "11994112": {
+   "file": "the-search-page-overview.md",
+   "updated_at": 1782959915,
+   "state": "published",
+   "title": "The Search Page Overview",
+   "content_id": "13240712",
+   "body_sha1": "7250ac6a0a64aaee98c8daeef15e0b3d1a88f2ba"
+  },
+  "11776740": {
+   "file": "export-listings-in-perchwell.md",
+   "updated_at": 1782959912,
+   "state": "published",
+   "title": "Export Listings in Perchwell",
+   "content_id": "12887977",
+   "body_sha1": "99ff743023347a72e336d6ad2675d3ba64aba7fe"
+  },
+  "11680979": {
+   "file": "what-s-new-in-perchwell-crmls.md",
+   "updated_at": 1782959909,
+   "state": "published",
+   "title": "What's New in Perchwell | CRMLS \ud83d\ude80",
+   "content_id": "12746002",
+   "body_sha1": "6eaf7c7bbdb5a81e795d536b5dce217c3dbc69e3"
+  },
+  "11585151": {
+   "file": "using-mls-areas-in-the-location-filter.md",
+   "updated_at": 1782959908,
+   "state": "published",
+   "title": "Using MLS Areas in the Location Filter",
+   "content_id": "12606735",
+   "body_sha1": "3e4dfa45cdb02311ecf86e06dc9043c8bdee8ef3"
+  },
+  "11541095": {
+   "file": "realist-integration.md",
+   "updated_at": 1782959907,
+   "state": "published",
+   "title": "Realist Integration",
+   "content_id": "12551012",
+   "body_sha1": "7daa1ba8b1bc20daea0bf01b8871f0b094240f8d"
+  },
+  "11517935": {
+   "file": "reporting-listings.md",
+   "updated_at": 1782959906,
+   "state": "published",
+   "title": "Reporting Listings",
+   "content_id": "12508574",
+   "body_sha1": "29b5a4c14bd67183de45017e08dd1e91413be16a"
+  },
+  "11517245": {
+   "file": "search-for-open-houses.md",
+   "updated_at": 1782959905,
+   "state": "published",
+   "title": "Search for Open Houses",
+   "content_id": "12507731",
+   "body_sha1": "b1d87d8635ab73b3c9c74a4e24e3b15cdd8b1b90"
+  },
+  "11373888": {
+   "file": "communicate-with-your-agent-in-perchwell.md",
+   "updated_at": 1782959899,
+   "state": "published",
+   "title": "Communicate with Your Agent in Perchwell",
+   "content_id": "12304874",
+   "body_sha1": "5e44c3a0f28961b2c0cea6d6d4257fb5030542a1"
+  },
+  "11373895": {
+   "file": "invite-clients-to-perchwell.md",
+   "updated_at": 1782959900,
+   "state": "published",
+   "title": "Invite Clients to Perchwell",
+   "content_id": "12304882",
+   "body_sha1": "0d4695e7dc77adc30c4bdd82f3f1f685a44e2f9b"
+  },
+  "11373805": {
+   "file": "receive-alerts-about-new-listings.md",
+   "updated_at": 1782959898,
+   "state": "published",
+   "title": "Receive Alerts About New Listings",
+   "content_id": "12304765",
+   "body_sha1": "7d7049e780032359817b096e41398b8d98319425"
+  },
+  "11373447": {
+   "file": "view-shared-saved-searches.md",
+   "updated_at": 1782959897,
+   "state": "published",
+   "title": "View Shared Saved Searches",
+   "content_id": "12304392",
+   "body_sha1": "c59129ab0ceabfa891a81e96ce0a5c06c1e99242"
+  },
+  "11373210": {
+   "file": "accept-your-agent-s-perchwell-invitation.md",
+   "updated_at": 1782959896,
+   "state": "published",
+   "title": "Accept Your Agent\u2019s Perchwell Invitation",
+   "content_id": "12304146",
+   "body_sha1": "cf54a3f13f807fbc5851ad0947ad1f00dc27e1ad"
+  },
+  "11334967": {
+   "file": "perchwell-essentials-organizing-with-tags-and-folders.md",
+   "updated_at": 1782959895,
+   "state": "published",
+   "title": "Perchwell Essentials: Organizing with Tags and Folders",
+   "content_id": "12259349",
+   "body_sha1": "117bb6c776235035b37ae8f213c996be1836dfb5"
+  },
+  "11334934": {
+   "file": "perchwell-essentials-unlocking-search.md",
+   "updated_at": 1782959894,
+   "state": "published",
+   "title": "Perchwell Essentials: Unlocking Search",
+   "content_id": "12259301",
+   "body_sha1": "185d728d1ec38c4918bda2e84fc6ae4fa5ac7007"
+  },
+  "11334953": {
+   "file": "perchwell-essentials-perfecting-the-cma.md",
+   "updated_at": 1782959894,
+   "state": "published",
+   "title": "Perchwell Essentials: Perfecting the CMA",
+   "content_id": "12259326",
+   "body_sha1": "5b307f15d3a2e8fa5cf216c67fc649c2bf320d91"
+  },
+  "11011163": {
+   "file": "filter-your-search-by-keywords.md",
+   "updated_at": 1782959890,
+   "state": "published",
+   "title": "Filter Your Search by Keywords",
+   "content_id": "11832879",
+   "body_sha1": "2531598e68d7c253d88290a06808ec48553aa96d"
+  },
+  "11010809": {
+   "file": "filter-your-search-by-commute.md",
+   "updated_at": 1782959889,
+   "state": "published",
+   "title": "Filter Your Search by Commute",
+   "content_id": "11832296",
+   "body_sha1": "433d8f495137972a1a60cf6150c15d6f293d2134"
+  },
+  "11010696": {
+   "file": "understand-status-and-activity-filter.md",
+   "updated_at": 1782959888,
+   "state": "published",
+   "title": "Understand Status and Activity Filter",
+   "content_id": "11832103",
+   "body_sha1": "dc0ced6d56419df0a4eede40537e912cc1b189f0"
+  },
+  "11010483": {
+   "file": "the-days-active-in-the-mls-widget.md",
+   "updated_at": 1782959887,
+   "state": "published",
+   "title": "The Days Active in the MLS Widget",
+   "content_id": "11831798",
+   "body_sha1": "36bf41e91d2700d567595b040e417611fd3cd02f"
+  },
+  "10732227": {
+   "file": "bulk-upload-contacts.md",
+   "updated_at": 1782959884,
+   "state": "published",
+   "title": "Bulk Upload Contacts",
+   "content_id": "11478300",
+   "body_sha1": "cf1dd99b90b74ccd253aa63921567f18546d8abe"
+  },
+  "10536081": {
+   "file": "enhancing-your-search-with-filters.md",
+   "updated_at": 1782959879,
+   "state": "published",
+   "title": "Enhancing Your Search with Filters",
+   "content_id": "11210143",
+   "body_sha1": "5469c74a9f74171ef54934d2bd20dfce0561831d"
+  },
+  "10535900": {
+   "file": "using-the-map-on-the-search-page.md",
+   "updated_at": 1782959878,
+   "state": "published",
+   "title": "Using the Map on the Search Page",
+   "content_id": "11209918",
+   "body_sha1": "dabd8ba8b6ea072ee60401ad5fc21fd8f7adf00a"
+  },
+  "10159813": {
+   "file": "customizing-your-dashboard.md",
+   "updated_at": 1782959875,
+   "state": "published",
+   "title": "Customizing your Dashboard",
+   "content_id": "10697754",
+   "body_sha1": "87ef38a2337da8261b307b2610ca4e532c7a12c4"
+  },
+  "10092087": {
+   "file": "overview-of-listing-presentations.md",
+   "updated_at": 1782959872,
+   "state": "published",
+   "title": "Overview of Listing Presentations",
+   "content_id": "10604715",
+   "body_sha1": "1f35812d7939034e6701dc0814ea49525e0daf07"
+  },
+  "8955889": {
+   "file": "analytics-tab-walkthrough.md",
+   "updated_at": 1782959865,
+   "state": "published",
+   "title": "Analytics Tab Walkthrough",
+   "content_id": "9099187",
+   "body_sha1": "81e9394d8464502ab679cd57fe5d13b17c7fd3fd"
+  },
+  "8955876": {
+   "file": "share-and-export-analytics-charts.md",
+   "updated_at": 1782959863,
+   "state": "published",
+   "title": "Share and Export Analytics Charts",
+   "content_id": "9099174",
+   "body_sha1": "997054685147c7331d95930d7aa09d3867a82804"
+  },
+  "8955860": {
+   "file": "analytics-overview.md",
+   "updated_at": 1782959862,
+   "state": "published",
+   "title": "Analytics Overview",
+   "content_id": "9099157",
+   "body_sha1": "de38c3325637b2cfae0e45bee9e5c421c66d1bd9"
+  },
+  "8955819": {
+   "file": "create-and-manage-your-contacts-in-perchwell.md",
+   "updated_at": 1782959860,
+   "state": "published",
+   "title": "Create and Manage Your Contacts in Perchwell",
+   "content_id": "9099115",
+   "body_sha1": "60feb07137642c1e52c11bff0c6256936bd501fe"
+  },
+  "8955810": {
+   "file": "contact-page-overview.md",
+   "updated_at": 1782959859,
+   "state": "published",
+   "title": "Contact Page Overview",
+   "content_id": "9099106",
+   "body_sha1": "bd7517336d56a06fe0ffd85dec1f4bf98e181a66"
+  },
+  "8955789": {
+   "file": "export-to-excel.md",
+   "updated_at": 1782959856,
+   "state": "published",
+   "title": "Export to Excel",
+   "content_id": "9099085",
+   "body_sha1": "d2d46254353921bd56f9b1266147ae83f92a8772"
+  },
+  "8955781": {
+   "file": "create-a-media-report.md",
+   "updated_at": 1782959855,
+   "state": "published",
+   "title": "Create a Media Report",
+   "content_id": "9099077",
+   "body_sha1": "bd3c4698df47360323670e40068e510ec338dafa"
+  },
+  "8955761": {
+   "file": "create-a-detailed-report.md",
+   "updated_at": 1782959852,
+   "state": "published",
+   "title": "Create a Detailed Report",
+   "content_id": "9099056",
+   "body_sha1": "78bd9bda1f7ad74ab98baacfe434b35e85f64899"
+  },
+  "8955708": {
+   "file": "adding-a-open-house-to-your-listing.md",
+   "updated_at": 1782959848,
+   "state": "published",
+   "title": "Adding a Open House to your Listing",
+   "content_id": "9099000",
+   "body_sha1": "18b146fac6c27d6bdf000c09ad2a2cfa3ec42580"
+  },
+  "8955682": {
+   "file": "add-an-invited-client-to-a-saved-search.md",
+   "updated_at": 1782959845,
+   "state": "published",
+   "title": "Add an Invited Client to a Saved Search",
+   "content_id": "9098973",
+   "body_sha1": "cd5d6309b816f96612491cf4ccedf2bacbd3ee45"
+  },
+  "13624055": {
+   "file": "adding-a-subject-property-to-a-cma.md",
+   "updated_at": 1782959943,
+   "state": "draft",
+   "title": "Adding a Subject Property to a CMA",
+   "content_id": "15696270",
+   "body_sha1": "b6bdc3718286153c0b1aec44b3d42d731168a0f9"
+  },
+  "8955717": {
+   "file": "guide-to-creating-a-report.md",
+   "updated_at": 1782959850,
+   "state": "draft",
+   "title": "Guide to Creating a Report",
+   "content_id": "9099009",
+   "body_sha1": "4c690623ecb21cf69dbc2131553e6de75335d779"
+  },
+  "13933104": {
+   "file": "multi-listing-actions-on-the-search-page.md",
+   "updated_at": 1782959967,
+   "state": "draft",
+   "title": "Multi-Listing Actions on the Search Page",
+   "content_id": "16202346",
+   "body_sha1": "f81bb5ff8a10908a4c011e84e3baf2659784cbba"
+  },
+  "10536064": {
+   "file": "sharing-a-saved-search-with-clients.md",
+   "updated_at": 1782959878,
+   "state": "draft",
+   "title": "Sharing a Saved Search with Clients",
+   "content_id": "11210124",
+   "body_sha1": "2d17c325f694f735a12be1771bd788929749899a"
+  },
+  "11379741": {
+   "file": "create-email-templates.md",
+   "updated_at": 1782959903,
+   "state": "draft",
+   "title": "Create Email Templates",
+   "content_id": "12312136",
+   "body_sha1": "3419eba7e4cc2cc643f4a16cb35cdc8589db6ac7"
+  },
+  "12355921": {
+   "file": "managing-tag-alerts.md",
+   "updated_at": 1782959922,
+   "state": "draft",
+   "title": "Managing Tag Alerts",
+   "content_id": "13749212",
+   "body_sha1": "3700690c8c3fb44e0f866ba8ddcee0326629f2bc"
+  },
+  "12270266": {
+   "file": "sharing-and-viewing-tags.md",
+   "updated_at": 1782959919,
+   "state": "draft",
+   "title": "Sharing and Viewing Tags",
+   "content_id": "13626702",
+   "body_sha1": "4ae7767219dd2fb473e4d0495dc89501f438b0c0"
+  },
+  "8955795": {
+   "file": "tags-page-overview.md",
+   "updated_at": 1782959857,
+   "state": "draft",
+   "title": "Tags Page Overview",
+   "content_id": "9099091",
+   "body_sha1": "1a953157fcd1239337632dd067be511f989488c6"
+  },
+  "8955869": {
+   "file": "adding-a-new-chart-in-analytics.md",
+   "updated_at": 1782959863,
+   "state": "draft",
+   "title": "Adding a New Chart in Analytics",
+   "content_id": "9099167",
+   "body_sha1": "5a27ab3a3e25879a868cfb22c0cbb7e832e54868"
+  },
+  "8955809": {
+   "file": "10-ways-to-use-tags.md",
+   "updated_at": 1782959858,
+   "state": "draft",
+   "title": "10 Ways to Use Tags",
+   "content_id": "9099105",
+   "body_sha1": "858c833afbdda9276dca6bd9867a0b5e95658d8f"
+  },
+  "11373968": {
+   "file": "sharing-listings.md",
+   "updated_at": 1782959901,
+   "state": "draft",
+   "title": "Sharing Listings",
+   "content_id": "12304988",
+   "body_sha1": "ffa9066dfebe44efaff6aea022b9dc21c33687a4"
+  },
+  "11403062": {
+   "file": "engaging-with-multiple-agents.md",
+   "updated_at": 1782959904,
+   "state": "draft",
+   "title": "Engaging with Multiple Agents",
+   "content_id": "12345058",
+   "body_sha1": "df62755b3659d0e44a209e854eb930fe78b28808"
+  },
+  "11003120": {
+   "file": "using-the-draw-filter.md",
+   "updated_at": 1782959886,
+   "state": "draft",
+   "title": "Using the Draw Filter",
+   "content_id": "11822044",
+   "body_sha1": "f0a3edf5f648ee5899ead696311ef83bd2327a33"
+  },
+  "8955835": {
+   "file": "grouping-contacts-practical-use-cases.md",
+   "updated_at": 1782959861,
+   "state": "draft",
+   "title": "Grouping Contacts: Practical Use Cases",
+   "content_id": "9099131",
+   "body_sha1": "9a0788fd21c47fbe78851f7edfe21d433538bcb8"
+  }
+ }
+}

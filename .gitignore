@@ -1,0 +1,14 @@
+# Personal Claude Code config (never shared)
+.claude/settings.local.json
+.claude/agent-memory/
+
+# Confidential folders: raw member excerpts, anything with a name, email, phone, or address.
+# The contents are ignored at every depth; the .gitkeep survives so the folder exists after clone.
+**/confidential/*
+!**/confidential/.gitkeep
+
+# System and secrets
+.DS_Store
+.env
+*.env
+credentials*

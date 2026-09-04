@@ -1,0 +1,1 @@
+Follow `.claude/skills/golden-questions/SKILL.md` to mine Baldwin Fin conversations for real member questions with the flags in $ARGUMENTS (--sample N, --since, --until), keep raw excerpts in confidential/, and write the scrubbed set to `workstreams/help-center-overhaul/golden-questions/golden-question-set.md`.

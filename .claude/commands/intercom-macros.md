@@ -1,0 +1,1 @@
+Follow `.claude/skills/intercom-macros/SKILL.md` to turn the feature context in $ARGUMENTS into paste-ready Intercom macro drafts saved under `workstreams/support-ops/macros/`; ask for release notes if none were given.
