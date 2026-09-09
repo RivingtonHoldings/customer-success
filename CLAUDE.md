@@ -110,13 +110,13 @@ This repo is the team's second brain for help center work. Keep it useful for so
 - `README.md` - Ten-minute setup guide for a teammate who has never used a terminal.
 - `docs/product-context.md` - Support-writing reference: what Perchwell is, features, glossary, terminology rules.
 - `docs/connector-tools.md` - Exact Notion and Intercom tool names from the claude.ai connectors. `settings.json` references these.
-- `docs/standards/` - Content standards, Fin labeling strategy, and the golden questions (Intercom's 14 content readiness factors every article must pass). The skills read these before drafting.
+- `docs/standards/` - Content standards, Fin labeling strategy, the golden questions (Intercom's 14 content readiness factors every article must pass), and the Fin-readiness scorecard that scores an article 0 to 100 on top of them. The skills read these before drafting.
 - `docs/help-center/baldwin/` and `docs/help-center/crmls/` - Read-only mirror of the live Intercom help centers, one markdown file per article, refreshed by `/sync-help-center`.
 - `docs/help-center/changelog.md` - One line per change to a live article.
 - `docs/build-log.md` - How this repo was built and every judgment call made along the way.
-- `workstreams/help-center-overhaul/` - The September 2026 standardization project. Has its own `CLAUDE.md`, plus `docs/`, `audit/`, `qa/`, `fin-reports/`, `outputs/`, and `confidential/`. Archive after October 2, 2026.
+- `workstreams/help-center-overhaul/` - The September 2026 standardization project. Has its own `CLAUDE.md`, plus `docs/`, `audit/`, `qa/` (one scorecard per article), `fin-reports/`, `outputs/`, and `confidential/`. Archive after October 2, 2026.
 - `workstreams/support-ops/` - Evergreen support content that outlives any project: macro drafts and their index.
-- `.claude/skills/` - Shared skills: setup-check, sync-help-center, article-draft, article-rewrite, intercom-macros, humanizer, skill-creator, learn-and-update-repo.
+- `.claude/skills/` - Shared skills: setup-check, sync-help-center, article-draft, article-rewrite (also migrates an old Master Article List page into the new Notion database and scores it), intercom-macros, humanizer, skill-creator, learn-and-update-repo.
 - `.claude/commands/` - One slash command per skill.
 - `.claude/settings.json` - Shared permissions: connector reads and Notion page writes are allowed, Intercom article writes always prompt, conversation writes are denied.
 

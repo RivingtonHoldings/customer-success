@@ -1,8 +1,8 @@
 # Help center content standards
 
-The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it.
+The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -164,8 +164,26 @@ All numbers, thresholds, limits, and durations are exact. No "some", "a few", "s
 
 - Link to a related article whenever a workflow is referenced instead of re-explaining it.
 - Descriptive link text, always the article title or the task. Never "here".
-- Prefer the public help center URL. If only the Notion page is known, link that and flag it for replacement at Intercom transfer.
+- Prefer the public help center URL for the article's own MLS (`support.perchwell.com/baldwin/en/...`). A link into the default help center (`support.perchwell.com/en/...`) is flagged at transfer so CS can confirm it resolves for that MLS's members. If only the Notion page is known, link that and flag it for replacement at Intercom transfer.
 - Do not recreate a workflow that already has an article.
+
+## Migrating an existing article
+
+Articles that predate this standard live in the old Notion Master Article List and in the live help center. When one is brought into the Perchwell Help Center Database [Sep 2026], it is rewritten to this standard, not copied.
+
+- **Source precedence.** The live Intercom article (mirrored under `docs/help-center/`) wins on facts, because it is what members and Fin see today. The old Notion page supplies the video link, the properties, and the click script as a hint for the article's outcomes. Every difference between the two is listed for the reviewer, never merged silently.
+- **Drop:** the `In this article:` heading, horizontal rules, emoji-led lines and emoji pointers, the "Click Script" toggle (a video script, not article content), the trailing Perchwell banner image, the support footer, and internal prefixes such as `NYC|`.
+- **Carry:** the Loom or Arcade URL, directly under the opening paragraph; every image, with alt text written for it; the Paragon comparison, in the neutral transition voice.
+- **Retitle** when the old title is a bare noun, following the naming standard, and record the old title so the Intercom redirect and the audit can find it. The team may keep a familiar bare-noun title; when it does, the description and the opening paragraph carry the task words instead.
+- **Feature name versus on-screen label.** When the feature's name is not what the member sees on screen (the Universal Search Bar is the **Search** field in the top navigation), the first step names the on-screen label in bold and the lead sentence ties the two together.
+- **Alt text comes from the actual screenshot.** Open the image and describe what it shows; do not write alt text from the surrounding prose. A migrated article keeps its live Intercom CDN images when their URLs are stable.
+- **`[confirm: ...]` markers stay in the Notion draft** so reviewers can see exactly what the writer could not verify from the sources. They are resolved or removed before transfer.
+- **Shared articles.** An article mirrored in both `baldwin/` and `crmls/` is in both help centers through a shared collection. The new database holds one MLS per row, so the draft goes in under the MLS the old row names and the shared status is an open item for the team.
+- The old Master Article List row is read and left alone. Never update its status or mirror a change back into it.
+
+## Fin-readiness scorecard
+
+Every draft and every migrated article is scored with `fin-readiness-scorecard.md` in this folder: the 14 golden questions as a pass-or-fail gate, then 0 to 100 across five weighted dimensions (retrieval signals, chunk independence, answer completeness, Fin-parsable formatting, accuracy and confidence). A migration is scored before and after so the delta shows what the rewrite bought. The result goes in `workstreams/help-center-overhaul/qa/`, one file per article, with five to eight Fin test questions the team can run after transfer. An article moves to `Ready to Transfer` in the Fin-ready band (90 or above) with the gate passed, or in the Ready with fixes band with the listed fixes applied.
 
 ## Quality checklist
 
@@ -194,6 +212,8 @@ Confirm before saving a draft:
 - No em dashes, no horizontal rules, no HTML, no support footer, no "In this article:" heading
 - Every fact traces to release notes or a live article; anything invented is marked `[confirm: ...]`
 - All 14 golden questions pass
+- Scorecard run; band is Fin-ready, or the failed checks are listed with their fixes
+- Links point at this MLS's help center, and any default help center link is flagged for transfer
 
 ## Sources
 

@@ -1,97 +1,108 @@
 ---
 name: article-rewrite
-version: 1.1.0
-description: "When the user wants to update, improve, or rewrite an existing help center article for style and clarity, without new release notes involved. Also use when the user mentions 'help center,' 'help article,' 'knowledge base article,' 'support article,' 'update this article,' 'rewrite this help doc,' 'improve this help page,' or points at a file under docs/help-center/. This skill applies a systematic set of nine transformation patterns to make help center articles clearer, more actionable, and easier to scan."
+version: 2.0.0
+description: "Rewrite, migrate, or score an existing Perchwell help center article. Use when the user wants to update, improve, or rewrite an existing article for style and clarity without new release notes; when they want to migrate an old article from the Notion Master Article List into the Perchwell Help Center Database [Sep 2026] ('move this article to the new database', 'migrate this article', 'old Notion article', 'run this article through the new standard'); or when they want an article scored for Fin ('score this article for Fin', 'how Fin-ready is this', 'rank this article'). Also use when the user mentions 'help center,' 'help article,' 'knowledge base article,' 'support article,' 'update this article,' 'rewrite this help doc,' 'improve this help page,' pastes a Notion article URL, or points at a file under docs/help-center/. Applies the content standard, the nine transformation patterns, the 14 golden questions, and the Fin-readiness scorecard, saves the draft and QA file to the repo, and creates a Draft page in the new Notion database. Intercom and the old Master Article List are never written to."
 ---
 
-# Help Center Article Rewriter
+# Help Center Article Rewriter and Migrator
 
-> For net-new articles or deciding what a feature release changes in the help center, use `/article-draft` (`.claude/skills/article-draft/`). This skill covers style rewrites of an existing article only.
+> For net-new articles from release notes, or deciding what a feature release changes in the help center, use `/article-draft` (`.claude/skills/article-draft/`). This skill covers an article that already exists: rewriting it, migrating it into the new Notion database, and scoring it for Fin.
 
-You are an experienced support professional updating help center articles for Perchwell. Your goal is to make articles clearer, more actionable, and easier for busy real estate professionals to scan and use.
+You are an experienced support professional updating help center articles for Perchwell. Your goal is to make articles clearer, more actionable, and easier for busy real estate professionals to scan, and to make them retrievable by Fin, which answers members from sections of published articles rather than whole articles.
 
-## Before Editing
+## Inputs
 
-**Read the standards first.** Read `docs/standards/content-standards.md` in full. It is the rulebook, and where it and this file ever differ, it wins. Read `docs/standards/golden-questions.md`, the 14 golden questions (Intercom's content readiness factors); the rewrite has to pass all of them. Read `docs/product-context.md` for feature names, roles, and terminology.
+One of three:
 
-**Get the original from the mirror when you can.** If the user names an article rather than pasting it, find it in `docs/help-center/baldwin/` or `docs/help-center/crmls/` (the `README.md` in each folder is the index). The file's frontmatter carries the Intercom article ID, public URL, collection, and state; keep those with the rewrite so the reviewer knows which live article it replaces. If the mirror looks stale, suggest `/sync-help-center` first.
+- **An old Notion page URL** from the Master Article List (`collection://1c78b9e0-1438-80b8-951d-000bc128f119`). This is the migration case: the article is rewritten to the standard and created as a Draft in the Perchwell Help Center Database [Sep 2026].
+- **A mirror path** under `docs/help-center/baldwin/` or `docs/help-center/crmls/`, or an article name that can be found in the folder's `README.md` index.
+- **Pasted text.** Works, but the result cannot be traced to a live article, so say so in the report.
 
-Read the original article carefully. Understand its structure, what features it covers, and where it falls short before making changes.
+Mode hints:
 
-## Voice and Tone
+- "no notion": rewrite and score, save the files, skip the Notion write.
+- "score only": ingest and run the scorecard on the article as it stands. No rewrite, no Notion write. Use this for the audit backlog.
+- "just do it": skip the source-difference and title confirmations and go straight to the Notion "go" summary.
 
-- **Always write in second person** ("you," "your"). You are an experienced support professional guiding the reader.
-- **Be clear and simple.** Assume the reader is a busy real estate professional who needs answers fast.
-- **Be direct without being cold.** Confident, helpful, approachable.
-- **Never use em dashes.** Use commas, periods, colons, or semicolons instead.
-- **Name Paragon neutrally** when a Baldwin article compares the two. Never "old system," "retired," or "sunsetted."
+## Before editing
 
-## Transformation Patterns
+**Read the standards first.** Read `docs/standards/content-standards.md` in full. It is the rulebook, and where it and this file ever differ, it wins. Read `docs/standards/golden-questions.md` (the 14 factors the rewrite has to pass) and `docs/standards/fin-readiness-scorecard.md` (how the before-and-after score is calculated). Read `docs/product-context.md` for feature names, roles, and terminology, including the Paragon transition voice.
 
-Apply these 9 patterns when rewriting an article. Read `references/transformation-patterns.md` for detailed examples of each pattern.
-
-### 1. Jobs-to-be-Done Opening
-Every article opens with one paragraph stating what the reader will accomplish, not what the article is about: "Use this article to <outcome 1>, <outcome 2>, and <outcome 3>." Name the feature in the sentence, and say who the article is for when it is role-limited. Retire the older "In this article:" heading and the "You will learn how..." phrasing; both describe the topic instead of the outcome, and Intercom names that the weaker form.
-
-### 2. Specific Over Vague
-Replace generic descriptions like "allows you to stay connected by storing information" with concrete actions: "Filter by Recently Created or New. Use the search bar to quickly locate a contact." Name the actual UI elements the reader will see.
-
-### 3. Grouped Structure
-Consolidate related content under meaningful parent headings. If five widgets each have their own H2, group them under a single "Customizing Your Dashboard with Widgets" section instead. Remove standalone sections that state the obvious (like "how to navigate to X" when it is just clicking an icon).
-
-### 4. Bullet-Point Capabilities
-Expand single-sentence feature descriptions into a short lead sentence plus a bullet list of specific things the reader can do. Each bullet should describe one concrete action or option.
-
-### 5. Imperative Voice
-Remove "You can" and "allows you to" phrasing. Instead of "You can use the Manage widgets button to customize your layout," write "Click **Manage widgets** to customize your layout." Tell the reader what to do, not what the system permits.
-
-### 6. Descriptive Section Titles
-Make section titles specific enough that a reader scanning the page can find what they need, and specific enough that Fin can tell what the section answers when it retrieves it alone. "Access Third-Party Integration Tools" is better than "Access Integrated Tools." Carry the feature name into the heading, then echo the heading's key terms in the first sentence beneath it, since Fin sometimes misses headings in the HTML.
-
-### 7. Callout Labels and Varied Link Phrasing
-Callouts lead with a bold label: **Note:** for system behavior, **Important:** for a limit or something irreversible, **Tip:** for a recommendation. Intercom says the bold label is what marks a passage for Fin to carry into an answer, so drop the old emoji-led callouts. Links to related articles are ordinary sentences, not callouts, and their phrasing varies: "Learn how [feature] works in [article]," "[Article] covers [topic] in detail," "For step-by-step guidance on [task], see [article]." Never "click here" or "view our article here."
-
-### 8. Coverage Gaps
-Look for features or workflows that exist in the product but are missing from the article. If a widget has an edit function or a filter option that is not mentioned, add it. The goal is complete, practical coverage. Mark anything you are not sure exists as `[confirm: ...]` rather than inventing it.
-
-### 9. Bold UI Elements
-Consistently bold all clickable UI elements, filter names, button labels, menu items, and navigation targets. This lets readers scan for the specific element they are looking for. Examples: **Price Drop**, **Open Houses**, **Recently Created**, **Add/Edit**.
+**Get the live article from the mirror whenever one exists.** The mirror is what members and Fin see today. If `sync-state.json` in the mirror folder shows a `last_run` more than a week old, suggest `/sync-help-center` before relying on it.
 
 ## Workflow
 
-1. **Read** the original article carefully. Note its structure, which features it covers, and where it falls short.
-2. **Identify** which of the 9 patterns need to be applied. Most articles will need all of them, but some patterns may already be satisfied.
-3. **Rewrite** the article applying all relevant patterns. Maintain the same overall topic coverage while improving structure, voice, specificity, and scannability.
-4. **Self-review** against the 14 golden questions in `docs/standards/golden-questions.md` first, listing any factor that fails with the fix or the question for the user, then check each pattern against the rewritten article:
-   - Does it open with "Use this article to ..." and name the outcomes?
-   - Are descriptions specific with named UI elements?
-   - Is related content grouped under parent headings?
-   - Do features have bullet-point capabilities?
-   - Is the voice imperative (no "You can" / "allows you to")?
-   - Are section titles descriptive, carrying the feature name, and echoed in the first sentence below?
-   - Do callouts lead with a bold **Note:**, **Important:**, or **Tip:** label, and is link phrasing varied?
-   - Are there obvious coverage gaps?
-   - Are UI elements consistently bolded?
-5. **Deliver** the rewritten article in clean markdown, and save it to `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<slug>-rewrite.md` with the original's frontmatter on top. Never edit the mirror file itself; the mirror reflects Intercom, and only `/sync-help-center` writes there.
+1. **Ingest.**
+   - Notion URL: fetch the page with the Notion connector's fetch tool. Read its properties (`Resource Title`, `Collection in Intercom`, `MLS`, `Roles`, `Video`, `Video Links`, `Screenshot`, `Help Center URL (Public)`, `HC Status`, `MLS update notes`). Take the Intercom article ID from the last path segment of `Help Center URL (Public)` (the digits before the slug), then grep `intercom_id: "<id>"` across `docs/help-center/*/` to find the mirror file(s). Read both bodies.
+   - Mirror path or name: read the file. Its frontmatter carries the Intercom article ID, content ID, public URL, collection, state, and labels; keep them with the rewrite so the reviewer knows which live article it replaces.
+   - **Shared articles.** The same `intercom_id` appearing in both `baldwin/` and `crmls/` means the article is shared through a collection that sits in both help centers. Flag it: the new database's `MLS/AOR` is single-select, so the draft goes in under one MLS and the shared status goes in Open items for the team.
+2. **Diff the sources.** When there is both an old Notion body and a live mirror body, list every fact, step, bullet, and tip that appears in one and not the other, or reads differently. The live mirror wins on facts because it is newer and it is what members see. The old Notion page supplies the video link, the properties, and the click script as a hint for the article's outcomes. Show the differences to the user before drafting unless they said "just do it"; never merge them silently.
+3. **Score the original.** Run the scorecard in `docs/standards/fin-readiness-scorecard.md` against the live article as it stands: gate (14 golden questions) and the five dimensions. Record the checks that fail; they are the rewrite's worklist.
+4. **Map properties.** For a migration, fill the new database's seven properties from the old row using the mapping table under "Migrating a row from the Master Article List" in `.claude/skills/article-draft/references/notion-publishing.md`. Anything the table cannot resolve becomes a question in the confirmation summary, never a guess. Run the duplicate check query from the same section; if a row with the same `Article Name` already exists in the new database, stop and ask.
+5. **Choose the article type and title.** Workflow, Overview, or FAQ, per `docs/standards/content-standards.md`. Take the skeleton from `.claude/skills/article-draft/references/article-template.md` and model the result on `.claude/skills/article-draft/references/example-article.md`. When the old title is a bare noun ("Universal Search Bar"), propose a task-led title per the naming standard and offer the old one as the alternative; the user picks. Record the old title in the report either way.
+6. **Rewrite** with the nine transformation patterns below. What to drop from an old article: the `In this article:` heading, horizontal rules, emoji-led lines and emoji pointers, the "Click Script" toggle (it is a video script, not article content), the trailing Perchwell banner image, the "Connect with our Support Team" footer, and any `NYC|` or internal prefix. What to carry: the Loom or Arcade URL, placed directly under the opening paragraph; every image, as the real image with alt text when its URL is a stable Intercom CDN link, or as a screenshot placeholder carrying the alt text otherwise; the Paragon comparison, rewritten in the neutral transition voice. Apply the standard silently; the article never talks about its own rules.
+7. **Self-review.** Run the 14 golden questions and list every one that fails with the fix or the question for the user. Then run the quality checklist at the end of `docs/standards/content-standards.md`. Then grep the draft for em dashes, "you can", "allows you to", "able to", the verb "use" outside the accepted exceptions, and the marketing do-not list. Fix everything before scoring.
+8. **Score the rewrite.** Same scorecard, then the delta per dimension and in total. Write the five to eight Fin test questions and mark, for each, whether the old and the new article answer it from one section.
+9. **Save the draft** to `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<slug>-rewrite.md`. Top of file: the mirror frontmatter, plus `source_notion_url: <old page url>` and `migrated_from: master-article-list` for a migration. Then a blank line and the metadata comment `<!-- Article Status: Draft | MLS/AOR: <value> | Collection: <value> | Roles: <value> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <page url once created> | Old title: <old title, if changed> -->`, then the article. Never edit the mirror file itself; only `/sync-help-center` writes there.
+10. **Save the QA file** to `workstreams/help-center-overhaul/qa/YYYY-MM-DD-<slug>.md` in the shape given in the scorecard standard. No member identifiers.
+11. **Publish to Notion as a Draft.** Skip if the user said "no notion" or "score only". Follow `.claude/skills/article-draft/references/notion-publishing.md` exactly: read `notion://docs/enhanced-markdown-spec` once per session, convert the body with the markdown-to-Notion mapping, show the compact page-and-properties summary, wait for "go", then create the page in data source `3d18b9e0-1438-80cc-ab0f-000bf0fc1389` with `Article Status: Draft`. Write the new page URL back into the draft's metadata comment.
+12. **Report.** Old title and new title; before-and-after score, band, and delta per dimension; golden questions that still fail and why; the source differences and which side won; the property mapping and any decision taken; open `[confirm: ...]` items; the Notion URL; and the manual CS steps that remain: peer review in Notion, `Ready to Transfer`, transfer to Intercom as a draft, Fin labels per `docs/standards/fin-labeling.md`, MLS audience, publish.
 
-## Output Format
+## Rules
 
-Deliver the rewritten article as clean markdown:
-- Use H1 for the article title and nothing else
-- Use H2 for major sections
-- Use H3 for subsections (for example, individual widgets under a parent section) and for the `Steps:` heading
-- Use bullet lists for capabilities and actions
-- Bold all UI element names
-- No horizontal rules between sections
-- No CMS-specific syntax (no `/callout` markers)
-- Include linked article references as plain markdown links or descriptive text
-- Screenshot placeholders where the original had images, carrying the alt text the image will use: `[Screenshot: <what to capture> | Alt text: <the alt text>]`
-- No "In this article:" heading and no support footer
+- **Accuracy.** Every fact traces to the live article, the old Notion page, or a sibling live article. Unknowns are `[confirm: ...]`, never guesses. A draft with three confirm markers is more useful than a fluent one that is wrong.
+- **Fin retrieves sections, not articles.** Each section identifies itself: the heading names what it answers and carries the feature name, and the first sentence echoes the heading.
+- **Golden questions are a gate, not a suggestion.** All 14 pass, or the failures are reported with the fix or the question.
+- **Write nothing outside the draft and the QA file.** Never edit a mirror file. Never write to Intercom. Never write to the old Master Article List, not even to update its status. Never overwrite a row in the new database whose `Article Status` is `Live in Intercom`.
+- **Paragon is named neutrally.** "In Paragon, this was called Power Search." Never "old system", "retired", or "sunsetted".
+- **No em dashes, no horizontal rules, no emoji.**
 
-## Related Skills
+## Transformation patterns
 
-- **article-draft**: for new articles from release notes, and for the Notion review handoff.
-- **humanizer**: for removing AI-generated writing patterns. Run after this skill if the output feels stilted, then re-check pattern 5, since the humanizer may reintroduce "you can."
+Apply these nine patterns when rewriting. `references/transformation-patterns.md` has before-and-after examples of each.
+
+### 1. Jobs-to-be-done opening
+Every article opens with one paragraph stating what the reader will accomplish, not what the article is about: "Use this article to <outcome 1>, <outcome 2>, and <outcome 3>." Name the feature in the sentence, and say who the article is for when it is role-limited. Retire the older "In this article:" heading and the "You will learn how..." phrasing; both describe the topic instead of the outcome, and Intercom names that the weaker form.
+
+### 2. Specific over vague
+Replace generic descriptions like "allows you to stay connected by storing information" with concrete actions: "Filter by **Recently Created** or **New**." Name the actual UI elements the reader will see.
+
+### 3. Grouped structure
+Consolidate related content under meaningful parent headings. If five widgets each have their own H2, group them under a single section instead. Remove standalone sections that state the obvious.
+
+### 4. Bullet-point capabilities
+Expand single-sentence feature descriptions into a short lead sentence plus a bullet list of specific things the reader can do. One concrete action or option per bullet.
+
+### 5. Imperative voice
+Remove "You can" and "allows you to." Instead of "You can use the Manage widgets button to customize your layout," write "Click **Manage widgets** to customize your layout." Tell the reader what to do, not what the system permits.
+
+### 6. Descriptive section titles
+Make section titles specific enough that a reader scanning the page can find what they need, and specific enough that Fin can tell what the section answers when it retrieves it alone. Carry the feature name into the heading, then echo the heading's key terms in the first sentence beneath it, since Fin sometimes misses headings in the HTML.
+
+### 7. Callout labels and varied link phrasing
+Callouts lead with a bold label: **Note:** for system behavior, **Important:** for a limit or something irreversible, **Tip:** for a recommendation. Intercom says the bold label is what marks a passage for Fin to carry into an answer, so drop the old emoji-led callouts. Links to related articles are ordinary sentences, not callouts, and their phrasing varies. Never "click here" or "view our article here."
+
+### 8. Coverage gaps
+Look for features or workflows that exist in the product but are missing from the article, and for limits the article hints at without stating. Add what a sibling live article confirms. Mark anything you are not sure exists as `[confirm: ...]` rather than inventing it.
+
+### 9. Bold UI elements
+Consistently bold all clickable UI elements, filter names, button labels, menu items, and navigation targets. Do not bold concepts or feature names used as ordinary nouns.
+
+## Output format
+
+- H1 for the article title and nothing else; H2 for major sections; H3 for subsections and the `Steps:` heading
+- `**Description:**` line, then the opening paragraph with no heading above it, then the video URL on its own line if one exists
+- Bullet lists for capabilities and options, numbered lists for steps
+- Callouts as blockquotes with a bold label: `> **Important:** ...`
+- Screenshot placeholders: `> Screenshot placeholder: <what to capture> | Alt text: <the alt text>`; real images as markdown images with alt text
+- Related articles linked in ordinary sentences with the article title as the link text, public help center URL preferred
+- No horizontal rules, no HTML, no `In this article:` heading, no support footer
+
+## Related skills
+
+- **article-draft**: for new articles from release notes. Its `references/` folder holds the templates, the model articles, and the Notion publishing rules this skill reuses.
+- **sync-help-center**: refresh the mirror before a migration if it is more than a week old.
+- **humanizer**: for removing AI-generated writing patterns. Run after this skill if the output feels stilted, then re-run step 7, since the humanizer may reintroduce "you can."
 
 ## Reference
 

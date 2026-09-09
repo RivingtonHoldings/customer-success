@@ -1,6 +1,6 @@
 # Project status: help center overhaul
 
-Living document. Update in place; do not append dated sections. Last updated: 2026-09-04 (evening).
+Living document. Update in place; do not append dated sections. Last updated: 2026-09-09.
 
 ## Roles and contacts
 
@@ -22,6 +22,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 - Notion deliverables database: https://app.notion.com/p/3c88b9e014388087a2e8e299bb63d0f1
 - Perchwell Help Center Database [Sep 2026], where project articles live: https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8
 - Template Article, the standard as a fill-in page: https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500
+- Fin-readiness scorecard: `docs/standards/fin-readiness-scorecard.md`; per-article results in `workstreams/help-center-overhaul/qa/`
 - Naming standards page: https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009
 - Master Article List (old, read-only for this project): https://app.notion.com/p/1c78b9e01438802082c4eb08025fbb0a
 - Baldwin help center: https://support.perchwell.com/baldwin/en
@@ -33,12 +34,13 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 - Project status in Notion: Not Started as of September 1, 2026.
 - Repo bootstrapped September 4, 2026, with the help center mirror and the golden questions checklist in place (see `docs/build-log.md`).
 - Baldwin cutover happened August 3, 2026. The two weeks after cutover (August 3 to 17) are the reference window for Fin baseline reporting.
+- First article migrated on September 9, 2026: Universal Search Bar, now a Draft in the new database with six `[confirm: ...]` items for review. Scorecard 50.0 before, 91.4 after.
 
 ## Active initiatives
 
 | Initiative | Owner | Due | Status |
 |---|---|---|---|
-| Help center standards finalized and approved | Tara, with Rafe and Kelly | Sep 4, 2026 | Content standards written in `docs/standards/content-standards.md` and published to the Notion Template Article page; golden questions in place and the factor 5 conflict resolved; awaiting Kelly and Rafe review. Fin labeling still drafted with [decide] items for Tara |
+| Help center standards finalized and approved | Tara, with Rafe and Kelly | Sep 4, 2026 | Content standards, Template Article, and the Fin-readiness scorecard reconciled on Sep 9 after the first migration test; awaiting Kelly and Rafe review. Fin labeling still drafted with [decide] items for Tara |
 | All 115 Baldwin articles audited with recommendation, rationale, priority | Kelly Miragliotta | Sep 11, 2026 | Not started |
 | Fin answer-quality pass-rate target set | Rafe Petkovic | Sep 15, 2026 | Open |
 | Article updates and new content complete | Tara | Sep 18, 2026 | Not started |
@@ -50,6 +52,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 | Question | Owner | Needed by |
 |---|---|---|
 | The new database dropped the `Fin AI`, `Text`, `Screenshot`, and `Video` workflow-status fields. Is per-asset progress tracked somewhere else, or is it out of scope now? | Tara | Sep 11, 2026 |
+| 26 articles are shared between the Baldwin and CRMLS help centers, but the new database holds one `MLS/AOR` per row. Does a shared article get one row (Baldwin) or two? Universal Search Bar is the first case | Tara | Sep 11, 2026 |
 | The `MLS/AOR` option in the new database reads `CRLMS All`. Should it be renamed to CRMLS? Writes must use the string exactly as it appears until it changes | Tara | Sep 11, 2026 |
 | How do members reach help content in each market: the help center directly, or through Perchie? | Kevin Liang | Sep 3, 2026 |
 | Which platform(s) are CRMLS members migrating from, and how does that affect the eight Then vs. Now articles? | Kelly Miragliotta | Sep 3, 2026 |

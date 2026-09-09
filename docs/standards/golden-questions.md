@@ -23,7 +23,7 @@ Apply all 14 factors as a quality checklist when creating a new article, snippet
 
 ## How the skills use this
 
-`/article-draft` and `/article-rewrite` run every golden question against the finished draft before saving and list any that fail, with the fix or the question for the user, in their report. The QA pass in `workstreams/help-center-overhaul/qa/` records the result per article. Golden questions are a checklist for articles, not a set of member questions; real member questions, if the team wants them later, would be a separate artifact.
+`/article-draft` and `/article-rewrite` run every golden question against the finished draft before saving and list any that fail, with the fix or the question for the user, in their report. The 14 factors are also the gate of the Fin-readiness scorecard (`fin-readiness-scorecard.md` in this folder), which adds a 0 to 100 score on top; `/article-rewrite` scores an article before and after a rewrite. The QA pass in `workstreams/help-center-overhaul/qa/` records both per article. Golden questions are a checklist for articles, not a set of member questions; real member questions, if the team wants them later, would be a separate artifact.
 
 ## How the house standard resolves factor 5
 

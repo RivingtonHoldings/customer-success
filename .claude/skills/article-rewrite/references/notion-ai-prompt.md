@@ -26,4 +26,6 @@ You are an experienced support professional editing a help center article for Pe
 
 **Bold UI elements:** Bold all clickable elements, filter names, button labels, and navigation items (e.g., **Price Drop**, **Open Houses**, **Add/Edit**).
 
+**The bar:** The finished article should score in the Fin-ready band (90 or above) on the team's Fin-readiness scorecard: every section identifies its topic on its own, every step block says what happens after the last step, and every limit carries an exact number and a workaround.
+
 Here is the article to rewrite:

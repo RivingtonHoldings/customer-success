@@ -2,6 +2,18 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-09: /article-rewrite is the migration path into the new database
+
+Decided by Leo. Rather than a separate migration skill, `/article-rewrite` (version 2.0.0) now takes an old Master Article List page URL, merges it with the live mirror copy, rewrites to the standard, scores before and after, saves the draft and QA file, and creates the row in the Perchwell Help Center Database [Sep 2026] as a Draft. Property mapping from the old database lives in `.claude/skills/article-draft/references/notion-publishing.md` so both article skills share it. First article through: Universal Search Bar, Notion Draft `https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c`, scored 50.0 before and 91.4 after.
+
+## 2026-09-09: The Fin-readiness scorecard is the per-article yardstick
+
+Decided by Leo; Tara owns it, Rafe owns the Fin answer-quality side. `docs/standards/fin-readiness-scorecard.md`: the 14 golden questions as a pass-or-fail gate, then 0 to 100 across five weighted dimensions (retrieval signals 30, chunk independence 25, answer completeness 25, Fin-parsable formatting 10, accuracy and confidence 10), with bands at 90, 75, and 50. It is a standard rather than a skill reference because the audit, the QA pass, and both article skills need the same number. Scores live in the chat report and one QA file per article under `workstreams/help-center-overhaul/qa/`; the Notion database schema was left alone.
+
+## 2026-09-09: The live Intercom article wins over the old Notion page on facts
+
+Decided by Leo during the Universal Search Bar test. When an old Notion page and the live article disagree, the live article is the source of truth because it is newer and it is what members and Fin see. The Notion page supplies the video link, the properties, and the click script as a hint for outcomes. Every difference is listed in the QA file, never merged silently.
+
 ## 2026-09-04: The Perchwell Help Center Database [Sep 2026] is where project articles live
 
 Decided by Tara. The team created a new Notion database for this project to simplify the work and make each article's state obvious, and set its properties the way they want them. For the rest of this project, an article we draft or update is added to the new database. The old Master Article List is read-only: query it for history, never write to it, and do not mirror a change back into it. `Article Name`, `Article Status`, `MLS/AOR`, `Collection`, `Roles`, `Videos`, `Visuals`. Database `https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8`, data source `collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389`.

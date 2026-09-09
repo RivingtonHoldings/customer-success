@@ -87,6 +87,31 @@ ORDER BY "Last Updated" DESC
 
 That query is for reading only. When an article with an old row needs work, create a new row in the new database and carry the facts across. Leave the old row alone.
 
+## Migrating a row from the Master Article List
+
+`/article-rewrite` uses this section when its input is an old Notion page URL. The old row is read, never written. The new row's seven properties come from the old row through this table; anything the table cannot resolve is a question in the confirmation summary, never a guess.
+
+| Old property | New property | Rule |
+|---|---|---|
+| `Resource Title` | `Article Name` | Retitle per the naming standard when the old title is a bare noun; the user picks between the proposed task-led title and the old one, and the report records both |
+| `Collection in Intercom` (multi-select) | `Collection` (single select) | Same-name matches carry across: Search, Tags, Client Collaboration, Manage People, Dashboard, Reports, Analytics, User Settings, Client Experience, Mobile, Integrations, Getting Started Guide, Then vs. Now. Listing Maintenance and Listing Management map to Manage Listings. General, FAQ Tips and What's New in Perchwell, and FAQs & What's Coming map to FAQs when the article is question-and-answer and to What's New when it is release content. Anything else, or more than one value on the old row, is a question |
+| `MLS` (multi-select) | `MLS/AOR` (single select) | Baldwin to Baldwin; CRMLS to `CRLMS All`, written exactly as the option reads until it is renamed; NYC to NYC. All Regions, ICAAR, or more than one value is a question. When the same `intercom_id` is mirrored in both `docs/help-center/baldwin/` and `docs/help-center/crmls/`, the article is shared: pick the MLS the old row names and put the shared status in Open items |
+| `Roles` (multi-select) | `Roles` (single select) | All to All; Agent to Agent; Admin / Broker to Admin/Broker; Invited client to Invited Client; All - but client to All Except Client. More than one value is a question |
+| `Video` status, `Video Links`, a Loom or Arcade URL in the body | `Videos` | Yes when a video URL exists or the draft carries a video placeholder; otherwise No |
+| `Screenshot` status, images in the body | `Visuals` | Yes when the article has images or the draft carries screenshot placeholders; otherwise No |
+| `HC Status`, `Update Status`, `Fin AI`, `Text`, `Screenshot Owner`, `Text Owner`, `Video Owner`, `Final Review & Upload`, `Due Date`, `Baldwin?`, `CRMLS?`, `NYC?`, `Links to another articles`, `Product Area (Internal)` | none | Not carried. The new database has no per-asset workflow fields; that gap is already an open question on the project status page |
+| any | `Article Status` | Always `Draft` |
+
+Before creating the row, check that it does not already exist:
+
+```sql
+SELECT "Article Name", "Article Status", url
+FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
+WHERE "Article Name" = ? OR "Article Name" = ?
+```
+
+Bind the proposed title and the old title. A match means stop and ask; a row whose `Article Status` is `Live in Intercom` is never overwritten.
+
 ## Creating a page
 
 Confirm once with the user before writing: a compact summary of the page and its properties, then wait for "go."
