@@ -12,11 +12,13 @@ Every score below uses the **September 10, 2026 check set**: Chunk independence 
 - Mirror: `docs/help-center/baldwin/universal-search-bar.md` and `docs/help-center/crmls/universal-search-bar.md` (shared into both help centers)
 - Draft: `workstreams/help-center-overhaul/outputs/drafts/2026-09-09-universal-search-bar-rewrite.md`
 - Notion Draft in the Perchwell Help Center Database [Sep 2026]: https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c (updated 2026-09-10 with the rewritten body; `Article Status` still `Draft`)
-- Scored by Claude for Leo Jedynak, 2026-09-09. Rescored 2026-09-10 after Tara's review.
+- Scored by Claude for Leo Jedynak, 2026-09-09. Rescored 2026-09-10 after Tara's review, and again the same day after a second review narrowed the article's scope.
 
 ## What the review changed
 
 The team read the September 9 draft and returned four points: use MLS ID rather than MLS number, cut role-access language that says nothing, stop leading with what the feature will not do, and keep the structure Fin needs without repeating the same facts. Three of the four traced to the standard rather than to the draft: the standard required an audience statement, made a Limitations section the default, and had no rule against restating facts. The standard, the scorecard, and both skills were revised on September 10 and the draft was rewritten against them.
+
+A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar".
 
 ## Source differences (live wins)
 
@@ -45,7 +47,7 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 | 10 restate_questions | Pass | Pass | No tables in either |
 | 11 overview_jtbd | Fail | Pass | Live had no opening paragraph; description said "In this article, you will learn" |
 | 12 instruction_completeness | Fail | Pass | Live steps stopped at typing; draft steps end at the opened record |
-| 13 limitations_workarounds | Fail | Pass | Live said "not saved or filtered searches" with no route forward. The draft names each alternative path in the When to use section, with a link, and has no Limitations section |
+| 13 limitations_workarounds | Fail | Pass | Live said "not saved or filtered searches" with no route forward. The draft points once at Create a Search with Filters for criteria-based searching and has no Limitations section |
 | 14 numerical_clarity | Pass | Pass | No numbers needed |
 
 Gate: the live article fails 4 of 14 under the house resolutions. The draft passes 14 of 14, with five `[confirm: ...]` markers a reviewer must resolve before transfer (see Open items).
@@ -81,12 +83,12 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | Where is the search bar to find an agent? | Partly (says "top of your screen") | Yes (Search field, upper right of the top navigation) |
 | Can I search for a contact by email? | Yes | Yes |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
-| Can I search several MLS IDs at once in the top search bar? | No | Yes, from When to use, with the MLS ID filter route and a link |
+| Can I search several MLS IDs at once in the top search bar? | No | No, by decision (see coverage note) |
 | Does the search bar show closed or expired listings? | Yes | Yes, with what the status badge looks like |
-| How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | Yes, from When to use, links Manage Your Saved Searches |
+| How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | No, by decision (see coverage note) |
 | How do I filter by price? | No | Yes, from When to use, links Create a Search with Filters |
 
-The last three moved from a Limitations section into When to use. Each is still answerable from one retrieved section, and each now reads as a route rather than a refusal.
+**Coverage note.** Two of these questions were answerable from the September 10 morning draft and are not answerable from this one. Tara cut the multi-MLS-ID route and the Saved Searches route on 2026-09-10 to keep the article on the Universal Search Bar. Both questions have a better home: [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) already answers the multi-ID one, and [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) already answers the other. Worth confirming in Fin testing that both retrieve from those articles, since this one no longer carries them.
 
 ## Open items
 
@@ -97,4 +99,4 @@ The last three moved from a Limitations section into When to use. Each is still 
 - [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
-- Manage Your Saved Searches lives in the default help center (`/en/`), not `/baldwin/en/`. Confirm at transfer that the link resolves for Baldwin members.
+- Every link in the draft now points at `/baldwin/en/`. The default help center link to Manage Your Saved Searches went out with the scope cut, so there is nothing to flag at transfer.

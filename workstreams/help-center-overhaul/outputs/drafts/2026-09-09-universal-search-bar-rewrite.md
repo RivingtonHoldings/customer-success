@@ -26,23 +26,19 @@ migrated_from: master-article-list
 
 **Description:** Find a listing, agent, or contact from any page in Perchwell by typing an address, MLS ID, name, or email into the Universal Search Bar.
 
-Use this article to open the Universal Search Bar from any page in Perchwell, search for a listing, agent, or contact, and open the matching record from the results.
+Use this article to open the Universal Search Bar from any page in Perchwell, look up a listing, agent, or contact, and open the matching record from the results.
 
 https://www.loom.com/share/5bd7e76cb3c947bdb087739b3e3e4fd8
 
 ## When to use the Universal Search Bar
 
-Open the Universal Search Bar when you already know which record you want and need to reach it fast, without building a search.
+Open the Universal Search Bar when you already know which record you want and need to reach it fast. It is a lookup tool: type what identifies the record, click the match, and the record opens.
 
-When the job starts from criteria rather than from a record you have in mind, the **Search** page is the better route:
+To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the **Search** page.
 
-- To filter by price, property type, status, or location, build the search on the **Search** page. [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) walks through it.
-- To pull up several listings at once, open the **Search** page, find the **MLS ID** filter under **Listing Visibility & Access**, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
-- To keep a search and receive alerts as new listings match it, save it as a Saved Search. [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) covers how they are set up and edited.
+## Look up a record with the Universal Search Bar
 
-## Open the Universal Search Bar and start a search
-
-The Universal Search Bar is the **Search** field in the upper right of the top navigation, and it appears on every page in Perchwell, which means you do not need to go to the **Search** page first.
+Look up a record from the Universal Search Bar, the **Search** field in the upper right of the top navigation. It sits on every page in Perchwell, which means you do not need to open the **Search** page first.
 
 ### Steps:
 
@@ -50,7 +46,7 @@ The Universal Search Bar is the **Search** field in the upper right of the top n
 2. Type what you know: an address, an **MLS ID**, a name, or an email address
 3. Click a result
 
-Results appear in a panel below the field as you type, and the result you click opens as the listing page, the agent profile, or the contact record.
+Matches appear in a panel below the field as you type, and the result you click opens that record.
 
 ![The Perchwell top navigation with the Search field highlighted in the upper right, next to the profile photo, above the Search page filters](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)
 
