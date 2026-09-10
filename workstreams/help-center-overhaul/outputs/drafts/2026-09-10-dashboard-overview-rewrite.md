@@ -32,7 +32,7 @@ https://app.arcade.software/share/uP0zdXgQGkrqA3tt5lpo
 
 ## What you do on the Dashboard
 
-The Dashboard is the Perchwell page that brings market activity, your contacts, your saved searches, your tags, and your listings into one view, so you see what changed without running a search for each of them. Click Dashboard in the top navigation bar, near the upper left of your screen, to open the Dashboard from anywhere in Perchwell.
+The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what changed without running a search for each of them. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
 
 > Screenshot placeholder: the full Dashboard as it first loads, with the Dashboard item highlighted in the top navigation bar | Alt text: The Perchwell Dashboard with the Dashboard item highlighted in the top navigation bar, showing widget tiles across the page
 
@@ -81,7 +81,7 @@ For creating a Tag, sharing one with a client, and setting its alerts, see [Tags
 
 ### Listings widget on the Dashboard
 
-The Listings widget on the Dashboard shows listings at the scope you choose, from your own listings up to every listing in your MLS. Edit a listing that belongs to you from the Listings widget.
+The Listings widget on the Dashboard shows listings at the scope you choose, from your own listings up to every listing in the MLS. Edit a listing that belongs to you from the Listings widget.
 
 > **Note:** The Listings widget cannot be removed from the Dashboard or moved out of its position.
 
@@ -99,7 +99,7 @@ Choose and arrange your Dashboard widgets from Manage widgets, in the top right 
 
 ## Launch third-party integrations from the Dashboard
 
-Third-party integrations launch from the Integrations panel on the right side of the Dashboard, which opens each connected tool in its own window rather than replacing your Dashboard.
+Third-party integrations launch from the Integrations panel on the right side of the Dashboard, which opens each connected tool in its own window rather than replacing the Dashboard.
 
 ### Steps:
 
