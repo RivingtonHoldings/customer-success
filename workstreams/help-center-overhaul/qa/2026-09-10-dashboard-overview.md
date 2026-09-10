@@ -81,7 +81,7 @@ Under revision 1 the original scored 51.0, in the Needs rewrite band. The two ch
 
 None. All 35 checks in revision 2 pass, and the gate passes.
 
-The last one to close was Answer completeness 6, abbreviations defined on first use, which CRS held open because no source in the repo expands it. The genericization removed CRS and RPR from the body, so nothing in the article needs a first-use definition beyond MLS, which the glossary says not to define.
+The last one to close was Answer completeness 6, abbreviations defined on first use, which CRS held open because no source in the repo expands it. The genericization removed CRS from the body entirely. RPR came back when the three common integrations were named, and it is spelled out in place as Realtors Property Resource, so the check still passes. MLS is the only other abbreviation, and the glossary says not to define it.
 
 ### Genericizing the integrations section, September 10, 2026
 
@@ -101,7 +101,9 @@ Tara asked for the integrations list to be rewritten so the article can serve ev
 
 Sources: `docs/help-center/baldwin/integration-tools-on-the-dashboard.md` and `docs/help-center/crmls/integration-tools-on-the-dashboard.md`, both live and both last updated 2026-07-02.
 
-The section now names no products. It says where the panel is, how to open a tool, that the panel lists only what the member's own MLS has enabled, and what kinds of tools may appear, then routes to each MLS's own Integration Tools on the Dashboard article for the actual list. The three categories named are the ones both help centers demonstrably have: showings and lockbox access, public records and tax data, and property reports and market data.
+The section names the three integrations both in-scope help centers demonstrably have, ShowingTime, SentriLock, and RPR, as commonly connected rather than guaranteed. It then says the panel lists only what the member's own MLS has enabled, points at the panel as the authoritative list, and routes to each MLS's own Integration Tools on the Dashboard article for detail. The nine products that exist in only one help center are not named.
+
+Revised again on September 10, 2026 after Tara's review. An earlier version named no products at all and closed with "a member at a different MLS may see a different set". That clause was writer-facing reasoning in member-facing text: a member has no use for what another MLS sees, only for what is in their own panel. Naming the three common tools also gives Fin something concrete to match when a member types "ShowingTime" or "SentriLock", which the category-only version could not do.
 
 The two live articles also conflict on the outcome. Baldwin says an integration opens "in a new window"; CRMLS says "in a new browser tab". The rewrite says it opens "outside Perchwell, so the Dashboard stays as you left it", which is true in both and avoids picking a side that would be wrong for one MLS.
 

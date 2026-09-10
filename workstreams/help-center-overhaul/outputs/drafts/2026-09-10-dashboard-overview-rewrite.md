@@ -107,7 +107,13 @@ Third-party integrations launch from the Integrations panel, which sits on the r
 
 The integration opens outside Perchwell, so the Dashboard stays as you left it.
 
-The Integrations panel lists only the integrations your MLS has enabled for your account, which means the panel is the accurate list of what you have, and a member at a different MLS may see a different set. Depending on your MLS, the panel may include tools for scheduling showings and managing lockbox access, for looking up public records, tax data, and property history, and for pulling property reports and market data.
+The Integrations panel lists only the integrations your MLS has enabled for your account, which means the panel is the accurate list of what you have. Commonly connected integrations include:
+
+- ShowingTime: schedule and manage property showings
+- SentriLock: manage secure lockbox access
+- RPR: open Realtors Property Resource reports and property data
+
+Your MLS may connect others, such as tools for public records and tax data or for market analytics. Open the Integrations panel to see the full set for your account.
 
 > **Note:** An integration may require an active account with that provider and a separate sign-in.
 
