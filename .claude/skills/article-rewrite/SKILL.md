@@ -51,6 +51,7 @@ Mode hints:
 ## Rules
 
 - **Accuracy.** Every fact traces to the live article, the old Notion page, or a sibling live article. Unknowns are `[confirm: ...]`, never guesses. A draft with three confirm markers is more useful than a fluent one that is wrong.
+- **Never strengthen a hedged source.** "Statuses like Active and Pending" becomes "statuses such as", never "every status". "Results populate as you type" does not become "results appear in a panel below the field". Both of those escaped into the first migration, because the more confident sentence reads better and nothing marks it as invented. After rewriting, diff every factual claim against the source sentence it came from and check that the rewrite is not more certain, more complete, or more specific than what it was built on.
 - **Fin retrieves sections, not articles.** Each section identifies itself: the heading names what it answers and carries the feature name, and the first sentence echoes the heading.
 - **Golden questions are a gate, not a suggestion.** All 14 pass, or the failures are reported with the fix or the question.
 - **Write nothing outside the draft and the QA file.** Never edit a mirror file. Never write to Intercom. Never write to the old Master Article List, not even to update its status. Never overwrite a row in the new database whose `Article Status` is `Live in Intercom`.

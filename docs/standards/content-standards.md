@@ -150,6 +150,8 @@ Articles describe what Perchwell does. A member reading about a feature should c
 
 Where a limit is stated, it is stated precisely. All numbers, thresholds, limits, and durations are exact. No "some", "a few", "shortly", or unbounded ranges. If the real number is unknown, mark it `[confirm: <what is missing>]` and ask rather than guessing.
 
+**Do not strengthen a hedged source.** Precision means matching the source, not sounding more certain than it. When the source says "statuses like Active, Pending, and Closed", the rewrite says "statuses such as", not "every status". When it says results appear, the rewrite does not say where they appear. Turning an example list into a complete one, or an unstated detail into a stated one, is the most common way a false fact enters a migrated article, because the stronger sentence reads better and nothing in the draft flags it as new. If the confident version is what the team wants to publish, confirm it first and then write it.
+
 ## Closing sections
 
 - A closing recap is optional. Include one only when there are system behaviors or recommendations that did not fit naturally into a section, and never to repeat something already stated.

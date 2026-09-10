@@ -56,7 +56,7 @@ Each lookup opens one record. To pull up several listings together, open the Sea
 
 The Universal Search Bar returns matching records of three types: listings, agents, and contacts. The modal shows a results count at the top and groups the matches by type.
 
-- **Listings.** Matched on address or MLS ID, and an exact MLS ID pulls up that listing as a direct match. [confirm: whether an exact address also returns a direct match; the July Notion draft said so and the live article does not] Listings in every status appear, including Active, Pending, Closed, and Expired. [confirm: whether this is the full status list, and whether off-market or withdrawn listings appear]
+- **Listings.** Matched on address or MLS ID, and an exact MLS ID pulls up that listing as a direct match. [confirm: whether an exact address also returns a direct match; the July Notion draft said so and the live article does not] Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
 - **Agents.** Matched on name, and the result opens the agent's profile.
 - **Contacts.** Matched on name or email address, and the result opens the contact's record. [confirm: whether results include only your own contacts or every contact in the brokerage]
 

@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A sixth pass resolved the status question. Tara confirmed on 2026-09-10 that off-market listings appear in results. That also surfaced a second invented fact: the live article says "View listings across statuses like Active, Pending, Closed, and Expired", and the September 9 rewrite turned that hedged example list into "Listings in every status appear". Perchwell has twelve statuses, per [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell), so the claim was false as written. The sentence now leads with what a member actually wants to know, that results are not limited to active listings, names off-market as confirmed, gives the rest as examples, and links the statuses article. No confirm marker remains on it.
+
 A fifth pass removed bold from the body and settled the term for a pop-up window. The house style had bolded every UI element since the standard was written; Tara retired that on 2026-09-10. Bold survives on the callout labels, which Intercom names as the signal Fin reads, and on the `**Description:**` line. The bullet lead-in labels in What the Universal Search Bar returns were kept on the same reasoning, a label introducing its own block rather than emphasis inside a sentence. The descriptive "search window" became "modal" throughout, which also retired the confirm marker asking what the window is called.
 
 A fourth pass corrected a factual error. The draft said matches appear "in a panel below the field", which no source supports: the live article says only "Results populate as you type", so the placement was invented during the September 9 rewrite and read plausibly enough to survive two reviews. Clicking the Search field opens a modal in the center of the screen, and that is where the member types and where matches appear. Corrected in the steps, the post-steps line, the returns section, and the second screenshot's alt text.
@@ -54,7 +56,7 @@ A third pass removed the inventory of listing-card fields from the Listings bull
 | 11 overview_jtbd | Fail | Pass | Live had no opening paragraph; description said "In this article, you will learn" |
 | 12 instruction_completeness | Fail | Pass | Live steps stopped at typing; draft steps end at the opened record |
 | 13 limitations_workarounds | Fail | Pass | Live said "not saved or filtered searches" with no route forward. The draft points once at Create a Search with Filters for criteria-based searching and has no Limitations section |
-| 14 numerical_clarity | Pass | Pass | No numbers needed |
+| 14 numerical_clarity | Pass | Pass | No numbers needed. The status list is now written as examples rather than as a complete set, matching the source |
 
 Gate: the live article fails 4 of 14 under the house resolutions. The draft passes 14 of 14, with five `[confirm: ...]` markers a reviewer must resolve before transfer (see Open items).
 
@@ -90,7 +92,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | Can I search for a contact by email? | Yes | Yes |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
 | Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
-| Does the search bar show closed or expired listings? | Yes | Yes, the statuses are named in What the Universal Search Bar returns |
+| Does the search bar show closed or expired listings? | Yes | Yes, and it says results are not limited to active listings, with off-market confirmed |
 | How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | No, by decision (see coverage note) |
 | How do I filter by price? | No | Yes, from When to use, links Create a Search with Filters |
 
@@ -98,7 +100,6 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 
 ## Open items
 
-- [confirm: whether Active, Pending, Closed, and Expired is the full status list, and whether off-market or withdrawn listings appear] (What the Universal Search Bar returns)
 - [confirm: whether an exact address returns a direct match; the July Notion draft said so and the live article dropped it] (What the Universal Search Bar returns)
 - [confirm: whether contact results include only your own contacts or every contact in the brokerage] (What the Universal Search Bar returns)
 - [confirm: what the Universal Search Bar shows when nothing matches] (What the Universal Search Bar returns)
