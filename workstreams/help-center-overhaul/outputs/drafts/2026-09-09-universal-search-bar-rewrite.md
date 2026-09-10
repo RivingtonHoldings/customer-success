@@ -34,35 +34,35 @@ https://www.loom.com/share/5bd7e76cb3c947bdb087739b3e3e4fd8
 
 Open the Universal Search Bar when you already know which record you want and need to reach it fast. It is a lookup tool: type what identifies the record, click the match, and the record opens.
 
-To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the **Search** page.
+To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the Search page.
 
 ## Look up a record with the Universal Search Bar
 
-Look up a record from the Universal Search Bar, the **Search** field in the upper right of the top navigation. It sits on every page in Perchwell, which means a lookup is always one click away, wherever you are working.
+Look up a record from the Universal Search Bar, the Search field in the upper right of the top navigation. It sits on every page in Perchwell, which means a lookup is always one click away, wherever you are working.
 
 ### Steps:
 
-1. Click the **Search** field in the upper right of the top navigation
-2. Type what you know into the search window that opens in the center of your screen: an address, an **MLS ID**, a name, or an email address
+1. Click the Search field in the upper right of the top navigation
+2. Type what you know into the modal that opens in the center of your screen: an address, an MLS ID, a name, or an email address
 3. Click a result
 
-Matches appear in the search window as you type, and the result you click opens that record. [confirm: whether the search window has an on-screen name members would recognize; "search window" is descriptive, not a label taken from the UI]
+Matches appear in the modal as you type, and the result you click opens that record.
 
-Each lookup opens one record. To pull up several listings together, open the **Search** page, find the **MLS ID** filter under **Listing Visibility & Access**, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
+Each lookup opens one record. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
 ![The Perchwell top navigation with the Search field highlighted in the upper right, next to the profile photo, above the Search page filters](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)
 
 ## What the Universal Search Bar returns
 
-The Universal Search Bar returns matching records of three types: listings, agents, and contacts. The search window shows a results count at the top and groups the matches by type.
+The Universal Search Bar returns matching records of three types: listings, agents, and contacts. The modal shows a results count at the top and groups the matches by type.
 
-- **Listings.** Matched on address or MLS ID, and an exact MLS ID pulls up that listing as a direct match. [confirm: whether an exact address also returns a direct match; the July Notion draft said so and the live article does not] Listings in every status appear, including **Active**, **Pending**, **Closed**, and **Expired**. [confirm: whether this is the full status list, and whether off-market or withdrawn listings appear]
+- **Listings.** Matched on address or MLS ID, and an exact MLS ID pulls up that listing as a direct match. [confirm: whether an exact address also returns a direct match; the July Notion draft said so and the live article does not] Listings in every status appear, including Active, Pending, Closed, and Expired. [confirm: whether this is the full status list, and whether off-market or withdrawn listings appear]
 - **Agents.** Matched on name, and the result opens the agent's profile.
 - **Contacts.** Matched on name or email address, and the result opens the contact's record. [confirm: whether results include only your own contacts or every contact in the brokerage]
 
 Partial names return close matches, and the list narrows as you keep typing. [confirm: what the Universal Search Bar shows when nothing matches]
 
-![The Universal Search Bar window, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and an Active Sale or Closed status badge](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)
+![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and an Active Sale or Closed status badge](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)
 
 ## Things to Know
 

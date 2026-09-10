@@ -30,9 +30,9 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only
 
 ### Steps:
 
-1. Go to **Search**
-2. <Action> **<UI element>**
-3. <Action> **<UI element>**
+1. Go to Search
+2. <Action> <UI element, named exactly, not bolded>
+3. <Action> <UI element>
 4. *(Optional)* <Action>
 
 <One sentence on what happens after the last step: the confirmation, the file, where the member lands.>
@@ -45,8 +45,8 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only
 
 ### <Option group, named>
 
-- **<Option>** (default) <what it does>
-- **<Option>** <what it does>
+- <Option> (default) <what it does>
+- <Option> <what it does>
 
 ### <Option group, named>
 
@@ -60,7 +60,7 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only
 
 ## <Only when a hard cap or an irreversible action earns it: name the capability, not the deficit>
 
-<Most articles have no section here. Delete it unless the feature has a hard cap with an exact number that a member hits mid-workflow, or something irreversible. A softer constraint goes in the section where the member meets it, written as the route forward: "To look up several listings at once, open the **Search** page and enter the IDs in the **MLS ID** filter, separated by commas." Never open a section to catalogue what the feature will not do.>
+<Most articles have no section here. Delete it unless the feature has a hard cap with an exact number that a member hits mid-workflow, or something irreversible. A softer constraint goes in the section where the member meets it, written as the route forward: "To look up several listings at once, open the Search page and enter the IDs in the MLS ID filter, separated by commas." Never open a section to catalog what the feature will not do.>
 
 - <The exact number, then what to do instead, in the same bullet>
 
@@ -77,6 +77,8 @@ Notes on the skeleton:
 - The audience sentence is required when a role gates the workflow and omitted when it does not. Silence means every member; a line saying everyone has the feature tells the member nothing and pushes their answer down the page. See "How the house standard resolves factor 7" in `docs/standards/golden-questions.md`.
 - Each fact belongs in one section. The feature name repeats throughout so a retrieved section identifies itself; its capabilities do not. If "When to use" and a later section enumerate the same things, cut one.
 - Screenshot placeholders carry the alt text the image will use, so the media owner does not have to invent it later.
+- Nothing in the body is bold. Name UI elements by their exact on-screen label and leave them plain. The only bold in a finished article is the callout label (`**Note:**`, `**Important:**`, `**Tip:**`) and the `**Description:**` line.
+- A pop-up window that opens over the page is a modal. Call it that, and keep calling it that through the article.
 
 ## Multi-path workflow table
 
@@ -87,8 +89,8 @@ Tags can be added from the Search page or from a listing's detail page. Both add
 
 | Option | Steps or when to choose it |
 |---|---|
-| **From the Search page** | 1. Select listings, 2. Click **Actions**, 3. Select **Add to Tag** |
-| **From the listing detail page** | 1. Open the listing, 2. Click the **tag** icon, 3. Select the Tag |
+| From the Search page | 1. Select listings, 2. Click Actions, 3. Select Add to Tag |
+| From the listing detail page | 1. Open the listing, 2. Click the tag icon, 3. Select the Tag |
 ```
 
 ## Overview article
@@ -102,7 +104,7 @@ For "\<Page\> Overview" articles that orient the member rather than walk one wor
 
 **Description:** <120 to 140 characters>
 
-Use this article to find your way around the **<Page>** page in Perchwell, understand what each area does, and reach the workflows that start there.
+Use this article to find your way around the <Page> page in Perchwell, understand what each area does, and reach the workflows that start there.
 
 ## What you do on the <Page> page
 
@@ -112,8 +114,8 @@ Use this article to find your way around the **<Page>** page in Perchwell, under
 
 <Lead sentence echoing the heading, then bullets of concrete actions.>
 
-- <Action> **<UI element>** to <result>
-- <Action> **<UI element>** to <result>
+- <Action> <UI element> to <result>
+- <Action> <UI element> to <result>
 
 <Sentence linking the article that covers the deeper workflow.>
 

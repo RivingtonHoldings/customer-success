@@ -2,7 +2,7 @@
 
 The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, and redundancy rules revised September 10, 2026 after the team reviewed that test.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -106,7 +106,7 @@ When a later section needs a fact that lives elsewhere, name the section or link
 
 - Heading is exactly `Steps:` at H3, under the section it belongs to.
 - Numbered list, one action per step, no terminal period.
-- Bold the UI element: `1. Click **Actions**`, `2. Select **Print**`.
+- Name the UI element exactly, unbolded: `1. Click Actions`, `2. Select Print`.
 - Optional steps start with *(Optional)*.
 - Finish with one sentence on what happens after the last step: the confirmation, the toast, the file that appears, where the member lands. Do not stop at the final click.
 
@@ -121,7 +121,7 @@ When a later section needs a fact that lives elsewhere, name the section or link
 
 Intercom's guidance is that a bold label is what marks a passage as something Fin should carry into an answer. The colored callout block is for the human reader. Emoji do nothing for retrieval, and the golden questions ban them as pointers, so the old emoji convention is retired.
 
-- Format: a callout block whose first words are a bold label, then one or two sentences.
+- Format: a callout block whose first words are a bold label, then one or two sentences. This label and the `**Description:**` line are the only bold in an article.
 - Labels: **Note:** for system behavior worth flagging, **Important:** for a limit, a deadline, or something that cannot be undone, **Tip:** for a recommendation.
 - In the repo's markdown mirror these appear as blockquotes, for example `> **Important:** The report supports up to 500 listings.`
 - Do not stack two callouts back to back, and do not use a callout for something a plain sentence in the flow would carry just as well. Both model articles state most limits as ordinary sentences directly under the steps that produce them.
@@ -143,7 +143,7 @@ The Notion `Roles` property still records the audience for every article, whethe
 Articles describe what Perchwell does. A member reading about a feature should come away knowing what it is for and where to go for the neighboring job, not carrying a list of what the feature fails to do.
 
 - **No Limitations section by default.** Do not open a section to catalog shortcomings, and do not go looking for downsides to fill one.
-- **State a constraint where the member meets it,** in the section they are already reading, and phrase it as the route forward: "To look up several listings at once, open the **Search** page and enter the IDs in the **MLS ID** filter, separated by commas." Not: "The Universal Search Bar cannot search more than one listing at a time."
+- **State a constraint where the member meets it,** in the section they are already reading, and phrase it as the route forward: "To look up several listings at once, open the Search page and enter the IDs in the MLS ID filter, separated by commas." Not: "The Universal Search Bar cannot search more than one listing at a time."
 - **Prefer the positive frame.** "Saved Searches keep a search and send alerts" beats "quick lookups are not saved and do not send alerts." Both carry the same fact; only one leaves the member knowing what to do.
 - **A dedicated section is reserved** for a hard cap with an exact number that a member will hit mid-workflow, or for something irreversible. The 1004MC report's 500-listing cap is the model case. Even then, lead with the capability and follow with the number and the fix.
 - **Never a bare deficit.** A constraint with no alternative path and no consequence for the member does not go in the article at all.
@@ -159,14 +159,15 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 ## Voice and terminology
 
 - Second person, imperative, matter of fact. You are an experienced support professional guiding a busy real estate professional.
-- Remove "you can", "allows you to", "you are able to". Write "Click **Manage widgets** to customize your layout".
+- Remove "you can", "allows you to", "you are able to". Write "Click Manage widgets to customize your layout".
 - Avoid the verb "use" as a stand-in for the real action. Open, click, select, run, apply, enter, drag, check. "When to use" headings are the accepted exception, along with the "Use this article to ..." opening.
 - Active voice, short sentences, one idea per sentence.
 - No marketing adjectives or framing: streamlined, powerful, elegant, seamless, professional leave-behind, uncover insights, smarter decision-making, ideal for, perfect for, game-changing. Describe the function instead.
-- Name the actual UI element the member sees. "Filter by **Recently Created** or **New**" beats "filter your contacts".
-- Do not inventory what is already on the screen. A member looking at a listing card can see the price and the bed count, and listing those fields back adds length without adding an answer. Say what a display covers or what it does, not which fields it renders: "Listings in every status appear, including **Active**, **Pending**, **Closed**, and **Expired**" earns its place; "each card shows the address, city, price, bedrooms, and bathrooms" does not. Screenshot alt text is the exception, because it exists for people who cannot see the image.
+- Name the actual UI element the member sees. "Filter by Recently Created or New" beats "filter your contacts". Name it exactly; do not bold it.
+- Do not inventory what is already on the screen. A member looking at a listing card can see the price and the bed count, and listing those fields back adds length without adding an answer. Say what a display covers or what it does, not which fields it renders: "Listings in every status appear, including Active, Pending, Closed, and Expired" earns its place; "each card shows the address, city, price, bedrooms, and bathrooms" does not. Screenshot alt text is the exception, because it exists for people who cannot see the image.
 - State system behavior explicitly: what happens automatically, what is included by default, what is required, what cannot be undone.
 - Translate system terms into member behavior with a "which means" clause. "The report max date acts as the anchor date for every reporting period, which means each time window counts backward from this date."
+- A pop-up window that opens over the page is a modal, named that way throughout the article rather than drifting to "window" or "panel".
 - Define abbreviations and product-specific terms on first use, including MLS-specific ones. Repeat the feature name through the article rather than switching to "it" after the first mention, because sections are retrieved alone. Repeat the name, not the facts attached to it. See Say each fact once.
 - Hedge predictions about people. "Members may ask" beats "members will ask".
 - No internal language: no employee names, no internal product terms the member cannot see, no casual asides.
@@ -174,8 +175,8 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 
 ## Formatting
 
-- Bold every clickable element, button label, filter name, menu item, navigation target, toggle, and status label: **Search**, **Actions**, **Print**, **Price Drop**, **Coming Soon**.
-- Do not bold general concepts, section titles, or feature names used as ordinary nouns.
+- No bold in the body. Not on clickable elements, button labels, filter names, menu items, navigation targets, toggles, status labels, concepts, or feature names. Write "Click Actions, then select Print", not "Click **Actions**, then select **Print**". Naming the exact on-screen label is still required; the label carries itself without the weight, and a page peppered with bold reads as emphasis on nothing.
+- Two exceptions, both labels that introduce a block rather than emphasis inside a sentence: the callout labels **Note:**, **Important:**, and **Tip:**, which Intercom names as the signal Fin reads, and the `**Description:**` line at the top of the article.
 - Never use em dashes. Use commas, periods, colons, or semicolons.
 - No horizontal rules. Headings carry the separation.
 - Plain markdown only. No toggles, no columns, no HTML.
@@ -206,7 +207,7 @@ Articles that predate this standard live in the old Notion Master Article List a
 - **Drop:** the `In this article:` heading, horizontal rules, emoji-led lines and emoji pointers, the "Click Script" toggle (a video script, not article content), the trailing Perchwell banner image, the support footer, and internal prefixes such as `NYC|`.
 - **Carry:** the Loom or Arcade URL, directly under the opening paragraph; every image, with alt text written for it; the Paragon comparison, in the neutral transition voice.
 - **Retitle** when the old title is a bare noun, following the naming standard, and record the old title so the Intercom redirect and the audit can find it. The team may keep a familiar bare-noun title; when it does, the description and the opening paragraph carry the task words instead.
-- **Feature name versus on-screen label.** When the feature's name is not what the member sees on screen (the Universal Search Bar is the **Search** field in the top navigation), the first step names the on-screen label in bold and the lead sentence ties the two together.
+- **Feature name versus on-screen label.** When the feature's name is not what the member sees on screen (the Universal Search Bar is the Search field in the top navigation), the first step names the on-screen label exactly and the lead sentence ties the two together.
 - **Alt text comes from the actual screenshot.** Open the image and describe what it shows; do not write alt text from the surrounding prose. A migrated article keeps its live Intercom CDN images when their URLs are stable.
 - **`[confirm: ...]` markers stay in the Notion draft** so reviewers can see exactly what the writer could not verify from the sources. They are resolved or removed before transfer.
 - **Shared articles.** An article mirrored in both `baldwin/` and `crmls/` is in both help centers through a shared collection. The new database holds one MLS per row, so the draft goes in under the MLS the old row names and the shared status is an open item for the team.
@@ -232,10 +233,10 @@ Confirm before saving a draft:
 - No fact or enumeration appears in more than one section; the feature name repeats, its capabilities do not
 - No inventory of fields the member can already see on screen, outside of image alt text
 - Paragraphs run two to four sentences; long sections are broken up with subheadings
-- Steps are numbered, one action each, no terminal periods, UI elements bolded, and the block ends with what happens next
+- Steps are numbered, one action each, no terminal periods, UI elements named exactly, and the block ends with what happens next
 - Tables carry an intro sentence
 - Callouts lead with a bold **Note:**, **Important:**, or **Tip:** label; no emoji; none stacked
-- Every clickable element, filter, button, and nav item is bold; concepts are not
+- No bold in the body; only the callout labels and the `**Description:**` line carry it
 - No "you can", "allows you to", or the verb "use" outside the accepted exceptions
 - No marketing adjectives from the do-not list
 - Defaults and irreversible actions are stated with exact numbers; constraints are framed as the route forward, with no Limitations section unless a hard cap or an irreversible action earns one

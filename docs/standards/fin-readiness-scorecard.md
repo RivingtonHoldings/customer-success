@@ -10,7 +10,7 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 
 **Gate: the 14 golden questions.** Each one passes or fails. One failure means the article is not Fin-ready, whatever the score says, because each factor is something Intercom's Content Readiness check scores on its own.
 
-**Check set.** The checks below are the September 10, 2026 set. Chunk independence gained a sixth check that day, and two Answer completeness checks were reworded, so a score recorded before that date is not directly comparable to one recorded after. A rescored article says which set it used.
+**Check set.** The checks below are the September 10, 2026 set. Chunk independence gained a sixth check that day, Fin-parsable formatting gained an eighth, and two Answer completeness checks were reworded, so a score recorded before that date is not directly comparable to one recorded after. A rescored article says which set it used.
 
 **Score: 0 to 100 across five dimensions.** Each dimension is a list of yes or no checks. The dimension score is the checks passed divided by the checks in the list, multiplied by the weight. The total is the sum of the five. Every check traces to a rule in the content standard or to Intercom's Fin guidance, which means a failed check always has a known fix.
 
@@ -50,15 +50,16 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 6. Abbreviations and product terms are defined on first use
 7. Related workflows are linked with descriptive text instead of re-explained
 
-### Fin-parsable formatting (10 points, 7 checks)
+### Fin-parsable formatting (10 points, 8 checks)
 
-1. Steps are a numbered list, one action each, no terminal periods, UI elements bold
+1. Steps are a numbered list, one action each, no terminal periods, UI elements named exactly
 2. Callouts lead with a bold **Note:**, **Important:**, or **Tip:** label, and none are stacked
-3. No emoji anywhere, including as pointers at images
-4. Every image has descriptive alt text; placeholders carry the alt text they will use
-5. Every table has an intro sentence above it
-6. No horizontal rules, HTML, toggles, or columns
-7. No em dashes
+3. No other bold in the body
+4. No emoji anywhere, including as pointers at images
+5. Every image has descriptive alt text; placeholders carry the alt text they will use
+6. Every table has an intro sentence above it
+7. No horizontal rules, HTML, toggles, or columns
+8. No em dashes
 
 ### Accuracy and confidence (10 points, 4 checks)
 

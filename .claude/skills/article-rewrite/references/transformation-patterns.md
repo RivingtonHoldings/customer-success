@@ -26,7 +26,7 @@ Replace generic "allows you to" descriptions with concrete actions and named UI 
 
 **After:**
 > Stay connected to your clients with a structured view of your Contacts.
-> - Filter by **Recently Created** or **New**.
+> - Filter by Recently Created or New.
 > - Use the search bar to quickly locate a contact.
 
 Name the filters, buttons, and options the reader will actually see on screen.
@@ -64,7 +64,7 @@ Expand one-sentence descriptions into a lead sentence plus action bullets.
 **After:**
 > Monitor listing activity across your selected scope.
 > - View listings at a glance.
-> - Filter by address or quick options such as **Price Drop** and **Open Houses**.
+> - Filter by address or quick options such as Price Drop and Open Houses.
 > - Scope can be adjusted by MLS Listings, Brokerage Listings, or your own listings.
 
 Each bullet describes one concrete action or option the reader can take.
@@ -75,7 +75,7 @@ Each bullet describes one concrete action or option the reader can take.
 > Each listing card shows the address, property type, city, MLS ID, price, bedrooms, bathrooms, and a status badge with its date, such as **Active Sale** or **Closed**.
 
 **This:**
-> Listings in every status appear, including **Active**, **Pending**, **Closed**, and **Expired**.
+> Listings in every status appear, including Active, Pending, Closed, and Expired.
 
 The first describes the picture. The second answers a question a member actually asks. Image alt text is the exception to the rule, because it is written for people who cannot see the image.
 
@@ -87,7 +87,7 @@ Remove "You can" and "allows you to." Use direct instructions.
 > You can use the Manage widgets button in the top right corner of your screen to customize your layout.
 
 **After:**
-> Click **Manage widgets** in the top right corner to customize your layout.
+> Click Manage widgets in the top right corner to customize your layout.
 
 **More examples:**
 - "You can filter by..." → "Filter by..."
@@ -141,22 +141,24 @@ When updating, ask: "What can the member actually do with this feature that isn'
 
 The question is about missing capabilities and missing steps. It is not a hunt for shortcomings. Add a constraint only when a member will hit it, and write it as the route forward, in the section where they meet it. See `docs/standards/content-standards.md`, Constraints, and where to go instead.
 
-## 9. Bold UI Elements
+## 9. Name UI Elements Exactly, and Do Not Bold Them
 
-Consistently bold all interactive elements so readers can scan for them.
+Name every interactive element by its exact on-screen label. Do not bold it. The house style bolded every UI element until September 10, 2026; migrating an older article means stripping that bold out.
 
-**What to bold:**
-- Button labels: **Manage widgets**, **Add/Edit**
-- Filter options: **Price Drop**, **Open Houses**, **Recently Created**
-- Sort options: **Name**, **Recently Updated**
-- Icons with functions: **pencil icon**
-- Navigation items: **Dashboard**
-- Status labels: **Coming Soon**, **New**
+**Before:**
+> Click **Manage widgets**, then filter by **Price Drop** or **Open Houses**. Listings marked **Coming Soon** appear in the **Dashboard** widget.
 
-**What NOT to bold:**
-- General concepts (e.g., "real-time market activity")
-- Section titles (headings handle their own emphasis)
-- Feature names when used as regular nouns in a sentence (e.g., "hot sheets update automatically")
+**After:**
+> Click Manage widgets, then filter by Price Drop or Open Houses. Listings marked Coming Soon appear in the Dashboard widget.
+
+The exact label is what the member matches against the screen, and it does that whether or not it is bold. A page where every other phrase is bold puts emphasis on nothing.
+
+**The two survivors,** both labels that introduce a block rather than emphasis inside a sentence:
+
+- Callout labels: `> **Note:** ...`, `> **Important:** ...`, `> **Tip:** ...`. Intercom names the bold label as the signal Fin reads, so this one earns its keep.
+- The `**Description:**` line at the top of the article.
+
+Bullet lead-in labels, as in `- **Listings.** Matched on address or MLS ID`, follow the callout pattern: a label introducing its own block, not emphasis in running prose. Keep them.
 
 ## 10. Say It Once
 
@@ -191,11 +193,11 @@ The first migration test is the worked example. The Universal Search Bar draft s
 > Open the Universal Search Bar when you already know which record you want and need to reach it without building a search.
 >
 > ### Steps:
-> 2. Type an address, an **MLS ID**, or a name
+> 2. Type an address, an MLS ID, or a name
 >
 > ## What the Universal Search Bar returns
 > The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
-> - **Listings.** Match on address or **MLS ID**. ...
+> - **Listings.** Match on address or MLS ID. ...
 > - **Agents.** Match on name. ...
 > - **Contacts.** Match on name or email. ...
 

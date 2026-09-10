@@ -77,14 +77,16 @@ One line each, using the name members see in the product. Bold the name in artic
 | System of record | The system where a listing officially lives. "Paragon was the system of record, which means new listings still happened in Paragon." |
 | RESO | The industry standards body for real estate data. Rarely needed in member content. |
 | Masquerading | An MLS staff ability to log in as a member for support. Staff-facing only; do not mention in member articles. |
+| Modal | A pop-up window that opens over the page, such as the one the Universal Search Bar opens in the center of the screen. Use "modal" in articles, and keep using it rather than switching to "window", "panel", or "pop-up" partway through. |
 | Collection | A group of articles in the Intercom help center. Members see collection names on the help center home page. |
 | Fin resolved | Perchwell's definition: Fin answered, no teammate sent a message afterward, and the same member did not follow up on the same topic within 48 hours. |
 | Human intervention | The share of Fin conversations where a teammate had to step in. Baldwin is around 40 percent; the target is 10 percent or less. |
 
 ## Terminology rules
 
-- Use the label the member sees on screen, spelled exactly as the UI spells it. "Add/Edit," not "the listing form."
-- A listing's identifier is the **MLS ID**. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
+- Use the label the member sees on screen, spelled exactly as the UI spells it, and do not bold it. "Add/Edit," not "the listing form."
+- A pop-up window that opens over the page is a modal. One word for it, used consistently, so a member and Fin both track the same thing.
+- A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
 - Say "member" for people using Perchwell and "client" for an invited buyer or seller.
 - Name Paragon neutrally when comparing. "In Paragon, printing lived under Reports. In Perchwell, every print starts from **Search**." Never "old system," "retired," or "sunsetted."
 - Translate system terms with a "which means" clause instead of assuming the member knows them.

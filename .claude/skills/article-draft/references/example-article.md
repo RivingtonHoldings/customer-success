@@ -31,9 +31,9 @@ Sharing a Tag by public link generates a link you can send however you'd like: b
 
 ### Steps:
 
-1. Click **Tags** in the navigation bar
-2. Find the Tag and click **Share**
-3. Click **Copy Link**
+1. Click Tags in the navigation bar
+2. Find the Tag and click Share
+3. Click Copy Link
 4. Send the link to your client
 
 A success toast confirms the link copied. The client does not need a Perchwell account to open a shared Tag link.
@@ -45,10 +45,10 @@ Sharing a Tag by email sends it directly from Perchwell instead of copying a lin
 
 ### Steps:
 
-1. Click **Tags** in the navigation bar
-2. Find the Tag and click **Share**
-3. Enter the client's email in the **Share via Email** field
-4. Click **Send**
+1. Click Tags in the navigation bar
+2. Find the Tag and click Share
+3. Enter the client's email in the Share via Email field
+4. Click Send
 
 The client receives an email with a link to the Tag.
 
@@ -68,8 +68,8 @@ Re-sharing sends the same Tag's link to a client again, or notifies a client you
 
 ### Steps:
 
-1. Click **Tags** in the navigation bar
-2. Find the Tag and click **Re-Share**
+1. Click Tags in the navigation bar
+2. Find the Tag and click Re-Share
 3. Copy the link, or send it again by email
 ```
 
@@ -113,10 +113,10 @@ Creating a Market Conditions Addendum Report starts from your Search results, so
 
 ### Steps:
 
-1. Open **Search** and run a search for your comparable listings
+1. Open Search and run a search for your comparable listings
 2. To use specific listings, select the checkboxes next to them. To use every listing in your results, leave them unselected
-3. Click **Actions**, then **Create a Report**
-4. Select **Market Conditions Addendum Report**
+3. Click Actions, then Create a Report
+4. Select Market Conditions Addendum Report
 
 The report configuration screen opens with your listings loaded.
 <!-- The live article moves straight to the 500-listing limit without saying what the last step produces. -->
@@ -127,8 +127,8 @@ Before you generate the report, confirm your listings, report max date, and stab
 
 ### Choose your listings
 
-- **All listings** (default) includes every listing in your search results
-- **Selected listings** appears when you selected specific listings before opening the report
+- All listings (default) includes every listing in your search results
+- Selected listings appears when you selected specific listings before opening the report
 
 ### Set the report max date
 
@@ -143,19 +143,19 @@ Confirm this date matches the effective date you want for your analysis before g
 
 ### Set the stable range
 
-The stable range controls when a market change is classified as **Stable** instead of **Increasing** or **Decreasing**.
+The stable range controls when a market change is classified as Stable instead of Increasing or Decreasing.
 
-- Enter a **High Limit %** and a **Low Limit %** (both default to 0%)
+- Enter a High Limit % and a Low Limit % (both default to 0%)
 - Changes above the high limit are classified as Increasing
 - Changes below the low limit are classified as Decreasing
 - Changes within the range are classified as Stable
-- Check **Use this overall stable range next time** to save your range for future reports
+- Check Use this overall stable range next time to save your range for future reports
 
 For example, a stable range of -5% to +5% treats minor market movement as Stable.
 
 ### Add optional sections
 
-Check **Include search criteria and listing summary** to document how you built your comp set. This preserves support for the appraisal workfile.
+Check Include search criteria and listing summary to document how you built your comp set. This preserves support for the appraisal workfile.
 
 When your settings are confirmed, generate the report.
 
@@ -165,9 +165,9 @@ The generated 1004MC report includes Year 1 1004MC tables and an Explanation of 
 
 ### Overall trend
 
-Each metric in the 1004MC report receives an overall trend of **Increasing**, **Stable**, or **Decreasing**. The trend compares the earliest reported period with the most current reported period, using your stable range to decide when a change counts as Stable.
+Each metric in the 1004MC report receives an overall trend of Increasing, Stable, or Decreasing. The trend compares the earliest reported period with the most current reported period, using your stable range to decide when a change counts as Stable.
 
-> **Note:** Where the 1004MC form uses the label **Declining**, use the report's **Decreasing** value.
+> **Note:** Where the 1004MC form uses the label Declining, use the report's Decreasing value.
 <!-- Callout leads with a bold label, no emoji. This is the line Fin should carry into an answer about the Declining label. -->
 
 ### Explanation of Results
@@ -203,6 +203,6 @@ What changed from the live article:
 ## Why these two
 
 - Between them they cover both heading shapes: flat sibling sections, and sections with real subtopics.
-- Both are task-led, second person, imperative, with bolded UI elements and exact numbers.
+- Both are task-led, second person, imperative, with UI elements named exactly and unbolded, and exact numbers. Both were stripped of bold on September 10, 2026 when the house style retired it; the callout label is the only bold left.
 - Both state system behavior the member could not discover alone: the client needs no account, liked listings return to the Tag, the 500-listing ceiling, how the median-of-percentages metric is derived. Each is stated once, in the section where the member meets it.
 - Neither uses marketing language, em dashes, or a support footer.
