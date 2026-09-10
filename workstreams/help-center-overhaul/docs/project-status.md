@@ -54,6 +54,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 | The new database dropped the `Fin AI`, `Text`, `Screenshot`, and `Video` workflow-status fields. Is per-asset progress tracked somewhere else, or is it out of scope now? | Tara | Sep 11, 2026 |
 | 26 articles are shared between the Baldwin and CRMLS help centers, but the new database holds one `MLS/AOR` per row. Does a shared article get one row (Baldwin) or two? Universal Search Bar is the first case | Tara | Sep 11, 2026 |
 | The `MLS/AOR` option in the new database reads `CRLMS All`. Should it be renamed to CRMLS? Writes must use the string exactly as it appears until it changes | Tara | Sep 11, 2026 |
+| Should FAQ answers get an exception to the "you can" ban, the way "When to use" headings are excepted from the verb-"use" ban? "You can add as many as you'd like" is the natural answer under a question-form heading, and 12 of 16 FAQ articles fail scorecard check 5 on it. Three of the eleven worst-offender articles are FAQs, so the answer changes the backlog ranking. See `audit/voice-sweep-2026-09-10.md` | Tara and Kelly Miragliotta | Sep 11, 2026 |
 | How do members reach help content in each market: the help center directly, or through Perchie? | Kevin Liang | Sep 3, 2026 |
 | Which platform(s) are CRMLS members migrating from, and how does that affect the eight Then vs. Now articles? | Kelly Miragliotta | Sep 3, 2026 |
 | Is Content from Conversations enabled in Intercom, and how should it feed maintenance? | Jeff Wakeland | Sep 8, 2026 |
