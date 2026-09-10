@@ -17,7 +17,7 @@ Perchwell replaces legacy MLS systems. For Baldwin, that system was Paragon.
 | StellarMLS | Customer | Out of scope for this project |
 | REcolorado | Customer | Out of scope for this project |
 
-Perchwell also serves brokerages directly (Engel & Volkers, Keller Williams, and NYC brokerages), which is why some Notion articles carry a `NYC|` prefix. Those are not Baldwin or CRMLS content.
+Perchwell also serves brokerages directly (Engel & Volkers, Keller Williams, and NYC brokerages), which is why some Notion articles carry a `NYC|` prefix. Those are not Baldwin or CRMLS content, and NYC is out of scope for the help center overhaul, confirmed September 10, 2026. The new Notion database offers NYC as an `MLS/AOR` option, which is a leftover, not an invitation: "every MLS" in this project means Baldwin and CRMLS.
 
 ## User roles
 
@@ -48,10 +48,10 @@ One line each, using the name members see in the product. Bold the name in artic
 - **Contacts:** the member's client list, and the My MLS tab that shows the agent roster.
 - **Reports:** generated documents from Search, including the listing report and the Market Conditions Addendum Report (1004MC).
 - **CMA:** Comparative Market Analysis, a report comparing similar properties to estimate value.
-- **Listing Presentations:** branded client-facing presentations built from listings.
+- **Listing Presentations:** branded client-facing presentations built from listings. Removed from CRMLS as of September 2026, and never a Baldwin feature, so do not document it for either in-scope MLS. Cloud CMA, a third-party integration, still produces its own listing presentations and is unaffected by the removal. Six live CRMLS articles still describe the removed feature; they are listed in `workstreams/help-center-overhaul/audit/dashboard-widget-lineup-2026-09-10.md`.
 - **Print:** prints the current Search results using the visible columns.
 - **Export CSV:** exports Search results with a saveable column template.
-- **Dashboard:** the landing page with configurable widgets (Hotsheets, Contacts, Saved Searches, Listings).
+- **Dashboard:** the landing page with configurable widgets. Baldwin and CRMLS both have Hotsheets, Contacts, Saved Searches, Tags, and Listings, and the Listings widget cannot be removed or reordered. CRMLS also has a Days on Market widget, though its own articles disagree on whether there are one or two.
 - **Analytics:** market and brokerage statistics.
 - **Mobile:** the Perchwell app, at parity with the web.
 - **Workspaces:** shared views for teams and clients.
