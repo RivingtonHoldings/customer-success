@@ -99,7 +99,7 @@ Choose and arrange your Dashboard widgets from Manage widgets, in the top right 
 
 ## Launch third-party integrations from the Dashboard
 
-Third-party integrations launch from the Integrations panel on the right side of the Dashboard, which opens each connected tool in its own window rather than replacing the Dashboard.
+Third-party integrations launch from the Integrations panel, which sits on the right side of the Dashboard and holds the tools your MLS connects to Perchwell.
 
 ### Steps:
 
@@ -107,20 +107,13 @@ Third-party integrations launch from the Integrations panel on the right side of
 2. Hover over the right side of the Dashboard to reveal the Integrations panel
 3. Click an integration name
 
-The integration opens in a new window. Which integrations appear in the panel depends on your MLS permissions.
+The integration opens outside Perchwell, so the Dashboard stays as you left it.
 
-The Integrations panel on the Dashboard covers:
+The Integrations panel lists only the integrations your MLS has enabled for your account, which means the panel is the accurate list of what you have, and a member at a different MLS may see a different set. Depending on your MLS, the panel may include tools for scheduling showings and managing lockbox access, for looking up public records, tax data, and property history, and for pulling property reports and market data.
 
-- ShowingTime: schedule and manage property showings
-- SentriLock: manage secure lockbox access
-- BR Announcements: read Baldwin REALTORS® updates and announcements
-- Infosparks: view listing analytics
-- CRS: look up public records, tax data, and maps [confirm: what CRS stands for, so the abbreviation can be defined on first use]
-- RPR: open Realtors Property Resource reports and property data
+> **Note:** An integration may require an active account with that provider and a separate sign-in.
 
-> **Note:** Some integrations may require an active account or separate login credentials with the provider.
-
-[Integration Tools on the Dashboard](http://support.perchwell.com/en/articles/13903183-integration-tools-on-the-dashboard) covers what each integration does in detail and which ones also open from a listing's detail page.
+For the integrations your own MLS offers and what each one does, see [Integration Tools on the Dashboard](http://support.perchwell.com/en/articles/13903183-integration-tools-on-the-dashboard).
 
 ## Things to Know
 

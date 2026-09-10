@@ -54,16 +54,18 @@ Revision 2 of the September 10, 2026 check set. Retrieval signals carries seven 
 |---|---|---|---|---|
 | Retrieval signals | 30 | 4.3 (1/7) | 30.0 (7/7) | +25.7 |
 | Chunk independence | 25 | 16.7 (4/6) | 25.0 (6/6) | +8.3 |
-| Answer completeness | 25 | 14.3 (4/7) | 21.4 (6/7) | +7.1 |
+| Answer completeness | 25 | 14.3 (4/7) | 25.0 (7/7) | +10.7 |
 | Fin-parsable formatting | 10 | 5.0 (4/8) | 10.0 (8/8) | +5.0 |
 | Accuracy and confidence | 10 | 6.0 (3/5) | 10.0 (5/5) | +4.0 |
-| **Total** | **100** | **46.3** | **96.4** | **+50.1** |
+| **Total** | **100** | **46.3** | **100.0** | **+53.7** |
 
 | | Old | New |
 |---|---|---|
-| Score | 46.3 | 96.4 |
+| Score | 46.3 | 100.0 |
 | Band | Not retrievable as written | Fin-ready |
 | Gate | Failed, 6 factors | Passed |
+
+Answer completeness reached 7 of 7 when the integrations section was genericized on September 10, 2026. Check 6, abbreviations defined on first use, was the last one failing, held open by CRS. Dropping the product names removed the only undefined abbreviations in the article, so the check passes and the confirm marker that stood in for it is gone.
 
 Under revision 1 the original scored 51.0, in the Needs rewrite band. The two checks added in revision 2 both fail on the live article, which moves it into the bottom band.
 
@@ -75,9 +77,33 @@ Under revision 1 the original scored 51.0, in the Needs rewrite band. The two ch
 - **Fin-parsable formatting:** the procedural content is prose rather than a numbered list; six callouts are emoji-led bold lines with no **Note:** or **Tip:** label; bold is applied throughout the body; 📖 appears six times
 - **Accuracy and confidence:** "allows you to" appears six times, once in every widget section and again in the integrations lead, which is the pattern revision 2's verb check exists to catch
 
-### The one check the new article still fails
+### Checks the new article fails
 
-- **Answer completeness 6, abbreviations defined on first use.** CRS is not expanded, because no source in the repo says what it stands for. The draft carries `[confirm: what CRS stands for, so the abbreviation can be defined on first use]`. Answering it takes the article to 100.
+None. All 35 checks in revision 2 pass, and the gate passes.
+
+The last one to close was Answer completeness 6, abbreviations defined on first use, which CRS held open because no source in the repo expands it. The genericization removed CRS and RPR from the body, so nothing in the article needs a first-use definition beyond MLS, which the glossary says not to define.
+
+### Genericizing the integrations section, September 10, 2026
+
+Tara asked for the integrations list to be rewritten so the article can serve every MLS. The mirror shows why a fixed list cannot: the two help centers overlap on only half their integrations.
+
+| Integration | Baldwin | CRMLS |
+|---|---|---|
+| ShowingTime | yes | yes |
+| SentriLock | yes | yes |
+| RPR | yes | yes |
+| BR Announcements | yes | no |
+| Infosparks | yes | no |
+| CRS | yes | no |
+| Realist | no | yes |
+| Down Payment Resource | no | yes |
+| Cloud CMA | no | yes |
+
+Sources: `docs/help-center/baldwin/integration-tools-on-the-dashboard.md` and `docs/help-center/crmls/integration-tools-on-the-dashboard.md`, both live and both last updated 2026-07-02.
+
+The section now names no products. It says where the panel is, how to open a tool, that the panel lists only what the member's own MLS has enabled, and what kinds of tools may appear, then routes to each MLS's own Integration Tools on the Dashboard article for the actual list. The three categories named are the ones both help centers demonstrably have: showings and lockbox access, public records and tax data, and property reports and market data.
+
+The two live articles also conflict on the outcome. Baldwin says an integration opens "in a new window"; CRMLS says "in a new browser tab". The rewrite says it opens "outside Perchwell, so the Dashboard stays as you left it", which is true in both and avoids picking a side that would be wrong for one MLS.
 
 ## Fin test questions
 
@@ -98,6 +124,18 @@ Under revision 1 the original scored 51.0, in the Needs rewrite band. The two ch
 
 - `[confirm: whether the on-screen options are still labeled New Hot Sheet and From Saved Search]`. Three sources give three answers. The old Notion page says Quick Hot Sheet and Hot Sheet from a Saved Search; `Add a Hot Sheet to the Dashboard` (live, updated 2026-07-20, the newest of the three) says New Hot Sheets and Saved Search Hot Sheets, with the in-product options named New Hot Sheet and From Saved Search. The draft follows the newest live article because it is naming buttons inside a step list
 - `[confirm: what CRS stands for]`. No repo source expands it. Needed to close the last failing check
+
+**Universality: the integrations section is done, the article is not**
+
+The integrations rewrite makes that one section MLS-neutral. Five other things in this article are still Baldwin-specific, and each needs a decision before the body can serve every help center. None of them is a defect in the current Baldwin draft; they are the remaining scope of "universal."
+
+1. **The widget lineup differs by MLS.** Baldwin's Dashboard has Hot Sheets, Contacts, Saved Searches, Tags, and Listings. CRMLS's own overview (`crmls/the-dashboard-page-overview.md`) shows Hot Sheets, Presentations, Contacts, Saved Searches, Listings, and DOM, with **no Tags widget** and two widgets Baldwin does not document. A universal article cannot carry one section per widget unless the lineup is confirmed identical, which the mirror says it is not. This is the largest piece of work and it is a product question, not a writing one
+2. **Sort options conflict.** This draft says the Contacts and Saved Searches widgets sort by Name or Recently Created, from the Notion source. CRMLS's overview says Contacts filters by Recently Created or New, and Saved Searches sorts by Name or Recently Updated. Either the widgets differ by MLS or one source is stale
+3. **Two linked articles have no CRMLS equivalent.** `New Terminology` and `Listings Widget Overview` exist only in Baldwin. A universal body would need those sentences to degrade gracefully where the target article does not exist
+4. **Three linked articles have different titles per MLS.** Baldwin `Add a Hot Sheet to the Dashboard` is CRMLS `Adding a Hot Sheet to the Dashboard`; Baldwin `Customize Your Dashboard` is CRMLS `Customizing Your Dashboard`; Baldwin `Dashboard FAQ` has no CRMLS counterpart beyond a general `Frequently Asked Questions`. Link text is the article title by standard, so the text itself changes per MLS, not just the URL. `Create and Manage Your Contacts in Perchwell`, `Manage Your Saved Searches`, and `Tags Page Overview` match in both and are safe
+5. **The mobile constraint is sourced from Baldwin only.** "The Dashboard and Hot Sheets are not available in the Perchwell mobile app" traces to `baldwin/dashboard-faq.md` and the live Baldwin article. No CRMLS source states it, and `docs/product-context.md` claims web and mobile parity. Publishing it in a CRMLS help center would be an unverified claim
+
+There is also a schema problem underneath all of this: `MLS/AOR` in the new database is a single select, so a genuinely universal article has no row that represents "all MLSs." That is the same open question already on the project status page about the 26 shared articles, and this article is now a second instance of it.
 
 **Decisions the team owes**
 
