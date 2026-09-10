@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A seventh pass resolved the contact-scope question. Tara confirmed on 2026-09-10 that contact results come from the agent's own contacts, not the brokerage's. The bullet states it positively and then names what is excluded, since "why can't I find my colleague's client" is the confusion the fact prevents. Added as a Fin test question.
+
 A sixth pass resolved the status question. Tara confirmed on 2026-09-10 that off-market listings appear in results. That also surfaced a second invented fact: the live article says "View listings across statuses like Active, Pending, Closed, and Expired", and the September 9 rewrite turned that hedged example list into "Listings in every status appear". Perchwell has twelve statuses, per [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell), so the claim was false as written. The sentence now leads with what a member actually wants to know, that results are not limited to active listings, names off-market as confirmed, gives the rest as examples, and links the statuses article. No confirm marker remains on it.
 
 A fifth pass removed bold from the body and settled the term for a pop-up window. The house style had bolded every UI element since the standard was written; Tara retired that on 2026-09-10. Bold survives on the callout labels, which Intercom names as the signal Fin reads, and on the `**Description:**` line. The bullet lead-in labels in What the Universal Search Bar returns were kept on the same reasoning, a label introducing its own block rather than emphasis inside a sentence. The descriptive "search window" became "modal" throughout, which also retired the confirm marker asking what the window is called.
@@ -90,6 +92,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | How do I look up a listing by MLS ID? | Yes | Yes |
 | Where is the search bar to find an agent? | Partly (says "top of your screen") | Yes (Search field, upper right of the top navigation, opening a modal) |
 | Can I search for a contact by email? | Yes | Yes |
+| Why can't I find another agent's client in the search bar? | No | Yes, contact results are scoped to your own contacts |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
 | Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
 | Does the search bar show closed or expired listings? | Yes | Yes, and it says results are not limited to active listings, with off-market confirmed |
@@ -101,7 +104,6 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 ## Open items
 
 - [confirm: whether an exact address returns a direct match; the July Notion draft said so and the live article dropped it] (What the Universal Search Bar returns)
-- [confirm: whether contact results include only your own contacts or every contact in the brokerage] (What the Universal Search Bar returns)
 - [confirm: what the Universal Search Bar shows when nothing matches] (What the Universal Search Bar returns)
 - [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
