@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A third pass removed the inventory of listing-card fields from the Listings bullet. A member reading results is looking at the card; listing its fields back added length and answered nothing. What the section keeps is behavior: how a listing is matched, that an exact MLS ID is a direct match, and which statuses appear. The screenshot alt text still describes the card, because alt text is written for people who cannot see the image.
+
 ## Source differences (live wins)
 
 | Where | Old Notion page (July 17) | Live article (August 10) | Draft |
@@ -84,7 +86,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | Can I search for a contact by email? | Yes | Yes |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
 | Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
-| Does the search bar show closed or expired listings? | Yes | Yes, with what the status badge looks like |
+| Does the search bar show closed or expired listings? | Yes | Yes, the statuses are named in What the Universal Search Bar returns |
 | How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | No, by decision (see coverage note) |
 | How do I filter by price? | No | Yes, from When to use, links Create a Search with Filters |
 

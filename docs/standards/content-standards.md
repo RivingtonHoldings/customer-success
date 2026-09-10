@@ -164,6 +164,7 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 - Active voice, short sentences, one idea per sentence.
 - No marketing adjectives or framing: streamlined, powerful, elegant, seamless, professional leave-behind, uncover insights, smarter decision-making, ideal for, perfect for, game-changing. Describe the function instead.
 - Name the actual UI element the member sees. "Filter by **Recently Created** or **New**" beats "filter your contacts".
+- Do not inventory what is already on the screen. A member looking at a listing card can see the price and the bed count, and listing those fields back adds length without adding an answer. Say what a display covers or what it does, not which fields it renders: "Listings in every status appear, including **Active**, **Pending**, **Closed**, and **Expired**" earns its place; "each card shows the address, city, price, bedrooms, and bathrooms" does not. Screenshot alt text is the exception, because it exists for people who cannot see the image.
 - State system behavior explicitly: what happens automatically, what is included by default, what is required, what cannot be undone.
 - Translate system terms into member behavior with a "which means" clause. "The report max date acts as the anchor date for every reporting period, which means each time window counts backward from this date."
 - Define abbreviations and product-specific terms on first use, including MLS-specific ones. Repeat the feature name through the article rather than switching to "it" after the first mention, because sections are retrieved alone. Repeat the name, not the facts attached to it. See Say each fact once.
@@ -229,6 +230,7 @@ Confirm before saving a draft:
 - The first sentence under each heading echoes the heading's key terms
 - No section depends on "above", "then", or a previous section to make sense
 - No fact or enumeration appears in more than one section; the feature name repeats, its capabilities do not
+- No inventory of fields the member can already see on screen, outside of image alt text
 - Paragraphs run two to four sentences; long sections are broken up with subheadings
 - Steps are numbered, one action each, no terminal periods, UI elements bolded, and the block ends with what happens next
 - Tables carry an intro sentence

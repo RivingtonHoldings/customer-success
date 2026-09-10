@@ -71,7 +71,7 @@ Replace generic descriptions like "allows you to stay connected by storing infor
 Consolidate related content under meaningful parent headings. If five widgets each have their own H2, group them under a single section instead. Remove standalone sections that state the obvious.
 
 ### 4. Bullet-point capabilities
-Expand single-sentence feature descriptions into a short lead sentence plus a bullet list of specific things the reader can do. One concrete action or option per bullet.
+Expand single-sentence feature descriptions into a short lead sentence plus a bullet list of specific things the reader can do. One concrete action or option per bullet. Expand into actions, never into an inventory of what is on screen: a bullet list of the fields a listing card renders is longer than the sentence it replaced and answers nothing the member cannot already see.
 
 ### 5. Imperative voice
 Remove "You can" and "allows you to." Instead of "You can use the Manage widgets button to customize your layout," write "Click **Manage widgets** to customize your layout." Tell the reader what to do, not what the system permits.

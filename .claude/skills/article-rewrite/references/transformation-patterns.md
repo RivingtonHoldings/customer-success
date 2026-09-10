@@ -69,6 +69,16 @@ Expand one-sentence descriptions into a lead sentence plus action bullets.
 
 Each bullet describes one concrete action or option the reader can take.
 
+**Expand into actions, not into an inventory of the screen.** The failure mode of this pattern is a bullet list of every field a display renders, which is longer than the sentence it replaced and answers nothing the member cannot already see:
+
+**Not this:**
+> Each listing card shows the address, property type, city, MLS ID, price, bedrooms, bathrooms, and a status badge with its date, such as **Active Sale** or **Closed**.
+
+**This:**
+> Listings in every status appear, including **Active**, **Pending**, **Closed**, and **Expired**.
+
+The first describes the picture. The second answers a question a member actually asks. Image alt text is the exception to the rule, because it is written for people who cannot see the image.
+
 ## 5. Imperative Voice
 
 Remove "You can" and "allows you to." Use direct instructions.
