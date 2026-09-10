@@ -2,7 +2,7 @@
 
 The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, and redundancy rules revised September 10, 2026 after the team reviewed that test.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -49,7 +49,7 @@ The body opens with one paragraph that states what the member will accomplish, n
 
 - Formula: "Use this article to \<outcome 1\>, \<outcome 2\>, and \<outcome 3\>."
 - Name the feature in the sentence, not just in the title.
-- Say who the article is for when it is not everyone: "Use this article, as a broker or brokerage admin, to ..."
+- Say who the article is for only when a role or access level gates the workflow: "Use this article, as a broker or brokerage admin, to ..." When every member has the feature, say nothing. See Audience and permissions.
 - Do not write "This article covers ..." or "In this article, you will learn how to ..." Both describe the topic instead of the outcome, and Intercom names the first as the weak form.
 
 If a Loom or Arcade walkthrough exists, it goes directly under this paragraph. The article must stand on its own without it, and the written steps must match the video exactly.
@@ -64,7 +64,7 @@ Intercom renders the article title in its own tag, and recommends an H1 carrying
 | H2 | Major sections |
 | H3 | Subsections, and the `Steps:` heading |
 
-Section order for a workflow article, dropping what does not apply: when to use it, create or start, customize or configure, share or export, limitations, tips.
+Section order for a workflow article, dropping what does not apply: when to use it, create or start, customize or configure, share or export, tips.
 
 Similar features use the same section names so a member who has read one recognizes the next. Reports, for example: "Create a \<report\>", "Customize the \<report\>", "Share the \<report\>".
 
@@ -83,6 +83,24 @@ Headings are weighted heavily in Fin's retrieval scoring, so they carry more of 
 **Self-contained sections.** Every section must make sense retrieved on its own. Do not open with "Then", do not write "as described above" or "the field shown above", and restate what a step depends on rather than pointing back at it.
 
 **One topic per section.** Break a long section up with H3 subheadings rather than letting two topics share one block. Keep paragraphs short, two to four sentences, so a retrieved passage carries a whole thought.
+
+## Say each fact once
+
+Fin retrieves sections alone, so some repetition is required. That is not a license to state the same fact in three places. The two are different, and confusing them produces an article that is long, thin, and no easier to retrieve.
+
+**Repeat these.** They are what makes a retrieved section identify itself:
+
+- The feature name, in every section, instead of falling back to "it".
+- The heading's key terms, in the first sentence beneath it.
+- Whatever a step depends on, restated rather than pointed back at.
+
+**Do not repeat these.** Every fact gets one canonical home:
+
+- The same enumeration in two sections. If "When to use" lists the three things the feature finds and "What it returns" lists them again, one of the two sections is doing no work.
+- A fact stated in a lead paragraph and again in a bullet underneath it.
+- A limit or a redirect stated in one section and again in another.
+
+When a later section needs a fact that lives elsewhere, name the section or link the article instead of restating it. Repeating the feature name costs a reader nothing; repeating its capabilities costs them the answer they came for.
 
 ## Steps
 
@@ -112,13 +130,25 @@ Links to related articles are ordinary sentences or bullets, not callouts. Vary 
 
 ## Audience and permissions
 
-State who the article is for and what role or access it needs, in the opening paragraph or in the section where it first matters. Do not assume the member knows their own role. When a workflow is admin-only or broker-only, say so before the steps, not after them.
+State a role only when a role gates the workflow, or when the feature behaves differently depending on who is looking at it. Silence means every member has it.
 
-## Limitations
+- When a workflow is admin-only or broker-only, say so before the steps, not after them, and do not assume the member knows their own role.
+- When the feature is open to everyone, write nothing. A sentence whose only content is that everyone has the feature tells the member nothing and pushes the answer they came for further down the page.
+- When you cannot tell from the sources whether a restriction exists, leave a `[confirm: ...]` marker on its own. Never assert universal availability and then mark it unconfirmed in the same breath; the claim and the marker contradict each other, and the claim is the part Fin will quote.
 
-Document known limits, gaps, and workarounds explicitly, with exact numbers. "The report supports up to 500 listings. If your search returns more than 500, refine your search filters or reduce your selection before generating the report" is the standard. "Some searches are too large" is not.
+The Notion `Roles` property still records the audience for every article, whether or not the body says anything.
 
-All numbers, thresholds, limits, and durations are exact. No "some", "a few", "shortly", or unbounded ranges. If the real number is unknown, mark it `[confirm: <what is missing>]` and ask rather than guessing.
+## Constraints, and where to go instead
+
+Articles describe what Perchwell does. A member reading about a feature should come away knowing what it is for and where to go for the neighboring job, not carrying a list of what the feature fails to do.
+
+- **No Limitations section by default.** Do not open a section to catalog shortcomings, and do not go looking for downsides to fill one.
+- **State a constraint where the member meets it,** in the section they are already reading, and phrase it as the route forward: "To look up several listings at once, open the **Search** page and enter the IDs in the **MLS ID** filter, separated by commas." Not: "The Universal Search Bar cannot search more than one listing at a time."
+- **Prefer the positive frame.** "Saved Searches keep a search and send alerts" beats "quick lookups are not saved and do not send alerts." Both carry the same fact; only one leaves the member knowing what to do.
+- **A dedicated section is reserved** for a hard cap with an exact number that a member will hit mid-workflow, or for something irreversible. The 1004MC report's 500-listing cap is the model case. Even then, lead with the capability and follow with the number and the fix.
+- **Never a bare deficit.** A constraint with no alternative path and no consequence for the member does not go in the article at all.
+
+Where a limit is stated, it is stated precisely. All numbers, thresholds, limits, and durations are exact. No "some", "a few", "shortly", or unbounded ranges. If the real number is unknown, mark it `[confirm: <what is missing>]` and ask rather than guessing.
 
 ## Closing sections
 
@@ -136,7 +166,7 @@ All numbers, thresholds, limits, and durations are exact. No "some", "a few", "s
 - Name the actual UI element the member sees. "Filter by **Recently Created** or **New**" beats "filter your contacts".
 - State system behavior explicitly: what happens automatically, what is included by default, what is required, what cannot be undone.
 - Translate system terms into member behavior with a "which means" clause. "The report max date acts as the anchor date for every reporting period, which means each time window counts backward from this date."
-- Define abbreviations and product-specific terms on first use, including MLS-specific ones. Repeat the feature name through the article rather than switching to "it" after the first mention, because sections are retrieved alone.
+- Define abbreviations and product-specific terms on first use, including MLS-specific ones. Repeat the feature name through the article rather than switching to "it" after the first mention, because sections are retrieved alone. Repeat the name, not the facts attached to it. See Say each fact once.
 - Hedge predictions about people. "Members may ask" beats "members will ask".
 - No internal language: no employee names, no internal product terms the member cannot see, no casual asides.
 - Paragon and other legacy systems: follow the transition voice in `docs/product-context.md`. Never "old system", "retired", or "sunsetted".
@@ -192,12 +222,13 @@ Confirm before saving a draft:
 - Title is task-focused, title case, and matches the Notion `Article Name`
 - Description is 120 to 140 characters and names the feature
 - Body opens with "Use this article to ..." and states the outcomes, not the topic
-- Audience and any required role are stated
+- A role is stated only where one gates the workflow; no unverified claim that everyone has the feature
 - One primary goal; branching workflows link out
 - Title is the only H1; sections are H2; subsections and `Steps:` are H3
 - Every heading names what the section answers and carries the feature name where it fits
 - The first sentence under each heading echoes the heading's key terms
 - No section depends on "above", "then", or a previous section to make sense
+- No fact or enumeration appears in more than one section; the feature name repeats, its capabilities do not
 - Paragraphs run two to four sentences; long sections are broken up with subheadings
 - Steps are numbered, one action each, no terminal periods, UI elements bolded, and the block ends with what happens next
 - Tables carry an intro sentence
@@ -205,7 +236,7 @@ Confirm before saving a draft:
 - Every clickable element, filter, button, and nav item is bold; concepts are not
 - No "you can", "allows you to", or the verb "use" outside the accepted exceptions
 - No marketing adjectives from the do-not list
-- Defaults, limits, and irreversible actions are stated with exact numbers
+- Defaults and irreversible actions are stated with exact numbers; constraints are framed as the route forward, with no Limitations section unless a hard cap or an irreversible action earns one
 - System terms carry a "which means" clause
 - Abbreviations and product terms are defined on first use
 - Images have alt text; placeholders carry the alt text they will use

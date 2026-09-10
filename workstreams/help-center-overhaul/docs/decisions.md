@@ -2,6 +2,19 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-10: Four standard changes from the first article review
+
+Decided by Tara, after the team read the Universal Search Bar migration. Three of the four traced to the standard rather than to the skill: the skill wrote what the rules told it to write.
+
+- **MLS ID is the term.** Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and the live help center used both terms, sometimes in the same article. Recorded in the `docs/product-context.md` glossary and terminology rules.
+- **Silence means every member.** A role is named only where a role gates the workflow or changes the behavior. A sentence saying everyone has the feature tells the member nothing and pushes their answer down the page. An availability claim paired with a `[confirm: ...]` marker now fails the audience factor rather than passing it. The Notion `Roles` property still records the audience either way.
+- **Constraints are written as the route forward.** No Limitations section by default, and no hunting for downsides. A constraint the member will hit is stated where they meet it, as the alternative path: "To look up several listings at once, open the **Search** page and enter the IDs in the **MLS ID** filter." A dedicated section is reserved for a hard cap with an exact number that a member hits mid-workflow, or something irreversible; the 1004MC report's 500-listing cap is the model case, kept because suppressing it would generate the tickets the help center exists to prevent.
+- **Say each fact once.** The feature name repeats in every section so a retrieved section identifies itself. The facts attached to it do not. Golden question 8 asks for entities, not facts, and reading it loosely produced a draft that stated the same three record types six times in 84 lines.
+
+Propagated through `docs/product-context.md`, `docs/standards/content-standards.md` (new "Say each fact once" section; `Limitations` became `Constraints, and where to go instead`), `docs/standards/golden-questions.md` (house resolutions for factors 7, 8, and 13, following the factor 5 precedent), `docs/standards/fin-readiness-scorecard.md` (Chunk independence now six checks, two Answer completeness checks reworded), and both article skills with their templates and the Notion AI prompt. Scores recorded before this date are not comparable to scores after it.
+
+The Universal Search Bar draft was rewritten and rescored against the new rules: 91.4, unchanged in total, but the September 9 draft scores 77.6 on the new check set, which is what the review caught.
+
 ## 2026-09-09: /article-rewrite is the migration path into the new database
 
 Decided by Leo. Rather than a separate migration skill, `/article-rewrite` (version 2.0.0) now takes an old Master Article List page URL, merges it with the live mirror copy, rewrites to the standard, scores before and after, saves the draft and QA file, and creates the row in the Perchwell Help Center Database [Sep 2026] as a Draft. Property mapping from the old database lives in `.claude/skills/article-draft/references/notion-publishing.md` so both article skills share it. First article through: Universal Search Bar, Notion Draft `https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c`, scored 50.0 before and 91.4 after.

@@ -22,10 +22,18 @@ You are an experienced support professional editing a help center article for Pe
 
 **Headings:** Use H1 for the title only, H2 for sections, H3 for subsections. Make headings specific enough that a reader scanning the page can find what they need and Fin can tell what the section answers on its own: "Access Third-Party Integration Tools" beats "Access Integrated Tools." Carry the feature name into the heading, then echo the heading's key terms in the first sentence below it.
 
-**Callouts and links:** Callouts lead with a bold label: Note: for system behavior, Important: for a limit or something irreversible, Tip: for a recommendation. No emoji. Links to related articles are ordinary sentences, and the phrasing varies: "Learn how [feature] works in [article]," "[Article] covers [topic] in detail," "For step-by-step guidance on [task], see [article]." Never "click here."
+**Callouts and links:** Callouts lead with a bold label: Note: for system behavior, Important: for a hard cap with an exact number or something irreversible, Tip: for a recommendation. No emoji. Links to related articles are ordinary sentences, and the phrasing varies: "Learn how [feature] works in [article]," "[Article] covers [topic] in detail," "For step-by-step guidance on [task], see [article]." Never "click here."
 
 **Bold UI elements:** Bold all clickable elements, filter names, button labels, and navigation items (e.g., **Price Drop**, **Open Houses**, **Add/Edit**).
 
-**The bar:** The finished article should score in the Fin-ready band (90 or above) on the team's Fin-readiness scorecard: every section identifies its topic on its own, every step block says what happens after the last step, and every limit carries an exact number and a workaround.
+**Roles:** Name a role only when a role gates the workflow, or when the feature behaves differently depending on who is looking at it. When every member has the feature, say nothing. Never write that a feature is available to everyone, and never pair an availability claim with a note saying it is unconfirmed.
+
+**Constraints:** Describe what Perchwell does, not what a feature fails to do. Do not add a Limitations section and do not go looking for downsides. When a constraint is worth stating, put it in the section where the member meets it and write it as the route forward: "To look up several listings at once, open the Search page and enter the IDs in the MLS ID filter, separated by commas," not "the search bar cannot handle more than one listing." Reserve a dedicated section for a hard cap with an exact number that a member will hit mid-workflow, or for something irreversible.
+
+**Say each fact once:** Repeat the feature name in every section so a section retrieved on its own still identifies itself. Do not repeat the facts. Each fact gets one home; when a later section needs one that lives elsewhere, name that section or link the article instead of restating it. Two sections listing the same capabilities mean one of them is doing no work.
+
+**Terminology:** A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number."
+
+**The bar:** The finished article should score in the Fin-ready band (90 or above) on the team's Fin-readiness scorecard: every section identifies its topic on its own, every step block says what happens after the last step, and any hard cap carries an exact number and the route forward.
 
 Here is the article to rewrite:

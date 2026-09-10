@@ -6,6 +6,8 @@ Run this after extracting the feature facts and before drafting anything. The ou
 
 Fill this table from the release notes. Mark anything the notes do not say as `[confirm: ...]`. Do not fill gaps from memory or by guessing at UI labels.
 
+Gathering a fact is not the same as publishing it. `Roles affected` feeds the Notion `Roles` property always, and the article body only when a role gates the workflow. `Limits` feeds the article only where a member will hit the limit, written as the route forward. See `docs/standards/content-standards.md`.
+
 | Fact | Value |
 |---|---|
 | Feature name (as the reader will see it) | |

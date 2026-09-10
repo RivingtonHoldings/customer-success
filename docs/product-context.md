@@ -70,6 +70,7 @@ One line each, using the name members see in the product. Bold the name in artic
 | Term | Meaning, and how to phrase it for members |
 |---|---|
 | MLS | Multiple Listing Service. The shared listing database and platform real estate professionals use. Members know the term; do not define it in articles. |
+| MLS ID | The unique identifier for one listing. Always write "MLS ID", never "MLS number" or "MLS #". It is the label the member sees on the **MLS ID** filter and on listing cards. Members know the term; do not define it in articles. |
 | Member | A person using Perchwell through their MLS. Preferred over "user" in member-facing text. |
 | Cutover | The day the legacy system stops being the system of record and Perchwell takes over. For Baldwin, August 3, 2026. |
 | Parallel period | The months before cutover when both systems run at once. Baldwin's ran April through July 2026. |
@@ -83,6 +84,7 @@ One line each, using the name members see in the product. Bold the name in artic
 ## Terminology rules
 
 - Use the label the member sees on screen, spelled exactly as the UI spells it. "Add/Edit," not "the listing form."
+- A listing's identifier is the **MLS ID**. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
 - Say "member" for people using Perchwell and "client" for an invited buyer or seller.
 - Name Paragon neutrally when comparing. "In Paragon, printing lived under Reports. In Perchwell, every print starts from **Search**." Never "old system," "retired," or "sunsetted."
 - Translate system terms with a "which means" clause instead of assuming the member knows them.

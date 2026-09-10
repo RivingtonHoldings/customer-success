@@ -35,3 +35,29 @@ Factor 5 prefers "How to..." or question-form headings, and the older house styl
 - Article titles follow the approved Notion naming standard, which permits questions, "How to," and -ing constructions when they read more naturally, and prefers concise action-led titles otherwise.
 
 A draft no longer needs to note this choice in its open items.
+
+## How the house standard resolves factor 7
+
+Factor 7 asks the writer to state who the content is for and not to assume the reader knows their own role. Read literally, it produces a line on every article saying the feature is available to everyone, which is what the first migration test produced. `content-standards.md`, revised September 10, 2026, settles it:
+
+- A role is stated only where a role gates the workflow, or where the feature behaves differently depending on who is looking at it. Silence means every member.
+- The factor's real target is the reader who tries a workflow and fails because they lack access. An unrestricted feature has no such reader.
+- An unverified availability claim paired with a `[confirm: ...]` marker fails this factor rather than passing it. The claim is the part Fin quotes, and it is the part that is unverified.
+- The Notion `Roles` property records the audience for every article whether or not the body says anything, so the information is not lost.
+
+## How the house standard resolves factor 8
+
+Factor 8 asks for key entities to be repeated throughout the article so a section retrieved alone is still identifiable. It says entities, not facts, and the first migration test read it as license to state the same three capabilities in six places.
+
+- What repeats is the feature name, the heading's key terms in the sentence below it, and anything a step depends on.
+- What does not repeat is the fact itself. Each fact has one canonical home; a later section names that section or links the article instead of restating it.
+- `content-standards.md`, under Say each fact once, holds the full split.
+
+## How the house standard resolves factor 13
+
+Factor 13 requires that a limitation, when it is documented, be specific: which thing is not supported and what to do instead, rather than "some things aren't supported." It does not require a Limitations section, and it does not ask the writer to go looking for gaps.
+
+- The house standard writes constraints as the route forward, in the section where the member meets them, and reserves a dedicated section for a hard cap with an exact number or something irreversible.
+- A constraint stated as an alternative path passes this factor. "To look up several listings at once, use the **MLS ID** filter on the **Search** page" names the gap and the workaround in one sentence.
+- An article with no constraint worth stating passes the factor by saying nothing. It does not need to declare that the feature has no limitations.
+- `content-standards.md`, under Constraints, and where to go instead, holds the full rule.

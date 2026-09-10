@@ -174,11 +174,15 @@ Each metric in the 1004MC report receives an overall trend of **Increasing**, **
 
 The Explanation of Results is included by default. It documents your report date, your stable range, how trends were calculated, and how missing values were handled, which means you can review, validate, and retain the calculation logic with your appraisal file.
 
-## Limitations of the 1004MC report
+## Report size and data handling for the 1004MC report
+
+The 1004MC report runs on the exact listings in your result set or selection, and it handles up to 500 of them at a time.
 
 - The report supports up to 500 listings. If your search returns more than 500, refine your search filters or reduce your selection before generating the report
 - Missing data does not block report generation. If a listing is missing a field required for one metric, it is excluded from that metric only
 - Active listing counts come from a snapshot date for each period, not from every listing that was active at any point during the period
+<!-- This is the one case that earns a section of its own: a hard cap with an exact number that a member hits mid-workflow, with the fix in the same sentence. Most features have nothing like it and most articles should carry no such section. Note the heading names the capability, not the deficit, and the two data-handling bullets are system behavior the member cannot discover alone rather than shortcomings. -->
+
 
 ## Tips
 
@@ -193,12 +197,12 @@ What changed from the live article:
 - Renamed headings so each carries the feature: "Report creation" became "Create the report from your search results", "Reading the report" became "Read the 1004MC report".
 - Added lead sentences with heading echoes where the live article jumps from heading to list.
 - Added the missing "what happens next" line after the creation steps.
-- Split the live article's single "Tips" list: the three hard limits moved to a "Limitations of the 1004MC report" section, and only the recommendations stayed under "Tips".
+- Split the live article's single "Tips" list: the 500-listing cap and the two data-handling behaviors moved to "Report size and data handling for the 1004MC report", and only the recommendations stayed under "Tips". The section is named for what the report does, not for what it will not do, and it exists because the cap is a hard number a member hits mid-workflow. A feature without one gets no such section.
 - Moved the Declining label note into a **Note:** callout, since it is a correction Fin should surface.
 
 ## Why these two
 
 - Between them they cover both heading shapes: flat sibling sections, and sections with real subtopics.
 - Both are task-led, second person, imperative, with bolded UI elements and exact numbers.
-- Both state system behavior the member could not discover alone: the client needs no account, liked listings return to the Tag, the 500-listing ceiling, how the median-of-percentages metric is derived.
+- Both state system behavior the member could not discover alone: the client needs no account, liked listings return to the Tag, the 500-listing ceiling, how the median-of-percentages metric is derived. Each is stated once, in the section where the member meets it.
 - Neither uses marketing language, em dashes, or a support footer.

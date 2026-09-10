@@ -1,6 +1,6 @@
 # Transformation Patterns Reference
 
-Detailed examples for each of the 9 help center article transformation patterns. Use these as a guide when rewriting articles.
+Detailed examples for each of the 10 help center article transformation patterns. Use these as a guide when rewriting articles.
 
 ## 1. Jobs-to-be-Done Opening
 
@@ -108,7 +108,7 @@ Two rules that used to be one.
 **After:**
 > **Tip:** Use fewer columns to keep the printout easy to read.
 
-Labels are **Note:** for system behavior, **Important:** for a limit, a deadline, or something irreversible, and **Tip:** for a recommendation. Do not stack two callouts, and do not use one where a plain sentence in the flow would carry the point just as well.
+Labels are **Note:** for system behavior, **Important:** for a hard cap with an exact number, a deadline, or something irreversible, and **Tip:** for a recommendation. Do not stack two callouts, and do not use one where a plain sentence in the flow would carry the point just as well. An **Important:** callout is not the place for a soft constraint; write that as the route forward in the section where the member meets it.
 
 **Link phrasing varies.** Links to related articles are ordinary sentences or bullets, not callouts.
 
@@ -127,7 +127,9 @@ Look for features that exist in the product but aren't mentioned in the article.
 - The Add/Edit management tools accessible from the Listings Widget
 - The pencil icon for opening the Add/Edit form on eligible listings
 
-When updating, ask: "What can the user actually do with this feature that isn't documented here?"
+When updating, ask: "What can the member actually do with this feature that isn't documented here?"
+
+The question is about missing capabilities and missing steps. It is not a hunt for shortcomings. Add a constraint only when a member will hit it, and write it as the route forward, in the section where they meet it. See `docs/standards/content-standards.md`, Constraints, and where to go instead.
 
 ## 9. Bold UI Elements
 
@@ -145,3 +147,48 @@ Consistently bold all interactive elements so readers can scan for them.
 - General concepts (e.g., "real-time market activity")
 - Section titles (headings handle their own emphasis)
 - Feature names when used as regular nouns in a sentence (e.g., "hot sheets update automatically")
+
+## 10. Say It Once
+
+Fin retrieves sections alone, so the feature name repeats in every section. The facts attached to it do not. Repeat the name; give each fact one home.
+
+The first migration test is the worked example. The Universal Search Bar draft stated the same three record types six times in 84 lines, across three consecutive sections that each enumerated them again.
+
+**Before:**
+
+> ## When to use the Universal Search Bar
+> Open the Universal Search Bar when you already know which listing, agent, or contact you want.
+> - Open one listing by its address or MLS ID
+> - Open an agent's profile by name
+> - Open a contact's record by name or email
+>
+> ### Steps:
+> 2. Type one of the following:
+>    - An address
+>    - An MLS ID
+>    - An agent name
+>    - A contact name or email
+>
+> ## What the Universal Search Bar returns
+> The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
+> - **Listings.** ...
+> - **Agents.** ...
+> - **Contacts.** ...
+
+**After:** one canonical enumeration, in the section whose job it is.
+
+> ## When to use the Universal Search Bar
+> Open the Universal Search Bar when you already know which record you want and need to reach it without building a search.
+>
+> ### Steps:
+> 2. Type an address, an **MLS ID**, or a name
+>
+> ## What the Universal Search Bar returns
+> The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
+> - **Listings.** Match on address or **MLS ID**. ...
+> - **Agents.** Match on name. ...
+> - **Contacts.** Match on name or email. ...
+
+Each section still names the feature, still stands alone, and still answers the question a member would ask it. Nothing is said twice.
+
+**The test:** list every distinct fact in the draft. Each should appear in exactly one section. When a later section needs one that lives elsewhere, name that section or link the article rather than restating it.

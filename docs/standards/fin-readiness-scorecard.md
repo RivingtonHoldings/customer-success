@@ -2,13 +2,15 @@
 
 A per-article score that says how well Fin can retrieve and answer from an article. It sits on top of the content standard (`content-standards.md`) and the golden questions (`golden-questions.md`) in this folder, and it exists so that a rewrite can be judged before and after, and so the audit, the QA pass, and the skills all measure articles with the same yardstick.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Fin answer-quality owner: Rafe Petkovic, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 9, 2026, after the first migration test (Universal Search Bar).
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Fin answer-quality owner: Rafe Petkovic, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 9, 2026, after the first migration test (Universal Search Bar). Revised September 10, 2026, when the team reviewed that test and changed the audience, limitations, and redundancy rules.
 
 ## How the score works
 
 Two layers. The gate decides whether the article is allowed to be called Fin-ready. The score says how far it is from that bar and which part of the article is holding it back.
 
 **Gate: the 14 golden questions.** Each one passes or fails. One failure means the article is not Fin-ready, whatever the score says, because each factor is something Intercom's Content Readiness check scores on its own.
+
+**Check set.** The checks below are the September 10, 2026 set. Chunk independence gained a sixth check that day, and two Answer completeness checks were reworded, so a score recorded before that date is not directly comparable to one recorded after. A rescored article says which set it used.
 
 **Score: 0 to 100 across five dimensions.** Each dimension is a list of yes or no checks. The dimension score is the checks passed divided by the checks in the list, multiplied by the weight. The total is the sum of the five. Every check traces to a rule in the content standard or to Intercom's Fin guidance, which means a failed check always has a known fix.
 
@@ -29,20 +31,21 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 5. The first sentence under every heading echoes the heading's key terms
 6. No heading appears twice in the article
 
-### Chunk independence (25 points, 5 checks)
+### Chunk independence (25 points, 6 checks)
 
 1. No section depends on "above", "then", or the section before it
 2. The feature name is repeated in every section; sections do not fall back to "it"
 3. Each section covers one topic; long sections are split with H3 subheadings
 4. Paragraphs run two to four sentences
 5. Heading levels are H1 title only, H2 sections, H3 subsections and `Steps:`
+6. No fact or enumeration is stated in more than one section; the feature name repeats, its capabilities do not
 
 ### Answer completeness (25 points, 7 checks)
 
 1. Every `Steps:` block ends with what happens after the last step
-2. Audience and any required role are stated
+2. A role is stated where one gates the workflow or changes the behavior, and the article makes no unverified claim that every member has the feature
 3. Defaults and system behavior are stated, with a "which means" clause for system terms
-4. Limits, gaps, and the workaround for each are documented, or the article states that the feature has none
+4. Any constraint a member will hit is stated where they meet it, framed as the route forward; no Limitations section unless a hard cap or an irreversible action earns one
 5. Every number, threshold, and duration is exact; nothing is "some" or "a few"
 6. Abbreviations and product terms are defined on first use
 7. Related workflows are linked with descriptive text instead of re-explained

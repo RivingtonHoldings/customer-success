@@ -13,7 +13,7 @@ Heading levels are fixed: H1 is the article title and nothing else, H2 is a majo
 
 **Description:** <120 to 140 characters: what the member will accomplish, naming the feature.>
 
-Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<If the article is role-limited, say so here: "You need <role> access to ..."><If a walkthrough exists, the Loom or Arcade link goes on the next line.>
+Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only if a role gates the workflow, say so here: "You need <role> access to ..." Otherwise write nothing; silence means every member.><If a walkthrough exists, the Loom or Arcade link goes on the next line.>
 
 > Video placeholder: <what the walkthrough should show, from where to where>
 
@@ -58,11 +58,11 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<If t
 
 <Plain sentence or bullet linking the related article, phrasing varied: "Learn how column templates work in [<Related Article Title>](<url>).">
 
-## Limitations of <the feature>
+## <Only when a hard cap or an irreversible action earns it: name the capability, not the deficit>
 
-<Exact limits, gaps, and the workaround for each. Delete this section only when the feature genuinely has none.>
+<Most articles have no section here. Delete it unless the feature has a hard cap with an exact number that a member hits mid-workflow, or something irreversible. A softer constraint goes in the section where the member meets it, written as the route forward: "To look up several listings at once, open the **Search** page and enter the IDs in the **MLS ID** filter, separated by commas." Never open a section to catalogue what the feature will not do.>
 
-- <Limit with the exact number, then what to do instead>
+- <The exact number, then what to do instead, in the same bullet>
 
 ## Things to Know
 
@@ -74,7 +74,8 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<If t
 Notes on the skeleton:
 
 - No `In this article:` heading and no support footer. The opening paragraph does that work in the form Intercom asks for, and Intercom renders Related Articles and the feedback prompt itself.
-- The audience sentence in the opening paragraph is not optional when the workflow needs a role. It is how the article passes the audience factor in the golden questions.
+- The audience sentence is required when a role gates the workflow and omitted when it does not. Silence means every member; a line saying everyone has the feature tells the member nothing and pushes their answer down the page. See "How the house standard resolves factor 7" in `docs/standards/golden-questions.md`.
+- Each fact belongs in one section. The feature name repeats throughout so a retrieved section identifies itself; its capabilities do not. If "When to use" and a later section enumerate the same things, cut one.
 - Screenshot placeholders carry the alt text the image will use, so the media owner does not have to invent it later.
 
 ## Multi-path workflow table
