@@ -10,19 +10,26 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 
 **Gate: the 14 golden questions.** Each one passes or fails. One failure means the article is not Fin-ready, whatever the score says, because each factor is something Intercom's Content Readiness check scores on its own.
 
-**Check set.** The checks below are the September 10, 2026 set. Chunk independence gained a sixth check that day, Fin-parsable formatting gained an eighth, and two Answer completeness checks were reworded, so a score recorded before that date is not directly comparable to one recorded after. A rescored article says which set it used.
+**Check set.** The checks below are the September 10, 2026 set, revision 2.
+
+- **Revision 1**, earlier the same day, gave Chunk independence a sixth check and Fin-parsable formatting an eighth, and reworded two Answer completeness checks.
+- **Revision 2** followed the Dashboard Overview migration. Retrieval signals gained a seventh check, for list order, and Accuracy and confidence gained a fifth, for member-controlled verbs.
+
+A score recorded against an earlier set is not directly comparable, because both revisions changed dimension divisors. Every scorecard names the set and revision it used, and so does a rescore.
+
+Two QA files predate revision 2. Dashboard Overview has been rescored: the rewrite holds at 96.4, and the original drops from 51.0 to 46.3, out of Needs rewrite and into Not retrievable as written, because the live article fails both new checks. Universal Search Bar is still on revision 1. Its current draft passes both new checks, which lifts it from 95.0 to 95.7; the live-article and September 9 columns in that file have not been rechecked against the new checks and are still revision 1 numbers.
 
 **Score: 0 to 100 across five dimensions.** Each dimension is a list of yes or no checks. The dimension score is the checks passed divided by the checks in the list, multiplied by the weight. The total is the sum of the five. Every check traces to a rule in the content standard or to Intercom's Fin guidance, which means a failed check always has a known fix.
 
 | Dimension | Weight | What it measures |
 |---|---|---|
-| Retrieval signals | 30 | Whether the title, description, opening, and headings carry the words a member types, so Fin finds the right section |
+| Retrieval signals | 30 | Whether the title, description, opening, and headings carry the words a member types, so Fin finds the right section, and whether the article's shape matches what the opening promised |
 | Chunk independence | 25 | Whether each section still makes sense and identifies its topic when Fin retrieves it alone |
 | Answer completeness | 25 | Whether a retrieved section contains a whole answer: what to do, what happens next, who it applies to, what the limits are |
 | Fin-parsable formatting | 10 | Whether the HTML Fin reads has clean headings, lists, labels, and alt text |
-| Accuracy and confidence | 10 | Whether every fact is sourced and every unknown is marked instead of guessed |
+| Accuracy and confidence | 10 | Whether every fact is sourced, every unknown is marked instead of guessed, and the voice stays inside the standard's do-not lists |
 
-### Retrieval signals (30 points, 6 checks)
+### Retrieval signals (30 points, 7 checks)
 
 1. The title is task-focused and names the outcome, per the naming standard
 2. The description is 120 to 140 characters and names the feature
@@ -30,6 +37,7 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 4. Every H2 and H3 names what the section answers and carries the feature name where it fits
 5. The first sentence under every heading echoes the heading's key terms
 6. No heading appears twice in the article
+7. The sections follow the order of any list in the opening paragraph or a lead sentence, and every item in that list has a section behind it
 
 ### Chunk independence (25 points, 6 checks)
 
@@ -61,12 +69,13 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 7. No horizontal rules, HTML, toggles, or columns
 8. No em dashes
 
-### Accuracy and confidence (10 points, 4 checks)
+### Accuracy and confidence (10 points, 5 checks)
 
 1. Every fact traces to release notes, the live article, or a Notion page
 2. Anything unconfirmed is marked `[confirm: ...]`, never guessed; no hedged source has been strengthened into a definite or universal claim; and no marker sits on a detail while the claim around it goes unmarked
 3. No marketing adjectives from the do-not list in the content standard
 4. No legacy platform is named; the comparison says "a legacy platform" and keeps the legacy feature name
+5. Verbs name what the member does rather than what the screen does back, and no "you can", "allows you to", or verb "use" outside the accepted exceptions
 
 ## Bands
 

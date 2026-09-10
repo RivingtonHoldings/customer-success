@@ -2,7 +2,7 @@
 
 The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test. List order and member-controlled verbs added September 10, 2026 after the Dashboard Overview migration.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -51,6 +51,7 @@ The body opens with one paragraph that states what the member will accomplish, n
 - Name the feature in the sentence, not just in the title.
 - Say who the article is for only when a role or access level gates the workflow: "Use this article, as a broker or brokerage admin, to ..." When every member has the feature, say nothing. See Audience and permissions.
 - Do not write "This article covers ..." or "In this article, you will learn how to ..." Both describe the topic instead of the outcome, and Intercom names the first as the weak form.
+- When the opening lists several outcomes or areas, the sections follow that order. See Enumerations set the section order, under Structure and heading levels.
 
 If a Loom or Arcade walkthrough exists, it goes directly under this paragraph. The article must stand on its own without it, and the written steps must match the video exactly.
 
@@ -65,6 +66,8 @@ Intercom renders the article title in its own tag, and recommends an H1 carrying
 | H3 | Subsections, and the `Steps:` heading |
 
 Section order for a workflow article, dropping what does not apply: when to use it, create or start, customize or configure, share or export, tips.
+
+**Enumerations set the section order.** When the opening paragraph, or any lead sentence, lists several things the article covers, the sections follow that list in the same order. A member who reads "market activity, your contacts, your saved searches, your tags, and your listings" and then scans for tags should land on the fourth section rather than hunt for it. The list and the headings are the same promise made twice, so they cannot disagree. Reorder the sections or reorder the list, whichever reads better, but do not leave them crossed. An item in the list with no section behind it is a gap: either the section is missing or the item does not belong in the list. The Dashboard Overview migration hit both halves of this at once, promising four areas while the article delivered five sections.
 
 Similar features use the same section names so a member who has read one recognizes the next. Reports, for example: "Create a \<report\>", "Customize the \<report\>", "Share the \<report\>".
 
@@ -165,6 +168,7 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 - Second person, imperative, matter of fact. You are an experienced support professional guiding a busy real estate professional.
 - Remove "you can", "allows you to", "you are able to". Write "Click Manage widgets to customize your layout".
 - Avoid the verb "use" as a stand-in for the real action. Open, click, select, run, apply, enter, drag, check. "When to use" headings are the accepted exception, along with the "Use this article to ..." opening.
+- Put the member in control of the product. The verb names what the member does, not what the screen does back: "adjust which widgets display", not "change which widgets appear". This is the same instinct as removing "you can", carried into the verb itself. Describing the system is still correct where the system is genuinely the actor, as in "the widget updates automatically"; the rule governs the actions a member takes.
 - Active voice, short sentences, one idea per sentence.
 - No marketing adjectives or framing: streamlined, powerful, elegant, seamless, professional leave-behind, uncover insights, smarter decision-making, ideal for, perfect for, game-changing. Describe the function instead.
 - Name the actual UI element the member sees. "Filter by Recently Created or New" beats "filter your contacts". Name it exactly; do not bold it.
@@ -230,6 +234,7 @@ Confirm before saving a draft:
 - Body opens with "Use this article to ..." and states the outcomes, not the topic
 - A role is stated only where one gates the workflow; no unverified claim that everyone has the feature
 - One primary goal; branching workflows link out
+- Sections follow the order of any list in the opening paragraph or a lead sentence, and every item in that list has a section behind it
 - Title is the only H1; sections are H2; subsections and `Steps:` are H3
 - Every heading names what the section answers and carries the feature name where it fits
 - The first sentence under each heading echoes the heading's key terms
@@ -242,6 +247,7 @@ Confirm before saving a draft:
 - Callouts lead with a bold **Note:**, **Important:**, or **Tip:** label; no emoji; none stacked
 - No bold in the body; only the callout labels and the `**Description:**` line carry it
 - No "you can", "allows you to", or the verb "use" outside the accepted exceptions
+- Verbs name what the member does rather than what the screen does back
 - No marketing adjectives from the do-not list
 - Defaults and irreversible actions are stated with exact numbers; constraints are framed as the route forward, with no Limitations section unless a hard cap or an irreversible action earns one
 - System terms carry a "which means" clause
