@@ -18,7 +18,7 @@ Every score below uses the **September 10, 2026 check set**: Chunk independence 
 
 The team read the September 9 draft and returned four points: use MLS ID rather than MLS number, cut role-access language that says nothing, stop leading with what the feature will not do, and keep the structure Fin needs without repeating the same facts. Three of the four traced to the standard rather than to the draft: the standard required an audience statement, made a Limitations section the default, and had no rule against restating facts. The standard, the scorecard, and both skills were revised on September 10 and the draft was rewritten against them.
 
-A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar".
+A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
 ## Source differences (live wins)
 
@@ -83,12 +83,12 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | Where is the search bar to find an agent? | Partly (says "top of your screen") | Yes (Search field, upper right of the top navigation) |
 | Can I search for a contact by email? | Yes | Yes |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
-| Can I search several MLS IDs at once in the top search bar? | No | No, by decision (see coverage note) |
+| Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
 | Does the search bar show closed or expired listings? | Yes | Yes, with what the status badge looks like |
 | How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | No, by decision (see coverage note) |
 | How do I filter by price? | No | Yes, from When to use, links Create a Search with Filters |
 
-**Coverage note.** Two of these questions were answerable from the September 10 morning draft and are not answerable from this one. Tara cut the multi-MLS-ID route and the Saved Searches route on 2026-09-10 to keep the article on the Universal Search Bar. Both questions have a better home: [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) already answers the multi-ID one, and [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) already answers the other. Worth confirming in Fin testing that both retrieve from those articles, since this one no longer carries them.
+**Coverage note.** Scope was cut on 2026-09-10 to keep the article on the Universal Search Bar, then the multi-MLS-ID answer was put back into the Look up a record section, where a member asking it would land. Saving a search is the one question that left: [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) is its proper home, and Fin testing should confirm it retrieves from there rather than from this article.
 
 ## Open items
 

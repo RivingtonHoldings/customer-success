@@ -38,7 +38,7 @@ To build a search from criteria such as price, property type, status, or locatio
 
 ## Look up a record with the Universal Search Bar
 
-Look up a record from the Universal Search Bar, the **Search** field in the upper right of the top navigation. It sits on every page in Perchwell, which means you do not need to open the **Search** page first.
+Look up a record from the Universal Search Bar, the **Search** field in the upper right of the top navigation. It sits on every page in Perchwell, which means a lookup is always one click away, wherever you are working.
 
 ### Steps:
 
@@ -47,6 +47,8 @@ Look up a record from the Universal Search Bar, the **Search** field in the uppe
 3. Click a result
 
 Matches appear in a panel below the field as you type, and the result you click opens that record.
+
+Each lookup opens one record. To pull up several listings together, open the **Search** page, find the **MLS ID** filter under **Listing Visibility & Access**, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
 ![The Perchwell top navigation with the Search field highlighted in the upper right, next to the profile photo, above the Search page filters](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)
 
