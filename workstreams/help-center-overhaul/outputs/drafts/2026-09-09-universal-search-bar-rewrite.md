@@ -60,7 +60,7 @@ The Universal Search Bar returns matching records of three types: listings, agen
 - **Agents.** Matched on name, and the result opens the agent's profile.
 - **Contacts.** Matched on name or email address, and the result opens the contact's record. Results come from your own contacts, not from other agents' contacts in your brokerage.
 
-Partial entries return close matches, which means an address that matches the street name but not the street number still appears in the results. Keep typing to narrow the list. [confirm: what appears when an entry matches nothing at all, not even partially]
+Partial entries return close matches, which means an address that matches the street name but not the street number still appears, and so does a record matching only a number you typed. Keep typing to narrow the list.
 
 ![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and an Active Sale or Closed status badge](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)
 

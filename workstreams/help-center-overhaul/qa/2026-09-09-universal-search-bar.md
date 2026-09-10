@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A tenth pass closed the last content question. Tara confirmed on 2026-09-10 that matching is always partial, down to a single number, so there is no empty-result state to document. The sentence names both examples she gave, an address matching the street name but not the number and a record matching only a number, which also answers the likelier member question of why unrelated-looking results appear. Answer completeness goes to 7 of 7 and the total to 95.0. Retrieval signals 1 is the only failing check left, and it is Leo's title decision rather than a defect.
+
 A ninth pass documented partial matching. Tara confirmed on 2026-09-10 that the Universal Search Bar returns records sharing partial information, so an address matching the street name but not the street number still appears. That is the near-miss case, and it is almost certainly the more common one for a member who cannot find a listing. It does not settle the literal zero-result state, so the marker was narrowed rather than removed, and answer completeness 3 still fails on that gap.
 
 An eighth pass resolved the exact-address question. Tara confirmed on 2026-09-10 that an exact address returns a direct match, the same as an exact MLS ID. Worth recording why this one mattered beyond the fact: the July Notion page carried it, the August live article had dropped it, and the house rule is that the live article wins on facts. Here the live article was the one missing something true. The rule that saved it is the other one, that every difference between the sources goes to the reviewer and is never merged silently, which is how the question reached Tara at all. No change to the precedence rule; the diff step is what makes it safe.
@@ -76,10 +78,10 @@ All three columns on the September 10 check set, so the middle column shows what
 |---|---|---|---|---|
 | Retrieval signals | 30 | 10.0 (2 of 6) | 25.0 (5 of 6) | 25.0 (5 of 6) |
 | Chunk independence | 25 | 12.5 (3 of 6) | 20.8 (5 of 6) | 25.0 (6 of 6) |
-| Answer completeness | 25 | 14.3 (4 of 7) | 14.3 (4 of 7) | 21.4 (6 of 7) |
+| Answer completeness | 25 | 14.3 (4 of 7) | 14.3 (4 of 7) | 25.0 (7 of 7) |
 | Fin-parsable formatting | 10 | 3.8 (3 of 8) | 8.8 (7 of 8) | 10.0 (8 of 8) |
 | Accuracy and confidence | 10 | 10.0 (4 of 4) | 7.5 (3 of 4) | 10.0 (4 of 4) |
-| **Total** | 100 | **50.5** | **76.4** | **91.4** |
+| **Total** | 100 | **50.5** | **76.4** | **95.0** |
 
 Bands: live, Needs rewrite. September 9 draft, Ready with fixes. Current draft, Fin-ready, gate passed. The live and September 9 columns both lose a point on the new formatting check 3, since both bolded UI elements under the pre-September 10 house style.
 
@@ -87,7 +89,7 @@ Failed checks, live: title is a bare noun; no "Use this article to" opening; two
 
 Failed checks, September 9 draft: chunk independence 6 (the listings/agents/contacts enumeration in three consecutive sections); answer completeness 2 (an unverified claim that every member role has the feature); answer completeness 4 (a Limitations section for three constraints, none of which is a hard cap or irreversible); accuracy 2 (the availability claim was a guess carrying its own confirm marker); plus the two below.
 
-Failed checks, September 10 draft: retrieval signals 1 (the title stays a bare noun by Leo's choice; the description and opening carry the task words instead) and answer completeness 3 (the article documents partial matching but not the literal zero-result state; marked `[confirm: ...]`). Resolving that marker takes Answer completeness to 7 of 7 and the total from 91.4 to 95.0.
+Failed checks, current draft: retrieval signals 1 only. The title stays a bare noun by Leo's choice, and the description and opening carry the task words instead. This is a decision rather than a defect, so the article is at the practical ceiling for its agreed title.
 
 ## Fin test questions
 
@@ -101,14 +103,13 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
 | Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
 | Does the search bar show closed or expired listings? | Yes | Yes, and it says results are not limited to active listings, with off-market confirmed |
-| How do I save the search I typed in the top bar? | No (says it is not for saved searches, no next step) | No, by decision (see coverage note) |
+| Why am I seeing listings that are not the address I typed? | No | Yes, partial matching is explained in What the Universal Search Bar returns |
 | How do I filter by price? | No | Yes, from When to use, links Create a Search with Filters |
 
-**Coverage note.** Scope was cut on 2026-09-10 to keep the article on the Universal Search Bar, then the multi-MLS-ID answer was put back into the Look up a record section, where a member asking it would land. Saving a search is the one question that left: [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) is its proper home, and Fin testing should confirm it retrieves from there rather than from this article.
+**Coverage note.** Scope was cut on 2026-09-10 to keep the article on the Universal Search Bar, then the multi-MLS-ID answer was put back into the Look up a record section, where a member asking it would land. Saving a search is the one question that left, and its table row was retired on 2026-09-10 in favor of the partial-match question, since the coverage note below already tracks it for Fin testing: [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) is its proper home, and Fin testing should confirm it retrieves from there rather than from this article.
 
 ## Open items
 
-- [confirm: what appears when an entry matches nothing at all, not even partially] (What the Universal Search Bar returns). Narrowed on 2026-09-10: Tara confirmed the partial-match behavior, which covers the near-miss case. The true empty state is still undocumented, and it is the last thing standing between this article and a clean scorecard
 - [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
