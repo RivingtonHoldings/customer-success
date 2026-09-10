@@ -20,11 +20,11 @@ If the release notes leave out a UI label, a default, a limit, or a step, do not
 
 ## Workflow
 
-1. **Read context.** Read `references/macro-format.md` in full. Read the conversation register in the root `CLAUDE.md`. If the feature touches the Paragon transition, read the terminology rules in `docs/product-context.md`.
+1. **Read context.** Read `references/macro-format.md` in full. Read the conversation register in the root `CLAUDE.md`. If the feature touches a legacy platform transition, read the terminology rules in `docs/product-context.md`. A macro may name the member's actual legacy platform, unlike a help center article, because a conversation is with one member of one MLS; say which MLS the macro is for.
 2. **Extract the feature facts.** From the release notes only: entry point, exact UI labels, step order, defaults, limits, side effects (emails sent, data changed, anything automatic), and who can see the feature. Every blank becomes a `[confirm: ...]` marker.
 3. **Anticipate the questions.** List the distinct questions members are likely to ask, phrased the way a member would type them into chat. Sweep these categories; most features produce 2 to 5 questions, not one per category:
    - **How do I ...?** The core workflow, and any secondary workflow with its own entry point.
-   - **Where is / where did ... go?** Anything moved, renamed, or replaced, especially for members coming from Paragon.
+   - **Where is / where did ... go?** Anything moved, renamed, or replaced, especially for members coming from a legacy platform.
    - **Why did ... happen?** Side effects members notice before they notice the feature: an email their client received, a changed default, a new item in their UI.
    - **Can I still / how do I undo ...?** Old behavior members may want back, settings they can change, actions they can reverse.
    - **What happens to my ...?** Existing data, saved settings, things migrated or defaulted on their behalf.

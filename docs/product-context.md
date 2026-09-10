@@ -74,7 +74,7 @@ One line each, using the name members see in the product. Bold the name in artic
 | Member | A person using Perchwell through their MLS. Preferred over "user" in member-facing text. |
 | Cutover | The day the legacy system stops being the system of record and Perchwell takes over. For Baldwin, August 3, 2026. |
 | Parallel period | The months before cutover when both systems run at once. Baldwin's ran April through July 2026. |
-| System of record | The system where a listing officially lives. "Paragon was the system of record, which means new listings still happened in Paragon." |
+| System of record | The system where a listing officially lives. "The legacy platform was the system of record, which means new listings still happened there." |
 | RESO | The industry standards body for real estate data. Rarely needed in member content. |
 | Masquerading | An MLS staff ability to log in as a member for support. Staff-facing only; do not mention in member articles. |
 | Modal | A pop-up window that opens over the page, such as the one the Universal Search Bar opens in the center of the screen. Use "modal" in articles, and keep using it rather than switching to "window", "panel", or "pop-up" partway through. |
@@ -88,7 +88,7 @@ One line each, using the name members see in the product. Bold the name in artic
 - A pop-up window that opens over the page is a modal. One word for it, used consistently, so a member and Fin both track the same thing.
 - A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
 - Say "member" for people using Perchwell and "client" for an invited buyer or seller.
-- Name Paragon neutrally when comparing. "In Paragon, printing lived under Reports. In Perchwell, every print starts from **Search**." Never "old system," "retired," or "sunsetted."
+- Articles say "a legacy platform", never the platform's name, because one article serves more than one MLS and members came from different systems. Keep the legacy feature name, which is what a member actually searches for: "In a legacy platform this was called Power Search." Conversation replies and macros may name the platform, since you know which MLS the member belongs to. Never "old system," "retired," or "sunsetted."
 - Translate system terms with a "which means" clause instead of assuming the member knows them.
 - Hedge predictions about people. "Clients may ask" rather than "clients will ask."
 - Do not use internal names, employee names, or Notion property values in member-facing text.

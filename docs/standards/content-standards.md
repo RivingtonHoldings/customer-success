@@ -175,7 +175,7 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 - Define abbreviations and product-specific terms on first use, including MLS-specific ones. Repeat the feature name through the article rather than switching to "it" after the first mention, because sections are retrieved alone. Repeat the name, not the facts attached to it. See Say each fact once.
 - Hedge predictions about people. "Members may ask" beats "members will ask".
 - No internal language: no employee names, no internal product terms the member cannot see, no casual asides.
-- Paragon and other legacy systems: follow the transition voice in `docs/product-context.md`. Never "old system", "retired", or "sunsetted".
+- Legacy platforms are never named in an article. One article serves more than one MLS, and members came from different systems, so write "a legacy platform" and keep the legacy feature name the member would recognize. Full transition voice in `docs/product-context.md`. Never "old system", "retired", or "sunsetted".
 
 ## Formatting
 
@@ -209,7 +209,7 @@ Articles that predate this standard live in the old Notion Master Article List a
 
 - **Source precedence.** The live Intercom article (mirrored under `docs/help-center/`) wins on facts, because it is what members and Fin see today. The old Notion page supplies the video link, the properties, and the click script as a hint for the article's outcomes. Every difference between the two is listed for the reviewer, never merged silently.
 - **Drop:** the `In this article:` heading, horizontal rules, emoji-led lines and emoji pointers, the "Click Script" toggle (a video script, not article content), the trailing Perchwell banner image, the support footer, and internal prefixes such as `NYC|`.
-- **Carry:** the Loom or Arcade URL, directly under the opening paragraph; every image, with alt text written for it; the Paragon comparison, in the neutral transition voice.
+- **Carry:** the Loom or Arcade URL, directly under the opening paragraph; every image, with alt text written for it; the legacy-platform comparison, with the platform genericized and the legacy feature name kept.
 - **Retitle** when the old title is a bare noun, following the naming standard, and record the old title so the Intercom redirect and the audit can find it. The team may keep a familiar bare-noun title; when it does, the description and the opening paragraph carry the task words instead.
 - **Feature name versus on-screen label.** When the feature's name is not what the member sees on screen (the Universal Search Bar is the Search field in the top navigation), the first step names the on-screen label exactly and the lead sentence ties the two together.
 - **Alt text comes from the actual screenshot.** Open the image and describe what it shows; do not write alt text from the surrounding prose. A migrated article keeps its live Intercom CDN images when their URLs are stable.

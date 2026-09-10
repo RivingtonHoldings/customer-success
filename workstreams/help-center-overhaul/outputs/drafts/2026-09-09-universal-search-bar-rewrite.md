@@ -66,5 +66,5 @@ Partial entries return close matches, which means an address that matches the st
 
 ## Things to Know
 
-- Members who came from Paragon may know the Universal Search Bar as Power Search, its name in Paragon. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) lists the other Paragon names and their Perchwell equivalents.
+- Members who came from a legacy platform may know the Universal Search Bar as Power Search. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
 - In the Perchwell mobile app, the Universal Search Bar sits at the top of the Search tab, and only on that tab. Once you are there, the lookup works the same way as in a browser.
