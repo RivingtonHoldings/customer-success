@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A fourth pass corrected a factual error. The draft said matches appear "in a panel below the field", which no source supports: the live article says only "Results populate as you type", so the placement was invented during the September 9 rewrite and read plausibly enough to survive two reviews. Clicking the **Search** field opens a search window in the center of the screen, and that is where the member types and where matches appear. Corrected in the steps, the post-steps line, the returns section, and the second screenshot's alt text.
+
 A third pass removed the inventory of listing-card fields from the Listings bullet. A member reading results is looking at the card; listing its fields back added length and answered nothing. What the section keeps is behavior: how a listing is matched, that an exact MLS ID is a direct match, and which statuses appear. The screenshot alt text still describes the card, because alt text is written for people who cannot see the image.
 
 ## Source differences (live wins)
@@ -82,7 +84,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 | Question a member may ask | Live article, one section | Draft, one section |
 |---|---|---|
 | How do I look up a listing by MLS ID? | Yes | Yes |
-| Where is the search bar to find an agent? | Partly (says "top of your screen") | Yes (Search field, upper right of the top navigation) |
+| Where is the search bar to find an agent? | Partly (says "top of your screen") | Yes (Search field, upper right of the top navigation, opening a search window) |
 | Can I search for a contact by email? | Yes | Yes |
 | What happened to Power Search? | Yes | Yes, with a link to New Terminology |
 | Can I search several MLS IDs at once in the top search bar? | No | Yes, from Look up a record, with the MLS ID filter route and a link |
@@ -98,6 +100,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 - [confirm: whether an exact address returns a direct match; the July Notion draft said so and the live article dropped it] (What the Universal Search Bar returns)
 - [confirm: whether contact results include only your own contacts or every contact in the brokerage] (What the Universal Search Bar returns)
 - [confirm: what the Universal Search Bar shows when nothing matches] (What the Universal Search Bar returns)
+- [confirm: whether the search window has an on-screen name members would recognize; "search window" is descriptive, not a label taken from the UI] (Look up a record with the Universal Search Bar)
 - [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
