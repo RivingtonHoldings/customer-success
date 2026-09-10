@@ -47,8 +47,6 @@ The Hot Sheets widget on the Dashboard tracks listing activity from current MLS 
 - New Hot Sheet monitors activity across your whole MLS by property type, timeframe, and status
 - From Saved Search monitors one Saved Search, which follows a single client, a city, or a specific set of criteria
 
-[confirm: whether the on-screen options are still labeled New Hot Sheet and From Saved Search. The Notion source for this article calls them Quick Hot Sheet and Hot Sheet from a Saved Search]
-
 [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) walks through both kinds step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq).
 
 > Screenshot placeholder: a Hot Sheets widget on the Dashboard showing recent listing activity | Alt text: A Hot Sheets widget on the Perchwell Dashboard listing recent activity with counts by status
