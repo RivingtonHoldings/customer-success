@@ -20,6 +20,8 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+A ninth pass documented partial matching. Tara confirmed on 2026-09-10 that the Universal Search Bar returns records sharing partial information, so an address matching the street name but not the street number still appears. That is the near-miss case, and it is almost certainly the more common one for a member who cannot find a listing. It does not settle the literal zero-result state, so the marker was narrowed rather than removed, and answer completeness 3 still fails on that gap.
+
 An eighth pass resolved the exact-address question. Tara confirmed on 2026-09-10 that an exact address returns a direct match, the same as an exact MLS ID. Worth recording why this one mattered beyond the fact: the July Notion page carried it, the August live article had dropped it, and the house rule is that the live article wins on facts. Here the live article was the one missing something true. The rule that saved it is the other one, that every difference between the sources goes to the reviewer and is never merged silently, which is how the question reached Tara at all. No change to the precedence rule; the diff step is what makes it safe.
 
 The test-question table is back to eight, the scorecard's upper bound. "Can I search for a contact by email?" came out: both articles answer it, and the harder question about another agent's client tests the same section.
@@ -85,7 +87,7 @@ Failed checks, live: title is a bare noun; no "Use this article to" opening; two
 
 Failed checks, September 9 draft: chunk independence 6 (the listings/agents/contacts enumeration in three consecutive sections); answer completeness 2 (an unverified claim that every member role has the feature); answer completeness 4 (a Limitations section for three constraints, none of which is a hard cap or irreversible); accuracy 2 (the availability claim was a guess carrying its own confirm marker); plus the two below.
 
-Failed checks, September 10 draft: retrieval signals 1 (the title stays a bare noun by Leo's choice; the description and opening carry the task words instead) and answer completeness 3 (the article does not say what the Universal Search Bar shows when nothing matches, because neither source does; marked `[confirm: ...]`).
+Failed checks, September 10 draft: retrieval signals 1 (the title stays a bare noun by Leo's choice; the description and opening carry the task words instead) and answer completeness 3 (the article documents partial matching but not the literal zero-result state; marked `[confirm: ...]`). Resolving that marker takes Answer completeness to 7 of 7 and the total from 91.4 to 95.0.
 
 ## Fin test questions
 
@@ -106,7 +108,7 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 
 ## Open items
 
-- [confirm: what the Universal Search Bar shows when nothing matches] (What the Universal Search Bar returns)
+- [confirm: what appears when an entry matches nothing at all, not even partially] (What the Universal Search Bar returns). Narrowed on 2026-09-10: Tara confirmed the partial-match behavior, which covers the near-miss case. The true empty state is still undocumented, and it is the last thing standing between this article and a clean scorecard
 - [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
