@@ -20,6 +20,12 @@ The team read the September 9 draft and returned four points: use MLS ID rather 
 
 A second pass the same day narrowed the scope. The first rewrite answered the "where do I go instead" question with three routes to the **Search** page, which turned a lookup article into a Search-page article. Tara cut it to one pointer. The section heading "Open the Universal Search Bar and start a search" was also wrong on the facts: the Universal Search Bar looks a record up and opens it, and no search starts there. It is now "Look up a record with the Universal Search Bar", and it carries the multi-MLS-ID answer, since that is the section a member asking it would land in. Its lead sentence states the every-page behavior as what the member gets rather than what they avoid.
 
+An eleventh pass closed the mobile question and corrected a third invented fact. Tara confirmed on 2026-09-10 that the Universal Search Bar sits at the top of the Search tab in the mobile app, and only on that tab. That falsified the September 9 sentence "The Universal Search Bar works the same way on mobile as in the browser", which the live article never said in any form: it mentions mobile nowhere. The lead sentence also had to be qualified, since "sits on every page in Perchwell" is true in a browser only.
+
+This one failed differently from the other two. The confirm marker was attached to the location, the part that was safe to ask about, while the behavioral claim beside it went unmarked and was the false half. The same shape as the September 9 role sentence, which asserted that every member role has the feature and marked only the invited-client case. The standard had that rule under Audience and permissions; it is now general, in the standard, the scorecard's accuracy check 2, the rewrite skill, and the Notion prompt.
+
+No confirm markers remain in the draft.
+
 A tenth pass closed the last content question. Tara confirmed on 2026-09-10 that matching is always partial, down to a single number, so there is no empty-result state to document. The sentence names both examples she gave, an address matching the street name but not the number and a record matching only a number, which also answers the likelier member question of why unrelated-looking results appear. Answer completeness goes to 7 of 7 and the total to 95.0. Retrieval signals 1 is the only failing check left, and it is Leo's title decision rather than a defect.
 
 A ninth pass documented partial matching. Tara confirmed on 2026-09-10 that the Universal Search Bar returns records sharing partial information, so an address matching the street name but not the street number still appears. That is the near-miss case, and it is almost certainly the more common one for a member who cannot find a listing. It does not settle the literal zero-result state, so the marker was narrowed rather than removed, and answer completeness 3 still fails on that gap.
@@ -68,7 +74,7 @@ A third pass removed the inventory of listing-card fields from the Listings bull
 | 13 limitations_workarounds | Fail | Pass | Live said "not saved or filtered searches" with no route forward. The draft points once at Create a Search with Filters for criteria-based searching and has no Limitations section |
 | 14 numerical_clarity | Pass | Pass | No numbers needed. The status list is now written as examples rather than as a complete set, matching the source |
 
-Gate: the live article fails 4 of 14 under the house resolutions. The draft passes 14 of 14, with five `[confirm: ...]` markers a reviewer must resolve before transfer (see Open items).
+Gate: the live article fails 4 of 14 under the house resolutions. The draft passes 14 of 14. All six `[confirm: ...]` markers were resolved by Tara on 2026-09-10; none remain.
 
 ## Dimension scores
 
@@ -110,7 +116,6 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 
 ## Open items
 
-- [confirm: where the Universal Search Bar sits in the mobile app] (Things to Know)
 - The invited-client question is no longer a blocker for the body, since the draft claims nothing about roles. It still matters for the Notion `Roles` property, currently `All`. Tara or Kelly to confirm whether invited clients see the Universal Search Bar.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
 - Every link in the draft now points at `/baldwin/en/`. The default help center link to Manage Your Saved Searches went out with the scope cut, so there is nothing to flag at transfer.

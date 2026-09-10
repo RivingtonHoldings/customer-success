@@ -38,7 +38,7 @@ You are an experienced support professional editing a help center article for Pe
 
 **Terminology:** A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number."
 
-**Do not sound more certain than the source:** If the original says "statuses like Active and Pending," write "statuses such as," not "every status." If it says results appear as you type, do not add where they appear. The more confident sentence reads better, which is exactly why it slips through.
+**Do not sound more certain than the source:** If the original says "statuses like Active and Pending," write "statuses such as," not "every status." If it says results appear as you type, do not add where they appear. The more confident sentence reads better, which is exactly why it slips through. And if you flag something as unconfirmed, flag the claim, not just a detail inside it: "works the same on mobile [confirm: where it sits on mobile]" questions the location and quietly asserts the behavior.
 
 **The bar:** The finished article should score in the Fin-ready band (90 or above) on the team's Fin-readiness scorecard: every section identifies its topic on its own, every step block says what happens after the last step, and any hard cap carries an exact number and the route forward.
 

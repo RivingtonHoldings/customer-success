@@ -64,7 +64,7 @@ Two layers. The gate decides whether the article is allowed to be called Fin-rea
 ### Accuracy and confidence (10 points, 4 checks)
 
 1. Every fact traces to release notes, the live article, or a Notion page
-2. Anything unconfirmed is marked `[confirm: ...]`, never guessed, and no hedged source has been strengthened into a definite or universal claim
+2. Anything unconfirmed is marked `[confirm: ...]`, never guessed; no hedged source has been strengthened into a definite or universal claim; and no marker sits on a detail while the claim around it goes unmarked
 3. No marketing adjectives from the do-not list in the content standard
 4. Paragon and other legacy systems are named neutrally
 

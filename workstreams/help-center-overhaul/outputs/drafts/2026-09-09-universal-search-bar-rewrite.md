@@ -38,7 +38,7 @@ To build a search from criteria such as price, property type, status, or locatio
 
 ## Look up a record with the Universal Search Bar
 
-Look up a record from the Universal Search Bar, the Search field in the upper right of the top navigation. It sits on every page in Perchwell, which means a lookup is always one click away, wherever you are working.
+Look up a record from the Universal Search Bar, the Search field in the upper right of the top navigation. In a browser it sits on every page, which means a lookup is always one click away, wherever you are working.
 
 ### Steps:
 
@@ -67,4 +67,4 @@ Partial entries return close matches, which means an address that matches the st
 ## Things to Know
 
 - Members who came from Paragon may know the Universal Search Bar as Power Search, its name in Paragon. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) lists the other Paragon names and their Perchwell equivalents.
-- The Universal Search Bar works the same way on mobile as in the browser. [confirm: where the Universal Search Bar sits in the mobile app]
+- In the Perchwell mobile app, the Universal Search Bar sits at the top of the Search tab, and only on that tab. Once you are there, the lookup works the same way as in a browser.

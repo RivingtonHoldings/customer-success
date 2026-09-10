@@ -152,6 +152,8 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 
 **Do not strengthen a hedged source.** Precision means matching the source, not sounding more certain than it. When the source says "statuses like Active, Pending, and Closed", the rewrite says "statuses such as", not "every status". When it says results appear, the rewrite does not say where they appear. Turning an example list into a complete one, or an unstated detail into a stated one, is the most common way a false fact enters a migrated article, because the stronger sentence reads better and nothing in the draft flags it as new. If the confident version is what the team wants to publish, confirm it first and then write it.
 
+**A `[confirm: ...]` marker covers only what it names.** Attaching a marker to a detail does not license the sentence around it. "The Universal Search Bar works the same way on mobile as in the browser. `[confirm: where it sits in the mobile app]`" asserts the behavior and questions only the location, so the half most likely to be wrong is the unmarked half. It was wrong: on mobile the bar appears on the Search tab alone. When the claim itself is unverified, mark the claim or leave the sentence out.
+
 ## Closing sections
 
 - A closing recap is optional. Include one only when there are system behaviors or recommendations that did not fit naturally into a section, and never to repeat something already stated.
