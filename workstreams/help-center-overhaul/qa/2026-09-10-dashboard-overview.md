@@ -68,9 +68,15 @@ The back-button sentence is a constraint written as the route forward, in the se
 
 **A product inconsistency worth knowing.** The two widgets behave differently on click: Contacts opens the Contact Detail Page in a new tab, Saved Searches runs the search in the same tab. Both behaviors are now stated explicitly in their own sections rather than left to inference, because a member who learns one would reasonably assume the other.
 
-**Two widget sections still describe no click behavior.** Tags and Listings say what their widget holds but not what clicking does. Neither carries an invented claim, so neither fails a check, but both are worth the same thirty-second product check before transfer.
+**Tags and Listings click behavior added, September 11, 2026.** Tara confirmed that clicking a tag or a listing opens it in a new tab. Both sections now state it, closing the last two gaps. Neither had carried an invented claim, so neither had been failing a check; this adds confirmed facts rather than fixing defects.
 
-**Provenance.** Both click behaviors in this article, Contacts and Saved Searches, were confirmed by Tara in the product on September 11, 2026 rather than taken from a document. Recorded here so a later reader can tell which facts came from where.
+Tara confirmed the tab behavior, not the destination, so neither sentence names the page that opens. "Listing Detail Page" is an established Baldwin term with its own article, and naming it would probably have been right, but that half was inferred rather than confirmed, and inference is what produced the two defects above. Nothing names what a tag opens at all. Both sentences say what was confirmed and leave the destinations to Tags Page Overview and Listings Widget Overview, which are already linked from their sections. Worth naming if someone confirms them later.
+
+The Tags lead also changed from "opens your Tags" to "lists your Tags", since "opens" now carries the click behavior in the next sentence and the two readings would have collided. It also brings the Tags lead into line with the Contacts and Saved Searches leads, which both open on "lists".
+
+**Provenance.** All four click behaviors in this article were confirmed by Tara in the product on September 11, 2026 rather than taken from a document: Contacts opens the Contact Detail Page in a new tab, Saved Searches runs the search in the same tab, and Tags and Listings each open in a new tab. Recorded here so a later reader can tell which facts came from where.
+
+**On the pattern.** Three of the five widget sections originally carried click-through behavior that was written rather than sourced, and two of those three were wrong. The Hot Sheets section never claimed one. The sourced facts in this article held up under checking; the inferred ones did not, which is the argument for the content standard's rule that a claim with no source sentence does not belong in a draft however reasonable it sounds.
 
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
