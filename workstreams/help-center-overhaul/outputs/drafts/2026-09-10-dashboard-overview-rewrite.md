@@ -61,7 +61,7 @@ Learn how to add, import, and group contacts in [Create and Manage Your Contacts
 
 ### Saved Searches widget on the Dashboard
 
-The Saved Searches widget on the Dashboard opens the searches you have saved, so a search runs again from the Dashboard rather than being rebuilt on the Search page. Sort the Saved Searches widget by Name or Recently Created.
+The Saved Searches widget on the Dashboard lists the searches you have saved, and clicking one runs that search in the same tab. Click your browser's back button to return to the Dashboard. Sort the Saved Searches widget by Name or Recently Created.
 
 [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) covers renaming, editing, and deleting a Saved Search, and setting up its email alerts.
 

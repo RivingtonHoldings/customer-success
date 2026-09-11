@@ -46,7 +46,7 @@ One knock-on fix: the paragraph below the bullets still read "walks through both
 
 **The sentence carried an unsourced claim.** "Clicking a contact opens that person's record without leaving the Dashboard" was written, not sourced. No document in the repo says the Dashboard widget links through at all, and the phrase "without leaving your Dashboard" is sourced for the **Listings** widget (`baldwin/listings-widget-overview.md:57`), not for Contacts. The documented Contacts flow is different: open the Contacts page, click a contact name, and the Contact Detail Page opens (`baldwin/contacts-page-overview.md:91`, `crmls/contact-page-overview.md:48`).
 
-**Score correction.** An unmarked guess fails Accuracy and confidence check 2, so the article sat at **98.0, not 100.0**, from the time that line was written until this fix. The tables in this file read 100.0 throughout that period and were wrong. They are correct now: the claim is sourced, the article is back to 100.0, and the tables are left as they stand.
+**Score correction.** An unmarked guess fails Accuracy and confidence check 2, so the article sat at **98.0, not 100.0**, from the time that line was written. The tables in this file read 100.0 throughout that period and were wrong. This fix alone did not restore it either: a second unmarked guess, in the Saved Searches lead, was still in the draft. Both are resolved as of the September 11 Saved Searches correction below, and the article is genuinely at 100.0 from that point.
 
 **Provenance of the replacement fact.** Tara confirmed the behavior directly in the product on September 11, 2026: clicking a contact in the Contacts widget opens that person's Contact Detail Page **in a new tab**. This is the only fact in the article sourced from a person rather than from a document or the live mirror, so it is recorded here for traceability. It needs no confirm marker.
 
@@ -57,6 +57,20 @@ The sentence now reads: "The Contacts widget on the Dashboard lists the people y
 - Tara chose to keep "Sort the Contacts widget" rather than "Sort the widget", so the three widget sort sentences stay parallel
 
 **Open for peer review.** One more sentence in this draft describes a click-through that no source states: the Saved Searches lead, "so a search runs again from the Dashboard rather than being rebuilt on the Search page". It has not been changed, because guessing a correction would repeat the original error. Worth confirming in the product alongside the Contacts behavior.
+
+**Saved Searches widget sentence corrected, September 11, 2026.** The second unmarked guess, flagged for peer review in the entry above and settled the same day.
+
+The sentence read "opens the searches you have saved, so a search runs again from the Dashboard rather than being rebuilt on the Search page". The "runs again from the Dashboard" half was written, not sourced, and it implied the member stays on the Dashboard. The only source is `baldwin/dashboard-overview.md:47`, "The Saved Searches widget allows you to easily access the searches you have saved", which says nothing about what clicking does.
+
+Tara confirmed the behavior in the product on September 11, 2026: clicking a saved search runs it **in the same tab**, so returning to the Dashboard takes the browser back button. The sentence now reads: "The Saved Searches widget on the Dashboard lists the searches you have saved, and clicking one runs that search in the same tab. Click your browser's back button to return to the Dashboard. Sort the Saved Searches widget by Name or Recently Created."
+
+The back-button sentence is a constraint written as the route forward, in the section where the member meets it, which is what the content standard asks for and what golden question 13 scores. It is a plain sentence rather than a callout, since the standard reserves callouts for what a sentence in the flow cannot carry.
+
+**A product inconsistency worth knowing.** The two widgets behave differently on click: Contacts opens the Contact Detail Page in a new tab, Saved Searches runs the search in the same tab. Both behaviors are now stated explicitly in their own sections rather than left to inference, because a member who learns one would reasonably assume the other.
+
+**Two widget sections still describe no click behavior.** Tags and Listings say what their widget holds but not what clicking does. Neither carries an invented claim, so neither fails a check, but both are worth the same thirty-second product check before transfer.
+
+**Provenance.** Both click behaviors in this article, Contacts and Saved Searches, were confirmed by Tara in the product on September 11, 2026 rather than taken from a document. Recorded here so a later reader can tell which facts came from where.
 
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
