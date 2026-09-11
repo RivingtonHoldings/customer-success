@@ -24,21 +24,21 @@ migrated_from: master-article-list
 
 # Dashboard Overview
 
-**Description:** Find your way around the Perchwell Dashboard: what each widget shows, how to adjust your layout, and which integrations launch from it.
+**Description:** Get familiar with the Perchwell Dashboard: understand what each widget shows, customize your layout, and access integrations.
 
-Use this article to find your way around the Dashboard in Perchwell, understand what each widget shows, adjust which widgets display, and reach the workflows that start on the Dashboard.
+Use this article to get familiar with the Perchwell Dashboard, understand what each widget shows, customize which widgets display, and access the workflows available from the Dashboard.
 
 https://app.arcade.software/share/uP0zdXgQGkrqA3tt5lpo
 
 ## What you do on the Dashboard
 
-The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what changed without running a search for each of them. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
+The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what has changed without running individual searches. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
 
 > Screenshot placeholder: the full Dashboard as it first loads, with the Dashboard item highlighted in the top navigation bar | Alt text: The Perchwell Dashboard with the Dashboard item highlighted in the top navigation bar, showing widget tiles across the page
 
 ## What each Dashboard widget shows
 
-Each Dashboard widget is a tile that displays one kind of key information, which means the Dashboard shows the state of several areas of Perchwell at once.
+Each Dashboard widget is a tile that displays a specific type of information. Together they give you a quick view across several areas of Perchwell.
 
 ### Hot Sheets widget on the Dashboard
 
