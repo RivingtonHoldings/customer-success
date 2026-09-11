@@ -29,6 +29,19 @@ Both preferences were then written into `docs/standards/content-standards.md` an
 - "What you do on the Dashboard": now "so you see what has changed without running individual searches". Tara's proposed "so you can quickly see what has changed" contained "you can", which the content standard bans and which became Accuracy and confidence check 5 earlier the same day, so only "can" was dropped. The speed idea is already carried by "in one view"
 - "What each Dashboard widget shows": now "Each Dashboard widget is a tile that displays a specific type of information. Together they give you a quick view across several areas of Perchwell." Two adjustments to Tara's version. "Activity" was dropped because only the Hot Sheets and Listings widgets show activity, while Contacts holds people, Saved Searches holds searches, and Tags holds folders of listings. The trailing ", giving you a quick view" became its own sentence, since a trailing present participle is the shape the humanizer skill flags under superficial -ing endings. Removing this sentence's "which means" clause is safe: the Hot Sheets and integrations sections still carry one each, which is what Answer completeness check 3 looks for
 
+**Hot Sheets section reworked, September 10, 2026.** Tara proposed a rewrite and asked for an evaluation. Most of it was adopted; the score is unchanged at 100.0, and her version would very likely have held there too, so these were accuracy and consistency calls rather than points.
+
+Adopted: "tracks new and updated listings" over the abstract "tracks listing activity"; "without rerunning a search" over "without anyone running the search again"; "two types of Hot Sheets", which matches the sources, since CRMLS heads its section "Types of Hot Sheets" and Baldwin says "Hot Sheet types"; "listing status" over a bare "status"; and "across the MLS", dropping a possessive with no loss.
+
+Not adopted, with reasons:
+
+- Her version opened "The Hot Sheets widget tracks ...", dropping "on the Dashboard". All five widget sections open with the same shape, which keeps each self-identifying if Fin loses the heading from the HTML. Tara chose to keep it in all five when asked
+- Her ", providing an up-to-date view of listing activity" replaced "updates automatically, which means ...". That drops an explicit system-behavior fact stated in both help centers, at `baldwin/dashboard-overview.md:35` and `crmls/the-dashboard-page-overview.md:39`; "up-to-date view" implies automatic refresh without stating it. The trailing present participle is also the shape split out of the widget-tile sentence in the previous revision. Only two "which means" clauses remain in the article and Answer completeness check 3 looks for that construction on system terms, so this one stays
+- Her Saved Search bullet said "criteria" twice and defined a Saved Search in terms of itself: "activity that matches the criteria of a specific Saved Search, such as ... another defined set of criteria". Now "monitors activity within one Saved Search, such as one you saved for a client, a city, or another set of criteria"
+- Her bullets carried terminal periods. None of the article's six bullets do, and neither do the model articles. Tara chose to keep the article convention when asked
+
+One knock-on fix: the paragraph below the bullets still read "walks through both kinds step by step" after the list became "two types", so it now reads "both types".
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions

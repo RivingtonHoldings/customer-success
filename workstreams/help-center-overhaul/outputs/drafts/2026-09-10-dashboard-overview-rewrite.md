@@ -42,12 +42,12 @@ Each Dashboard widget is a tile that displays a specific type of information. To
 
 ### Hot Sheets widget on the Dashboard
 
-The Hot Sheets widget on the Dashboard tracks listing activity from current MLS data and updates automatically, which means the widget reflects new and changed listings without anyone running the search again. There are two kinds of Hot Sheet:
+The Hot Sheets widget on the Dashboard tracks new and updated listings from current MLS data and updates automatically, which means you see the latest listing activity without rerunning a search. There are two types of Hot Sheets:
 
-- New Hot Sheet monitors activity across your whole MLS by property type, timeframe, and status
-- From Saved Search monitors one Saved Search, which follows a single client, a city, or a specific set of criteria
+- New Hot Sheet monitors activity across the MLS by property type, timeframe, and listing status
+- From Saved Search monitors activity within one Saved Search, such as one you saved for a client, a city, or another set of criteria
 
-[Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) walks through both kinds step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq).
+[Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) walks through both types step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq).
 
 > Screenshot placeholder: a Hot Sheets widget on the Dashboard showing recent listing activity | Alt text: A Hot Sheets widget on the Perchwell Dashboard listing recent activity with counts by status
 
