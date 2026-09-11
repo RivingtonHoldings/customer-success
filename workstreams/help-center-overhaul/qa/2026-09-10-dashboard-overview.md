@@ -42,6 +42,22 @@ Not adopted, with reasons:
 
 One knock-on fix: the paragraph below the bullets still read "walks through both kinds step by step" after the list became "two types", so it now reads "both types".
 
+**Contacts widget sentence corrected, September 11, 2026.** Tara asked for the lead reworded to break up the repetition of "contact". Checking it first surfaced a defect underneath the style point.
+
+**The sentence carried an unsourced claim.** "Clicking a contact opens that person's record without leaving the Dashboard" was written, not sourced. No document in the repo says the Dashboard widget links through at all, and the phrase "without leaving your Dashboard" is sourced for the **Listings** widget (`baldwin/listings-widget-overview.md:57`), not for Contacts. The documented Contacts flow is different: open the Contacts page, click a contact name, and the Contact Detail Page opens (`baldwin/contacts-page-overview.md:91`, `crmls/contact-page-overview.md:48`).
+
+**Score correction.** An unmarked guess fails Accuracy and confidence check 2, so the article sat at **98.0, not 100.0**, from the time that line was written until this fix. The tables in this file read 100.0 throughout that period and were wrong. They are correct now: the claim is sourced, the article is back to 100.0, and the tables are left as they stand.
+
+**Provenance of the replacement fact.** Tara confirmed the behavior directly in the product on September 11, 2026: clicking a contact in the Contacts widget opens that person's Contact Detail Page **in a new tab**. This is the only fact in the article sourced from a person rather than from a document or the live mirror, so it is recorded here for traceability. It needs no confirm marker.
+
+The sentence now reads: "The Contacts widget on the Dashboard lists the people you have added to Perchwell, and clicking a name opens their Contact Detail Page in a new tab. Sort the Contacts widget by Name or Recently Created."
+
+- "clicking a name" is Tara's wording and is also what both help centers use, "Click a contact name to open the Contact Detail Page"
+- "lists the people you have added to Perchwell", replacing "shows the contacts added to Perchwell", is what actually serves the repetition point. Keeping the original phrasing would have left the count at four, since "Contact Detail Page" adds one back. It is now three: two are the feature name, which golden question 8 wants repeated, and one is a UI label
+- Tara chose to keep "Sort the Contacts widget" rather than "Sort the widget", so the three widget sort sentences stay parallel
+
+**Open for peer review.** One more sentence in this draft describes a click-through that no source states: the Saved Searches lead, "so a search runs again from the Dashboard rather than being rebuilt on the Search page". It has not been changed, because guessing a correction would repeat the original error. Worth confirming in the product alongside the Contacts behavior.
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions

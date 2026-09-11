@@ -53,7 +53,7 @@ The Hot Sheets widget on the Dashboard tracks new and updated listings from curr
 
 ### Contacts widget on the Dashboard
 
-The Contacts widget on the Dashboard shows the contacts added to Perchwell, and clicking a contact opens that person's record without leaving the Dashboard. Sort the Contacts widget by Name or Recently Created.
+The Contacts widget on the Dashboard lists the people you have added to Perchwell, and clicking a name opens their Contact Detail Page in a new tab. Sort the Contacts widget by Name or Recently Created.
 
 Learn how to add, import, and group contacts in [Create and Manage Your Contacts in Perchwell](http://support.perchwell.com/en/articles/14790755-create-and-manage-your-contacts-in-perchwell).
 
