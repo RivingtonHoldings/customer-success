@@ -74,6 +74,8 @@ Tara confirmed the tab behavior, not the destination, so neither sentence names 
 
 The Tags lead also changed from "opens your Tags" to "lists your Tags", since "opens" now carries the click behavior in the next sentence and the two readings would have collided. It also brings the Tags lead into line with the Contacts and Saved Searches leads, which both open on "lists".
 
+Last wording pass, same day: the Saved Searches lead went from "lists the searches you have saved" to "lists your Saved Searches", per Tara. Capitalized as the feature name rather than lowercase as she wrote it, since the draft uses "Saved Searches" that way six times and the parallel Tags lead reads "lists your Tags". The three leads now share one shape: "The \<name\> widget on the Dashboard lists ...". No score effect.
+
 **Provenance.** All four click behaviors in this article were confirmed by Tara in the product on September 11, 2026 rather than taken from a document: Contacts opens the Contact Detail Page in a new tab, Saved Searches runs the search in the same tab, and Tags and Listings each open in a new tab. Recorded here so a later reader can tell which facts came from where.
 
 **On the pattern.** Three of the five widget sections originally carried click-through behavior that was written rather than sourced, and two of those three were wrong. The Hot Sheets section never claimed one. The sourced facts in this article held up under checking; the inferred ones did not, which is the argument for the content standard's rule that a claim with no source sentence does not belong in a draft however reasonable it sounds.
