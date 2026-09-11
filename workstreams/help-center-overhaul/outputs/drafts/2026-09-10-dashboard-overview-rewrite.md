@@ -101,9 +101,8 @@ Third-party integrations launch from the Integrations panel, which sits on the r
 
 ### Steps:
 
-1. Click Dashboard in the top navigation bar
-2. Hover over the right side of the Dashboard to reveal the Integrations panel
-3. Click an integration name
+1. Hover over the right side of the Dashboard to reveal the Integrations panel
+2. Click an integration name
 
 The integration opens outside Perchwell, so the Dashboard stays as you left it.
 

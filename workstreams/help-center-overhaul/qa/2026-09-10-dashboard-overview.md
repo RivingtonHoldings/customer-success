@@ -91,6 +91,16 @@ The edit sentence was also restructured from "Edit a listing that belongs to you
 
 **Process note.** Tara's direct Notion edits were ahead of the local draft in two places that had not been communicated, and a scripted update was refused because the text it targeted no longer matched. That refusal is the only reason the edits were not silently overwritten. Read the Notion page before writing to it whenever the draft may have been edited there.
 
+**Integrations steps shortened, September 11, 2026.** Tara pointed out that "Click Dashboard in the top navigation bar" was redundant as step 1, since a reader working through an article about the Dashboard is already on it. The steps are now two, starting where the member actually acts.
+
+This overrides an earlier call. The navigation step had been added deliberately for chunk independence, on the rule that a section should restate what a step depends on rather than point back at it, and it was defended once already when the redundancy pass flagged it. Tara's argument is the stronger one: the instruction appeared twice in the article, and the section does not need it to stand alone. Removing it leaves "Dashboard" named five times in that section, including inside the first step, so a chunk retrieved by Fin still says plainly where the member must be. What it no longer does is teach navigation, which "What you do on the Dashboard" already covers and which any member of the MLS already knows.
+
+No check moves. Formatting check 1 still passes, since two steps are still a numbered list with one action each. Answer completeness check 1 still passes, since the block still ends with what happens after the last step. Golden question 12 is about completing instructions through to the outcome, not about where they begin. The article holds at 100.0.
+
+Both live sources open this procedure with the navigation step, `baldwin/integration-tools-on-the-dashboard.md` and the CRMLS equivalent, so this is a deliberate divergence from them. It is a structural choice rather than a factual one, and the fuller procedure still lives in `Integration Tools on the Dashboard`, which the section links.
+
+**Worth deciding for the standard.** The content standard currently says to restate what a step depends on, with no exception for a section inside an article about that very surface. The model article `How to Share a Tag` repeats "Click Tags in the navigation bar" in all three of its sections, which is right for a workflow article whose sections are separate tasks, and arguably wrong for an Overview article read top to bottom. If the team agrees with this call, the standard should say when the navigation step earns its place and when it is noise.
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions
