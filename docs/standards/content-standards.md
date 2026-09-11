@@ -2,7 +2,7 @@
 
 The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test. List order and member-controlled verbs added September 10, 2026 after the Dashboard Overview migration.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test. List order and member-controlled verbs added September 10, 2026 after the Dashboard Overview migration. Navigation-step rule added September 11, 2026 from the same article.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -85,6 +85,10 @@ Headings are weighted heavily in Fin's retrieval scoring, so they carry more of 
 
 **Self-contained sections.** Every section must make sense retrieved on its own. Do not open with "Then", do not write "as described above" or "the field shown above", and restate what a step depends on rather than pointing back at it.
 
+**Naming a surface is not teaching navigation.** Restating what a step depends on means naming the page or panel the step happens on, so a retrieved section says where the member must be. It does not mean teaching how to reach that surface from scratch. "Hover over the right side of the Dashboard to reveal the Integrations panel" satisfies the rule on its own; it needs no "Click Dashboard in the top navigation bar" ahead of it inside an article about the Dashboard. How to reach a surface is a fact like any other and gets one canonical home, which in an Overview article is the orientation section. Repeating it in a later procedure puts the same fact in two sections and leaves neither as the clear answer when a member asks how to get there.
+
+The judgment is whether a reader arrives at the section cold. In a workflow article whose sections are separate tasks a member reaches independently, the navigation step earns its place in each one, which is why the model article [How to Share a Tag](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) opens all three of its sections with "Click Tags in the navigation bar". In an article that tours one surface, the same step is noise after the first time. Added September 11, 2026, after the Dashboard Overview migration.
+
 **One topic per section.** Break a long section up with H3 subheadings rather than letting two topics share one block. Keep paragraphs short, two to four sentences, so a retrieved passage carries a whole thought.
 
 ## Say each fact once
@@ -95,7 +99,7 @@ Fin retrieves sections alone, so some repetition is required. That is not a lice
 
 - The feature name, in every section, instead of falling back to "it".
 - The heading's key terms, in the first sentence beneath it.
-- Whatever a step depends on, restated rather than pointed back at.
+- Whatever a step depends on, restated rather than pointed back at. Naming the surface a step happens on, not teaching how to reach it; see Naming a surface is not teaching navigation, under Section headings.
 
 **Do not repeat these.** Every fact gets one canonical home:
 

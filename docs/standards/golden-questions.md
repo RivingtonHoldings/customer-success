@@ -36,6 +36,16 @@ Factor 5 prefers "How to..." or question-form headings, and the older house styl
 
 A draft no longer needs to note this choice in its open items.
 
+## How the house standard resolves factor 6 against factor 9
+
+Factor 6 asks that a section make sense retrieved alone. Factor 9 asks that a section cover one focused topic. On a procedure inside an article about the surface it happens on, the two pull against each other: a navigation step makes the section more self-contained and less focused. `content-standards.md`, revised September 11, 2026, settles it.
+
+- Every failure mode factor 6 actually names is a dangling reference: "as described above", "the field shown above", "Then" as an opener, a step pointing back at one the reader cannot see. It is a rule against pointing backward, not a requirement to teach every prerequisite.
+- Naming the surface a step happens on satisfies factor 6. "Hover over the right side of the Dashboard to reveal the Integrations panel" tells a retrieved chunk where the member must be without a navigation step ahead of it.
+- How to reach a surface is a fact like any other and gets one canonical home. In an Overview article that is the orientation section, so repeating it inside a later procedure is the duplication the say-once rule exists to prevent.
+- The test is whether the reader arrives cold. A workflow article whose sections are separate tasks keeps the navigation step in each; an article touring one surface does not need it after the first time.
+- `content-standards.md`, under Naming a surface is not teaching navigation, holds the full rule.
+
 ## How the house standard resolves factor 7
 
 Factor 7 asks the writer to state who the content is for and not to assume the reader knows their own role. Read literally, it produces a line on every article saying the feature is available to everyone, which is what the first migration test produced. `content-standards.md`, revised September 10, 2026, settles it:
