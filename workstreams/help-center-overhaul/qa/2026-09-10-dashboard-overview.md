@@ -80,6 +80,17 @@ Last wording pass, same day: the Saved Searches lead went from "lists the search
 
 **On the pattern.** Three of the five widget sections originally carried click-through behavior that was written rather than sourced, and two of those three were wrong. The Hot Sheets section never claimed one. The sourced facts in this article held up under checking; the inferred ones did not, which is the argument for the content standard's rule that a claim with no source sentence does not belong in a draft however reasonable it sounds.
 
+**Listings and Tags labels settled, September 11, 2026.** Tara edited the Notion page directly and proposed naming the destinations and the edit control. Both additions were right in substance; three labels needed correcting against the sources.
+
+- **"listing details page" became "Listing Detail Page."** The mirror uses the capitalized singular 60 times and both help centers title an article with it, `Listing Detail Page Overview` in Baldwin and `Navigating the Listing Detail Page` in CRMLS. The lowercase plural is a minority variant with 8 uses
+- **"tag page" became "Tag page."** Sourced 4 times in the mirror in that form. This also resolved the gap left on September 11, when the Tags click behavior was stated without naming the destination because nothing had confirmed it
+- **"pencil icon" is correct and also corrects a live article.** Seven articles across both help centers say "pencil icon", including CRMLS's description of this exact widget. Only `baldwin/listings-widget-overview.md:59` says "pen icon", which makes that the outlier and a defect in a live Baldwin article. Logged for the audit
+- **"number of Properties" reverted to "# of Properties."** Tara's edit spelled it out, but she confirmed on being asked that the sort control reads "# of Properties" on screen. The content standard requires the exact on-screen label even where it reads awkwardly in prose. Note that no live article mentions this label at all; the only written source is the old Notion page
+
+The edit sentence was also restructured from "Edit a listing that belongs to you from the Listings widget by clicking the pencil icon" to "To edit a listing that belongs to you, click the pencil icon next to it in the Listings widget", which front-loads the action and matches the sourced construction, "Click the pencil icon next to a listing".
+
+**Process note.** Tara's direct Notion edits were ahead of the local draft in two places that had not been communicated, and a scripted update was refused because the text it targeted no longer matched. That refusal is the only reason the edits were not silently overwritten. Read the Notion page before writing to it whenever the draft may have been edited there.
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions

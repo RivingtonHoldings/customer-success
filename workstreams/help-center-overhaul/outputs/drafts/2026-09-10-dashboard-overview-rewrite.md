@@ -69,7 +69,7 @@ The Saved Searches widget on the Dashboard lists your Saved Searches, and clicki
 
 ### Tags widget on the Dashboard
 
-The Tags widget on the Dashboard lists your Tags, the folders of listings you organize, track for status and price updates, and share with clients. Clicking a tag opens that tag in a new tab. Sort the Tags widget by Name or # of Properties.
+The Tags widget on the Dashboard lists your Tags, the folders of listings you organize, track for status and price updates, and share with clients. Clicking a tag opens the Tag page in a new tab. Sort the Tags widget by Name or # of Properties.
 
 Members who came from a legacy platform may know Tags as carts. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
 
@@ -79,7 +79,7 @@ For creating a Tag, sharing one with a client, and setting its alerts, see [Tags
 
 ### Listings widget on the Dashboard
 
-The Listings widget on the Dashboard shows listings at the scope you choose, from your own listings up to every listing in the MLS. Clicking one opens it in a new tab. Edit a listing that belongs to you from the Listings widget.
+The Listings widget on the Dashboard shows listings at the scope you choose, from your own listings up to every listing in the MLS. Clicking one opens the Listing Detail Page in a new tab. To edit a listing that belongs to you, click the pencil icon next to it in the Listings widget.
 
 > **Note:** The Listings widget cannot be removed from the Dashboard or moved out of its position.
 
