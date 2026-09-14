@@ -32,6 +32,20 @@ Dropped per the migration rules: the `In this article:` heading, the Click Scrip
 
 **The reorder question was close and worth recording.** "Cannot be removed **or reordered**" appears in exactly one source, the live Baldwin article. Four sources mention only removal: the newer Notion revision of this same article, CRMLS's equivalent twice, and CRMLS's Listings widget article. The four-to-one majority was wrong. Tara confirmed in the product that the Listings widget cannot be reordered either, so the lone outlier was right and the Dashboard Overview draft, which asserts the same restriction, needed no change.
 
+## Corrections from a product screenshot, September 14, 2026
+
+Tara sent a screenshot of the Manage widgets panel. It corrected three things the written sources all had wrong, and it is the clearest evidence yet that no document in this repo is authoritative about the product.
+
+**Hot Sheets is not a checkbox.** The panel holds an `Add hot sheet` action above a divider, then checkboxes for Contacts, Saved Search, and Tags. The draft had listed Hot Sheets among the toggleable widgets and told the member to check a box that does not exist. The section now describes the two controls separately, and Hot Sheets gets its own sentence routing to `Add a Hot Sheet to the Dashboard` rather than a third step, because it is a different mechanism with a different outcome and the green-confirmation line covers only the checkboxes.
+
+**The button reads "Manage widgets", with a lowercase w.** Eight of the nine places the phrase appears across the Baldwin and CRMLS mirrors write it "Manage Widgets"; one writes it correctly. All eight are wrong. The draft used the capitalized form five times and now uses the on-screen one.
+
+**The panel item reads "Saved Search", singular**, where the draft said "Saved Searches". The widget is still the Saved Searches widget elsewhere; the panel label is singular. Worth knowing that this is a product inconsistency rather than a writing choice.
+
+**What this says about the sources.** Across this article and Dashboard Overview, the count is now five factual errors, every one of them sourced. Two came from preferring the newer Notion page, one from a majority of articles agreeing with each other, and three from the screenshot above. The only things that caught any of them were Tara checking the product and Tara sending a picture of it. The source-precedence rule added to `content-standards.md` on September 14 covers the first two; nothing in the standard or the scorecard covers the rest, because the failure is that written sources copy each other and drift together.
+
+**Open question from the screenshot:** whether clicking Add hot sheet produces the same green confirmation the checkboxes do. The draft does not claim either way.
+
 ## Golden questions
 
 | Factor | Old | New | Note |

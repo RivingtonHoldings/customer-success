@@ -24,7 +24,7 @@ migrated_from: master-article-list
 
 # Customize Your Dashboard
 
-**Description:** Add, remove, and reorder the widgets on your Perchwell Dashboard, and filter what each one shows, from the Manage Widgets control.
+**Description:** Add, remove, and reorder the widgets on your Perchwell Dashboard, and filter what each one shows, from the Manage widgets control.
 
 Use this article to choose which widgets display on your Dashboard, reorder them into the layout you want, and filter what each widget shows. A Dashboard widget is a tile that displays one kind of information.
 
@@ -32,23 +32,20 @@ https://app.arcade.software/share/4DI3IhHDnSC1ad96xd8h
 
 ## Choose which widgets display on the Dashboard
 
-Choose which widgets display on the Dashboard from Manage Widgets, in the top right corner of the Dashboard. These widgets can be turned on and off:
-
-- Hot Sheets
-- Contacts
-- Saved Searches
-- Tags
+Choose which widgets display on the Dashboard from Manage widgets, in the top right corner of the Dashboard. Contacts, Saved Search, and Tags each have a checkbox. Hot Sheets does not: the panel has an Add hot sheet action instead, and a Dashboard can hold more than one Hot Sheet.
 
 ### Steps:
 
-1. Click Manage Widgets in the top right corner of the Dashboard
-2. Check a widget to add it to the Dashboard, or uncheck it to remove it
+1. Click Manage widgets in the top right corner of the Dashboard
+2. Check Contacts, Saved Search, or Tags to add that widget, or uncheck it to remove it
 
 The Dashboard updates as soon as you check or uncheck a widget, with nothing to save. A green confirmation appears at the bottom of the screen, reading Widget added or Widget removed.
 
-> **Note:** The Listings widget is not in Manage Widgets, because it cannot be added or removed. It is always on the Dashboard.
+To add a Hot Sheet, click Add hot sheet at the top of the Manage widgets panel. [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) covers setting one up.
 
-> Screenshot placeholder: the Manage Widgets panel open on the Dashboard, showing the widget checkboxes | Alt text: The Manage Widgets panel open on the Perchwell Dashboard, listing Hot Sheets, Contacts, Saved Searches, and Tags with a checkbox beside each
+> **Note:** The Listings widget is not in Manage widgets, because it cannot be added or removed. It is always on the Dashboard.
+
+> Screenshot placeholder: the Manage widgets panel open on the Dashboard | Alt text: The Manage widgets panel open on the Perchwell Dashboard, showing an Add hot sheet action above a checked checkbox for Contacts, Saved Search, and Tags
 
 ## Reorder your Dashboard widgets
 
