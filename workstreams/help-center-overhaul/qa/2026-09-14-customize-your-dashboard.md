@@ -23,7 +23,7 @@ Scored by Claude for Tara, September 14, 2026, using the **September 10, 2026 ch
 | Fact | Live article | Old Notion page | Resolution |
 |---|---|---|---|
 | Arcade walkthrough | `demo.arcade.software/pgyIXO3DO8xMCsDYNahj` | `app.arcade.software/share/4DI3IhHDnSC1ad96xd8h` | **Notion.** A different, newer video, and the row reads `Video: Done` |
-| Widgets in Manage Widgets | Hot Sheets, Contacts, Saved Searches, Tags | Hot Sheets, **Listings**, Contacts, Saved Searches, Tags | **Notion.** CRMLS's equivalent also lists Listings, so two of three sources include it |
+| Widgets in Manage Widgets | Hot Sheets, Contacts, Saved Searches, Tags | Hot Sheets, **Listings**, Contacts, Saved Searches, Tags | **Live article**, confirmed by Tara. The first draft took Notion, since CRMLS also lists Listings, and that was wrong. See below |
 | Listings widget restriction | "cannot be removed or reordered" | "cannot be removed" | **Live article**, confirmed by Tara in the product. See below |
 | Mobile constraint | stated | absent | **Live article.** Corroborated by `baldwin/dashboard-faq.md` |
 | Listings widget link | Intercom 13903171, link text "in this article" | a Notion page | **Neither.** Repointed to the same article with its real title, `Listings Widget Overview` |
@@ -90,13 +90,20 @@ Neither is documented anywhere in the repo, so both are recorded here for tracea
 - Checking or unchecking a widget in Manage Widgets applies immediately, with no save step. A green confirmation appears at the bottom of the screen reading Widget added or Widget removed
 - A reordered layout saves automatically and persists the next time the member opens the Dashboard
 - The Listings widget cannot be reordered, resolving the four-to-one source conflict above
+- The Listings widget does not appear in Manage Widgets at all, because it cannot be added or removed. The panel lists four widgets: Hot Sheets, Contacts, Saved Searches, and Tags
+
+**Correction made September 14, 2026.** The first version of this draft listed five widgets in Manage Widgets, including Listings, taken from the old Notion page and corroborated by CRMLS's equivalent. Tara caught it: the Listings widget is not in the panel, because it cannot be toggled. The section lead now reads "These widgets can be turned on and off", the list is four, and the Note explains the absence rather than stating a restriction about a widget the member cannot find in that panel. The screenshot alt text was corrected too.
+
+**Two source conflicts on this one article, and the live Baldwin article won both.** It was right that the Listings widget cannot be reordered, against four sources that mentioned only removal. It was right that the panel holds four widgets, against two sources that said five. Both times the draft had followed the newer Notion page or the numerical majority.
+
+**The scorecard cannot catch this class of error, and it is worth being explicit about that.** Accuracy check 1 asks whether every fact traces to a source; each of these did. Check 2 asks whether unknowns are marked; these were not unknowns, they were sourced and wrong. The scorecard measures retrievability and sourcing discipline, not whether the source told the truth. Only a product check does that. The score is unchanged at 100.0 before and after this correction, which is exactly the blind spot.
 
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |
 |---|---|---|
 | How do I add a widget to my Dashboard? | Partly. The instruction is prose with no steps and no outcome | Yes. "Choose which widgets display on the Dashboard" |
-| Which widgets can I put on my Dashboard? | Partly. The live list omits the Listings widget | Yes. "Choose which widgets display on the Dashboard" |
+| Which widgets can I put on my Dashboard? | Partly. The live list is correct but reads as prose with no context on why Listings is absent | Yes. "Choose which widgets display on the Dashboard", which also explains why Listings is not in the panel |
 | How do I remove a widget I don't use? | Partly. Same prose passage, no confirmation described | Yes. "Choose which widgets display on the Dashboard" |
 | Why can't I remove the Listings widget? | Yes, in an emoji callout | Yes. "Choose which widgets display on the Dashboard", as a **Note:** |
 | How do I change the order of my widgets? | Partly. Mixed into a section that also covers filtering | Yes. "Reorder your Dashboard widgets" |

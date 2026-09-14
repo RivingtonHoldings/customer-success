@@ -105,6 +105,14 @@ The rule is now in `docs/standards/content-standards.md` under "Naming a surface
 
 The residual risk is small and testable rather than arguable: a member who does not know where the Dashboard is gets a worse answer from this section alone. The Fin test question "How do I open ShowingTime from Perchwell?" in the table above is the one to watch after transfer.
 
+**Saved Searches sort corrected, September 14, 2026.** While fixing a related error in Customize Your Dashboard, the sort options in this article were rechecked, because both came from the same old Notion page and that page had just been wrong twice.
+
+Tara confirmed in the product: the Saved Searches widget sorts by **Name or Recently Updated**, not Name or Recently Created as this draft said. Corrected. The Contacts widget does sort by Name or Recently Created, so that line was right, and the Tags widget's "# of Properties" was confirmed earlier.
+
+CRMLS's live article had said Recently Updated all along, and was treated as an MLS difference rather than a correction. It was a correction.
+
+The score does not move. The claim was sourced, it was just sourced to something wrong, which is a class of error the scorecard does not test for. See the same note in the Customize Your Dashboard QA file.
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions

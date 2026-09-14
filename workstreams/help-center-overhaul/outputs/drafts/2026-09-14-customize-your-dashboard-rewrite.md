@@ -32,10 +32,9 @@ https://app.arcade.software/share/4DI3IhHDnSC1ad96xd8h
 
 ## Choose which widgets display on the Dashboard
 
-Choose which widgets display on the Dashboard from Manage Widgets, in the top right corner of the Dashboard. These widgets are available:
+Choose which widgets display on the Dashboard from Manage Widgets, in the top right corner of the Dashboard. These widgets can be turned on and off:
 
 - Hot Sheets
-- Listings
 - Contacts
 - Saved Searches
 - Tags
@@ -47,9 +46,9 @@ Choose which widgets display on the Dashboard from Manage Widgets, in the top ri
 
 The Dashboard updates as soon as you check or uncheck a widget, with nothing to save. A green confirmation appears at the bottom of the screen, reading Widget added or Widget removed.
 
-> **Note:** The Listings widget cannot be removed from the Dashboard.
+> **Note:** The Listings widget is not in Manage Widgets, because it cannot be added or removed. It is always on the Dashboard.
 
-> Screenshot placeholder: the Manage Widgets panel open on the Dashboard, showing the widget checkboxes | Alt text: The Manage Widgets panel open on the Perchwell Dashboard, listing Hot Sheets, Listings, Contacts, Saved Searches, and Tags with a checkbox beside each
+> Screenshot placeholder: the Manage Widgets panel open on the Dashboard, showing the widget checkboxes | Alt text: The Manage Widgets panel open on the Perchwell Dashboard, listing Hot Sheets, Contacts, Saved Searches, and Tags with a checkbox beside each
 
 ## Reorder your Dashboard widgets
 
