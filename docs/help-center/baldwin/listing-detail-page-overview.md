@@ -12,10 +12,10 @@ collections: ["Listing Maintenance"]
 state: published
 author_id: 8314814
 created_at: 2026-03-16T04:27:47Z
-updated_at: 2026-09-01T22:03:36Z
+updated_at: 2026-09-10T22:56:01Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-09-14T14:26:04Z
 ---
 
 # Listing Detail Page Overview
@@ -45,74 +45,60 @@ The **Listing Header** at the top of the page highlights essential property deta
 Use the Listing Tabs underneath the **Listing Header **to quickly navigate to certain categories of the property.
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png?expires=1788542100&signature=8d2d8ea4a18dc22584498617fe521b958c2dffaaee7f9af1a30962c5bcecb73a&req=diUhEch2m4VZWvMW1HO4zUsj1knI0sW0HHgXmG%2BZD3stdJXMwaM1VErokT8m%0Aofr5mm4zFpyo4R1JJCc%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png?expires=1789398000&signature=d274ca7a7ec446c512c497403471455d4bbbbd87174db8c2b8303d17f7a8cd90&req=diUhEch2m4VZWvMW1HO4zUsj1kjO38%2B1HHgXmG%2BZD3ugThs1XWkuxj6SVsTC%0A1PTbAZfu0rzJU39ecjI%3D%0A)
 
-​
 You can quickly navigate to these following Listing categories:
-​**Overview**
-​**Listing Details**
-​**Property Details**
-​**Features**
-​**Map
-Rooms
-Documents
-Auction Information
-History
-Mortgage & Tax**
-​
-The Documents Section has any associated documents tied to a Listing. **Please note that if a Listing does not have any associated documents, there will be no Documents section.**
+- ​Overview
+- ​Listing Details
+- ​Property Details
+- ​Features
+- ​Map
+- Rooms
+- Documents
+- Auction Information
+- History
+- Mortgage & Tax
+
+The Documents Section hosts any associated documents tied to a Listing. Please note that if a Listing does not have any associated documents, there will be no Documents section.
 1. The Documents are located under the “Documents” section of a Listing. Click a Listing to Open up the full Listing Details Page.
 2. Then, scroll down to the Documents section of the Listing, or simply click “Documents” right under the address near the top of the screen.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png?expires=1788542100&signature=241c7834ff301db3356b8505bbbf3d974103f5da7ca86bde8a4cd06ef8b5246e&req=diUhEch2lYdaW%2FMW1HO4zeqx7fFORyZRm9JycjkU8Gs%2FWDsbwFPYyRlgdKBW%0Ao2oJ%0A) You will be able to add Documents to your Listing by editing the Listing. There will be a section for you to upload any relevant documents associated with the Listing.
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png?expires=1789398000&signature=64f7093ca1d172c09f53cef1054801905a1f7b8759956a8a88bde4d79a67aac1&req=diUhEch2lYdaW%2FMW1HO4zeqx7fBISixQm9JycjkU8Gv7qoQKqAarwnUCoR%2Fh%0Ae9Xe%0A) You will be able to add Documents to your Listing by editing the Listing. There will be a section for you to upload any relevant documents associated with the Listing.
 ​
 
 ## Listing Summary navigation
 
-The **Listing Summary** on the right side helps you move through the page faster.
+The Listing Summary on the right side helps you move through the page faster.
 - Jump to sections like **Listing Information**, **Location**, and **History**
 - Open tools in the **Action Panel**
 
 # Action Panel tools
 
-Use the **Actions button**on the right side to share listings, create outputs, and open integrations.
+Use the **Actions button **on the right side to share listings, create outputs, and open integrations.
 
 ## Sharing, tags, and reports
 
 Use these tools from the **Actions button**:
-- **Contact Agent**
-  - Contact the listing agent
-​
-- **Share**
+- **Contact Agent: **Contact the listing agent
+- **Share:**
   - Click **Share**, then **Email** to share the Listing with a client via an Email.
-  - Click **Share**, then **Text** to send the Listings with your contact via an SMS text message.
+  - Click **Share**, then **Text** to text the listing to a contact. Edit the message before you send it. The listing link is added for you.
   - Click **Share**, then **Tags** to add the Listing to an existing **Tag **or create a new **Tag **and add the Listing to the new** Tag.**
   - Click **Share**, then **Public Link **to send the Listing to your contact via a Public link that does not require a Perchwell account to access.
-​
-
-**📖 Check out this article to learn more about tags: [how to create and edit tags](https://intercom.help/perchwell-help-center-baldwin/en/articles/14465546-tags-page-overview)**
-- **Print**
-  - Print the listing detail page
-- **One Pager**
-  - Add the listing to a one-page report
-​
-- **Add to Report**
-  - Start a report from this listing
-​
-- **Auto CMA**
-  - Generate a CMA using this listing as the subject
-​
-- **Edit Listing**
-  - Open the listing form to edit (listing agent only)
+- **Print: **Print the listing detail page
+- **One Pager: **Add the listing to a one-page report
+- **Add to Report:**Start a report from this listing​
+- **Auto CMA: **Generate a CMA using this listing as the subject
+- **Edit Listing: **Open the listing form to edit (listing agent only)
 
 ## Integrations
 
 Use **Integrations** to open connected tools.
-- **RPR** for property reports, valuation tools, and market analytics
+- **RPR**
 - **ShowingTime**
 - **Sentrilock**
 - **InfoSparks**
-- CRS integrations
-- **Down Payment Resource** to identify potential buyer assistance programs
+- **CRS integrations**
+- **Down Payment Resource**
 
 # Listing detail tiles
 
@@ -144,7 +130,7 @@ For Closed Listings, you will be able to find details on the Seller Agent, as we
 - **Pending date**
 - **Close date**
 - **Seller contributions/concessions**
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png?expires=1788542100&signature=eb3c0b38135f70ca074442ae504ba0f915fb25b94bd34b3170032c4eba000deb&req=diYmFct7mIFcWvMW1HO4ze2xlwceCFrfQUpoiXs339FbeecCxmkpoGMVfedu%0A%2BSAU%0A)
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png?expires=1789398000&signature=9e56989637aba8f393874ba9b0d9f42aebff56fd1410708ddafa65da84ca04ec&req=diYmFct7mIFcWvMW1HO4ze2xlwYYBVDeQUpoiXs339G7b7G9ZLojS%2BUcbKGh%0AujEx%0A)
 - **Closed financing**
 
 ## Property details (interior, exterior, lot)
@@ -156,7 +142,7 @@ Use these tiles to review the property layout and site details.
   - Review structure type, pool features, fencing, parking, and architectural details
 - **Land & Lot**
   - Review MLS area, county, tax ID, year built, lot features, zoning, and more
-- **Tax** Information
+- **Tax** **Information**
   - Find information about a property's tax information, such as Tax PPIN #, Tax legal description, and Property taxes.
 
 # Location tools
@@ -182,8 +168,6 @@ Use **History** to track updates made while the listing is on the market.
     4. **DOM** (Days on Market)
     5. **Changed By**
 
-**💡 Key prices and statuses may differ slightly between the two History views.**
-
 # Mortgage and Taxes
 
 Use **Mortgage & Taxes** to estimate affordability.
@@ -195,7 +179,7 @@ Use **Mortgage & Taxes** to estimate affordability.
 If you notice a Listing contains incorrect information, and would like to report it to the MLS Staff, please use the **CRS Listing Integrity button**, which is located in the **Agent Tools** section on the **Listing Details Page:**
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png?expires=1788542100&signature=9938f339f954a07cc7f535f972db494dfba6eb82a2f996697460400183dc8375&req=diYnEsl6lIdcXPMW1HO4zRcmtlQ4hwH6nwsHMXGDMgppdncb8xL8VwgBD%2BaK%0AqqRMXjSfz26GlYXccYg%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png?expires=1789398000&signature=c7f37075a8a533e94b838f526d0618cae78e2c208736d4a606577d0d2b049646&req=diYnEsl6lIdcXPMW1HO4zRcmtlU%2Bigv7nwsHMXGDMgoYNIt5lIWZzsB7wAi2%0Ao7O%2BtIfjeNFky7dydfI%3D%0A)
 
 Clicking this will bring you directly to a form you can complete and submit to the MLS Staff.
 ​

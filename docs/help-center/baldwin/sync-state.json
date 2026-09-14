@@ -1,8 +1,40 @@
 {
- "last_run": "2026-09-04T20:02:38Z",
+ "last_run": "2026-09-14T14:26:04Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "14074994": {
+   "file": "listing-detail-page-overview.md",
+   "updated_at": 1789080961,
+   "state": "published",
+   "title": "Listing Detail Page Overview",
+   "content_id": "16398662",
+   "body_sha1": "3dceb767493c5dcd9bbc0ac07bd93168666651df"
+  },
+  "15201114": {
+   "file": "client-collaboration-faq.md",
+   "updated_at": 1789080709,
+   "state": "published",
+   "title": "Client Collaboration FAQ",
+   "content_id": "17971183",
+   "body_sha1": "e201a4fea114ce45eed3773c0ee8b10f96bfd93e"
+  },
+  "13903326": {
+   "file": "share-multiple-listings-in-perchwell.md",
+   "updated_at": 1789080335,
+   "state": "published",
+   "title": "Share Multiple Listings in Perchwell",
+   "content_id": "16154688",
+   "body_sha1": "8b4b51361cd675de5fd795ca938c8ed08e8038ef"
+  },
+  "16864886": {
+   "file": "delete-a-draft-listing.md",
+   "updated_at": 1788891590,
+   "state": "published",
+   "title": "Delete a Draft Listing",
+   "content_id": "20404338",
+   "body_sha1": "0c7a7a32032307c244e9d4ad8bb90d7ef0ab9e6d"
+  },
   "14709241": {
    "file": "listing-statuses-in-perchwell.md",
    "updated_at": 1788445268,
@@ -50,14 +82,6 @@
    "title": "Listings FAQ",
    "content_id": "17970338",
    "body_sha1": "eeab3a30280827d1bef1d9d21a6f0c6230a3653f"
-  },
-  "14074994": {
-   "file": "listing-detail-page-overview.md",
-   "updated_at": 1788300216,
-   "state": "published",
-   "title": "Listing Detail Page Overview",
-   "content_id": "16398662",
-   "body_sha1": "e607c32d9b7df10ef3274f1b7f9ad0de6b616774"
   },
   "13623016": {
    "file": "manage-listings-page-overview.md",
@@ -298,14 +322,6 @@
    "title": "Universal Search Bar",
    "content_id": "11821319",
    "body_sha1": "91a52c6556d65c56ca4437d95afc03741030ce99"
-  },
-  "13903326": {
-   "file": "share-multiple-listings-in-perchwell.md",
-   "updated_at": 1786389714,
-   "state": "published",
-   "title": "Share Multiple Listings in Perchwell",
-   "content_id": "16154688",
-   "body_sha1": "ccf2bff56d1d50b5e0e6721f1d48b43ae9bfc69b"
   },
   "14549167": {
    "file": "create-communication-templates.md",
@@ -691,14 +707,6 @@
    "content_id": "18497092",
    "body_sha1": "30d93a75139a599a104af538bd08e48919b9fa8b"
   },
-  "15363551": {
-   "file": "search-for-a-condo.md",
-   "updated_at": 1782960007,
-   "state": "published",
-   "title": "Search for a Condo",
-   "content_id": "18225099",
-   "body_sha1": "4daac45c7d766a6e390c9cdc608545fa6e718ce7"
-  },
   "15418014": {
    "file": "may-features.md",
    "updated_at": 1782960007,
@@ -706,6 +714,14 @@
    "title": "May Features",
    "content_id": "18332952",
    "body_sha1": "636cc1ec1cacc08737169cf0f03189601ae9a03d"
+  },
+  "15363551": {
+   "file": "search-for-a-condo.md",
+   "updated_at": 1782960007,
+   "state": "published",
+   "title": "Search for a Condo",
+   "content_id": "18225099",
+   "body_sha1": "4daac45c7d766a6e390c9cdc608545fa6e718ce7"
   },
   "15280170": {
    "file": "how-to-log-in-to-the-perchwell-mobile-app.md",
@@ -715,14 +731,6 @@
    "content_id": "18095235",
    "body_sha1": "379fc9e317fac6efdbbb73dcaaad66214e2ab030"
   },
-  "15201164": {
-   "file": "mobile-faq.md",
-   "updated_at": 1782960002,
-   "state": "published",
-   "title": "Mobile FAQ",
-   "content_id": "17971267",
-   "body_sha1": "b99f540391e9382c7c81cd12f20938d6b20b5c77"
-  },
   "15201140": {
    "file": "manage-people-faq.md",
    "updated_at": 1782960002,
@@ -731,13 +739,13 @@
    "content_id": "17971228",
    "body_sha1": "f55adb0d7ca7465d7e5ffd83e9a3ffbf2890b0ca"
   },
-  "15201114": {
-   "file": "client-collaboration-faq.md",
-   "updated_at": 1782960001,
+  "15201164": {
+   "file": "mobile-faq.md",
+   "updated_at": 1782960002,
    "state": "published",
-   "title": "Client Collaboration FAQ",
-   "content_id": "17971183",
-   "body_sha1": "eaa70e5876fcb3cde58ec3b422ecfb91b1bbe1c6"
+   "title": "Mobile FAQ",
+   "content_id": "17971267",
+   "body_sha1": "b99f540391e9382c7c81cd12f20938d6b20b5c77"
   },
   "15200594": {
    "file": "analytics-faq.md",
@@ -819,14 +827,6 @@
    "content_id": "16183571",
    "body_sha1": "8e551dc5ebb1a185b3789848411fd5ae8ffcc3cb"
   },
-  "13903183": {
-   "file": "integration-tools-on-the-dashboard.md",
-   "updated_at": 1782959951,
-   "state": "published",
-   "title": "Integration Tools on the Dashboard",
-   "content_id": "16154445",
-   "body_sha1": "0ecd85a64108faca1476e5ef6811ec98a8506cd5"
-  },
   "13903171": {
    "file": "listings-widget-overview.md",
    "updated_at": 1782959951,
@@ -834,6 +834,14 @@
    "title": "Listings Widget Overview",
    "content_id": "16154426",
    "body_sha1": "c39daacc226b296211f560615f0929e1ac54124d"
+  },
+  "13903183": {
+   "file": "integration-tools-on-the-dashboard.md",
+   "updated_at": 1782959951,
+   "state": "published",
+   "title": "Integration Tools on the Dashboard",
+   "content_id": "16154445",
+   "body_sha1": "0ecd85a64108faca1476e5ef6811ec98a8506cd5"
   },
   "13903062": {
    "file": "dashboard-overview.md",

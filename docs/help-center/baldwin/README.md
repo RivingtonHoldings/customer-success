@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-04T20:02:38Z. Articles: 123 (120 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-14T14:26:04Z. Articles: 124 (121 published, 3 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -81,11 +81,12 @@ Collection ID 19737537. 3 articles.
 
 ## Listing Maintenance
 
-Collection ID 17797908. 4 articles.
+Collection ID 17797908. 5 articles.
 
 - [AI Scribe](ai-scribe.md), updated 2026-08-04
 - [Add and Edit Listings](add-and-edit-listings.md), updated 2026-08-04
-- [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-09-01
+- [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-09-08
+- [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-09-10
 - [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-09-01
 
 ## Manage People
@@ -206,7 +207,7 @@ Collection ID 17797941. 14 articles.
 - [Print Search Results](print-search-results.md), updated 2026-08-10
 - [Search Page Overview](search-page-overview.md), updated 2026-07-31
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-08-31
-- [Share Multiple Listings in Perchwell](share-multiple-listings-in-perchwell.md), updated 2026-08-10
+- [Share Multiple Listings in Perchwell](share-multiple-listings-in-perchwell.md), updated 2026-09-10
 - [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
 - [Universal Search Bar](universal-search-bar.md), updated 2026-08-10
 
@@ -227,7 +228,7 @@ Collection ID 19644367. 1 articles.
 
 Collection ID 19642645. 1 articles.
 
-- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-07-02
+- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-09-10
 
 ## Reports / FAQ (under Reports)
 

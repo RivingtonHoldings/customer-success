@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-04T20:02:38Z",
+ "last_run": "2026-09-14T14:26:04Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
@@ -115,14 +115,6 @@
    "content_id": "16185917",
    "body_sha1": "b93a9fefbc1177981aa01f84bf078925f0b93a98"
   },
-  "13923137": {
-   "file": "create-a-cloud-cma-presentation-from-search.md",
-   "updated_at": 1782959963,
-   "state": "published",
-   "title": "Create a Cloud CMA Presentation from Search",
-   "content_id": "16185172",
-   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
-  },
   "13923207": {
    "file": "using-searchwell.md",
    "updated_at": 1782959963,
@@ -130,6 +122,14 @@
    "title": "Using Searchwell",
    "content_id": "16185254",
    "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
+  },
+  "13923137": {
+   "file": "create-a-cloud-cma-presentation-from-search.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Create a Cloud CMA Presentation from Search",
+   "content_id": "16185172",
+   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
   },
   "13921850": {
    "file": "filtering-your-search-by-property-types.md",
@@ -139,14 +139,6 @@
    "content_id": "16183138",
    "body_sha1": "a218aae5ec5de9e5a58ab85760148c3f9317ecf3"
   },
-  "13921493": {
-   "file": "integration-tools-on-the-dashboard.md",
-   "updated_at": 1782959959,
-   "state": "published",
-   "title": "Integration Tools on the Dashboard",
-   "content_id": "16182357",
-   "body_sha1": "17b6053b0995413224beb94c34542bd65152d198"
-  },
   "13921348": {
    "file": "adding-a-hot-sheet-to-the-dashboard.md",
    "updated_at": 1782959959,
@@ -154,6 +146,14 @@
    "title": "Adding a Hot Sheet to the Dashboard",
    "content_id": "16182104",
    "body_sha1": "ca22d7dadacdee501ffbcb2f4ce3fa70e345f88c"
+  },
+  "13921493": {
+   "file": "integration-tools-on-the-dashboard.md",
+   "updated_at": 1782959959,
+   "state": "published",
+   "title": "Integration Tools on the Dashboard",
+   "content_id": "16182357",
+   "body_sha1": "17b6053b0995413224beb94c34542bd65152d198"
   },
   "13921294": {
    "file": "the-days-active-on-market-widget.md",

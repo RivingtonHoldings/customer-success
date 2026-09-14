@@ -10,56 +10,60 @@ collection: "Client Collaboration / FAQs"
 collection_ids: [19642645]
 collections: ["Client Collaboration / FAQs"]
 state: published
-author_id: 9490228
+author_id: 8314814
 created_at: 2026-05-21T04:32:46Z
-updated_at: 2026-07-02T02:40:01Z
+updated_at: 2026-09-10T22:51:49Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-09-14T14:26:04Z
 ---
 
 # Client Collaboration FAQ
 
-## Will contacts who have existing saved search emails from Paragon still receive those alerts after the transition to Perchwell?
+# Will contacts who have existing saved search emails from Paragon still receive those alerts after the transition to Perchwell?
 
 When Paragon is fully replaced by Perchwell, the client will no longer receive. search alert emails. During the Parallel Period, all saved searches will come over from Paragon with the alerts turned on. You will need to turn on search notifications for each Saved Search. You'll also want to turn search alerts off in Paragon for each search to avoid duplicate emails.
 
-## Can I export my contact interactions?
+# Can I export my contact interactions?
 
 Not at this time, but you can review all of them in the Messages section at any time.
 
-## Will messaging with clients on listings work through the app right away?
+# Will messaging with clients on listings work through the app right away?
 
 Yes. Messages will come through the app in real time, and you'll also receive an email letting you know there's a new message.
 
-## When you add listings to an existing tag, is the client notified?
+# When you add listings to an existing tag, is the client notified?
 
 Clients will not be notified when new listings are added to an existing tag.
 
-## If we share another realtor’s listing on Facebook or X, do we need permission?
+# If we share another realtor’s listing on Facebook or X, do we need permission?
 
 Yes. If it's not your listing, you should get written permission before promoting it. Perchwell won't block you from sharing it, so it's your responsibility to contact the listing agent for approval.
 
-## Can the listing agent contact my clients?
+# Can the listing agent contact my clients?
 
 No, the listing agent cannot contact your listing agent or see their information. When you share listings with a client, only your contact information is visible to them.
 
-## Do clients have an app they can use while they're out and about?
+# Can I personalize the text message when I share a listing?
+
+Yes. In the **Text** tab of the Share window, click into the message box and edit the message before you send it. The listing link and the "Reply STOP to opt out." line are added automatically and cannot be removed. Messages are limited to 600 characters, which means a long message may arrive as several texts in a row.
+
+# Do clients have an app they can use while they're out and about?
 
 Yes. If your client has been invited to Perchwell, they can use the mobile app to view listings, receive messages, and share feedback.
 
-## Does Perchwell connect to my CRM?
+# Does Perchwell connect to my CRM?
 
 Your data is yours. Perchwell is not in the middle. Contacts belong to you, and listings belong to the MLS. You can reach out to Bridge to explore sending listing data to your CRM. For contacts, you can export them directly from Perchwell at any time.
 
-## Will I receive a notification if my client changes the search criteria?
+# Will I receive a notification if my client changes the search criteria?
 
 Not at this time, but that feedback has been shared with the product team.
 
-## Can I add contacts directly from my phone?
+# Can I add contacts directly from my phone?
 
 Not at this time.
 
-## Where do emails sent from the platform come from?
+# Where do emails sent from the platform come from?
 
 Emails are sent from [no-reply@perchwell.com](mailto:no-reply@perchwell.com), but your name appears as the sender and all replies are directed to you.
