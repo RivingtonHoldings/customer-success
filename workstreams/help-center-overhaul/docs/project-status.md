@@ -34,7 +34,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 - Project status in Notion: Not Started as of September 1, 2026.
 - Repo bootstrapped September 4, 2026, with the help center mirror and the golden questions checklist in place (see `docs/build-log.md`).
 - Baldwin cutover happened August 3, 2026. The two weeks after cutover (August 3 to 17) are the reference window for Fin baseline reporting.
-- First article migrated on September 9, 2026: Universal Search Bar, now a Draft in the new database with six `[confirm: ...]` items for review. Scorecard 50.0 before, 91.4 after.
+- First article migrated on September 9, 2026: Universal Search Bar, now a Draft in the new database. Scorecard 50.5 before, 95.0 after. All six `[confirm: ...]` items were resolved on September 10, 2026; none remain.
 
 ## Active initiatives
 

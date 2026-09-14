@@ -78,7 +78,7 @@ A third pass removed the inventory of listing-card fields from the Listings bull
 | 13 limitations_workarounds | Fail | Pass | Live said "not saved or filtered searches" with no route forward. The draft points once at Create a Search with Filters for criteria-based searching and has no Limitations section |
 | 14 numerical_clarity | Pass | Pass | No numbers needed. The status list is now written as examples rather than as a complete set, matching the source |
 
-Gate: the live article fails 4 of 14 under the house resolutions. The draft passes 14 of 14. All six `[confirm: ...]` markers were resolved by Tara on 2026-09-10; none remain.
+Gate: the live article fails 5 of 14 under the house resolutions, factors 2, 6, 11, 12, and 13. The draft passes 14 of 14. All six `[confirm: ...]` markers were resolved by Tara on 2026-09-10; none remain.
 
 ## Dimension scores
 
