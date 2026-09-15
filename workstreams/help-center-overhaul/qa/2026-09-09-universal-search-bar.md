@@ -149,7 +149,9 @@ The lesson is narrower than it looks. The de-jargon pass was right to go past Ke
 
 **The score does not move.** It stays at 95.7, and the gate stays at 14 of 14. Nothing here touched a scored check: the words were never the problem the scorecard measures, which is the same blind spot recorded for sourced-but-wrong facts. A member-comprehension defect is invisible to it, and Kelly caught this one by reading as an agent would.
 
-**Kelly's five inline comment anchors are now unanchored**, because the words they attached to are gone. The threads are still on the page and still unresolved. Tara to reply and resolve each, since replying as Claude is not set up on these threads.
+**Kelly's five inline threads no longer exist.** Notion deletes an inline discussion when the text it is anchored to is deleted, and this pass removed every word the five were attached to. Checking the page afterward returns one discussion, the whole-article comment anchored to the description, which Tara resolved herself. An earlier version of this file said the five were still on the page and unresolved; that was wrong.
+
+The practical consequence is that Kelly has no thread-level trail showing which comment produced which change. The table above is now the only record of that, so closing the loop with her means telling her directly rather than replying in the page. Worth knowing before the next round of comments: editing the commented text is what destroys the thread, so a reply belongs on the thread before the edit, not after.
 
 ## Fin test questions
 
