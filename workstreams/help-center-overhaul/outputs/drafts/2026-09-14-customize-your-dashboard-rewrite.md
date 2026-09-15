@@ -41,7 +41,7 @@ Choose which widgets display on the Dashboard from Manage widgets, in the top ri
 
 The Dashboard updates as soon as you check or uncheck a widget. A green confirmation message appears at the bottom of the screen showing Widget added or Widget removed.
 
-To add a Hot Sheet, click Add hot sheet at the top of the Manage widgets panel. The Hot Sheet widget is added to the Dashboard immediately. Unlike the checkboxes, no confirmation message appears.
+To add a Hot Sheet, click Add hot sheet at the top of the Manage widgets panel. The Hot Sheets widget is added to the Dashboard immediately. Unlike the checkboxes, no confirmation message appears.
 
 [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) covers how to set one up.
 

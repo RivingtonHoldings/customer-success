@@ -135,7 +135,11 @@ Revision 2 of the September 10, 2026 check set.
 **Decisions the team owes**
 
 - **Two different Arcade recordings for the New Hot Sheet flow.** The live article embeds `demo.arcade.software/hEIjX3EvfRviX1ElurDi`; the Notion page and the row's `Video Links` give `app.arcade.software/share/SINhoyObS2qHu9aF1HE0`. The draft carries the Notion one per the migration rule, but `Video: Update Required` on the row suggests both may be stale. Someone should confirm which recording ships, for both flows
-- **Widget naming is inconsistent across the migrated set.** This article and the live one say "Hot Sheet widget", singular. The Dashboard Overview draft says "Hot Sheets widget", plural, in a heading. One term across the set is what lets Fin match either phrasing; worth settling before transfer. The September 15 screenshot does not settle it, since it shows the two finished widgets labeled by type rather than a generic widget name
+**Widget naming settled, September 15, 2026.** Tara called it: the widget is the **Hot Sheets widget**, plural, and this article had it singular in seven places. Customize Your Dashboard had it singular once. Both corrected; Dashboard Overview already had it right.
+
+Two things support the plural. The product's own setup card is headed "Introducing Hot Sheets", and every other widget in the set is named for its plural feature: Contacts widget, Saved Searches widget, Tags widget, Listings widget. The singular was the odd one out purely because this draft introduced it.
+
+The individual object stays singular: a member adds a Hot Sheets widget, then sets it up as one hot sheet, and the article title, "Add a Hot Sheet to the Dashboard", is unchanged and still correct. The frontmatter `description` field also keeps the singular, because that field records the live article's own description rather than the rewrite's.
 - **`Screenshot: Update Required`, but the article has no images.** The draft carries none either, since both setup flows have a walkthrough video. Worth confirming that a video is considered sufficient for this article rather than a missing screenshot
 - **Seven of the eight outbound and self links use the default help center path** (`support.perchwell.com/en/...`) rather than `/baldwin/en/...`, because that is how the mirror records them. Flag at Intercom transfer
 

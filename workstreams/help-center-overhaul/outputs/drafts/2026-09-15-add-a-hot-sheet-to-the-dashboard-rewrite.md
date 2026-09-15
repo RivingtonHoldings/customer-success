@@ -24,9 +24,9 @@ migrated_from: master-article-list
 
 # Add a Hot Sheet to the Dashboard
 
-**Description:** Add a Hot Sheet widget to your Perchwell Dashboard and set it up to track listing activity across the MLS or within a Saved Search.
+**Description:** Add a Hot Sheets widget to your Perchwell Dashboard and set it up to track listing activity across the MLS or within a Saved Search.
 
-Use this article to add a Hot Sheet widget to your Dashboard, set up a quick hot sheet that tracks the whole MLS, and set up a saved search hot sheet from a Saved Search. A Hot Sheet shows market events for a saved search or a custom market segment.
+Use this article to add a Hot Sheets widget to your Dashboard, set up a quick hot sheet that tracks the whole MLS, and set up a saved search hot sheet from a Saved Search. A Hot Sheet shows market events for a saved search or a custom market segment.
 
 ## When to use a Hot Sheet
 
@@ -38,9 +38,9 @@ Open a Hot Sheet when you want a standing view of listing activity rather than a
 - Check recent activity on the Saved Searches you built for active clients
 - Give a broker a view of activity across more than one office
 
-## Add a Hot Sheet widget to the Dashboard
+## Add a Hot Sheets widget to the Dashboard
 
-Add a Hot Sheet widget to the Dashboard from Manage widgets, in the top right corner of the Dashboard.
+Add a Hot Sheets widget to the Dashboard from Manage widgets, in the top right corner of the Dashboard.
 
 ### Steps:
 
@@ -48,7 +48,7 @@ Add a Hot Sheet widget to the Dashboard from Manage widgets, in the top right co
 2. Click Manage widgets in the top right corner
 3. Click Add hot sheet
 
-The new Hot Sheet widget is added to the Dashboard and opens on a choice of two: New hot sheet, or From saved search.
+The new Hot Sheets widget is added to the Dashboard and opens on a choice of two: New hot sheet, or From saved search.
 
 ## Set up a quick hot sheet
 
@@ -58,7 +58,7 @@ https://app.arcade.software/share/SINhoyObS2qHu9aF1HE0
 
 ### Steps:
 
-1. In the new Hot Sheet widget, click New hot sheet
+1. In the new Hot Sheets widget, click New hot sheet
 2. Enter a name for the Hot Sheet
 3. Choose the property types to monitor
 4. Enter the time frame in days, up to 998
@@ -75,7 +75,7 @@ https://app.arcade.software/share/1EP0inuZyl6aPKF6mY0o
 
 ### Steps:
 
-1. In the new Hot Sheet widget, click From saved search
+1. In the new Hot Sheets widget, click From saved search
 2. Choose the Saved Search to monitor
 3. Enter the time frame in days, up to 998
 4. Select the statuses to track
