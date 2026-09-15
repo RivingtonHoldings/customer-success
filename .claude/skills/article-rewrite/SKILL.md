@@ -129,4 +129,5 @@ Name the real things, not the category that contains them, and use the word an a
 
 ## Reference
 
-`references/notion-ai-prompt.md` is a paste-ready version of these rules for teammates editing directly in Notion AI.
+- `references/starting-prompt.md` is the paste-ready prompt for kicking this skill off, and what a teammate needs to supply that the skill cannot work out for itself: screenshots, the set the article belongs to, the title call, and what they verified in the product.
+- `references/notion-ai-prompt.md` is a paste-ready version of these rules for teammates editing directly in Notion AI.
