@@ -122,6 +122,12 @@ Neither is documented anywhere in the repo, so both are recorded here for tracea
 
 **The scorecard cannot catch this class of error, and it is worth being explicit about that.** Accuracy check 1 asks whether every fact traces to a source; each of these did. Check 2 asks whether unknowns are marked; these were not unknowns, they were sourced and wrong. The scorecard measures retrievability and sourcing discipline, not whether the source told the truth. Only a product check does that. The score is unchanged at 100.0 before and after this correction, which is exactly the blind spot.
 
+## Rescore against revision 2, September 15, 2026
+
+All 33 checks pass and the gate passes 14 of 14. The total holds at **100.0** with no dimension moving. This article was written after revision 2 was set, so it was scored against the current check set from the start.
+
+One consistency point that no check tests for. The opening paragraph defines a widget as "a tile that displays one kind of information". Kelly objected to "tile" on Dashboard Overview on September 15, on the grounds that members are confused by it, and that article's definition was reworked to drop the noun. This article still carries "tile", so the two now define the same thing differently. Matching Dashboard Overview would make it "A Dashboard widget displays one kind of information".
+
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |

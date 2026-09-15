@@ -36,7 +36,7 @@ Two QA files predate revision 2. Dashboard Overview has been rescored: the rewri
 3. The opening paragraph is "Use this article to ..." and names the feature and the outcomes
 4. Every H2 and H3 names what the section answers and carries the feature name where it fits
 5. The first sentence under every heading echoes the heading's key terms
-6. No heading appears twice in the article
+6. No section heading appears twice in the article; the `Steps:` H3 is exempt, since the standard requires it once under each procedure
 7. The sections follow the order of any list in the opening paragraph or a lead sentence, and every item in that list has a section behind it
 
 ### Chunk independence (25 points, 6 checks)
@@ -46,7 +46,7 @@ Two QA files predate revision 2. Dashboard Overview has been rescored: the rewri
 3. Each section covers one topic; long sections are split with H3 subheadings
 4. Paragraphs run two to four sentences
 5. Heading levels are H1 title only, H2 sections, H3 subsections and `Steps:`
-6. No fact or enumeration is stated in more than one section; the feature name repeats, its capabilities do not
+6. No fact or enumeration is stated in more than one section; the feature name repeats, its capabilities do not. Parallel procedures are the exception: each `Steps:` block carries every step it needs, because Fin has to be able to answer from either one alone
 
 ### Answer completeness (25 points, 7 checks)
 

@@ -101,6 +101,25 @@ Failed checks, September 9 draft: chunk independence 6 (the listings/agents/cont
 
 Failed checks, current draft: retrieval signals 1 only. The title stays a bare noun by Leo's choice, and the description and opening carry the task words instead. This is a decision rather than a defect, so the article is at the practical ceiling for its agreed title.
 
+## Rescore against revision 2, September 15, 2026
+
+This file had been the known straggler, still carrying revision 1 numbers. Rescoring it turned up a check that was failing under both revisions and had never been recorded.
+
+**Fin-parsable formatting check 3 fails: bold in the body.** The three record-type bullets under "What the Universal Search Bar returns" lead with bold labels, `**Listings.**`, `**Agents.**`, and `**Contacts.**`. The content standard allows bold in exactly two places, the callout labels and the `**Description:**` line, and this article has no callouts, so those three are the only bold in it besides the description. The rule exists because Intercom names the bold callout label as the signal Fin carries into an answer; bold used for anything else dilutes it. The pattern came across from the old article's house style, which bolded liberally, and the migration stripped it everywhere except here.
+
+| Dimension | Weight | Recorded | Actual | Note |
+|---|---|---|---|---|
+| Retrieval signals | 30 | 25.7 (6/7) | 25.7 (6/7) | Check 1 still fails on the bare-noun title |
+| Chunk independence | 25 | 25.0 (6/6) | 25.0 (6/6) | |
+| Answer completeness | 25 | 25.0 (7/7) | 25.0 (7/7) | |
+| Fin-parsable formatting | 10 | 10.0 (8/8) | 8.75 (7/8) | Check 3, bold bullet labels |
+| Accuracy and confidence | 10 | 10.0 (5/5) | 10.0 (5/5) | |
+| **Total** | **100** | **95.7** | **94.5** | Still Fin-ready |
+
+The gate passes 14 of 14. The fix is to unbold the three labels and keep the sentences as they are.
+
+Kelly's de-jargon feedback on this article is separate and still pending: she flagged "lookup", "record", "returns", "type what identifies the record", and "Partial entries return close matches" as too technical for agents. That is a rewrite of the same section the bold sits in, so both should be done in one pass rather than twice.
+
 ## Fin test questions
 
 Questions members may ask, in their words. "One section" means Fin can answer from a single retrieved section without stitching.

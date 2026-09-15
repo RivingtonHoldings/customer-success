@@ -154,6 +154,27 @@ Revision 2 of the September 10, 2026 check set.
 - **Why a Hot Sheet beats a search.** It updates automatically from current MLS data, which is the reason to build one and appeared in neither version of this article
 - **Links.** The live article linked to nothing. The draft links Manage Your Saved Searches from the flow that depends on one, plus Dashboard FAQ and Customize Your Dashboard
 
+## Rescore against revision 2, September 15, 2026
+
+The gate passes 14 of 14. One check fails that had been scored as passing.
+
+**Answer completeness check 6 fails: "market events" is never defined.** The phrase carries the article, appearing five times, in the opening definition, in both type descriptions, and in both post-step outcome sentences. It is the product's own wording, taken deliberately from the setup card, which is why it was adopted. But nothing in the article says what a market event is. The gloss exists in two places and neither is the article: this QA file records the widget rows as Coming soon, Listed, Price incr., Price drop, Pending, Closed, Expired, and Off market, and the live article says "new listings, price changes, and status updates". A member who asks Fin what a Hot Sheet shows gets the product's term reflected back at them.
+
+The phrase also appears nowhere in either live help center, so it carries no retrieval weight; a member searching the words they know will not type it. Dashboard Overview describes the same thing as "listing activity".
+
+| Dimension | Weight | Recorded | Actual | Note |
+|---|---|---|---|---|
+| Retrieval signals | 30 | 30.0 (7/7) | 30.0 (7/7) | |
+| Chunk independence | 25 | 25.0 (6/6) | 25.0 (6/6) | |
+| Answer completeness | 25 | 25.0 (7/7) | 21.4 (6/7) | Check 6, "market events" undefined |
+| Fin-parsable formatting | 10 | 10.0 (8/8) | 10.0 (8/8) | |
+| Accuracy and confidence | 10 | 10.0 (5/5) | 10.0 (5/5) | |
+| **Total** | **100** | **100.0** | **96.4** | Still Fin-ready |
+
+The fix keeps the product's wording and adds the gloss once, on first use: "A Hot Sheet shows market events for a saved search or custom market segment: new listings, price changes, and status updates." The gloss is sourced to the live article, `baldwin/add-a-hot-sheet-to-the-dashboard.md:34` and `:60`.
+
+**A reading recorded rather than a failure.** Chunk independence check 6 says no fact is stated in more than one section, and the two setup procedures both carry "Set the time frames in days, up to 998 each" and "Remove any statuses you do not want to track". These are parallel procedures, and each has to be complete for Fin to answer from either one alone. The factor 8 resolution in `golden-questions.md` already covers this: what repeats is the feature name, the heading's terms, and anything a step depends on. Check 6 governs capability enumerations, not steps inside parallel procedures. Recorded here so the next rescore does not re-open it.
+
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |
