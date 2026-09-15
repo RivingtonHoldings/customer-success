@@ -67,6 +67,16 @@ Tara sent both Edit hot sheet modals, one per type. They corrected two things an
 
 Also visible and worth recording: Confirm is disabled until the required fields are filled, marked in the modals with orange dots. Saved Search on one, Name and Property Types on the other, Statuses on both. Timeframe carries no required marker, consistent with it having defaults.
 
+## Opening paragraph, September 15, 2026
+
+Tara proposed a rewrite and asked for an assessment. Most of it was better and went in.
+
+Taken: **"either ... or"** in place of a three-part series, which is more accurate about what a member does, since each Hot Sheet is one type or the other. And **"custom market segment"** without an article, which matches the product's setup card verbatim; the draft had added an "a" the source does not have.
+
+Changed from her version: **"create" became "set up"**, so the opening uses the same verb as the two section headings it promises. And **"a quick hot sheet that tracks MLS activity for selected property types"** became **"a quick hot sheet for the whole MLS"**. Her phrasing dropped status, which is an equal filter, and it described one option by its filter while describing the other by its source. The contrast that helps a member choose is scope: the whole MLS against one Saved Search. The property-type detail is in the section lead, where the member acts on it.
+
+Result: "Use this article to add a Hot Sheets widget to your Dashboard and set up either a quick hot sheet for the whole MLS or a saved search hot sheet from one Saved Search." Shorter than both earlier versions, and the list order still matches the section order.
+
 ## Golden questions
 
 | Factor | Old | New | Note |

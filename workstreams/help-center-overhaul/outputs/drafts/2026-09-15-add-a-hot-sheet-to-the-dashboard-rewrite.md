@@ -26,7 +26,7 @@ migrated_from: master-article-list
 
 **Description:** Add a Hot Sheets widget to your Perchwell Dashboard and set it up to track listing activity across the MLS or within a Saved Search.
 
-Use this article to add a Hot Sheets widget to your Dashboard, set up a quick hot sheet that tracks the whole MLS, and set up a saved search hot sheet from a Saved Search. A Hot Sheet shows market events for a saved search or a custom market segment.
+Use this article to add a Hot Sheets widget to your Dashboard and set up either a quick hot sheet for the whole MLS or a saved search hot sheet from one Saved Search. A Hot Sheet shows market events for a saved search or custom market segment.
 
 ## When to use a Hot Sheet
 
