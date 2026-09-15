@@ -24,9 +24,9 @@ migrated_from: master-article-list
 
 # Add a Hot Sheet to the Dashboard
 
-**Description:** Add a Hot Sheets widget to your Perchwell Dashboard and set it up to track listing activity across the MLS or within a Saved Search.
+**Description:** Add a Hot Sheets widget to your Perchwell Dashboard and set it up to track listing activity within a Saved Search or across the MLS.
 
-Use this article to add a Hot Sheets widget to your Dashboard and set up either a quick hot sheet for the whole MLS or a saved search hot sheet from one Saved Search. A Hot Sheet shows market events for a saved search or custom market segment.
+Use this article to add a Hot Sheets widget to your Dashboard and set up either a saved search hot sheet from one Saved Search or a quick hot sheet for the whole MLS. A Hot Sheet shows market events for a saved search or custom market segment.
 
 ## When to use a Hot Sheet
 
@@ -48,26 +48,7 @@ Add a Hot Sheets widget to the Dashboard from Manage widgets, in the top right c
 2. Click Manage widgets in the top right corner
 3. Click Add hot sheet
 
-The new Hot Sheets widget is added to the Dashboard and opens on a choice of two: New hot sheet, or From saved search.
-
-## Set up a quick hot sheet
-
-A quick hot sheet tracks market events across your whole MLS, narrowed by property type and status. Once built, its widget is labeled Quick hot sheet.
-
-https://app.arcade.software/share/SINhoyObS2qHu9aF1HE0
-
-### Steps:
-
-1. In the new Hot Sheets widget, click New hot sheet
-2. In the Edit hot sheet modal, enter a name for the Hot Sheet
-3. Choose the Property Types to monitor
-4. Set the time frames in days, up to 998 each
-5. Remove any statuses you do not want to track
-6. Click Confirm
-
-The Hot Sheet fills in on the Dashboard with market events matching your criteria.
-
-> **Note:** A new Hot Sheet opens with every status selected and with time frames of 1, 7, and 30 days. Adjust either before clicking Confirm.
+The new Hot Sheets widget is added to the Dashboard and opens on a choice of two: From saved search, or New hot sheet.
 
 ## Set up a saved search hot sheet
 
@@ -88,6 +69,25 @@ The Hot Sheet fills in on the Dashboard with market events from that Saved Searc
 > **Tip:** A more specific Saved Search makes a more useful Hot Sheet. Build the search the way you want it before turning it into a Hot Sheet.
 
 Learn how to build and edit one in [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches).
+
+## Set up a quick hot sheet
+
+A quick hot sheet tracks market events across your whole MLS, narrowed by property type and status. Once built, its widget is labeled Quick hot sheet.
+
+https://app.arcade.software/share/SINhoyObS2qHu9aF1HE0
+
+### Steps:
+
+1. In the new Hot Sheets widget, click New hot sheet
+2. In the Edit hot sheet modal, enter a name for the Hot Sheet
+3. Choose the Property Types to monitor
+4. Set the time frames in days, up to 998 each
+5. Remove any statuses you do not want to track
+6. Click Confirm
+
+The Hot Sheet fills in on the Dashboard with market events matching your criteria.
+
+> **Note:** A new Hot Sheet opens with every status selected and with time frames of 1, 7, and 30 days. Adjust either before clicking Confirm.
 
 ## Things to Know
 

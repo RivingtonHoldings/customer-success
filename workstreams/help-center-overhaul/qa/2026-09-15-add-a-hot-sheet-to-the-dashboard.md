@@ -77,6 +77,21 @@ Changed from her version: **"create" became "set up"**, so the opening uses the 
 
 Result: "Use this article to add a Hot Sheets widget to your Dashboard and set up either a quick hot sheet for the whole MLS or a saved search hot sheet from one Saved Search." Shorter than both earlier versions, and the list order still matches the section order.
 
+## Hot Sheet type order corrected, September 15, 2026
+
+Kelly asked, reviewing Dashboard Overview, that the two Hot Sheet types be listed with the saved search hot sheet first. Tara applied it there, which put that article out of step with this one, where the quick hot sheet came first.
+
+Checking the screenshots settled which order is right rather than which article should yield. In the new Hot Sheets widget, **From saved search sits above New hot sheet**, so the saved-search-first order is the one the member sees. This article had it backwards.
+
+Four places changed, so the whole article runs in the order of the buttons:
+
+- The `**Description:**` line now reads "track listing activity within a Saved Search or across the MLS"
+- The opening paragraph now reads "set up either a saved search hot sheet from one Saved Search or a quick hot sheet for the whole MLS"
+- The widget sentence now reads "opens on a choice of two: From saved search, or New hot sheet"
+- The two setup sections were swapped, so "Set up a saved search hot sheet" precedes "Set up a quick hot sheet". Each section moved whole, with its Arcade recording, its steps, its callout, and, for the saved search section, its Manage Your Saved Searches link
+
+This is Retrieval signals check 7, list order, which the two enumerations above the sections would otherwise have failed once the sections moved. The score does not change: the check passed before under the old order and passes now under the new one. The "When to use a Hot Sheet" bullets were left alone, since they enumerate use cases rather than sections and nothing downstream depends on their order.
+
 ## Golden questions
 
 | Factor | Old | New | Note |

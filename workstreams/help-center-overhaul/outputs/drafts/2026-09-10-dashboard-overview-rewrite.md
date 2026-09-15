@@ -42,7 +42,7 @@ Each Dashboard widget displays a specific type of information. Together they giv
 
 ### Hot Sheets widget on the Dashboard
 
-The Hot Sheets widget on the Dashboard tracks new and updated listing activity from current MLS data and updates automatically, which means you see the latest listing activity without rerunning a search. There are two types of Hot Sheets:
+The Hot Sheets widget on the Dashboard tracks new and updated listing activity from current MLS data and updates automatically, which means you do not have to rerun a search to see it. There are two types of Hot Sheets:
 
 - A saved search hot sheet monitors activity within one Saved Search, such as one you saved for a client, a city, or another set of criteria
 - A quick hot sheet monitors activity across the MLS by property type and status
@@ -95,9 +95,9 @@ Choose and arrange your Dashboard widgets from Manage widgets, in the top right 
 
 > Screenshot placeholder: the Dashboard with the Manage widgets button in the top right corner | Alt text: The Perchwell Dashboard with the Manage widgets button highlighted in the top right corner
 
-## Launch third-party integrations from the Dashboard
+## Launch integrations from the Dashboard
 
-Third-party integrations launch from the Integrations panel, which sits on the right side of the Dashboard and holds the tools your MLS connects to Perchwell.
+Launch an integration from the Integrations panel, which sits on the right side of the Dashboard and holds the tools and pages your MLS connects to Perchwell.
 
 ### Steps:
 
