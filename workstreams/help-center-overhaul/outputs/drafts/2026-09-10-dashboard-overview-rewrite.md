@@ -38,7 +38,7 @@ The Dashboard is the Perchwell page that brings market activity together with yo
 
 ## What each Dashboard widget shows
 
-Each Dashboard widget is a tile that displays a specific type of information. Together they give you a quick view across several areas of Perchwell.
+Each Dashboard widget displays a specific type of information. Together they give you a quick view across several areas of Perchwell.
 
 ### Hot Sheets widget on the Dashboard
 
