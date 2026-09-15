@@ -124,6 +124,31 @@ Kelly's de-jargon feedback on this article is separate and still pending: she fl
 
 The three bold labels were unbolded, so the bullets now read "Listings. Matched on address or MLS ID, ...", and the only bold left in the article is the `**Description:**` line. Fin-parsable formatting returns to 10.0 (8/8) and the **total returns to 95.7**. Check 1 still fails on the bare-noun title, which is Leo's September 9 decision to keep and not a defect.
 
+## De-jargon pass, September 15, 2026
+
+Kelly left six comments, five on specific words and one on the article as a whole. Her reason is retrieval, not only readability: "they will search and type into Perchie those words they know and we want to make sure we show the right answer." Every replacement below was chosen for that test, the word a member would type, rather than for plainness alone.
+
+| Her comment | Was | Now |
+|---|---|---|
+| "I don't think lookup is a client friendly word for agents" | "It is a lookup tool"; "a lookup is always one click away"; "Each lookup opens one record"; "the lookup works the same way" | "lookup" is gone from the article |
+| "Not sure if record is clear. Might want to break it out a bit more" | "record" in the H2, the lead, the steps outcome, and the bullets | "listing, agent, or contact", the three real things, throughout |
+| "what does this mean?" on "type what identifies the record" | "It is a lookup tool: type what identifies the record, click the match, and the record opens." | Cut. The mechanics already live in the Steps block, and the section now says what the tool is for instead: "rather than building a list from filters" |
+| "a little technical as well" on "returns" | "What the Universal Search Bar returns" | "What you find with the Universal Search Bar" |
+| "Might be a better way to explain it" on "Partial entries return close matches" | "Partial entries return close matches, which means ..." | "You do not have to type the whole thing, which means ..." |
+| "a little bit technical for our users" on the article | see above | see above |
+
+**The description was left alone.** Her whole-article comment is anchored to it, but the description already reads "Find a listing, agent, or contact from any page in Perchwell by typing an address, MLS ID, name, or email into the Universal Search Bar". It carries no flagged term and it is the plainest sentence in the article. The jargon was in the body.
+
+**One change beyond her list: "modal".** It appeared three times and in one image's alt text. She did not name it, but she asked for "some of the other terminology" to get the same treatment, and "modal" is developer vocabulary no agent would type. It is now "search window", including in the alt text. Easy to revert if Tara disagrees, since nothing else depends on it.
+
+**Two headings changed, which changes what Fin retrieves on.** "Look up a record with the Universal Search Bar" is now "Find a listing, agent, or contact with the Universal Search Bar", and "What the Universal Search Bar returns" is now "What you find with the Universal Search Bar". Both still carry the feature name and both first sentences still echo them, so Retrieval signals checks 4 and 5 hold. The gain is that the procedure heading now contains the three nouns a member actually types.
+
+**A say-once judgment.** "listing, agent, or contact" now appears in the description, the opening, the When to use lead, the procedure heading and its lead, and the What you find lead. That is the replacement for the abstract noun "record", so it functions as the article's vocabulary rather than as a repeated enumeration, which is what factor 8 asks for. The details of how each type is matched stay in one place, the three bullets. Chunk independence check 6 governs capability enumerations, and none is repeated.
+
+**The score does not move.** It stays at 95.7, and the gate stays at 14 of 14. Nothing here touched a scored check: the words were never the problem the scorecard measures, which is the same blind spot recorded for sourced-but-wrong facts. A member-comprehension defect is invisible to it, and Kelly caught this one by reading as an agent would.
+
+**Kelly's five inline comment anchors are now unanchored**, because the words they attached to are gone. The threads are still on the page and still unresolved. Tara to reply and resolve each, since replying as Claude is not set up on these threads.
+
 ## Fin test questions
 
 Questions members may ask, in their words. "One section" means Fin can answer from a single retrieved section without stitching.
