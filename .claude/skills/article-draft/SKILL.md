@@ -27,7 +27,7 @@ If the release notes leave out a UI label, a default, a limit, or a step, do not
 7. **Save markdown.** See Saving the output.
 8. **Publish to Notion as a Draft.** Follow `references/notion-publishing.md`: read the Notion markdown spec once per session, convert the body, summarize the page and properties in one compact block, wait for "go," then create the page in the Perchwell Help Center Database [Sep 2026] with `Article Status: Draft`. Update change sheets go wherever the user points; if no target is given, create one sibling row titled `Help center changes: <feature> (YYYY-MM-DD)`. Never write to the old Master Article List, and never overwrite a page whose `Article Status` is `Live in Intercom`.
 9. **Intercom push: not implemented.** Do not call any Intercom write tool. `references/intercom-push.md` describes the future step and its preconditions; today the report ends with the manual steps in step 10.
-10. **Report.** State the decision, the saved path(s), the Notion URL(s), the golden questions that fail and why, the open `[confirm: ...]` items, and the manual CS steps that remain: peer review in Notion, transfer to Intercom as a draft, public URL, Fin label, MLS audience, publish.
+10. **Report.** State the decision, the saved path(s), the Notion URL(s), the golden questions that fail and why, the open `[confirm: ...]` items, and the manual CS steps that remain: peer review in Notion, transfer to Intercom as a draft, moving each image's `Alt text:` caption into Intercom's alt text field and clearing the caption, public URL, Fin label, MLS audience, publish. The full checklist is under "After publishing" in `references/notion-publishing.md`.
 
 ## Rules
 

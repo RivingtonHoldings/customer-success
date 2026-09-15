@@ -189,4 +189,14 @@ Escape `*`, `[`, `]`, `<`, `>`, `|`, `{`, `}` when they appear as literal text o
 
 ## After publishing
 
-Report the new page URL(s). Remind the user that the remaining steps are manual and owned by CS: peer review, moving the row to `Ready to Transfer`, transferring to Intercom, setting the Fin labels, assigning the MLS audience, and publishing.
+Report the new page URL(s). The remaining steps are manual and owned by CS:
+
+1. Peer review in Notion
+2. Move the row to `Ready to Transfer`
+3. Transfer to Intercom as a draft
+4. For every image, move the `Alt text:` caption from the Notion draft into Intercom's alt text field, and leave the Intercom caption empty. Perchwell articles carry alt text, not captions
+5. Set the Fin labels per `docs/standards/fin-labeling.md`
+6. Assign the MLS audience
+7. Publish in Intercom
+
+Step 4 is the one that gets missed. Notion has no separate alt text field, so the alt text sits in the caption and the draft looks finished. Left alone, every published article carries a visible description under each screenshot and no alt text at all, which is exactly what golden question 2 tests for.
