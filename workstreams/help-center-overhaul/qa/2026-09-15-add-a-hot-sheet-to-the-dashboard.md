@@ -179,6 +179,21 @@ The fix keeps the product's wording and adds the gloss once, on first use: "A Ho
 
 The opening now reads "A Hot Sheet shows market events for a saved search or custom market segment: new listings, price changes, and status updates." The product's own wording stays, and the gloss is sourced to the live article at `baldwin/add-a-hot-sheet-to-the-dashboard.md:34` and `:60`. The four later uses of "market events" need no gloss, because the term is defined before any of them. Answer completeness returns to 25.0 (7/7) and the **total returns to 100.0**.
 
+## Timeframe spelling settled, September 15, 2026
+
+This article spelled it "time frame" in four places and Dashboard Overview spelled it "timeframe", which surfaced in the full review. Settled as **one word**, and this article changed.
+
+Four sources agree and none dissents:
+
+- **The product.** The Edit hot sheet modal labels the field `Timeframe`, recorded from Tara's September 15 screenshots in the setup-modal section of this file. `product-context.md` already required using the on-screen label spelled exactly as the UI spells it, so this was never really an open question, only an unchecked one
+- **The live help centers.** One word runs 19 times across 11 files, two words 13 times across 4
+- **Dashboard FAQ**, which Dashboard Overview links to from the Hot Sheets section: "What is the maximum timeframe for a hot sheet?"
+- **Common Perchwell FAQs**, the same question and the same spelling
+
+Changed here: both `Steps:` blocks, the defaults **Note:**, and the five-timeframe item in Things to Know. Dashboard Overview needed no change. The rule is now in `docs/product-context.md` under Terminology rules, with a note that four live articles carry the two-word form and should be corrected when they are next touched, rather than swept now.
+
+No score change. Spelling consistency is not a scored check, though the underlying rule, naming the UI element exactly, sits under Accuracy and confidence.
+
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |

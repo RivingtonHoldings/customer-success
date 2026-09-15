@@ -60,7 +60,7 @@ https://app.arcade.software/share/1EP0inuZyl6aPKF6mY0o
 
 1. In the new Hot Sheets widget, click From saved search
 2. In the Edit hot sheet modal, choose the Saved Search to monitor
-3. Set the time frames in days, up to 998 each
+3. Set the timeframes in days, up to 998 each
 4. Remove any statuses you do not want to track
 5. Click Confirm
 
@@ -81,17 +81,17 @@ https://app.arcade.software/share/SINhoyObS2qHu9aF1HE0
 1. In the new Hot Sheets widget, click New hot sheet
 2. In the Edit hot sheet modal, enter a name for the Hot Sheet
 3. Choose the Property Types to monitor
-4. Set the time frames in days, up to 998 each
+4. Set the timeframes in days, up to 998 each
 5. Remove any statuses you do not want to track
 6. Click Confirm
 
 The Hot Sheet fills in on the Dashboard with market events matching your criteria.
 
-> **Note:** A new Hot Sheet opens with every status selected and with time frames of 1, 7, and 30 days. Adjust either before clicking Confirm.
+> **Note:** A new Hot Sheet opens with every status selected and with timeframes of 1, 7, and 30 days. Adjust either before clicking Confirm.
 
 ## Things to Know
 
-- A Hot Sheet holds up to five time frames, and each one becomes a tab across its top. Clicking a tab switches the view without rebuilding the Hot Sheet
+- A Hot Sheet holds up to five timeframes, and each one becomes a tab across its top. Clicking a tab switches the view without rebuilding the Hot Sheet
 - The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Both open on desktop only
 - For how many Hot Sheets a Dashboard holds and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq)
 - To change which widgets sit on the Dashboard, see [Customize Your Dashboard](http://support.perchwell.com/en/articles/13623904-customize-your-dashboard)

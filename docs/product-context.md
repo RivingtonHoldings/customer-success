@@ -86,6 +86,7 @@ One line each, using the name members see in the product. Bold the name in artic
 
 - Use the label the member sees on screen, spelled exactly as the UI spells it, and do not bold it. "Add/Edit," not "the listing form."
 - A pop-up window that opens over the page is a modal. One word for it, used consistently, so a member and Fin both track the same thing.
+- A Hot Sheet's date window is a timeframe, one word. The Edit hot sheet modal labels the field `Timeframe`, and the Dashboard FAQ asks "What is the maximum timeframe for a hot sheet?", so one word is both the product's spelling and the majority of the live help centers. Two words appears in four live articles and is the form to correct when those are next touched.
 - A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
 - Say "member" for people using Perchwell and "client" for an invited buyer or seller.
 - Articles say "a legacy platform", never the platform's name, because one article serves more than one MLS and members came from different systems. Keep the legacy feature name, which is what a member actually searches for: "In a legacy platform this was called Power Search." Conversation replies and macros may name the platform, since you know which MLS the member belongs to. Never "old system," "retired," or "sunsetted."
