@@ -142,7 +142,10 @@ Neither is documented anywhere in the repo, so both are recorded here for tracea
 **Decisions the team owes**
 
 - **The Arcade walkthrough changed.** The live article embeds `demo.arcade.software/pgyIXO3DO8xMCsDYNahj`; the newer Notion revision embeds `app.arcade.software/share/4DI3IhHDnSC1ad96xd8h`. The draft carries the Notion one because the row reads `Video: Done`, but somebody should confirm the newer recording is the one to publish
-- **Two screenshots exist on the Notion page and were never transferred.** The draft carries placeholders with their alt text. The old row reads `Screenshot: Done`, which refers to the Notion images rather than anything live
+- **The Manage widgets screenshot has been captured.** Tara took it on September 14, 2026: the Dashboard with the Manage widgets button called out in the top right and the panel open below, with the Listings widget visible behind. Its placeholder now describes that exact capture and carries matching alt text, so the image only needs dropping into the Notion draft. It cannot be uploaded from a chat paste; it needs the file. **The same capture also fits the Manage widgets placeholder in Dashboard Overview**, so one image covers both articles
+- **One screenshot still outstanding:** a widget with its filter control open, for the Filter section
+- **Two older screenshots exist on the old Notion page** and were never transferred. The old row reads `Screenshot: Done`, which refers to those rather than anything live. Worth checking whether they are superseded by the new capture
+- **The new capture carries a red callout arrow.** Whether annotation of that kind matches the Figma-approved screenshot specs is a question for the visual pass, not a content question
 - **The green confirmation's exact wording.** Tara described it as reading Widget added or Widget removed. The draft uses sentence case; worth checking against the screen when the screenshots are captured
 - **The old row's MLS update note says:** "We would need to make a decision that we can show the listings from a MLS in the video." A video decision, not a content one, but it is unresolved
 - **Seven of the nine outbound and self links use the default help center path** (`support.perchwell.com/en/...`) rather than `/baldwin/en/...`, because that is how the mirror records them. Flag at Intercom transfer
