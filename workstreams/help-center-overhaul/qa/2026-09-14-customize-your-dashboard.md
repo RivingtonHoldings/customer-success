@@ -44,7 +44,9 @@ Tara sent a screenshot of the Manage widgets panel. It corrected three things th
 
 **What this says about the sources.** Across this article and Dashboard Overview, the count is now five factual errors, every one of them sourced. Two came from preferring the newer Notion page, one from a majority of articles agreeing with each other, and three from the screenshot above. The only things that caught any of them were Tara checking the product and Tara sending a picture of it. The source-precedence rule added to `content-standards.md` on September 14 covers the first two; nothing in the standard or the scorecard covers the rest, because the failure is that written sources copy each other and drift together.
 
-**Open question from the screenshot:** whether clicking Add hot sheet produces the same green confirmation the checkboxes do. The draft does not claim either way.
+**Resolved, September 14, 2026.** Tara confirmed that Add hot sheet produces no green confirmation. The widget is added automatically, with no save step. So the panel behaves two ways: checking a box shows a green confirmation reading Widget added or Widget removed, and clicking Add hot sheet shows nothing at all.
+
+The draft states the absence rather than staying silent on it, because the article tells the member to expect a confirmation two paragraphs earlier. Leaving it out would set up a member to click Add hot sheet and wonder whether it worked. This is the one place in these articles where naming what does not happen earns its place.
 
 ## Golden questions
 
@@ -104,7 +106,9 @@ Neither is documented anywhere in the repo, so both are recorded here for tracea
 - Checking or unchecking a widget in Manage Widgets applies immediately, with no save step. A green confirmation appears at the bottom of the screen reading Widget added or Widget removed
 - A reordered layout saves automatically and persists the next time the member opens the Dashboard
 - The Listings widget cannot be reordered, resolving the four-to-one source conflict above
-- The Listings widget does not appear in Manage Widgets at all, because it cannot be added or removed. The panel lists four widgets: Hot Sheets, Contacts, Saved Searches, and Tags
+- The Listings widget does not appear in Manage widgets at all, because it cannot be added or removed
+- The panel holds an Add hot sheet action plus three checkboxes, for Contacts, Saved Search, and Tags. Hot Sheets is not a checkbox
+- Clicking Add hot sheet adds the widget automatically, with no confirmation message and no save step
 
 **Correction made September 14, 2026.** The first version of this draft listed five widgets in Manage Widgets, including Listings, taken from the old Notion page and corroborated by CRMLS's equivalent. Tara caught it: the Listings widget is not in the panel, because it cannot be toggled. The section lead now reads "These widgets can be turned on and off", the list is four, and the Note explains the absence rather than stating a restriction about a widget the member cannot find in that panel. The screenshot alt text was corrected too.
 
