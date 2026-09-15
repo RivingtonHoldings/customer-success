@@ -122,7 +122,7 @@ Kelly's de-jargon feedback on this article is separate and still pending: she fl
 
 ### Fixed the same day
 
-The three bold labels were unbolded, so the bullets now read "Listings. Matched on address or MLS ID, ...", and the only bold left in the article is the `**Description:**` line. Fin-parsable formatting returns to 10.0 (8/8) and the **total returns to 95.7**. Check 1 still fails on the bare-noun title, which is Tara's decision to keep and not a defect.
+The three bold labels were unbolded, so the bullets now read "Listings. Matched on address or MLS ID, ...", and the only bold left in the article is the `**Description:**` line. Fin-parsable formatting returns to 10.0 (8/8) and the **total returns to 95.7**. Check 1 still fails on the bare-noun title, which is Leo's September 9 decision to keep and not a defect.
 
 ## Fin test questions
 
