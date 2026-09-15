@@ -26,7 +26,7 @@ migrated_from: master-article-list
 
 **Description:** Add, remove, and reorder the widgets on your Perchwell Dashboard, and filter what each one shows, from the Manage widgets control.
 
-Use this article to choose which widgets display on your Dashboard, reorder them into the layout you want, and filter what each widget shows. A Dashboard widget is a tile that displays one kind of information.
+Use this article to choose which widgets display on your Dashboard, reorder them into your preferred layout, and filter what each widget shows. A Dashboard widget is a tile that displays one kind of information.
 
 https://app.arcade.software/share/4DI3IhHDnSC1ad96xd8h
 
