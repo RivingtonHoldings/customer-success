@@ -48,6 +48,12 @@ Tara sent a screenshot of the Manage widgets panel. It corrected three things th
 
 The draft states the absence rather than staying silent on it, because the article tells the member to expect a confirmation two paragraphs earlier. Leaving it out would set up a member to click Add hot sheet and wonder whether it worked. This is the one place in these articles where naming what does not happen earns its place.
 
+**Passage tightened on Tara's wording, September 14, 2026.** She proposed a version and asked whether it held up against the standard. It did, and it is better on two counts. "With nothing to save" was cut from both paragraphs: "updates as soon as you check" and "added immediately" already carry it, so the phrase was restating its own sentence. The related-article link moved to its own paragraph, which separates adding the widget from configuring the Hot Sheet inside it; those are different tasks and the model articles put such links in their own sentence anyway.
+
+One change to her version. "Unlike other widgets, no confirmation message appears" became "Unlike the checkboxes", because the Listings widget is also an other widget and shows no confirmation either, having no add or remove behavior at all. The checkboxes are the thing that actually contrasts, and the phrase is shorter for being precise.
+
+No check moves. Answer completeness check 3 still passes: system behavior is still stated, and the article's "which means" clause lives in the filter section. The score holds at 100.0.
+
 ## Golden questions
 
 | Factor | Old | New | Note |
