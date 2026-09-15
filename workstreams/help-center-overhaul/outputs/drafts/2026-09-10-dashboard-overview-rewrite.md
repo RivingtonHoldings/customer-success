@@ -26,7 +26,7 @@ migrated_from: master-article-list
 
 **Description:** Get familiar with the Perchwell Dashboard: understand what each widget shows, customize your layout, and access integrations.
 
-Use this article to get familiar with the Perchwell Dashboard, understand what each widget shows, customize which widgets display, and access the workflows available from the Dashboard.
+Use this article to get familiar with the Perchwell Dashboard, understand what each widget shows, choose and arrange which widgets display, and launch integrations from the Dashboard.
 
 https://app.arcade.software/share/uP0zdXgQGkrqA3tt5lpo
 
@@ -89,7 +89,7 @@ The Listings widget on the Dashboard shows listings at the scope you choose, fro
 
 ## Choose and arrange your Dashboard widgets
 
-Choose and arrange your Dashboard widgets from Manage widgets, in the top right corner of the Dashboard. Click Manage widgets to pick which widgets appear, then drag a widget into the position you want.
+Choose and arrange your Dashboard widgets from Manage widgets, in the top right corner of the Dashboard. Click Manage widgets to pick which widgets display, then drag a widget into the position you want.
 
 [Customize Your Dashboard](http://support.perchwell.com/en/articles/13623904-customize-your-dashboard) covers adding, removing, and reordering widgets, and the filter that narrows what an individual widget displays.
 
@@ -112,7 +112,7 @@ The Integrations panel lists only the integrations your MLS has enabled for your
 - SentriLock: manage secure lockbox access
 - RPR: open Realtors Property Resource reports and property data
 
-Your MLS may connect others, such as tools for public records and tax data, market analytics, or an MLS announcement page. Open the Integrations panel to see the full set for your account.
+Your MLS may connect others, such as tools for public records and tax data, market analytics, or an MLS announcement page.
 
 > **Note:** An integration may require an active account with that provider and a separate sign-in.
 
