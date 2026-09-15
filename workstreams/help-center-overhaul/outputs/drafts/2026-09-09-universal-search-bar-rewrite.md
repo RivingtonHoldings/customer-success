@@ -56,9 +56,9 @@ Each lookup opens one record. To pull up several listings together, open the Sea
 
 The Universal Search Bar returns matching records of three types: listings, agents, and contacts. The modal shows a results count at the top and groups the matches by type.
 
-- **Listings.** Matched on address or MLS ID, and an exact match on either one pulls up that listing directly. Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
-- **Agents.** Matched on name, and the result opens the agent's profile.
-- **Contacts.** Matched on name or email address, and the result opens the contact's record. Results come from your own contacts, not from other agents' contacts in your brokerage.
+- Listings. Matched on address or MLS ID, and an exact match on either one pulls up that listing directly. Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
+- Agents. Matched on name, and the result opens the agent's profile.
+- Contacts. Matched on name or email address, and the result opens the contact's record. Results come from your own contacts, not from other agents' contacts in your brokerage.
 
 Partial entries return close matches, which means an address that matches the street name but not the street number still appears, and so does a record matching only a number you typed. Keep typing to narrow the list.
 

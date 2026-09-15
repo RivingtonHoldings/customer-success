@@ -128,6 +128,10 @@ All 33 checks pass and the gate passes 14 of 14. The total holds at **100.0** wi
 
 One consistency point that no check tests for. The opening paragraph defines a widget as "a tile that displays one kind of information". Kelly objected to "tile" on Dashboard Overview on September 15, on the grounds that members are confused by it, and that article's definition was reworked to drop the noun. This article still carries "tile", so the two now define the same thing differently. Matching Dashboard Overview would make it "A Dashboard widget displays one kind of information".
 
+### Fixed the same day
+
+"A Dashboard widget is a tile that displays one kind of information" is now "A Dashboard widget displays one kind of information", matching how Dashboard Overview resolved Kelly's objection to "tile". No score change; the article was and is at 100.0.
+
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |

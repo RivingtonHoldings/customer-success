@@ -175,6 +175,10 @@ The fix keeps the product's wording and adds the gloss once, on first use: "A Ho
 
 **A reading recorded rather than a failure.** Chunk independence check 6 says no fact is stated in more than one section, and the two setup procedures both carry "Set the time frames in days, up to 998 each" and "Remove any statuses you do not want to track". These are parallel procedures, and each has to be complete for Fin to answer from either one alone. The factor 8 resolution in `golden-questions.md` already covers this: what repeats is the feature name, the heading's terms, and anything a step depends on. Check 6 governs capability enumerations, not steps inside parallel procedures. Recorded here so the next rescore does not re-open it.
 
+### Fixed the same day
+
+The opening now reads "A Hot Sheet shows market events for a saved search or custom market segment: new listings, price changes, and status updates." The product's own wording stays, and the gloss is sourced to the live article at `baldwin/add-a-hot-sheet-to-the-dashboard.md:34` and `:60`. The four later uses of "market events" need no gloss, because the term is defined before any of them. Answer completeness returns to 25.0 (7/7) and the **total returns to 100.0**.
+
 ## Fin test questions
 
 | Question a member may type | Old answers from one section | New answers from one section |

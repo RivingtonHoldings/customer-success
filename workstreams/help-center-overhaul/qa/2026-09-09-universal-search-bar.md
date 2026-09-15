@@ -120,6 +120,10 @@ The gate passes 14 of 14. The fix is to unbold the three labels and keep the sen
 
 Kelly's de-jargon feedback on this article is separate and still pending: she flagged "lookup", "record", "returns", "type what identifies the record", and "Partial entries return close matches" as too technical for agents. That is a rewrite of the same section the bold sits in, so both should be done in one pass rather than twice.
 
+### Fixed the same day
+
+The three bold labels were unbolded, so the bullets now read "Listings. Matched on address or MLS ID, ...", and the only bold left in the article is the `**Description:**` line. Fin-parsable formatting returns to 10.0 (8/8) and the **total returns to 95.7**. Check 1 still fails on the bare-noun title, which is Tara's decision to keep and not a defect.
+
 ## Fin test questions
 
 Questions members may ask, in their words. "One section" means Fin can answer from a single retrieved section without stitching.
