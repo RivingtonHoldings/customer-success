@@ -113,6 +113,8 @@ CRMLS's live article had said Recently Updated all along, and was treated as an 
 
 The score does not move. The claim was sourced, it was just sourced to something wrong, which is a class of error the scorecard does not test for. See the same note in the Customize Your Dashboard QA file.
 
+**Hot Sheet type names corrected, September 15, 2026.** The two bullets in the Hot Sheets section named the types "New Hot Sheet" and "From Saved Search", in title case. Tara's September 15 screenshots showed those are the *button* labels and are lowercase, and that the types themselves are **quick hot sheet** and **saved search hot sheet**. Corrected here so this article agrees with Add a Hot Sheet to the Dashboard, which was written from the screenshots. Also dropped "timeframe" from the quick hot sheet bullet, since the Edit hot sheet modal shows time frame as a separate field on both types rather than a filter unique to one.
+
 **Source note.** The live Intercom article was last updated 2026-07-02. The old Notion page was last edited 2026-07-17 with `Update Status: Transfer to Intercom`, which means the Notion revision was written and never pushed to Intercom. Usual source precedence is inverted here: Notion is the newer source and wins on the facts it states, and the mirror wins on the mobile constraint that the Notion revision dropped.
 
 ## Golden questions

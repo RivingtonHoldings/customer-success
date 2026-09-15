@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/1c78b9e0143880f3b927daf7d2aca4d5
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Search | Roles: All | Videos: Yes | Visuals: Yes | Notion: https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c | Revised: 2026-09-10 against the September 10 standard -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin + CRLMS All | Collection: Search | Roles: All | Videos: Yes | Visuals: Yes | Notion: https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c | Revised: 2026-09-10 against the September 10 standard -->
 
 # Universal Search Bar
 
@@ -28,7 +28,7 @@ migrated_from: master-article-list
 
 Use this article to open the Universal Search Bar from any page in Perchwell, look up a listing, agent, or contact, and open the matching record from the results.
 
-https://www.loom.com/share/5bd7e76cb3c947bdb087739b3e3e4fd8
+> Video placeholder: a walkthrough of opening the Universal Search Bar and opening a result. The Notion draft carries this as an INSERT VIDEO marker
 
 ## When to use the Universal Search Bar
 
@@ -50,7 +50,7 @@ Matches appear in the modal as you type, and the result you click opens that rec
 
 Each lookup opens one record. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
-![The Perchwell top navigation with the Search field highlighted in the upper right, next to the profile photo, above the Search page filters](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)
+![The Perchwell top navigation with the Search field highlighted in the upper right corner.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)
 
 ## What the Universal Search Bar returns
 
@@ -62,7 +62,7 @@ The Universal Search Bar returns matching records of three types: listings, agen
 
 Partial entries return close matches, which means an address that matches the street name but not the street number still appears, and so does a record matching only a number you typed. Keep typing to narrow the list.
 
-![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and an Active Sale or Closed status badge](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)
+![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and status badge.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)
 
 ## Things to Know
 
