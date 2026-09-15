@@ -53,6 +53,20 @@ This is the one case in the four migrations where a decision to leave something 
 
 Dropped per the migration rules: the `In this article:` heading, the Click Script toggle, the trailing Perchwell banner image, horizontal rules, and the emoji-led callout.
 
+## Corrections from the setup modals, September 15, 2026
+
+Tara sent both Edit hot sheet modals, one per type. They corrected two things and confirmed a third.
+
+**Timeframe is five fields, not one.** Both modals show five boxes labeled Days, the first three pre-filled with 1, 7, and 30 and two left blank. That is what the tabs on a finished Hot Sheet are: one per field. The draft had said "Enter the time frame in days, up to 998", singular, which would have had a member looking for a field that does not exist in that form. Now "Set the time frames in days, up to 998 each", with the five-slot fact in Things to Know.
+
+**Both defaults are the product's, not the member's.** Tara confirmed the 1, 7, 30 time frames and all eight selected statuses are what a new Hot Sheet opens with, and that each time frame accepts up to 998. That flips the status step from selecting out of nothing to removing what you do not want, which is a different instruction. A **Note:** after the first flow states both defaults once rather than repeating them in each section.
+
+**The saved search flow has no Name field.** The saved search modal holds only Saved Search, Timeframe, and Statuses; the quick modal adds Name and Property Types. The draft already differed that way, so nothing changed, but it is now confirmed rather than inferred from the live article's steps.
+
+**The modal is named.** Both modals are titled "Edit hot sheet" even when creating one, which does not obviously follow from clicking New hot sheet. Tara chose to name it in the steps, which pre-empts a member thinking they clicked the wrong thing.
+
+Also visible and worth recording: Confirm is disabled until the required fields are filled, marked in the modals with orange dots. Saved Search on one, Name and Property Types on the other, Statuses on both. Timeframe carries no required marker, consistent with it having defaults.
+
 ## Golden questions
 
 | Factor | Old | New | Note |

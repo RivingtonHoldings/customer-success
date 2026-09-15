@@ -59,13 +59,15 @@ https://app.arcade.software/share/SINhoyObS2qHu9aF1HE0
 ### Steps:
 
 1. In the new Hot Sheets widget, click New hot sheet
-2. Enter a name for the Hot Sheet
-3. Choose the property types to monitor
-4. Enter the time frame in days, up to 998
-5. Select the statuses to track
+2. In the Edit hot sheet modal, enter a name for the Hot Sheet
+3. Choose the Property Types to monitor
+4. Set the time frames in days, up to 998 each
+5. Remove any statuses you do not want to track
 6. Click Confirm
 
 The Hot Sheet fills in on the Dashboard with market events matching your criteria.
+
+> **Note:** A new Hot Sheet opens with every status selected and with time frames of 1, 7, and 30 days. Adjust either before clicking Confirm.
 
 ## Set up a saved search hot sheet
 
@@ -76,9 +78,9 @@ https://app.arcade.software/share/1EP0inuZyl6aPKF6mY0o
 ### Steps:
 
 1. In the new Hot Sheets widget, click From saved search
-2. Choose the Saved Search to monitor
-3. Enter the time frame in days, up to 998
-4. Select the statuses to track
+2. In the Edit hot sheet modal, choose the Saved Search to monitor
+3. Set the time frames in days, up to 998 each
+4. Remove any statuses you do not want to track
 5. Click Confirm
 
 The Hot Sheet fills in on the Dashboard with market events from that Saved Search.
@@ -89,7 +91,7 @@ Learn how to build and edit one in [Manage Your Saved Searches](http://support.p
 
 ## Things to Know
 
-- The tabs across the top of a Hot Sheet are the time frames you set, and clicking one switches the view without rebuilding the Hot Sheet
+- A Hot Sheet holds up to five time frames, and each one becomes a tab across its top. Clicking a tab switches the view without rebuilding the Hot Sheet
 - The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Both open on desktop only
 - For how many Hot Sheets a Dashboard holds and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq)
 - To change which widgets sit on the Dashboard, see [Customize Your Dashboard](http://support.perchwell.com/en/articles/13623904-customize-your-dashboard)
