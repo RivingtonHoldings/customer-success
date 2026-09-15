@@ -10,6 +10,7 @@
 - **Mirror path:** `docs/help-center/baldwin/add-a-hot-sheet-to-the-dashboard.md`
 - **Shared across help centers:** no. Article 13893409 appears in `baldwin/` only. CRMLS has its own, `Adding a Hot Sheet to the Dashboard`
 - **Draft:** `workstreams/help-center-overhaul/outputs/drafts/2026-09-15-add-a-hot-sheet-to-the-dashboard-rewrite.md`
+- **Notion draft:** https://app.notion.com/p/3dc8b9e01438815891e6ccd033eccf97
 
 Scored by Claude for Tara, September 15, 2026, using the **September 10, 2026 check set, revision 2**.
 
