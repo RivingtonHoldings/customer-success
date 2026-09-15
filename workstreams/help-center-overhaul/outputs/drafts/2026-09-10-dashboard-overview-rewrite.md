@@ -32,7 +32,7 @@ https://app.arcade.software/share/uP0zdXgQGkrqA3tt5lpo
 
 ## What you do on the Dashboard
 
-The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what has changed without running individual searches. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
+The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what has changed. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
 
 > Screenshot placeholder: the full Dashboard as it first loads, with the Dashboard item highlighted in the top navigation bar | Alt text: The Perchwell Dashboard with the Dashboard item highlighted in the top navigation bar, showing widget tiles across the page
 
@@ -42,10 +42,10 @@ Each Dashboard widget displays a specific type of information. Together they giv
 
 ### Hot Sheets widget on the Dashboard
 
-The Hot Sheets widget on the Dashboard tracks new and updated listings from current MLS data and updates automatically, which means you see the latest listing activity without rerunning a search. There are two types of Hot Sheets:
+The Hot Sheets widget on the Dashboard tracks new and updated listing activity from current MLS data and updates automatically, which means you see the latest listing activity without rerunning a search. There are two types of Hot Sheets:
 
-- A quick hot sheet monitors activity across the MLS by property type and status
 - A saved search hot sheet monitors activity within one Saved Search, such as one you saved for a client, a city, or another set of criteria
+- A quick hot sheet monitors activity across the MLS by property type and status
 
 [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) walks through creating both types step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq).
 
@@ -71,7 +71,7 @@ The Saved Searches widget on the Dashboard lists your Saved Searches, and clicki
 
 The Tags widget on the Dashboard lists your Tags, the folders of listings you organize, track for status and price updates, and share with clients. Clicking a tag opens the Tag page in a new tab. Sort the Tags widget by Name or # of Properties.
 
-Members who came from a legacy platform may know Tags as carts. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
+Members who came from a legacy platform may know Tags as listing carts. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
 
 For creating a Tag, sharing one with a client, and setting its alerts, see [Tags Page Overview](http://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview).
 
@@ -112,7 +112,7 @@ The Integrations panel lists only the integrations your MLS has enabled for your
 - SentriLock: manage secure lockbox access
 - RPR: open Realtors Property Resource reports and property data
 
-Your MLS may connect others, such as tools for public records and tax data or for market analytics. Open the Integrations panel to see the full set for your account.
+Your MLS may connect others, such as tools for public records and tax data, market analytics, or an MLS announcement page. Open the Integrations panel to see the full set for your account.
 
 > **Note:** An integration may require an active account with that provider and a separate sign-in.
 
