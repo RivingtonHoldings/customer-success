@@ -47,7 +47,7 @@ To add a Hot Sheet, click Add hot sheet at the top of the Manage widgets panel. 
 
 > **Note:** The Listings widget is not in Manage widgets, because it cannot be added or removed. It is always on the Dashboard.
 
-> Image: in the Notion draft, uploaded 2026-09-14. Re-upload to Intercom at transfer and carry this alt text | Alt text: The Perchwell Dashboard with the Manage widgets button highlighted in the top right, its panel open below showing an Add hot sheet action above checked checkboxes for Contacts, Saved Search, and Tags, and the Listings widget visible behind it
+> Image: in the Notion draft, uploaded 2026-09-14. Re-upload to Intercom at transfer and carry this alt text | Alt text: The Manage widgets panel open on the Perchwell Dashboard, showing Add hot sheet above checked checkboxes for Contacts, Saved Search, and Tags
 
 ## Reorder your Dashboard widgets
 
