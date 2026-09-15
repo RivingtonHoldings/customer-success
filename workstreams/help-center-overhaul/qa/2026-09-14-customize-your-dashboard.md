@@ -150,6 +150,17 @@ Neither is documented anywhere in the repo, so both are recorded here for tracea
 - **The old row's MLS update note says:** "We would need to make a decision that we can show the listings from a MLS in the video." A video decision, not a content one, but it is unresolved
 - **Seven of the nine outbound and self links use the default help center path** (`support.perchwell.com/en/...`) rather than `/baldwin/en/...`, because that is how the mirror records them. Flag at Intercom transfer
 
+**MLS/AOR changed to Baldwin and CRLMS All, September 14, 2026**
+
+Tara set the Notion row to both MLSs after the draft was written. The body is still Baldwin's. Two things in it are known not to hold for CRMLS:
+
+- **The widget list.** This draft says the panel holds an Add hot sheet action plus checkboxes for Contacts, Saved Search, and Tags, confirmed from a Baldwin screenshot. `crmls/customizing-your-dashboard.md` lists seven available widgets, adding Presentations and Days on Market. Presentations is gone from CRMLS, so that article is stale, but Days on Market is a real CRMLS widget Baldwin does not have
+- **The mobile constraint** in Things to Know traces to Baldwin sources only
+
+CRMLS also already has its own article on this subject, `Customizing your Dashboard`, ID 10159813. Publishing this one to both help centers means deciding what happens to that row.
+
+Nothing is wrong with the draft as a Baldwin article. It is only wrong as a CRMLS one, and the property now says it is both.
+
 **Universality**
 
 The old row marks this article `CRMLS?: 100% Applicable` and `NYC?: 100% Applicable`, but CRMLS already has its own separate article on the subject, `Customizing your Dashboard`, ID 10159813, whose widget list runs to seven and includes Presentations and Days on Market. Two things follow:
