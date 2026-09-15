@@ -2,6 +2,23 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-15: Plain language is a gate, not a score
+
+Decided by Tara, after reviewing the four articles migrated between September 9 and 15. All four passed 14 of 14 golden questions and scored 95.7 to 100.0, and all four still needed a hand pass on their words before the team would accept them. The scorecard could not see the defect: voice is worth 4 of its 100 points, in two prohibitions, and none of the 14 factors is a voice factor.
+
+- **Write the word a member would type.** Name the real things, not the category that contains them: "listing, agent, or contact", not "record". Kelly's reason was retrieval rather than readability, which is what lets this sit beside the Fin rules instead of competing with them: "they will search and type into Perchie those words they know and we want to make sure we show the right answer." A word an agent would not say is a word Fin cannot match them on, so the headings change too.
+- **A plain language do-not list, sense-scoped.** Each term is banned in one sense, not as a word, and each is paired with its replacement. Tested against the four finished articles first: a blanket word ban flagged "public records", "return to the Dashboard", and "tiles" inside alt text, all three legitimate and all three live in articles the team has approved. A grep finds candidates; a person decides.
+- **Check a candidate before swapping it.** "Modal" was changed to "search window" during the de-jargon pass and reverted the same day, because `product-context.md` already required it, for the same Fin-matching reason Kelly was arguing. The pass was right to go past her literal list, since she asked it to; what it skipped was checking each candidate against the terminology rules first.
+- **Enforced as a second gate, not as a scored check.** Pass or fail, reported next to the 14 golden questions and never blended into them, the same way Perchwell's Fin-resolved number is reported next to Intercom's. A scored check would have created revision 3, changed the Accuracy divisor from 5 to 6, and made every score in `qa/` incomparable, to move a failing article by 1.67 points and out of no band. The gate costs nothing and says the thing plainly. `Ready to Transfer` now needs all three: the Fin-ready band, the golden questions, and plain language.
+- **A plainly stated benefit is not a marketing adjective.** "Together they give you a quick view across several areas of Perchwell" earns its place. The do-not list bans praise, not usefulness, and it read broadly enough to suppress both.
+- **The humanizer is part of the review, not a fallback.** It was documented as "run it if the output feels stilted", and stiltedness is what the writer is worst placed to notice. Three of its patterns are overridden where they fight the house standard: its "Personality and soul" section, pattern 15 on bullet lead-in labels, and pattern 16 on heading case.
+
+Propagated through `docs/standards/content-standards.md` (Voice and terminology, the new do-not list, the quality checklist), `docs/standards/fin-readiness-scorecard.md` (the second gate, the bands, the QA file shape), both article skills, `transformation-patterns.md` (new pattern 11), the Notion AI prompt, and the root `CLAUDE.md`. **No score changes and no rescore:** the gate adds no check to any dimension and moves no divisor, so revision 2 numbers stand.
+
+Also corrected while in these files: three places still teaching the bold style retired on September 10, in transformation patterns 2 and 5, in `transformation-patterns.md`, and in `docs/product-context.md`, whose Feature names line contradicted its own terminology rule twelve lines below it. The root `CLAUDE.md` carried the same stale instruction and a retired screenshot placeholder format.
+
+**What this does not settle.** The FAQ exception to the "you can" ban is still open, owned by Tara and Kelly and overdue from September 11. The plain language gate does not touch it. The verb pass, the possessive-density pass, and the list-order pass still live only inside the two skills, duplicated word for word and absent from the standard; consolidating them is a separate job.
+
 ## 2026-09-10: Four standard changes from the first article review
 
 Decided by Tara, after the team read the Universal Search Bar migration. Three of the four traced to the standard rather than to the skill: the skill wrote what the rules told it to write.

@@ -92,7 +92,7 @@ Remove "You can" and "allows you to." Use direct instructions.
 **More examples:**
 - "You can filter by..." → "Filter by..."
 - "This allows you to track..." → "Track..."
-- "You can sort by Name" → "Sort by **Name** or **Recently Updated**."
+- "You can sort by Name" → "Sort by Name or Recently Updated."
 
 ## 6. Descriptive Section Titles
 
@@ -204,3 +204,44 @@ The first migration test is the worked example. The Universal Search Bar draft s
 Each section still names the feature, still stands alone, and still answers the question a member would ask it. Nothing is said twice.
 
 **The test:** list every distinct fact in the draft. Each should appear in exactly one section. When a later section needs one that lives elsewhere, name that section or link the article rather than restating it.
+
+---
+
+## 11. Say It in the Member's Words
+
+Name the real things, not the category that contains them, and use the word an agent would say out loud.
+
+The reason is retrieval as much as readability. Kelly Miragliotta's note on the first migrated article: "they will search and type into Perchie those words they know and we want to make sure we show the right answer." A word an agent would not say is a word Fin cannot match them on, which is why the headings change too.
+
+**Before:**
+> ## Look up a record with the Universal Search Bar
+>
+> Look up a record from the Universal Search Bar, the Search field in the upper right of the top navigation. It is a lookup tool: type what identifies the record, click the match, and the record opens.
+>
+> ## What the Universal Search Bar returns
+>
+> The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
+>
+> Partial entries return close matches, which means an address that matches the street name but not the street number still appears.
+
+**After:**
+> ## Find a listing, agent, or contact with the Universal Search Bar
+>
+> Find a listing, agent, or contact from the Universal Search Bar, the Search field in the upper right of the top navigation.
+>
+> ## What you find with the Universal Search Bar
+>
+> The Universal Search Bar finds listings, agents, and contacts.
+>
+> You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears.
+
+Five words carried the whole defect: **lookup**, **record**, **returns**, **partial entries**, and one sentence the reviewer could not parse at all ("what does this mean?"). The sentence was cut rather than reworded, because the mechanics it described already sat in the `Steps:` block twelve lines below it. A section lead says what the feature is for; the steps say how it works.
+
+Two more from the same week:
+
+- "Each Dashboard widget **is a tile that** displays a specific type of information" → "Each Dashboard widget displays a specific type of information." The reviewer proposed "section", which was rejected because a Dashboard section is a grouping of widgets; dropping the noun was better than replacing it. A definition that says what a thing does beats one that says what shape it is on screen.
+- "Launch **third-party** integrations from the Dashboard" → "Launch integrations from the Dashboard." An MLS's own announcement page is the MLS's own site, not a third party, so the word was wrong as well as stiff.
+
+**Where the pattern stops.** The same pass changed "modal" to "search window" and it was reverted the same day. `docs/product-context.md` already required "modal", one word, used consistently, "so a member and Fin both track the same thing", which is the same argument the pattern rests on. The pass was right to go beyond the reviewer's literal list; what it skipped was checking each candidate against the terminology rules first, and "modal" was the one candidate with a rule already written against it.
+
+**The test:** read the description, the opening, and every H2 aloud as if to an agent on the phone. Any word you would not say is a candidate. Then check each candidate against the terminology rules in `docs/product-context.md` and against the on-screen label before you change it. The do-not list, with replacements and its three known false positives, is in `docs/standards/content-standards.md`.

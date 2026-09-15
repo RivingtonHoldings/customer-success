@@ -2,13 +2,27 @@
 
 A per-article score that says how well Fin can retrieve and answer from an article. It sits on top of the content standard (`content-standards.md`) and the golden questions (`golden-questions.md`) in this folder, and it exists so that a rewrite can be judged before and after, and so the audit, the QA pass, and the skills all measure articles with the same yardstick.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Fin answer-quality owner: Rafe Petkovic, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 9, 2026, after the first migration test (Universal Search Bar). Revised September 10, 2026, when the team reviewed that test and changed the audience, limitations, and redundancy rules.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Fin answer-quality owner: Rafe Petkovic, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 9, 2026, after the first migration test (Universal Search Bar). Revised September 10, 2026, when the team reviewed that test and changed the audience, limitations, and redundancy rules. Plain language gate added September 15, 2026; it changes no dimension, no check, and no divisor, so every score recorded against revision 2 stands.
 
 ## How the score works
 
 Two layers. The gate decides whether the article is allowed to be called Fin-ready. The score says how far it is from that bar and which part of the article is holding it back.
 
 **Gate: the 14 golden questions.** Each one passes or fails. One failure means the article is not Fin-ready, whatever the score says, because each factor is something Intercom's Content Readiness check scores on its own.
+
+**Second gate: plain language.** Pass or fail, reported next to the golden questions and never blended into them. The 14 are Intercom's and measure retrievability; this one is Perchwell's and measures whether a busy agent can read the article. The two are kept separate the same way Perchwell's Fin-resolved number is reported next to Intercom's rather than merged with it.
+
+It exists because the score cannot see this. All four articles migrated between September 9 and 15 passed 14 of 14 and scored 95.7 to 100.0, and all four still needed a hand pass on their words. The QA record for the first one puts it plainly: "the words were never the problem the scorecard measures ... A member-comprehension defect is invisible to it, and Kelly caught this one by reading as an agent would."
+
+Five checks. Any failure fails the gate.
+
+1. No term from the plain language do-not list in `content-standards.md`, in the sense that list bans, unless a terminology rule in `docs/product-context.md` or an exact on-screen label requires it
+2. The article names the real things rather than a category standing in for them
+3. The title, description, opening paragraph, and every H2 use only words an agent would say out loud
+4. No sentence restates the `Steps:` block in the abstract
+5. The verb a member would type for the task appears in the section that covers it, not only inside a link's title
+
+Only check 1 is greppable, and it over-flags: "public records", "return to the Dashboard", and "tiles" inside alt text are all legitimate and all appear in finished articles. Checks 2 to 5 are read, the way the navigation-step rule and the possessive-density rule are read. A failure is reported with the terms it flagged and the replacement for each, not as a bare verdict.
 
 **Check set.** The checks below are the September 10, 2026 set, revision 2.
 
@@ -86,7 +100,7 @@ Two QA files predate revision 2. Dashboard Overview has been rescored: the rewri
 | 50 to 74 | Needs rewrite | Fin may find the article but will answer from incomplete or cold sections. Rewrite against the standard |
 | 0 to 49 | Not retrievable as written | The article will not surface reliably or will surface the wrong section. Rewrite from the template |
 
-An article in the Fin-ready band that fails a golden question is reported as "Fin-ready score, gate failed on <factor>" and is not moved forward until the factor passes.
+An article in the Fin-ready band that fails a golden question is reported as "Fin-ready score, gate failed on <factor>" and is not moved forward until the factor passes. An article that fails the plain language gate is reported the same way, as "Fin-ready score, plain language gate failed on <terms>". `Ready to Transfer` needs all three: the Fin-ready band, the golden questions, and plain language.
 
 ## Fin test questions
 
@@ -101,15 +115,16 @@ One file per scored article at `workstreams/help-center-overhaul/qa/YYYY-MM-DD-<
 1. Article name, the old title if it changed, and the sources: old Notion URL, Intercom article ID and content ID, mirror path(s)
 2. Who scored it and when
 3. The golden questions table: factor, old result, new result, note
-4. The dimension table: dimension, old score, new score, delta
-5. Total score and band for old and new
-6. The Fin test questions table
-7. Open items: every `[confirm: ...]` marker and every decision the team still owes
+4. The plain language gate: pass or fail, and for a failure every term flagged with its replacement
+5. The dimension table: dimension, old score, new score, delta
+6. Total score and band for old and new
+7. The Fin test questions table
+8. Open items: every `[confirm: ...]` marker and every decision the team still owes
 
 No member names, emails, phone numbers, or addresses ever appear in a QA file. The scorecard is about the article, not the conversations.
 
 ## How the skills use this
 
-- `/article-rewrite` scores the original before rewriting and the rewrite after, reports both with the delta, and saves the QA file. A migrated article is not created in Notion until the scorecard has run.
+- `/article-rewrite` scores the original before rewriting and the rewrite after, runs both gates on the rewrite, reports everything with the delta, and saves the QA file. A migrated article is not created in Notion until the scorecard has run.
 - `/article-draft` scores a new draft once, after the golden questions, and reports the band with the failed checks.
 - The audit (`workstreams/help-center-overhaul/audit/`) may use the old score alone to rank the backlog: lowest band first, then lowest score within the band.

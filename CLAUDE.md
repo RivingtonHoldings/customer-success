@@ -28,8 +28,9 @@ Matter-of-fact and instructional. The reader is a busy real estate professional 
 
 - Second person, imperative. "Click **Actions**," not "You can click Actions."
 - One action per numbered step. Never combine a click, a tab, and a scroll in one step.
-- Name and bold the exact UI element the reader sees.
-- Screenshot placeholders in brackets where an image belongs: `[Screenshot: the Actions menu with Print highlighted]`.
+- Name the exact UI element the reader sees, spelled the way the screen spells it, and leave it plain. Nothing in an article body is bold except the callout labels and the `**Description:**` line.
+- Write the word a member would type: "listing, agent, or contact", not "record". Members search with the words they know, so a word an agent would not say is also a word Fin cannot match them on. The do-not list is in `docs/standards/content-standards.md`.
+- Screenshot placeholders on their own line, carrying the alt text the image will use: `> Screenshot placeholder: the Actions menu with Print highlighted | Alt text: The Actions menu open with Print highlighted`.
 - State defaults, limits, and anything that cannot be undone.
 - No marketing adjectives. Describe what the feature does, not how great it is.
 

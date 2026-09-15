@@ -31,7 +31,7 @@ Use the role names members see. When an article applies to some roles only, say 
 
 ## Feature names
 
-One line each, using the name members see in the product. Bold the name in articles when it is a clickable element; leave it plain when it is a concept.
+One line each, using the name members see in the product. Name it exactly and leave it plain; nothing in an article body is bold, per the September 10, 2026 decision and the terminology rules below.
 
 - **Search:** the main listing search page and the starting point for most workflows.
 - **SearchWell:** natural language search inside Search. Members type a sentence instead of setting filters.
