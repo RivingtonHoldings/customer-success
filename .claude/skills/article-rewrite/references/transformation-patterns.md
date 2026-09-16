@@ -158,7 +158,7 @@ The exact label is what the member matches against the screen, and it does that 
 - Callout labels: `> **Note:** ...`, `> **Important:** ...`, `> **Tip:** ...`. Intercom names the bold label as the signal Fin reads, so this one earns its keep.
 - The `**Description:**` line at the top of the article.
 
-Bullet lead-in labels, as in `- **Listings.** Matched on address or MLS ID`, follow the callout pattern: a label introducing its own block, not emphasis in running prose. Keep them.
+**Bullet lead-in labels are not a third survivor.** `- **Listings.** Matched on address or MLS ID` looks like the callout pattern, a label introducing its own block, and it is not: Fin-parsable formatting check 3 reads "No other bold in the body", and Intercom names the callout label specifically. Write them plain, as `- Listings. Matched on address or MLS ID`. The Universal Search Bar draft carried three bolded labels and unbolding them is what returned Fin-parsable formatting to 8 of 8 and the article to 95.7. Corrected September 16, 2026; this file said to keep them and was the last place in the repo still teaching the retired bold style.
 
 ## 10. Say It Once
 

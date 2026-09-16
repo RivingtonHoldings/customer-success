@@ -2,6 +2,24 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-16: Agreement between sources is not verification
+
+Decided by Tara after the Listings widget migration, from a retro on the session. **Awaiting Kelly and Rafe**, since it changes `content-standards.md`.
+
+The standard already says what to do when sources disagree: the live article wins on facts, a newer Notion page does not outrank it, and a tie goes to product. None of that helps when the sources agree and are both wrong, which is what happened four times on one article. The live article and the old Notion page both listed a Recently Added filter the product no longer has, both omitted Active Under Contract which it does have, and both called the Add/Edit form "the listing management form". Agreement read as corroboration.
+
+Every one was caught by a screenshot or a one-line answer from Tara, never by a check, and every one was sourced, which is the condition under which nothing flags it. That is the third and fourth time on this project that sourced-and-wrong has reached a draft.
+
+- **The rule.** Where an article documents a screen's controls, their labels, or what a control opens, ask for a current screenshot before drafting and treat what the documents agree on as the question rather than the answer.
+- **The workflow change that follows from it.** Both article skills now list the product questions they would otherwise mark `[confirm: ...]` and ask them up front, alongside the source differences. All three markers on this article closed the same day because Tara was at her desk; a marker would have taken a review cycle to reach the same answer, and the answers contradicted both documents rather than picking one.
+- **A quality-checklist line** so the audit and the QA pass see it too.
+
+Three smaller things from the same retro, all skill-level:
+
+- **Load-bearing claims are checked in three places.** A claim that sets up the article lands in the description, the opening paragraph, and a section lead at once. This draft asserted that the widget's Search field narrows the list, with no source at all, in all three. Fixing the one you notice leaves the other two, which is how that shape survives a review.
+- **`transformation-patterns.md` said to keep bold on bullet lead-in labels.** It was the last place in the repo still teaching the style retired on September 10, it contradicted Fin-parsable check 3, and it contradicted what was actually done on Universal Search Bar, where unbolding those labels is what restored 8 of 8 and 95.7. Corrected.
+- **The set-consistency pass now covers the small conventions**, hyphenation of position words and whether bullet lead-in labels take a period or a colon, settled by counting across the set rather than by preference. "top right corner" runs 8 to 0 unhyphenated.
+
 ## 2026-09-16: An on-screen label licenses the control, not the vocabulary
 
 Decided by Tara, during the Listings widget migration. The draft passed the plain language gate on the word "scope" and she caught it anyway, which is the second time in two days that a human found what a check could not.
