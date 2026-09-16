@@ -18,9 +18,11 @@ Five checks. Any failure fails the gate.
 
 1. No term from the plain language do-not list in `content-standards.md`, in the sense that list bans, unless a terminology rule in `docs/product-context.md` or an exact on-screen label requires it
 2. The article names the real things rather than a category standing in for them
-3. The title, description, opening paragraph, and every H2 use only words an agent would say out loud
+3. The title, description, opening paragraph, and every heading use only words an agent would say out loud. A term that appears on screen still fails this check where the article has adopted it as its own noun rather than naming the control at the point of use
 4. No sentence restates the `Steps:` block in the abstract
 5. The verb a member would type for the task appears in the section that covers it, not only inside a link's title
+
+Check 3 asks two questions of any term that reads as product vocabulary, not one: is the word on screen, and would a member use it when the control is not in front of them? A word that passes the first and fails the second is the hardest case, because the on-screen test alone waves it through. "Scope" did exactly that on the Listings widget migration, September 16, 2026: the menu is headed Scope by, so the term looked sourced, and the draft went on to call the control "the scope button", which nothing on screen calls it.
 
 Only check 1 is greppable, and it over-flags: "public records", "return to the Dashboard", and "tiles" inside alt text are all legitimate and all appear in finished articles. Checks 2 to 5 are read, the way the navigation-step rule and the possessive-density rule are read. A failure is reported with the terms it flagged and the replacement for each, not as a bare verdict.
 

@@ -2,6 +2,20 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-16: An on-screen label licenses the control, not the vocabulary
+
+Decided by Tara, during the Listings widget migration. The draft passed the plain language gate on the word "scope" and she caught it anyway, which is the second time in two days that a human found what a check could not.
+
+The gate's check 3 asked one question, whether the word is on screen. "Scope" passed it, because the Listings widget's menu is headed Scope by. On the strength of that the draft went on to use the word as its own vocabulary: an H3 reading "Choose the listing scope", a lead reading "The scope sets whose listings the widget shows", and a control called "the scope button", which nothing on screen calls it. An agent looking at a button labeled MLS Listings does not know the word for it is scope.
+
+Check 3 now asks two questions. Is the word on screen, and would a member use it when the control is not in front of them? A term that passes the first and fails the second is named once, where the member has to find the thing, and described by what it does everywhere else. The article now says "choose whose listings you see" and "the button in its top right", and uses Scope by exactly once in the body.
+
+This is the mirror of the modal rule from September 10. There the answer was to keep a word that sounds technical; here it is to drop one that is genuinely on screen. Same check, opposite outcomes, which is why both are written down rather than left to judgment.
+
+In `docs/standards/content-standards.md` under Voice and terminology and in the quality checklist, in `docs/standards/fin-readiness-scorecard.md` as check 3 of the plain language gate, and in the plain language pass of both article skills. No score changes: the gate is pass or fail and touches no dimension.
+
+Noted while there: the control has no fixed on-screen label, since the button reads whichever option is selected. It is identified by position until the product gives it a stable name.
+
 ## 2026-09-15: Plain language is a gate, not a score
 
 Decided by Tara, after reviewing the four articles migrated between September 9 and 15. All four passed 14 of 14 golden questions and scored 95.7 to 100.0, and all four still needed a hand pass on their words before the team would accept them. The scorecard could not see the defect: voice is worth 4 of its 100 points, in two prohibitions, and none of the 14 factors is a voice factor.
