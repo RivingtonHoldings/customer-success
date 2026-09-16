@@ -125,6 +125,30 @@ Tara proposed "Use the Listings widget on the Perchwell Dashboard to view, searc
 
 No other check moves. The article holds at 100.0.
 
+## Tara's five section edits, September 16, 2026
+
+She proposed rewrites for five passages and asked for an assessment. Four went in close to as written and read better than the draft's. Two changes to her versions, and one question left open.
+
+**Taken as written or nearly so.**
+
+- **The widget's position.** "Sits in the upper right corner of the Dashboard, headed Listings." The draft had dropped the position claim because the September 16 screenshots were cropped and the live article's "right side of the page" could not be checked. Tara's point is the better one: the widget cannot be moved or removed, so its position is a reliable instruction rather than a description of one layout.
+- **The Search section.** Her version is stronger on every count. "Search for a specific listing by entering an address" names the task before the mechanism; "Matching listings appear as you type" is system behavior stated plainly; and "The search covers only the listings you have chosen to see. To search across every listing in your MLS, select MLS Listings first" keeps the constraint as the route forward. Her comparison to the Universal Search Bar was restored as a link rather than left as plain text, per the internal linking rule.
+- **The filter section.** "Active, Coming Soon, Active Under Contract, Pending, and Closed filter listings by status" is more direct than the draft's "Five of these match a listing's status", and splitting the status group and the activity group into their own paragraphs makes each retrievable on its own.
+- **The actions section.** "The Dashboard stays open in the original tab" is a plainer statement of the same fact than "so the Dashboard stays as you left it". "Listings where you are the listing agent" reads better than "listings you are the listing agent for". Her colon-style bullet lead-ins were kept; both forms exist in the set, and hers are internally consistent.
+
+**Two changes to her versions.**
+
+- **"Choose whose listings appear in the Listings widget" became "Choose whose listings the Listings widget shows".** Her proposal reads more naturally, and it trips the member-controlled-verb rule she set herself on September 10: "adjust which widgets display", not "change which widgets appear". Her sentence is the same shape as the one that rule rejected, and it is scored under Accuracy and confidence check 5. The verb changed; the rest of her phrasing stands.
+- **"If all listing type filters are not visible" became "If not all the filters are visible".** The original negates the wrong word, which reads as though no filters are visible.
+
+**Hyphenation.** "top right corner" unhyphenated, which is what the set uses eight times against zero for the hyphenated form. Two levels are now named, the widget's position in the Dashboard's upper right and the button in the widget's own top right, so each says what it is the corner of.
+
+**The ShowingTime hedge moved, on Tara's confirmation.** Her version read "The ShowingTime icon appears when supported by your MLS", which puts the MLS condition on the icon. Both sources put it on the action instead: "Manage upcoming showings **when supported by your MLS**." Those are different claims and no source supported hers, so it was held back and asked about rather than inferred. Tara confirmed the same day that the icon is MLS-gated, and her version went in.
+
+It is the better fact of the two. "Why do I not see a ShowingTime icon" is a question a member asks and a ticket support answers; "why can I schedule but not manage" is neither. The source's version could only ever have answered the second, and it answered it vaguely. This is the fourth fact on this article where a document was less accurate than the product.
+
+No check moves. The article holds at 100.0, both gates clean, no confirm markers.
+
 ## Plain language gate
 
 **Pass**, all five checks.

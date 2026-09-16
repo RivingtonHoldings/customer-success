@@ -30,7 +30,7 @@ Use this article to find the Listings widget on your Dashboard, narrow it to the
 
 ## Find the Listings widget on the Dashboard
 
-The Listings widget sits on the Dashboard under the heading Listings. Click Dashboard in the top navigation bar to open the Dashboard from anywhere in Perchwell.
+The Listings widget sits in the upper right corner of the Dashboard, headed Listings. Click Dashboard in the top navigation bar to open the Dashboard from anywhere in Perchwell.
 
 [Customize Your Dashboard](http://support.perchwell.com/en/articles/13623904-customize-your-dashboard) covers which widgets can be added, removed, and reordered.
 
@@ -44,7 +44,7 @@ Narrow the listings in the Listings widget in three ways: choose whose listings 
 
 ### Choose whose listings you see
 
-Choose whose listings the Listings widget shows from the button in its top right. Click the button, then pick an option under Scope by:
+Choose whose listings the Listings widget shows. Click the top right corner of the widget, then pick an option under Scope by:
 
 - Select MLS Listings to see listings across your MLS
 - Select My Listings to see your own listings
@@ -55,13 +55,13 @@ The options available to you depend on your MLS permissions.
 
 ### Search within the Listings widget
 
-Search the Listings widget from the Search field directly below its header. Type an address, the way you would in the [Universal Search Bar](http://support.perchwell.com/baldwin/en/articles/11002620-universal-search-bar), and matches appear as you type.
+Search for a specific listing by entering an address in the Search field at the top of the Listings widget. Matching listings appear as you type, the same way they do in the [Universal Search Bar](http://support.perchwell.com/baldwin/en/articles/11002620-universal-search-bar).
 
-Search looks only at the listings you have chosen to see. To search every listing in your MLS, pick MLS Listings first.
+The search covers only the listings you have chosen to see. To search across every listing in your MLS, select MLS Listings first.
 
 ### Filter by listing type
 
-The listing type filters sit in a row below the Search field in the Listings widget. Click one to narrow what the widget shows:
+The listing type filters sit below the Search field in the Listings widget. Select a filter to narrow the listings shown:
 
 - Active
 - Open Houses
@@ -72,22 +72,24 @@ The listing type filters sit in a row below the Search field in the Listings wid
 - Price Drop
 - Price Increase
 
-Five of these match a listing's status: Active, Coming Soon, Active Under Contract, Pending, and Closed. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one. The other three, Open Houses, Price Drop, and Price Increase, match activity on the listing rather than its status.
+Active, Coming Soon, Active Under Contract, Pending, and Closed filter listings by status. See [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) for what each one means.
 
-When the filters do not all fit across the widget, the row scrolls, which means some filters sit off-screen until you move the row. Click the arrow at the edge of the row to reach the rest.
+Open Houses, Price Drop, and Price Increase filter listings by recent listing activity rather than status.
+
+If not all the filters are visible, click the arrow at the end of the row to reach the rest.
 
 > Screenshot placeholder: the filter row scrolled right so the filters that start off-screen are visible | Alt text: The listing type filter row in the Perchwell Listings widget, scrolled right to show the remaining filters
 
 ## Take action on a listing from the Listings widget
 
-Take action on a listing from the Listings widget:
+Take action on a listing directly from the Listings widget:
 
-- Quick Edit. Click the pencil icon next to a listing to open it in Add/Edit in a new tab, so the Dashboard stays as you left it
-- ShowingTime. Click the ShowingTime icon next to a listing to schedule a showing, and manage upcoming showings when your MLS supports it
+- Quick Edit: Click the pencil icon next to a listing to open it in Add/Edit in a new tab. The Dashboard stays open in the original tab
+- ShowingTime: Click the ShowingTime icon next to a listing to schedule a showing or manage upcoming showings. The ShowingTime icon appears when your MLS supports ShowingTime
 
-> **Note:** The pencil icon appears on listings you are the listing agent for. Brokerage Admins see it on every listing in their brokerage.
+> **Note:** The pencil icon appears on listings where you are the listing agent. Brokerage Admins see the pencil icon on every listing in their brokerage.
 
-[Add and Edit Listings](http://support.perchwell.com/en/articles/13627189-add-and-edit-listings) covers the fields and the save step once Add/Edit opens.
+For more about editing a listing once Add/Edit opens, see [Add and Edit Listings](http://support.perchwell.com/en/articles/13627189-add-and-edit-listings).
 
 ## Things to Know
 
