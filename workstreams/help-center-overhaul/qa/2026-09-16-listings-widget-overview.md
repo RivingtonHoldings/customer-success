@@ -1,6 +1,12 @@
-# QA: Find and Manage Listings in the Listings Widget
+# QA: Find Listings in the Listings Widget
 
 Old title: **Listings Widget Overview**. Retitled on Tara's approval, September 16, 2026; record the old title for the Intercom redirect.
+
+**The title was settled twice.** The first proposal, "Find and Manage Listings in the Listings Widget", was withdrawn after Tara flagged that Manage Listings could confuse both members and Fin. Checking it out made the case stronger than the collection name alone: **Manage Listings is a page in Perchwell**, reached from the main menu, with its own article, [Manage Listings Page Overview](http://support.perchwell.com/en/articles/13623016-manage-listings-page-overview) (Intercom 13623016, Listing Maintenance collection). Its description reads "open Manage Listings, add or update a listing, schedule an open house, and use filters to find the listings you need."
+
+The proposed title would have competed with that article on *manage listings*, *find listings*, *filter listings*, and *edit a listing*, for two different surfaces. "Find Listings in the Listings Widget" collides with it on nothing, keeps the exact feature name a member types, and still passes golden question 5. Dashboard queries are covered by the description and by three of the six headings.
+
+**Also surfaced while checking.** The pencil icon appears in four Baldwin articles for four different controls: contacts, draft listings, Manage Listings, and messages. This article names it as "the pencil icon next to a listing" inside the Listings widget, which is specific enough, but the icon alone is not a distinguishing detail anywhere in the help center.
 
 ## Sources
 
@@ -78,6 +84,22 @@ No score change: nothing here touches a scored check, and the description was re
 
 **Old gate:** failed on 7 factors (1, 2, 3, 5, 6, 11, 12).
 **New gate:** all 14 pass, with no open confirm markers.
+
+## The pencil opens Add/Edit, and that closed three things at once
+
+The draft carried "Click the pencil icon next to a listing to open the listing management form" verbatim from the live article and the old Notion page. It was sourced, and it was still the weakest sentence in the article. Tara confirmed on September 16, 2026: **the pencil opens the Add/Edit form in a new tab.**
+
+That one answer fixed three separate problems.
+
+- **The term was wrong, against a rule that names this exact case.** `docs/product-context.md` reads: "Use the label the member sees on screen, spelled exactly as the UI spells it, and do not bold it. **'Add/Edit,' not 'the listing form.'**" Both sources had written around the product's own name for the screen, and the rewrite inherited it because it was sourced. Sourced and wrong is the failure mode the scorecard cannot see, recorded twice before in this project.
+- **It was the last Manage Listings collision in the article.** "Listing management" is "Manage Listings" turned around. It is gone.
+- **A missing link appeared.** Add/Edit has its own article, [Add and Edit Listings](http://support.perchwell.com/en/articles/13627189-add-and-edit-listings) (Intercom 13627189, Listing Maintenance). The bullet now hands off to it: "covers the fields and the save step once Add/Edit opens." Answer completeness check 7 was already passing, but a member who clicks the pencil and lands in an unfamiliar form now has somewhere to go.
+
+**The new tab detail earned its own clause**, matching how the set states click behavior: Dashboard Overview says "Clicking one opens the Listing Detail Page in a new tab" and "opens their Contact Detail Page in a new tab". Here it is "in a new tab, so the Dashboard stays as you left it", which also lets the section lead drop "without opening the listing", a phrase that was no longer true once the pencil was known to open something.
+
+One "manage" survives in the body: "manage upcoming showings when your MLS supports it". That is ShowingTime's own hedged claim about showings rather than listings, no collision, and the hedge is kept as the source wrote it.
+
+**A pattern worth carrying into the audit.** The Manage Listings page has a pencil that opens Add/Edit too, and its own article links out to Add and Edit Listings for the same reason. Two surfaces, one destination. Any article describing a pencil next to a listing should name Add/Edit and link that article rather than inventing a name for the screen.
 
 ## Plain language gate
 

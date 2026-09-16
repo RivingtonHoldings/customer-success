@@ -22,7 +22,7 @@ migrated_from: master-article-list
 
 <!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Videos: No | Visuals: Yes | Notion: https://app.notion.com/p/3dd8b9e01438813ea9f6cdadffa18871 | Old title: Listings Widget Overview -->
 
-# Find and Manage Listings in the Listings Widget
+# Find Listings in the Listings Widget
 
 **Description:** Choose whose listings the Perchwell Dashboard's Listings widget shows, search and filter them, then edit a listing or schedule a showing.
 
@@ -80,12 +80,14 @@ When the filters do not all fit across the widget, the row scrolls, which means 
 
 ## Take action on a listing from the Listings widget
 
-Take action on a listing from the Listings widget without opening the listing:
+Take action on a listing from the Listings widget:
 
-- Quick Edit. Click the pencil icon next to a listing to open the listing management form
+- Quick Edit. Click the pencil icon next to a listing to open it in Add/Edit in a new tab, so the Dashboard stays as you left it
 - ShowingTime. Click the ShowingTime icon next to a listing to schedule a showing, and manage upcoming showings when your MLS supports it
 
 > **Note:** The pencil icon appears on listings you are the listing agent for. Brokerage Admins see it on every listing in their brokerage.
+
+[Add and Edit Listings](http://support.perchwell.com/en/articles/13627189-add-and-edit-listings) covers the fields and the save step once Add/Edit opens.
 
 ## Things to Know
 
