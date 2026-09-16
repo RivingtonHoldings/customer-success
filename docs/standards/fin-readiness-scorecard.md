@@ -47,7 +47,7 @@ Two QA files predate revision 2. Dashboard Overview has been rescored: the rewri
 
 ### Retrieval signals (30 points, 7 checks)
 
-1. The title is task-focused and names the outcome, per the naming standard
+1. The title is task-focused and names the outcome, per the naming standard, and does not repeat another article's name, a Perchwell page name, or a collection name
 2. The description is 120 to 140 characters and names the feature
 3. The opening paragraph is "Use this article to ..." and names the feature and the outcomes
 4. Every H2 and H3 names what the section answers and carries the feature name where it fits

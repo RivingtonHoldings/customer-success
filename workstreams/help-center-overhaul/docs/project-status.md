@@ -1,6 +1,6 @@
 # Project status: help center overhaul
 
-Living document. Update in place; do not append dated sections. Last updated: 2026-09-09.
+Living document. Update in place; do not append dated sections. Last updated: 2026-09-16.
 
 ## Roles and contacts
 
@@ -57,6 +57,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 | Six live CRMLS articles still document Listing Presentations, which was removed from CRMLS. Fin answers from published articles, so CRMLS members can be told about a feature they do not have today. Correct them before or after the audit is finalized? One Notion row is also queued at `Transfer to Intercom` for the removed feature. List and priority order in `audit/dashboard-widget-lineup-2026-09-10.md` | Tara and Kelly Miragliotta | Sep 11, 2026 |
 | Do Baldwin members have a Days on Market widget on the Dashboard? Documentation says no, but only product can confirm, and it decides whether the shared Dashboard Overview spine is five widgets or six | Tara, with product | Sep 18, 2026 |
 | Does the CRMLS Dashboard have one Days on Market widget or two? `crmls/customizing-your-dashboard.md` lists one, and two separate live CRMLS articles describe Days Active in MLS and Days Active on Market as different widgets | Kelly Miragliotta | Sep 18, 2026 |
+| Do the approved `<Page> Overview` and `<Area> FAQ` title patterns satisfy Fin-readiness Retrieval check 1, which wants a task-led title? The article types table in `content-standards.md` approves both patterns; check 1 reads "task-focused and names the outcome". The two have been scored inconsistently: "Dashboard Overview" passed check 1 and scored 30.0 of 30, "Listings Widget Overview" failed it and scored 8.6, and the Universal Search Bar QA file asserts that adding "Overview" would not satisfy check 1. **28 live articles are exposed**, 15 titled `<X> Overview` and 13 titled `<X> FAQ`. If the patterns pass, Dashboard Overview is right and the Listings Widget before-score is understated by 4.3. If they do not, Dashboard Overview is overscored and 28 articles carry a 4.3-point penalty they cannot escape without abandoning the type pattern. Same shape as the FAQ "you can" question below, and it moves the backlog ranking the same way | Tara and Kelly Miragliotta | Sep 18, 2026 |
 | Should FAQ answers get an exception to the "you can" ban, the way "When to use" headings are excepted from the verb-"use" ban? "You can add as many as you'd like" is the natural answer under a question-form heading, and 12 of 16 FAQ articles fail scorecard check 5 on it. Three of the eleven worst-offender articles are FAQs, so the answer changes the backlog ranking. See `audit/voice-sweep-2026-09-10.md` | Tara and Kelly Miragliotta | Sep 11, 2026 |
 | How do members reach help content in each market: the help center directly, or through Perchie? | Kevin Liang | Sep 3, 2026 |
 | Which platform(s) are CRMLS members migrating from, and how does that affect the eight Then vs. Now articles? | Kelly Miragliotta | Sep 3, 2026 |

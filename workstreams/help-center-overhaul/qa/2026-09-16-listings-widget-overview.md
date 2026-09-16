@@ -101,6 +101,18 @@ One "manage" survives in the body: "manage upcoming showings when your MLS suppo
 
 **A pattern worth carrying into the audit.** The Manage Listings page has a pencil that opens Add/Edit too, and its own article links out to Add and Edit Listings for the same reason. Two surfaces, one destination. Any article describing a pencil next to a listing should name Add/Edit and link that article rather than inventing a name for the screen.
 
+## An unresolved check, flagged rather than papered over
+
+This article's **before** score of 41.2 rests on scoring Retrieval check 1 as a failure for the title "Listings Widget Overview", on the grounds that it is a bare noun phrase. That may be wrong.
+
+`content-standards.md` approves `<Page> Overview` as the title pattern for Overview-type articles, with "Search Page Overview" as its example. "Listings Widget Overview" is that pattern, and this article is that type: it orients a member to one widget and carries no `Steps:` block. Scored the other way, check 1 passes, Retrieval is 12.9 rather than 8.6, and the before total is **45.5 rather than 41.2**. The band does not change; both are Not retrievable as written.
+
+**The same pattern was scored the opposite way three days earlier.** Dashboard Overview kept the title "Dashboard Overview" and scored 30.0 of 30 on Retrieval, which means check 1 passed. Two titles of the same shape, two verdicts. A third position sits in the Universal Search Bar file, which says adding "Overview" "would not have satisfied Retrieval signals check 1".
+
+Logged as an open question for Tara and Kelly on the project status page, due September 18, 2026. **28 live articles are exposed**, 15 titled `<X> Overview` and 13 titled `<X> FAQ`, so the answer moves the audit backlog ranking the same way the FAQ "you can" question does.
+
+**Nothing about the new article turns on it.** The retitle was decided on collision grounds, not on check 1, and "Find Listings in the Listings Widget" passes check 1 under either reading. The after score of 100.0 stands. Only the before number is in question, and it is recorded here as 41.2 with the alternative named rather than quietly revised.
+
 ## Plain language gate
 
 **Pass**, all five checks.
