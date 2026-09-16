@@ -113,6 +113,18 @@ Logged as an open question for Tara and Kelly on the project status page, due Se
 
 **Nothing about the new article turns on it.** The retitle was decided on collision grounds, not on check 1, and "Find Listings in the Listings Widget" passes check 1 under either reading. The after score of 100.0 stands. Only the before number is in question, and it is recorded here as 41.2 with the alternative named rather than quietly revised.
 
+## Description rewritten on Tara's wording, September 16, 2026
+
+Tara proposed "Use the Listings widget on the Perchwell Dashboard to view, search, and filter listings, edit a listing, and schedule a showing" and asked whether it held. It failed one check and was better than the draft's on everything else.
+
+**The one failure: the verb "use".** The standard grants exactly two exceptions to that ban, "When to use" headings and the "Use this article to ..." opening. A description is neither, so it falls under Accuracy and confidence check 5, worth 2.0 points, which would have taken the article from 100.0 to 98.0. None of the five descriptions written for this project opens with "Use"; they open with Find, Get familiar, Add, Add, and Choose.
+
+**Taken from her version, with only the opening three words dropped:** "View, search, and filter listings in the Listings widget on the Perchwell Dashboard, edit a listing, and schedule a showing." Same words, same order, imperative rather than "Use ... to". 124 characters.
+
+**The real gain is "view", which the draft did not have.** The previous description opened "Choose whose listings the ... Listings widget shows", which frames the widget as something a member configures. Many members only want to look at listings, and "view" is a word they would type. It is also the plainest of the five verbs, which is the direction Kelly's review pushed the whole set.
+
+No other check moves. The article holds at 100.0.
+
 ## Plain language gate
 
 **Pass**, all five checks.

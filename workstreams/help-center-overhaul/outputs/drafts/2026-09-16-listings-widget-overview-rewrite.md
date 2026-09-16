@@ -24,7 +24,7 @@ migrated_from: master-article-list
 
 # Find Listings in the Listings Widget
 
-**Description:** Choose whose listings the Perchwell Dashboard's Listings widget shows, search and filter them, then edit a listing or schedule a showing.
+**Description:** View, search, and filter listings in the Listings widget on the Perchwell Dashboard, edit a listing, and schedule a showing.
 
 Use this article to find the Listings widget on your Dashboard, narrow it to the listings you want, and edit a listing or schedule a showing without leaving the Dashboard.
 
