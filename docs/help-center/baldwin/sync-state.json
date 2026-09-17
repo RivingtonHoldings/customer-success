@@ -1,8 +1,16 @@
 {
- "last_run": "2026-09-14T14:26:04Z",
+ "last_run": "2026-09-17T19:12:06Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "11002620": {
+   "file": "universal-search-bar.md",
+   "updated_at": 1789662282,
+   "state": "published",
+   "title": "Universal Search Bar",
+   "content_id": "11821319",
+   "body_sha1": "2125bead18b3a48e049f916462157ef5ccc67010"
+  },
   "14074994": {
    "file": "listing-detail-page-overview.md",
    "updated_at": 1789080961,
@@ -314,14 +322,6 @@
    "title": "Customize Your Search View",
    "content_id": "13190641",
    "body_sha1": "255fad7773af2b2f3f27cc9b0fd9a011a27f8819"
-  },
-  "11002620": {
-   "file": "universal-search-bar.md",
-   "updated_at": 1786397388,
-   "state": "published",
-   "title": "Universal Search Bar",
-   "content_id": "11821319",
-   "body_sha1": "91a52c6556d65c56ca4437d95afc03741030ce99"
   },
   "14549167": {
    "file": "create-communication-templates.md",
@@ -731,14 +731,6 @@
    "content_id": "18095235",
    "body_sha1": "379fc9e317fac6efdbbb73dcaaad66214e2ab030"
   },
-  "15201140": {
-   "file": "manage-people-faq.md",
-   "updated_at": 1782960002,
-   "state": "published",
-   "title": "Manage People FAQ",
-   "content_id": "17971228",
-   "body_sha1": "f55adb0d7ca7465d7e5ffd83e9a3ffbf2890b0ca"
-  },
   "15201164": {
    "file": "mobile-faq.md",
    "updated_at": 1782960002,
@@ -746,6 +738,14 @@
    "title": "Mobile FAQ",
    "content_id": "17971267",
    "body_sha1": "b99f540391e9382c7c81cd12f20938d6b20b5c77"
+  },
+  "15201140": {
+   "file": "manage-people-faq.md",
+   "updated_at": 1782960002,
+   "state": "published",
+   "title": "Manage People FAQ",
+   "content_id": "17971228",
+   "body_sha1": "f55adb0d7ca7465d7e5ffd83e9a3ffbf2890b0ca"
   },
   "15200594": {
    "file": "analytics-faq.md",
@@ -827,14 +827,6 @@
    "content_id": "16183571",
    "body_sha1": "8e551dc5ebb1a185b3789848411fd5ae8ffcc3cb"
   },
-  "13903171": {
-   "file": "listings-widget-overview.md",
-   "updated_at": 1782959951,
-   "state": "published",
-   "title": "Listings Widget Overview",
-   "content_id": "16154426",
-   "body_sha1": "c39daacc226b296211f560615f0929e1ac54124d"
-  },
   "13903183": {
    "file": "integration-tools-on-the-dashboard.md",
    "updated_at": 1782959951,
@@ -842,6 +834,14 @@
    "title": "Integration Tools on the Dashboard",
    "content_id": "16154445",
    "body_sha1": "0ecd85a64108faca1476e5ef6811ec98a8506cd5"
+  },
+  "13903171": {
+   "file": "listings-widget-overview.md",
+   "updated_at": 1782959951,
+   "state": "published",
+   "title": "Listings Widget Overview",
+   "content_id": "16154426",
+   "body_sha1": "c39daacc226b296211f560615f0929e1ac54124d"
   },
   "13903062": {
    "file": "dashboard-overview.md",

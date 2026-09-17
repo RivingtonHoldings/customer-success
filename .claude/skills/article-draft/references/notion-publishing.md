@@ -24,12 +24,13 @@ Before the first Notion write in a session, read `notion://docs/enhanced-markdow
 
 ## Schema
 
-Seven properties. `Last updated` is system-managed; do not set it.
+Eight properties. `Last updated` is system-managed; do not set it.
 
 | Property | Type | Values |
 |---|---|---|
 | `Article Name` | title | The article title, matching the title in the body exactly |
 | `Article Status` | status | `New Article Request`, `Draft`, `Ready to Transfer`, `Live in Intercom`, `Deprecated` |
+| `Intercom URL` | url | The live article's public URL, set by `/port-to-intercom` after a push. Empty until the article reaches Intercom |
 | `MLS/AOR` | select | `Baldwin`, `CRLMS All`, `NYC` |
 | `Collection` | select | `Getting Started Guide`, `Then vs. Now`, `Dashboard`, `Search`, `Tags`, `Client Collaboration`, `Manage People`, `Manage Listings`, `Reports`, `Analytics`, `User Settings`, `Client Experience`, `FAQs`, `Mobile`, `What's New`, `Integrations` |
 | `Roles` | select | `All`, `Agent`, `Admin/Broker`, `Invited Client`, `All Except Client` |
@@ -37,7 +38,9 @@ Seven properties. `Last updated` is system-managed; do not set it.
 | `Visuals` | select | `Yes`, `No` |
 | `Last updated` | last_edited_time | Read only |
 
-Every property except `Article Name` is a single select, so an article belongs to exactly one collection, one MLS, and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
+`Collection` and `Roles` are single selects, so an article belongs to exactly one collection and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
+
+`MLS/AOR` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Settled 2026-09-17 during the Universal Search Bar port: Intercom serves a shared article from a single record held in a collection in each help center, so there is no second article for a second row to describe. The cost is that the article's cross-links can only point into one help center; flag that at port time rather than splitting the row.
 
 Two open items for the team, flagged rather than worked around:
 
@@ -189,14 +192,13 @@ Escape `*`, `[`, `]`, `<`, `>`, `|`, `{`, `}` when they appear as literal text o
 
 ## After publishing
 
-Report the new page URL(s). The remaining steps are manual and owned by CS:
+Report the new page URL(s). What happens next:
 
-1. Peer review in Notion
+1. Peer review in Notion, by a person
 2. Move the row to `Ready to Transfer`
-3. Transfer to Intercom as a draft
-4. For every image, move the `Alt text:` caption from the Notion draft into Intercom's alt text field, and leave the Intercom caption empty. Perchwell articles carry alt text, not captions
-5. Set the Fin labels per `docs/standards/fin-labeling.md`
-6. Assign the MLS audience
-7. Publish in Intercom
+3. Run `/port-to-intercom`. It converts the body, moves each image's alt text into Intercom's `alt` attribute, shows the diff, pushes on your confirmation, writes the changelog, sets `Article Status` to `Live in Intercom` and fills `Intercom URL`, and re-syncs the mirror
+4. Set the Fin labels per `docs/standards/fin-labeling.md`, by a person. `update_article` cannot write tags
+5. Assign the MLS audience, by a person
+6. Publish in Intercom, by a person, for a new article. A port to an already-live article keeps its published state
 
-Step 4 is the one that gets missed. Notion has no separate alt text field, so the alt text sits in the caption and the draft looks finished. Left alone, every published article carries a visible description under each screenshot and no alt text at all, which is exactly what golden question 2 tests for.
+Step 3 used to be the step that got missed, and the part of it that got missed was the alt text: Notion has no separate alt text field, so the alt text sits in the caption and the draft looks finished. Left alone, every published article carried a visible description under each screenshot and no alt text at all, which is exactly what golden question 2 tests for. The skill now does that conversion, so the remaining manual steps are the ones the connector cannot reach.

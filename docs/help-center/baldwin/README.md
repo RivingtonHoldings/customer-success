@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-14T14:26:04Z. Articles: 124 (121 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-17T19:12:06Z. Articles: 124 (121 published, 3 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -209,7 +209,7 @@ Collection ID 17797941. 14 articles.
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-08-31
 - [Share Multiple Listings in Perchwell](share-multiple-listings-in-perchwell.md), updated 2026-09-10
 - [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-08-10
+- [Universal Search Bar](universal-search-bar.md), updated 2026-09-17
 
 ## Listing Maintenance / FAQs (under Listing Maintenance)
 

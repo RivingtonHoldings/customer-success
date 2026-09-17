@@ -2,6 +2,24 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-17: Pushes to Intercom are on
+
+Decided by Tara, porting the Universal Search Bar rewrite. This closes the 2026-09-04 decision that held the repo read-only toward Intercom until the team trusted the mirror and the review flow. Both now exist: the mirror has run clean since September 4, and four articles have been through the standard, reviewed, and scored.
+
+- **Rung 3 is unchanged.** An update to a live article still requires all four conditions: the full before-and-after diff in the conversation, explicit confirmation for that one article with "yes to all" refused, an entry in `docs/help-center/changelog.md`, and a `/sync-help-center` afterward.
+- **Rung 2 is unchanged.** A new article is created in `draft` state. Claude never sets an article to published; that stays a human action in Intercom.
+- **`/port-to-intercom` is the implementation.** It carries the five preconditions from `intercom-push.md`, converts the Notion body to Intercom HTML, and closes the loop by moving the Notion row to `Live in Intercom`.
+
+Noted while turning it on: the `ask` list in `.claude/settings.json` was not binding. It names the Intercom connector by a server ID that differs per teammate, so on a session with a different ID the article write tools fell through to the default prompt rather than the explicit one. Both IDs are now listed, and `docs/connector-tools.md` says the list is additive.
+
+## 2026-09-17: A shared article gets one Notion row, not two
+
+Decided by Tara during the Universal Search Bar port, settling the question `project-status.md` has carried since September 4.
+
+One row. Intercom serves a shared article from a single record, 11002620 in this case, held in a Baldwin collection and a CRMLS collection at once. There is no second article to write to, so a second row would describe something that does not exist.
+
+The cost is that the article's cross-links can only point into one help center. Universal Search Bar now sends CRMLS readers to four Baldwin-only articles, one of which maps Paragon terms, and Paragon is Baldwin's legacy platform rather than CRMLS's. Accepted for now, logged in `project-status.md` as a split to do later. When the split happens the article becomes two Intercom records, and only then does it become two rows.
+
 ## 2026-09-16: Agreement between sources is not verification
 
 Decided by Tara after the Listings widget migration, from a retro on the session. **Awaiting Kelly and Rafe**, since it changes `content-standards.md`.

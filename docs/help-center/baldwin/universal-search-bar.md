@@ -2,7 +2,7 @@
 intercom_id: "11002620"
 content_id: "11821319"
 title: "Universal Search Bar"
-description: "In this article, you will learn how to use the Universal Search Bar to find listings, agents, and contacts from anywhere in Perchwell."
+description: "Find a listing, agent, or contact from any page in Perchwell by typing an address, MLS ID, name, or email into the Universal Search Bar."
 url: "http://support.perchwell.com/baldwin/en/articles/11002620-universal-search-bar"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,54 +10,52 @@ collection: "Search / Search"
 collection_ids: [17797941]
 collections: ["Search / Search"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2025-03-31T14:29:22Z
-updated_at: 2026-08-10T21:29:48Z
+updated_at: 2026-09-17T16:24:42Z
 labels: ["How To: Search"]
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-09-17T19:12:06Z
 ---
 
 # Universal Search Bar
 
-# Open the **Universal Search Bar** (top navigation)
+Use this article to open the Universal Search Bar from any page in Perchwell, find a listing, agent, or contact, and open the one you want from the results.
 
-Use the **Universal Search Bar** at the top of your screen to search for a single address, MLS ID, or contact.
+[Embedded video](https://www.loom.com/embed/a88b30bb53d1430dad60599fa48cf33c)
 
-​
+# When to use the Universal Search Bar
 
-### Steps:
-1. Click the **Universal Search Bar**
+Open the Universal Search Bar when you already know which listing, agent, or contact you want and need to reach it fast, rather than building a list from filters.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1788542100&signature=71a586d0bd8030c4b28760671c316ae5407ac97a13f77490e141c7e63165581d&req=diUuH8F6m4JaWPMW1HO4zZA%2Fd9Smmfx3b%2FK0egv0EphLXMBnnpfEX8cO5zxZ%0AV9soek7eyAZMnxdc3%2Fs%3D%0A)
+To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the Search page.
 
-2. Start typing one of the following:
-- An address
-- An **MLS number**
-- An agent name
-- A contact name or email
+# Find a listing, agent, or contact with the Universal Search Bar
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1788542100&signature=225c01ecf082dab6673e01b70be221ada6371418e4a9e3c3bccdf859509553ff&req=diUuH8F6m4RXXvMW1HO4zZHK22a%2BMMbi5cHaIuPo1ecVG1iXg3HQu5g9zAMD%0AspaEu4zXn0Tpf13dC3A%3D%0A)
+Find a listing, agent, or contact from the Universal Search Bar, the Search field in the upper right of the top navigation. In a browser it sits on every page, which means it is always one click away, wherever you are working.
 
-Results populate as you type.
+## Steps:
+1. Click the Search field in the upper right of the top navigation
+2. Type what you know into the modal that opens in the center of your screen: an address, an MLS ID, a name, or an email address
+3. Click a result
 
-# What you can search for (and what you will see in results)
+Matches appear in the modal as you type, and clicking one opens it.
 
-Universal Search returns matching results across these record types:
-- Listings
-  - View listings across statuses like **Active**, **Pending**, **Closed**, and **Expired**.
-  - Use an exact **MLS number** to pull up a direct listing match.
-- Agents
-  - Find an agent by name.
-  - Open the agent profile from the results.
-- Contacts
-  - Find a contact by name or email.
-  - Open the contact record from the results.
+The Universal Search Bar opens one listing at a time. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
-**💡 Click a result to open the matching listing page, agent profile, or contact record.**
+[![The Perchwell top navigation with the Search field highlighted in the upper right corner.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1789674300&signature=0f97a58e8bf351dcab016112c91bf2e359dec9d536a7f0fb2ae48ee9ee23aebf&req=diUuH8F6m4JaWPMW1HO4zZA%2Fd9Wlmvp1b%2FK0egv0Epj5cU9ilrW%2FNjJRUXXF%0AZtt8qFlVOgCAhU2mN0Q%3D%0A)
 
-## Tips
-- In Paragon, this feature was called Power Search.
-- Type a partial name to see close matches as you continue typing.
-- Use **Universal Search** for quick lookups, not saved or filtered searches.
-- If you hear **Power Search**, it refers to the **Universal Search Bar**.
+# What you find with the Universal Search Bar
+
+The Universal Search Bar finds listings, agents, and contacts. The modal shows a results count at the top and groups the matches by type.
+- Listings. Found by address or MLS ID, and an exact match on either one pulls up that listing directly. Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
+- Agents. Found by name, and the result opens the agent's profile.
+- Contacts. Found by name or email address, and the result opens that contact. Results come from your own contacts, not from other agents' contacts in your brokerage.
+
+You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears, and so does a result matching only a number you typed. Keep typing to narrow the list.
+
+[![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and status badge.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1789674300&signature=0e738987f2f0c8b9448731eb862fe491e4fa5b23f8db41ab3601801c66f842fc&req=diUuH8F6m4RXXvMW1HO4zZHK22e9M8Dg5cHaIuPo1edtGxNPpRKqZBvvDgoF%0A2nxjPs%2FdbnV8y5PI7Ow%3D%0A)
+
+# Things to Know
+- Members who came from a legacy platform may know the Universal Search Bar as Power Search. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
+- In the Perchwell mobile app, the Universal Search Bar sits at the top of the Search tab, and only on that tab. Once you are there, it works the same way as in a browser.

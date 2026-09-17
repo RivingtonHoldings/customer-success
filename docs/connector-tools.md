@@ -4,9 +4,13 @@ These tools come from claude.ai connectors, not from any file in this repo. Each
 
 `.claude/settings.json` references these exact names in its permissions lists. If a name here changes, settings.json must change with it.
 
-The tool name has three parts: `mcp__`, the connector's server ID, and the tool's own name. The server IDs below were captured from Leo's session on 2026-09-04. They are expected to be the same for every teammate on the Perchwell claude.ai organization, which means settings.json should work for everyone without edits. If a teammate's `/setup-check` reports the tools as missing while their connector is connected, compare their tool names against this file first.
+The tool name has three parts: `mcp__`, the connector's server ID, and the tool's own name. The server IDs below were captured from Leo's session on 2026-09-04.
 
-Inventory date: 2026-09-04.
+**The server ID differs per teammate.** This was expected to be constant across the organization and it is not: Tara's session on 2026-09-17 reported `4f20ece5-da81-42c7-aeba-27c16867fd7d` for Notion and `a0f4fdda-2a89-4594-85e4-915e64b24013` for Intercom. Match on the tool's own name, the part after the last `__`, never on the full prefix.
+
+Two things follow. The permissions lists in `.claude/settings.json` are **additive**: a teammate whose session prompts for tools this file says are allowed adds their own prefixed names beside the existing ones rather than replacing them. And until a teammate's IDs are listed, `update_article` and `create_article` fall through to the default prompt instead of the explicit ask, which still stops the call but says less about why. `/setup-check` reports the mismatch in plain language.
+
+Inventory date: 2026-09-04. Second set of IDs added 2026-09-17.
 
 ## Notion
 

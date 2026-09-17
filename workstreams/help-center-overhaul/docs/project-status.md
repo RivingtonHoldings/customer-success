@@ -34,7 +34,9 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 - Project status in Notion: Not Started as of September 1, 2026.
 - Repo bootstrapped September 4, 2026, with the help center mirror and the golden questions checklist in place (see `docs/build-log.md`).
 - Baldwin cutover happened August 3, 2026. The two weeks after cutover (August 3 to 17) are the reference window for Fin baseline reporting.
-- First article migrated on September 9, 2026: Universal Search Bar, now a Draft in the new database. Scorecard 50.5 before, 95.0 after. All six `[confirm: ...]` items were resolved on September 10, 2026; none remain.
+- First article migrated on September 9, 2026: Universal Search Bar. Scorecard 50.5 before, 95.7 after, which is the agreed ceiling for this article. All six `[confirm: ...]` items were resolved on September 10, 2026; none remain.
+- **First article ported to Intercom on September 17, 2026:** Universal Search Bar, article 11002620, live in both the Baldwin and CRMLS help centers. Pushes were turned on the same day and `/port-to-intercom` now carries the transfer. The Notion row is `Live in Intercom` and holds the live URL in the new `Intercom URL` property.
+- **Score figures.** The QA file in `qa/` is authoritative when it and these docs disagree. Two earlier entries here and in `decisions.md` quoted 50.0/91.4 and 50.5/95.0, both taken before the September 15 rescore; the settled numbers are **50.5 before, 95.7 after**.
 
 ## Active initiatives
 
@@ -52,7 +54,7 @@ Escalation for repo or Claude Code problems: Leo. Escalation for project scope: 
 | Question | Owner | Needed by |
 |---|---|---|
 | The new database dropped the `Fin AI`, `Text`, `Screenshot`, and `Video` workflow-status fields. Is per-asset progress tracked somewhere else, or is it out of scope now? | Tara | Sep 11, 2026 |
-| 26 articles are shared between the Baldwin and CRMLS help centers, but the new database holds one `MLS/AOR` per row. Does a shared article get one row (Baldwin) or two? Universal Search Bar is the first case | Tara | Sep 11, 2026 |
+| **Resolved Sep 17, 2026: one row.** A shared article is a single Intercom record held in a collection in each help center, so one row with both `MLS/AOR` values. What remains open is the consequence: a shared article's cross-links can only point into one help center, and Universal Search Bar now shows CRMLS members four Baldwin links, one of which maps Paragon terms. Splitting the 26 shared articles into per-MLS records is the fix; until then, every port of a shared article flags its links. Needs a decision before more shared articles are ported | Tara | Sep 24, 2026 |
 | The `MLS/AOR` option in the new database reads `CRLMS All`. Should it be renamed to CRMLS? Writes must use the string exactly as it appears until it changes | Tara | Sep 11, 2026 |
 | Six live CRMLS articles still document Listing Presentations, which was removed from CRMLS. Fin answers from published articles, so CRMLS members can be told about a feature they do not have today. Correct them before or after the audit is finalized? One Notion row is also queued at `Transfer to Intercom` for the removed feature. List and priority order in `audit/dashboard-widget-lineup-2026-09-10.md` | Tara and Kelly Miragliotta | Sep 11, 2026 |
 | Do Baldwin members have a Days on Market widget on the Dashboard? Documentation says no, but only product can confirm, and it decides whether the shared Dashboard Overview spine is five widgets or six | Tara, with product | Sep 18, 2026 |

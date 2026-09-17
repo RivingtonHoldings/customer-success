@@ -178,3 +178,22 @@ Questions members may ask, in their words. "One section" means Fin can answer fr
 - **"Quick Search" was considered and rejected.** `docs/help-center/baldwin/key-workflow-changes.md:27` maps Paragon's Quick Search widget to the Search page and its filter templates, not to the Universal Search Bar. Tara suggested adding it alongside Power Search on 2026-09-10, then confirmed the same day to leave it out. The article names Power Search only, and the existing Quick Search mapping stands. Closed, recorded so it is not reopened.
 - Shared article: the same Intercom article sits in the Baldwin and CRMLS help centers. The new database row is Baldwin, per the old row's `MLS` value. Tara to decide whether CRMLS gets its own row or the shared collection carries the update.
 - Every link in the draft now points at `/baldwin/en/`. The default help center link to Manage Your Saved Searches went out with the scope cut, so there is nothing to flag at transfer.
+
+## Transferred to Intercom, September 17, 2026
+
+The first article ported with `/port-to-intercom`. Article 11002620, confirmed by Tara, one article and one confirmation. The Notion row is `Live in Intercom` and carries the live URL in the new `Intercom URL` property. Mirror re-synced; the second run reported zero changes in both help centers.
+
+**Two open items above are now closed by the port.**
+
+- **Shared article, one row or two.** One row. Intercom serves the shared article from a single record held in a Baldwin collection (17797941) and a CRMLS collection (16866865), so there was never a second article for a second row to describe. The row keeps both `MLS/AOR` values. Recorded in `decisions.md`.
+- **Internal links do not survive sharing.** Confirmed live rather than predicted: the CRMLS rendering of this article shows all four cross-links pointing at `/baldwin/en/` URLs. Accepted for now with Tara's decision to proceed, and carried forward in `project-status.md` as a split to do later. This remains the open question for the whole shared set; nothing about the port solved it.
+
+**Three things Intercom did on save that the scores do not capture.**
+
+- Heading levels shifted up one: the H2 sections and the H3 `Steps:` are stored as H1 and H2. The rendered hierarchy is correct and matches the rest of the help center, and the on-page table of contents lists all five headings.
+- `author_id` moved from 9490228 to 5472692. Omitting the field does not preserve the author the way omitting `state` preserves the publish state; Intercom stamps the acting admin. Nothing in the API avoids this.
+- Both images kept their alt text, which is the golden question 2 gap the old article carried. Verified in the live DOM: both load at full resolution, the Loom player renders, and the page has zero empty paragraphs.
+
+**No rescore.** The body transferred is the revision 2 body the 95.7 was measured on. The port changed no words.
+
+**Still manual, and still open:** Fin labels (the connector cannot write tags, so "How To: Search" survives untouched and the label hygiene finding stands), MLS audience, and the new screenshots and re-recorded video that `Needs Updated Video/Visuals` still marks `Yes`.

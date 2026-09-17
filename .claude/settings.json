@@ -52,11 +52,15 @@
     ],
     "ask": [
       "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__create_article",
-      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__update_article"
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__update_article",
+      "mcp__a0f4fdda-2a89-4594-85e4-915e64b24013__create_article",
+      "mcp__a0f4fdda-2a89-4594-85e4-915e64b24013__update_article"
     ],
     "deny": [
       "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__add_internal_note",
-      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__submit_mcp_feedback"
+      "mcp__eff8e27b-83eb-43ee-befe-90e26bf3b57b__submit_mcp_feedback",
+      "mcp__a0f4fdda-2a89-4594-85e4-915e64b24013__add_internal_note",
+      "mcp__a0f4fdda-2a89-4594-85e4-915e64b24013__submit_mcp_feedback"
     ]
   }
 }
