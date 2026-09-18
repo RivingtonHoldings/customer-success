@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-17T19:12:06Z. Articles: 85 (71 published, 14 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-18T02:21:20Z. Articles: 85 (71 published, 14 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -72,7 +72,7 @@ Collection ID 16867011. 12 articles.
 - [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-08-12
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-08-12
 - [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-08-12
-- [Create and Share Full Reports](create-and-share-full-reports.md), updated 2026-08-31
+- [Create and Share Full Reports](create-and-share-full-reports.md), updated 2026-09-17
 - [Export to Excel](export-to-excel.md), updated 2026-07-02
 - [Guide to Creating a Report](guide-to-creating-a-report.md) (draft), updated 2026-07-02
 - [Overview of Listing Presentations](overview-of-listing-presentations.md), updated 2026-07-02
@@ -136,7 +136,7 @@ Collection ID 16866865. 15 articles.
 - [Sorting Listings on the Search Page](sorting-listings-on-the-search-page.md), updated 2026-07-02
 - [The Search Page Overview](the-search-page-overview.md), updated 2026-07-02
 - [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-09-17
+- [Universal Search Bar](universal-search-bar.md), updated 2026-09-18
 - [Using Searchwell](using-searchwell.md), updated 2026-07-02
 - [Using the Map on the Search Page](using-the-map-on-the-search-page.md), updated 2026-07-02
 

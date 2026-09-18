@@ -18,9 +18,16 @@ Article bodies come from the public help center page for published articles (`su
 
 ## Steps
 
-Work from the repo root. `WORK` is a folder in the session scratchpad (never inside the repo). `SCRIPT` is `.claude/skills/sync-help-center/scripts/sync_help_center.py`.
+Work from the repo root. `WORK` is a folder in the session scratchpad (never inside the repo). **Use a new `WORK` folder for every run**, never one from an earlier sync: step 4 skips bodies it already has, so a reused folder serves this run a body captured before the article changed. See the warning under step 4. `SCRIPT` is `.claude/skills/sync-help-center/scripts/sync_help_center.py`.
 
 1. **Pull the inventory.** Call `list_articles` with `per_page: 150` for page 1, read `pages.total_pages`, and call the remaining pages. Large results are saved to a file automatically and the result names the path; small results (usually the last page) arrive inline, so save those to `WORK/inventory/pageN.json` yourself. Collect the file paths.
+
+   **Pagination is not stable.** Intercom orders articles so that a recently updated one moves position, which means an article can straddle a page boundary between two calls and come back twice while another comes back not at all. Observed 2026-09-17: two consecutive clean pulls each returned 463 rows but only 462 distinct IDs. So after collecting the pages, check two things before planning:
+
+   - the count of **distinct** IDs against `total_count`, not the row count, which hides the duplicate;
+   - that every article ID in both `sync-state.json` files appears in the inventory.
+
+   The second check is the one that matters. A dropped article that the mirror holds would be planned as `removed` and its file deleted; a dropped article that the mirror never held is one of the roughly 200 uncollected drafts and costs nothing. If a mirrored article is missing, pull the pages again rather than building.
 2. **Check the collection map.** If `docs/help-center/collections.md` is missing, or the inventory contains a collection ID that is not in it, regenerate it:
    `python3 SCRIPT probe --work WORK --inventory <inventory files>`
    The probe asks the public site which help center owns each collection (200 for the owner, 401 for the others) and reads collection names from the pages. Say in the report if the map changed.
@@ -30,13 +37,15 @@ Work from the repo root. `WORK` is a folder in the session scratchpad (never ins
 4. **Fetch published bodies.**
    `python3 SCRIPT fetch --mls <mls> --work WORK --batch 10 --pause 1`
    Backs off on 429 and 5xx responses, skips bodies already fetched, and reports any that failed.
+
+   **"Already had" is for resuming an interrupted run, not for a second run.** The skip is keyed on the article ID alone, so a `WORK` folder left over from an earlier sync hands this run that folder's older body. This happened on 2026-09-17: a video was swapped on Universal Search Bar, the sync reported `updated 3` and looked clean, and the mirror kept the previous video because the body was served from the morning's cache. **The idempotency check in step 7 does not catch this**, because `sync-state.json` records the new `updated_at` next to the old body and a second run then sees nothing to do. A fresh `WORK` per run is the whole fix. When in doubt, confirm one changed fact in the rebuilt file rather than trusting the counts.
 5. **Read drafts and failures through the connector.** For each draft ID from step 3 and each failed fetch from step 4, call `get_article`, then save the body: write the HTML `body.value` verbatim to `WORK/bodies/<id>.api.html` (or save the whole JSON result to a file and run `python3 SCRIPT ingest <id> <file> --work WORK`). Do not paraphrase or tidy the HTML; the mirror must be faithful.
 6. **Build.**
    `python3 SCRIPT build --mls <mls> --work WORK`
    Writes one markdown file per article named from the URL slug (title slug for drafts, `-<id>` appended on collisions), the `README.md` index grouped by collection, and `sync-state.json`. Removed articles are deleted from the folder. Prints the per-MLS summary.
 7. **Report** the summary for each MLS: added, updated, removed, unchanged, plus the total and the last sync time. If any body is missing, say which articles and why. Offer to commit the mirror.
 
-A second run against the same inventory must report zero added, updated, or removed; if it does not, something is wrong with the state file and the run should be investigated before committing.
+A second run against the same inventory must report zero added, updated, or removed; if it does not, something is wrong with the state file and the run should be investigated before committing. A clean second run proves the state file agrees with the inventory. It does **not** prove the bodies are current, for the reason under step 4.
 
 ## What each article file contains
 

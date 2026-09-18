@@ -10,12 +10,12 @@ collection: "Analytics / Analytics Tools"
 collection_ids: [19585615]
 collections: ["Analytics / Analytics Tools"]
 state: published
-author_id: 9490228
+author_id: 8314814
 created_at: 2026-02-04T23:29:24Z
-updated_at: 2026-07-02T02:38:59Z
+updated_at: 2026-09-17T19:43:19Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-09-18T02:21:20Z
 ---
 
 # Analytics Tab Overview
@@ -101,3 +101,4 @@ An AI-supported analysis of market behavior across a curated set of trend metric
 **Things to Know:**
 - The AI-generated summary is well suited for creating social media posts and quick client-facing market updates.
 - Data from the most recent period is preliminary and should not be used to compare sales volume to earlier periods.
+- Absorption Rate (closed sales divided by the average number of Active listings) and Months of Supply (the average number of Active listings divided by closed sales) count only listings in Active status, which means listings under contract are not counted as inventory.

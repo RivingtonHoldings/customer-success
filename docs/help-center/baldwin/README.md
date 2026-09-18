@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-17T19:12:06Z. Articles: 124 (121 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-18T02:21:20Z. Articles: 124 (121 published, 3 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -131,7 +131,7 @@ Collection ID 17797980. 9 articles.
 - [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-08-12
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-08-12
 - [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-08-12
-- [Create and Share Full Reports](create-and-share-full-reports.md), updated 2026-08-31
+- [Create and Share Full Reports](create-and-share-full-reports.md), updated 2026-09-17
 
 ## Tags
 
@@ -209,7 +209,7 @@ Collection ID 17797941. 14 articles.
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-08-31
 - [Share Multiple Listings in Perchwell](share-multiple-listings-in-perchwell.md), updated 2026-09-10
 - [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-09-17
+- [Universal Search Bar](universal-search-bar.md), updated 2026-09-18
 
 ## Listing Maintenance / FAQs (under Listing Maintenance)
 
@@ -240,7 +240,7 @@ Collection ID 19642643. 1 articles.
 
 Collection ID 19585615. 3 articles.
 
-- [Analytics Tab Overview](analytics-tab-overview.md), updated 2026-07-02
+- [Analytics Tab Overview](analytics-tab-overview.md), updated 2026-09-17
 - [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-07-02
 - [Share and Export Analytics Charts](share-and-export-analytics-charts.md), updated 2026-07-02
 

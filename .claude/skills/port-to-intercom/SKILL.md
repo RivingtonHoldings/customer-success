@@ -32,7 +32,9 @@ This skill owns transfer mechanics only. It does not rewrite, score, or re-revie
 
 8. **Verify.** Call `get_article` and confirm `state` is unchanged and `parent_ids` still holds every collection it held before. Then open the public URL and check what a member sees: every image loaded, the video playing, and no blank gaps from whitespace between block tags. Expect the stored HTML to differ from what was sent in the ways `references/intercom-html.md` lists under "What Intercom changes on save"; anything beyond that list is a real defect.
 
-9. **Close the loop.** Prepend a line to `docs/help-center/changelog.md` under the header, newest first: date, MLS, article title, what changed, who confirmed. Set the Notion row to `Article Status: Live in Intercom` and fill `Intercom URL`. Run `/sync-help-center`, then run it again and confirm the second run reports zero changes.
+9. **Close the loop.** Prepend a line to `docs/help-center/changelog.md` under the header, newest first: date, MLS, article title, what changed, who confirmed. Set the Notion row to `Article Status: Live in Intercom` and fill `Intercom URL`. Run `/sync-help-center` with a **fresh work folder**, then run it again and confirm the second run reports zero changes.
+
+   Then grep the rebuilt mirror file for one fact you just changed and confirm it is there. The counts and the clean second run can both look right over a stale body, so this is the only check that proves the mirror caught the push.
 
 10. **Report.** The article ID and public URL, what changed in title, description, and body, the changelog line, the Notion row's new status, the mirror files the sync touched, and anything left for a human: Fin labels per `docs/standards/fin-labeling.md`, MLS audience, new screenshots or video, and any cross-link flagged in step 4.
 

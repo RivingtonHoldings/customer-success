@@ -12,17 +12,17 @@ collections: ["Reports"]
 state: published
 author_id: 8314814
 created_at: 2025-11-12T03:48:00Z
-updated_at: 2026-08-31T18:27:18Z
+updated_at: 2026-09-17T19:42:29Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-09-18T02:21:20Z
 ---
 
 # Create and Share Full Reports
 
 # When to use a Full Report
 
-Use a Full Report when you want to print a copy of the entire Listing Detail Page.
+Use a Full Report when you want to print a copy of the entire Listing Detail Page. The report includes the listing's History section, which means status and price changes print with the listing.
 - Share detailed listing information with a client
 - Prep materials for showings or listing presentations
 - Send a full property packet to an agent or colleague

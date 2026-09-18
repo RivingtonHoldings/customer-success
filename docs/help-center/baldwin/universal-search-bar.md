@@ -12,17 +12,17 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2025-03-31T14:29:22Z
-updated_at: 2026-09-17T16:24:42Z
+updated_at: 2026-09-18T02:17:23Z
 labels: ["How To: Search"]
 body_source: public-help-center
-synced_at: 2026-09-17T19:12:06Z
+synced_at: 2026-09-18T02:21:20Z
 ---
 
 # Universal Search Bar
 
 Use this article to open the Universal Search Bar from any page in Perchwell, find a listing, agent, or contact, and open the one you want from the results.
 
-[Embedded video](https://www.loom.com/embed/a88b30bb53d1430dad60599fa48cf33c)
+[Embedded video](https://www.loom.com/embed/d83f987922114995a30526988c3c8ba3)
 
 # When to use the Universal Search Bar
 
@@ -43,7 +43,7 @@ Matches appear in the modal as you type, and clicking one opens it.
 
 The Universal Search Bar opens one listing at a time. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
-[![The Perchwell top navigation with the Search field highlighted in the upper right corner.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1789674300&signature=0f97a58e8bf351dcab016112c91bf2e359dec9d536a7f0fb2ae48ee9ee23aebf&req=diUuH8F6m4JaWPMW1HO4zZA%2Fd9Wlmvp1b%2FK0egv0Epj5cU9ilrW%2FNjJRUXXF%0AZtt8qFlVOgCAhU2mN0Q%3D%0A)
+[![The Perchwell top navigation with the Search field highlighted in the upper right corner.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1789699500&signature=90e0bdcfba05e44174f2c463d7ed11d9e10cf15ee24a11f18c61d36583852738&req=diUuH8F6m4JaWPMW1HO4zZA%2Fd9WllPdzb%2FK0YA%2FyG6KG19sFUE1xgnQQJcwy%0AELmB%0A)
 
 # What you find with the Universal Search Bar
 
@@ -54,7 +54,7 @@ The Universal Search Bar finds listings, agents, and contacts. The modal shows a
 
 You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears, and so does a result matching only a number you typed. Keep typing to narrow the list.
 
-[![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and status badge.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1789674300&signature=0e738987f2f0c8b9448731eb862fe491e4fa5b23f8db41ab3601801c66f842fc&req=diUuH8F6m4RXXvMW1HO4zZHK22e9M8Dg5cHaIuPo1edtGxNPpRKqZBvvDgoF%0A2nxjPs%2FdbnV8y5PI7Ow%3D%0A)
+[![The Universal Search Bar modal, open in the center of the screen after typing 123 Marsh, showing a 100+ results count and three listing cards with the matched words highlighted, each with a photo, MLS ID, price, and status badge.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1789699500&signature=e564ca2e6c1bb656b6cccb14d51e917087916f81975ec56132e073bb051fdc22&req=diUuH8F6m4RXXvMW1HO4zZHK22e9Pc3m5cHaOOfu3N2vXY%2F3w9HYv5qLgSIQ%0AHfer%0A)
 
 # Things to Know
 - Members who came from a legacy platform may know the Universal Search Bar as Power Search. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
