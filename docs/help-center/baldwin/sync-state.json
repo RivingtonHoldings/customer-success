@@ -1,8 +1,16 @@
 {
- "last_run": "2026-09-18T02:21:20Z",
+ "last_run": "2026-09-18T20:01:04Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13903062": {
+   "file": "dashboard-overview.md",
+   "updated_at": 1789761292,
+   "state": "published",
+   "title": "Dashboard Overview",
+   "content_id": "16154239",
+   "body_sha1": "811361ff6950b523eb202dd89277f3662893b8d8"
+  },
   "11002620": {
    "file": "universal-search-bar.md",
    "updated_at": 1789697843,
@@ -739,14 +747,6 @@
    "content_id": "18095235",
    "body_sha1": "379fc9e317fac6efdbbb73dcaaad66214e2ab030"
   },
-  "15201164": {
-   "file": "mobile-faq.md",
-   "updated_at": 1782960002,
-   "state": "published",
-   "title": "Mobile FAQ",
-   "content_id": "17971267",
-   "body_sha1": "b99f540391e9382c7c81cd12f20938d6b20b5c77"
-  },
   "15201140": {
    "file": "manage-people-faq.md",
    "updated_at": 1782960002,
@@ -754,6 +754,14 @@
    "title": "Manage People FAQ",
    "content_id": "17971228",
    "body_sha1": "f55adb0d7ca7465d7e5ffd83e9a3ffbf2890b0ca"
+  },
+  "15201164": {
+   "file": "mobile-faq.md",
+   "updated_at": 1782960002,
+   "state": "published",
+   "title": "Mobile FAQ",
+   "content_id": "17971267",
+   "body_sha1": "b99f540391e9382c7c81cd12f20938d6b20b5c77"
   },
   "15200594": {
    "file": "analytics-faq.md",
@@ -835,14 +843,6 @@
    "content_id": "16183571",
    "body_sha1": "8e551dc5ebb1a185b3789848411fd5ae8ffcc3cb"
   },
-  "13903171": {
-   "file": "listings-widget-overview.md",
-   "updated_at": 1782959951,
-   "state": "published",
-   "title": "Listings Widget Overview",
-   "content_id": "16154426",
-   "body_sha1": "c39daacc226b296211f560615f0929e1ac54124d"
-  },
   "13903183": {
    "file": "integration-tools-on-the-dashboard.md",
    "updated_at": 1782959951,
@@ -851,13 +851,13 @@
    "content_id": "16154445",
    "body_sha1": "0ecd85a64108faca1476e5ef6811ec98a8506cd5"
   },
-  "13903062": {
-   "file": "dashboard-overview.md",
-   "updated_at": 1782959949,
+  "13903171": {
+   "file": "listings-widget-overview.md",
+   "updated_at": 1782959951,
    "state": "published",
-   "title": "Dashboard Overview",
-   "content_id": "16154239",
-   "body_sha1": "f38c643289321f1fa699b260242b7da37e9305ec"
+   "title": "Listings Widget Overview",
+   "content_id": "16154426",
+   "body_sha1": "c39daacc226b296211f560615f0929e1ac54124d"
   },
   "13623904": {
    "file": "customize-your-dashboard.md",

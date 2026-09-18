@@ -46,9 +46,20 @@ A Loom share URL and a Loom embed URL are different paths on the same ID. `loom.
 
 ## Images
 
-Reuse the CDN URL already on the live article whenever the draft points at the same image, and **strip the `?expires=…&signature=…` query**. Those credentials expire; the bare path does not. Carry `width` and `height` over from the current body so the layout does not shift.
+**The Articles API re-hosts images.** Give it an `<img src>` pointing anywhere publicly reachable and Intercom downloads the file, stores it on its own CDN, and rewrites the `src`. Intercom's own documentation: "The image will be uploaded to Intercom from the source you specify, and an Intercom link will be used to display it in your article." PNG, JPEG, SVG and GIF; the URL must be absolute, not relative.
 
-A draft that introduces a genuinely new image cannot be ported by this skill: the file has to be uploaded through the Intercom editor by a human first. Report it and stop rather than pushing an article with a missing picture.
+That is why a Notion draft's screenshots need no download, no Chrome, and no manual upload. It also explains why every image in the live help centers sits on an Intercom host: not because someone uploaded each one by hand, but because Intercom re-hosts everything it is given.
+
+**Use a scratch draft as the shelf.** A Notion image URL is signed and dies five minutes after the page is read, so do not spend that window on a live article:
+
+1. Fetch the Notion page for fresh signatures.
+2. `create_article` with `state: "draft"`, no `parent_id`, and a throwaway body holding every image at its Notion URL.
+3. `get_article` on that draft. The `src` values now point at `perchwell.intercom-attachments-1.com`. Strip the `?expires=…&signature=…` query; the bare path is stable and Intercom re-signs it on read.
+4. Build the real body from those URLs, so the live article never contains a URL that can expire.
+
+Reuse the CDN URL already on the live article whenever the draft points at the same image. Carry `width` and `height` over from the current body when you have them, so the layout does not shift; on a freshly re-hosted image, omit them and let Intercom size it.
+
+The connector has no delete tool, so say in the report that the scratch draft needs deleting by hand in Intercom.
 
 ## Worked example
 

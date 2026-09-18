@@ -22,7 +22,11 @@ This skill owns transfer mechanics only. It does not rewrite, score, or re-revie
 
 3. **Check the preconditions**, all five from `intercom-push.md`. Report each as pass or fail and **stop on any failure**. The one that fails most often is status: a row must be `Ready to Transfer`. A `Draft` row means the review has not happened, and a row already `Live in Intercom` means someone else did this. Neither is pushed.
 
-4. **Check whether the article is shared.** Grep the mirror for the article ID in both `docs/help-center/baldwin/` and `docs/help-center/crmls/`. Two hits means one Intercom record serves both help centers, so one update reaches both audiences. Say so before the diff, and check every cross-link in the draft: a link to an article that exists in only one of the two help centers sends half the readers somewhere that does not fit them. Name those links and let the teammate decide; do not silently rewrite or drop them.
+4. **Check who the article actually reaches.** Call `get_article` and read **`parent_ids`**, then map every ID through `docs/help-center/collections.md` to its owning help center. Report the full list before the diff.
+
+   **Do not decide this from the mirror.** The mirror is the wrong instrument: it covers Baldwin and CRMLS only, because the default help center (NYC and brokerages) is deliberately not mirrored. An article in a default collection looks single-audience in the mirror and is not. This is exactly what happened on the Dashboard Overview port, 2026-09-18: the mirror recorded one collection, `parent_ids` held two, and the second was the default help center. The rewrite reached an audience outside the project's scope and nothing in the repo would have shown it.
+
+   When more than one help center is in the list, say so plainly and check every cross-link: a link into one help center is wrong for readers of the other. Name those links and let the teammate decide. Do not silently rewrite or drop them.
 
 5. **Convert the body to Intercom HTML** using `references/intercom-html.md`. The title and the `**Description:**` line leave the body and become the `title` and `description` fields.
 
