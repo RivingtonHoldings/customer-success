@@ -192,13 +192,15 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 | lookup, as a noun | name the task: find a listing, open a contact |
 | returns, as in "the search returns three matches" | finds, shows, or "what you find" |
 | partial entry, partial match | you do not have to type the whole thing |
-| tile, in the body | drop the noun; say what the widget displays |
+| tile | drop the noun; say what the widget displays. Alt text included, revised September 18, 2026. The exception is the on-screen label: Tiles View on the Search page, the Perchwell tile at login, and the collapsible tiles on the Listing Detail Page are what the screen calls them |
 | populates | fills in, appears |
 | navigate to | open, click |
 | execute, initiate, perform, utilize, leverage | the real verb: run, start, open, click |
 | third-party, where it is not accurate | integration. An MLS's own announcement page is the MLS's own site |
 
-Three uses that look like hits and are not, all of them live in the finished drafts: "public records and tax data" is the real-world term; "click your browser's back button to return to the Dashboard" is the ordinary verb; and "widget tiles across the page" sits in alt text, which describes what the image looks like and is the same exception the no-inventory rule already carries. A grep finds candidates; a person decides.
+Two uses that look like hits and are not, both live in the finished drafts: "public records and tax data" is the real-world term, and "click your browser's back button to return to the Dashboard" is the ordinary verb. A grep finds candidates; a person decides.
+
+**"tiles" in alt text was a third, and was struck September 18, 2026.** Alt text stands in for the image, so it should name what a sighted reader would see named, and the body of that same article was rewritten to avoid "tile" precisely because a definition that says what a thing does beats one that says what shape it is on screen. Keeping the word in alt text preserved in one field exactly what the body had been cleaned of. "showing widgets across the page" carries the same information in the article's own vocabulary. The no-inventory exception still stands: alt text may list what is on screen, because it exists for someone who cannot see it. Listing things and naming their shape are different problems.
 - Name the actual UI element the member sees. "Filter by Recently Created or New" beats "filter your contacts". Name it exactly; do not bold it.
 - Do not inventory what is already on the screen. A member looking at a listing card can see the price and the bed count, and listing those fields back adds length without adding an answer. Say what a display covers or what it does, not which fields it renders: "Listings in every status appear, including Active, Pending, Closed, and Expired" earns its place; "each card shows the address, city, price, bedrooms, and bathrooms" does not. Screenshot alt text is the exception, because it exists for people who cannot see the image.
 - State system behavior explicitly: what happens automatically, what is included by default, what is required, what cannot be undone.
@@ -224,6 +226,7 @@ Three uses that look like hits and are not, all of them live in the finished dra
 - Screenshots follow the Figma-approved specs from CS and sit after the step they illustrate.
 - Every image needs descriptive alt text. An image with no alt text is invisible to Fin and to anyone using a screen reader, and it fails the golden questions. Describe what the screenshot shows in the surrounding text as well; never introduce an image with a bare trailing colon.
 - Keep alt text to roughly 80 to 140 characters: which screen, and what on it matters. It exists for someone who cannot see the image, so incidental background does not belong in it.
+- **Alt text ends with a period. A numbered step does not.** A screen reader reads alt text as a sentence and uses the period as a pause, which is work the period does not do at the end of a step. Settled September 18, 2026 by counting across the set: every alt text attached to a placed image ran with a period, 8 of 9, against 11 of 11 without on `Screenshot placeholder:` lines, which are a different form. The placeholder line itself takes no period; the alt text inside it does.
 - **Alt text and captions are different fields, and Perchwell articles use alt text with no caption.** Intercom stores alt text for screen readers and for Fin; a caption is visible text under the image that every reader sees. Notion has no separate alt text field, so in a Notion draft the alt text goes in the caption, prefixed `Alt text:` to mark it for whoever transfers the article. At Intercom transfer that text moves into Intercom's alt text field and the caption is left empty. This is the step most likely to be missed, because a Notion draft with alt text sitting in the caption looks finished.
 - Placeholders while the media does not exist yet, one per line:
   - `> Video placeholder: <what the video should show, from where to where>`

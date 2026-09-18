@@ -24,7 +24,7 @@ Five checks. Any failure fails the gate.
 
 Check 3 asks two questions of any term that reads as product vocabulary, not one: is the word on screen, and would a member use it when the control is not in front of them? A word that passes the first and fails the second is the hardest case, because the on-screen test alone waves it through. "Scope" did exactly that on the Listings widget migration, September 16, 2026: the menu is headed Scope by, so the term looked sourced, and the draft went on to call the control "the scope button", which nothing on screen calls it.
 
-Only check 1 is greppable, and it over-flags: "public records", "return to the Dashboard", and "tiles" inside alt text are all legitimate and all appear in finished articles. Checks 2 to 5 are read, the way the navigation-step rule and the possessive-density rule are read. A failure is reported with the terms it flagged and the replacement for each, not as a bare verdict.
+Only check 1 is greppable, and it over-flags: "public records" and "return to the Dashboard" are both legitimate and both appear in finished articles. "tiles" inside alt text was a third until September 18, 2026, when the exception was struck; a hit there is now a real hit unless the word is the on-screen label. Checks 2 to 5 are read, the way the navigation-step rule and the possessive-density rule are read. A failure is reported with the terms it flagged and the replacement for each, not as a bare verdict.
 
 **Check set.** The checks below are the September 10, 2026 set, revision 2.
 

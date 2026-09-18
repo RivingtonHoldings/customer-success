@@ -2,6 +2,20 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-18: "tile" is banned in alt text too, and alt text takes a period
+
+Decided by Tara during the Dashboard Overview port. **Awaiting Kelly and Rafe**, since both change `content-standards.md`.
+
+**The alt-text exception for "tiles" is struck.** The September 15 entry below recorded it as one of three false positives the plain language grep produces. It was the wrong call, and the article that produced it shows why: the body of Dashboard Overview had been rewritten specifically to drop "is a tile that", on the reasoning that a definition saying what a thing does beats one saying what shape it is on screen. The exception then preserved in the alt text exactly the word the body had been cleaned of. Alt text stands in for the image, so it should name what a sighted reader would see named. "showing widgets across the page" says the same thing in the article's own vocabulary.
+
+The word survives where it is the on-screen label: Tiles View on the Search page, the Perchwell tile at login, the collapsible tiles on the Listing Detail Page. That is the same on-screen-label rule the September 16 entry settled for "scope".
+
+The no-inventory exception is untouched. Alt text may still list what is on screen, because it exists for someone who cannot see it. Listing things and naming their shape are different problems, and conflating them is how the first exception got written.
+
+**Alt text ends with a period; a numbered step does not.** The standard was silent, so this was settled by counting across the set, the way hyphenation and bullet labels were. Every alt text attached to a placed image ran with a period, 8 of 9, against 11 of 11 without on `Screenshot placeholder:` lines, which are a different form. The count was not the deciding argument, though: a screen reader reads alt text as a sentence and uses the period as a pause, which is work the period does not do at the end of a step. A convention with a functional reason behind it is settled on the reason, not the tally.
+
+Propagated through `content-standards.md` (the do-not list, the false-positive note, the media rules), `fin-readiness-scorecard.md` (plain language check 1), and the plain language pass in both article skills.
+
 ## 2026-09-17: Pushes to Intercom are on
 
 Decided by Tara, porting the Universal Search Bar rewrite. This closes the 2026-09-04 decision that held the repo read-only toward Intercom until the team trusted the mirror and the review flow. Both now exist: the mirror has run clean since September 4, and four articles have been through the standard, reviewed, and scored.
