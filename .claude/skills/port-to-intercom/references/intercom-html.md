@@ -24,11 +24,33 @@ The mapping `/port-to-intercom` uses. Every rule here was read off the HTML Inte
 | `[text](url)` | `<a href="url">text</a>` |
 | `![alt](url)` | `<div class="intercom-container"><img src="url" alt="alt" width="W" height="H" style="height: auto;"></div>` |
 | `<video src="https://www.loom.com/share/ID"></video>` | `<div class="intercom-h2b-video"><iframe src="https://www.loom.com/embed/ID" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; fullscreen; picture-in-picture; encrypted-media"></iframe></div>` |
-| `> **Note:** text` | `<div class="intercom-interblocks-callout" style="background-color: #feedaf80; border-color: #fbc91633;"><p class="no-margin">text</p></div>` |
+| `> **Note:** text`, `> **Important:** text`, `> **Tip:** text` | A callout. See Callouts below; the color depends on the label. |
 | `> Screenshot placeholder: …` | Omit, and report it. A placeholder means the image does not exist yet. |
 | `&`, `<`, `>` in text | `&amp;`, `&lt;`, `&gt;` |
 
 Heading levels are fixed by the house standard: H1 is the title and never appears in the body, H2 is a major section, H3 is a subsection and the `Steps:` heading. Do not emit `id` attributes; Intercom generates its own anchors.
+
+## Callouts
+
+One wrapper serves all three labels. Only the two colors change, and the label keeps its `<b>`:
+
+```html
+<div class="intercom-interblocks-callout" style="background-color: BG; border-color: BORDER;"><p class="no-margin"><b>Note:</b> text</p></div>
+```
+
+| Label | Notion color | BG | BORDER |
+|---|---|---|---|
+| `**Note:**` | `gray_bg` | `#f4f5f7` | `#dfe2e6` |
+| `**Tip:**` | `gray_bg` | `#f4f5f7` | `#dfe2e6` |
+| `**Important:**` | `yellow_bg` | `#feedaf80` | `#fbc91633` |
+
+Take the color from the label, not from the Notion block's own color. They agree when the draft is right, and a callout sitting in the wrong Notion color is a draft defect to report rather than a color to carry through.
+
+The `<b>` on the label is deliberate and is the one exception to rule 3 above. Intercom names the bold label as what marks a passage for Fin to carry into an answer, so a callout converted without it loses the thing the callout was for.
+
+The gray pair was read off Dashboard Overview (13903062) on 2026-09-18, where both callouts are Notes. The yellow pair has not been read off a ported `Important:` callout; it entered this file when the skill was built, against a port that had no callouts at all. Check it against the stored HTML the first time an `Important:` goes out, and correct it here if it differs.
+
+A `> Screenshot placeholder:` line is not a callout here. Notion holds it in an orange callout so owners can spot it, and the conversion omits it and reports it.
 
 ## What Intercom changes on save
 
