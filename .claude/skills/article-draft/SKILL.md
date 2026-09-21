@@ -44,7 +44,7 @@ The rulebook is `docs/standards/content-standards.md`. Do not restate it here an
 
 - New article: `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<slug>.md`
 - Update change sheet: `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<feature-slug>-changes.md` (one file per release, all affected articles inside)
-- Line 3 of every file is the metadata comment: `<!-- Article Status: Draft | MLS/AOR: <Baldwin or CRLMS All> | Collection: <Collection> | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <page url> -->` (add the Notion URL after the page exists). Change sheets use the header from the change-sheet template instead.
+- Line 3 of every file is the metadata comment: `<!-- Article Status: Draft | MLS/AOR: <Baldwin or CRLMS All> | Collection: <Collection> | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <page url> -->` (add the Notion URL after the page exists). Change sheets use the header from the change-sheet template instead.
 - Do not add drafts to the mirror index. The mirror reflects Intercom only.
 - Re-running the skill on the same feature the same day overwrites the file. A later day creates a new dated file and the report links the previous one.
 

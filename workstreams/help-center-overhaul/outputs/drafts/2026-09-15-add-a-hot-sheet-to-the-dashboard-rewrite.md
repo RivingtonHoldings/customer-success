@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/1c88b9e014388069925acd9f0fe35189
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Videos: Yes | Visuals: No | Notion: https://app.notion.com/p/3dc8b9e01438815891e6ccd033eccf97 | Old title: unchanged -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Video Included: Yes | Visuals Included: No | Notion: https://app.notion.com/p/3dc8b9e01438815891e6ccd033eccf97 | Old title: unchanged -->
 
 # Add a Hot Sheet to the Dashboard
 

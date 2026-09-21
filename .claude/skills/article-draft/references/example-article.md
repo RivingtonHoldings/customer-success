@@ -13,7 +13,7 @@ Use this shape when the article is a set of sibling workflows and none of them n
 ```markdown
 # How to Share a Tag
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Tags | Roles: All Except Client | Videos: Yes | Visuals: Yes | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Tags | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: <url> -->
 
 **Description:** Share a Tag with a client using a public link or email, and see what the client sees when they open it.
 <!-- 118 characters, names the feature, states the accomplishment -->
@@ -91,7 +91,7 @@ Use this shape when a section has real subtopics. Note that the levels shift dow
 ```markdown
 # Create a Market Conditions Addendum Report (1004MC)
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports | Roles: All Except Client | Videos: No | Visuals: No | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports | Roles: All Except Client | Video Included: No | Visuals Included: No | Notion: <url> -->
 
 **Description:** Generate a 1004MC Market Conditions Addendum Report from your search results and export it for your appraisal workfile.
 <!-- 131 characters -->

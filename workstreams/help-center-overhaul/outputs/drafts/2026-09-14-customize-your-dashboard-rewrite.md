@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/1c88b9e0143880318717f94e2d8335e9
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Videos: Yes | Visuals: Yes | Notion: https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae | Old title: unchanged -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae | Old title: unchanged -->
 
 # Customize Your Dashboard
 

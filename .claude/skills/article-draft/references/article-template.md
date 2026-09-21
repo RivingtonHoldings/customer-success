@@ -9,7 +9,7 @@ Heading levels are fixed: H1 is the article title and nothing else, H2 is a majo
 ```markdown
 # <Title, Task-Focused, Title Case>
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <page url once created> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <page url once created> -->
 
 **Description:** <120 to 140 characters: what the member will accomplish, naming the feature.>
 
@@ -100,7 +100,7 @@ For "\<Page\> Overview" articles that orient the member rather than walk one wor
 ```markdown
 # <Page> Overview
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: <Collection> | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <url> -->
 
 **Description:** <120 to 140 characters>
 
@@ -135,7 +135,7 @@ For "\<Area\> FAQ" articles. Every heading is one question in the member's words
 ```markdown
 # <Area> FAQ
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: FAQs | Roles: <Roles> | Videos: <Yes or No> | Visuals: <Yes or No> | Notion: <url> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: FAQs | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <url> -->
 
 **Description:** <120 to 140 characters>
 

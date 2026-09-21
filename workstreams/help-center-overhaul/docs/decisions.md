@@ -2,6 +2,18 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-16: Production status splits from the article's media fields
+
+Decided by Tara; recorded 2026-09-21. Screenshot and video production is now tracked separately from what an article contains, so the two can no longer be confused.
+
+**The three article-level fields describe the article as it stands.** `Visuals Included` (the article contains visuals or screenshots), `Video Included` (the article contains a video), `Media Update Needed` (the existing media has been flagged for a refresh). Renamed from `Visuals`, `Videos`, and `Needs Updated Video/Visuals`.
+
+**The four production fields describe the work.** `Visual Owner`, `Visual Status`, `Video Owner`, `Video Status`, owned by the Help Center Production Tracker at `https://app.notion.com/p/3dd8b9e0143881bbbaf4ea0964bd34f9`. The tracker is a view over the same data source, not a second database, so these stay columns on the same rows and are read through the view.
+
+**The rule the split exists to enforce:** never read an article-level media field as evidence that production work is outstanding. `Media Update Needed: Yes` means someone flagged the media for a refresh and says nothing about whether that refresh is done. Do not flag an article's visuals or video as incomplete on that basis when reviewing or scoring, and do not report a media field as an open item on a port.
+
+The mistake is real, not hypothetical: on 2026-09-19 a session read `Video Status: Not Started` on two live articles and reported their Looms as stale on that basis alone, without checking the video.
+
 ## 2026-09-18: "tile" is banned in alt text too, and alt text takes a period
 
 Decided by Tara during the Dashboard Overview port. **Awaiting Kelly and Rafe**, since both change `content-standards.md`.
@@ -116,9 +128,11 @@ Decided by Leo during the Universal Search Bar test. When an old Notion page and
 
 ## 2026-09-04: The Perchwell Help Center Database [Sep 2026] is where project articles live
 
-Decided by Tara. The team created a new Notion database for this project to simplify the work and make each article's state obvious, and set its properties the way they want them. For the rest of this project, an article we draft or update is added to the new database. The old Master Article List is read-only: query it for history, never write to it, and do not mirror a change back into it. `Article Name`, `Article Status`, `MLS/AOR`, `Collection`, `Roles`, `Videos`, `Visuals`. Database `https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8`, data source `collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389`.
+Decided by Tara. The team created a new Notion database for this project to simplify the work and make each article's state obvious, and set its properties the way they want them. For the rest of this project, an article we draft or update is added to the new database. The old Master Article List is read-only: query it for history, never write to it, and do not mirror a change back into it. `Article Name`, `Article Status`, `MLS/AOR`, `Collection`, `Roles`, `Video Included`, `Visuals Included`, `Media Update Needed`, plus the four production fields covered in the 2026-09-16 entry. Database `https://app.notion.com/p/3d18b9e0143880558dc9d9574f5abab8`, data source `collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389`.
 
-Two consequences to watch: the new database has no equivalent of the old `Fin AI`, `Text`, `Screenshot`, and `Video` workflow-status fields, so per-asset progress is not tracked in Notion any more, and `docs/standards/fin-labeling.md` now derives labels from `MLS/AOR` and `Collection` plus the article's shape.
+One consequence to watch: `docs/standards/fin-labeling.md` derives labels from `MLS/AOR` and `Collection` plus the article's shape, never from the media fields.
+
+The media fields were renamed and their meaning settled on 2026-09-16; see that entry. This entry originally said the database had no equivalent of the old per-asset workflow-status fields, which was wrong: `Visual Status` and `Video Status` were columns from the start.
 
 ## 2026-09-04: Content standards written and grounded in Intercom's Fin guidance
 

@@ -197,3 +197,5 @@ The first article ported with `/port-to-intercom`. Article 11002620, confirmed b
 **No rescore.** The body transferred is the revision 2 body the 95.7 was measured on. The port changed no words.
 
 **Still manual, and still open:** Fin labels (the connector cannot write tags, so "How To: Search" survives untouched and the label hygiene finding stands), MLS audience, and the new screenshots and re-recorded video that `Needs Updated Video/Visuals` still marks `Yes`.
+
+> **Correction, 2026-09-21:** the last clause is wrong and is left above only so the record matches what was written on the day. `Needs Updated Video/Visuals`, now `Media Update Needed`, records that the media has been flagged for a refresh. It is not evidence that the refresh is outstanding, so it does not belong in an open-items list. Production status lives in the Help Center Production Tracker. See the 2026-09-16 entry in `docs/decisions.md`.

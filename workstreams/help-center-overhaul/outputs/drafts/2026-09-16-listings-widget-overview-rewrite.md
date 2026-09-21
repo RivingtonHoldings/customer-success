@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/2ca8b9e0143880a58589ee63af4af579
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Videos: No | Visuals: Yes | Notion: https://app.notion.com/p/3dd8b9e01438813ea9f6cdadffa18871 | Old title: Listings Widget Overview -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3dd8b9e01438813ea9f6cdadffa18871 | Old title: Listings Widget Overview -->
 
 # Find Listings in the Listings Widget
 

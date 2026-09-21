@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/1c78b9e0143880f3b927daf7d2aca4d5
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin + CRLMS All | Collection: Search | Roles: All | Videos: Yes | Visuals: Yes | Notion: https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c | Revised: 2026-09-10 against the September 10 standard -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin + CRLMS All | Collection: Search | Roles: All | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3d68b9e01438810cb386f3ea550d097c | Revised: 2026-09-10 against the September 10 standard -->
 
 # Universal Search Bar
 

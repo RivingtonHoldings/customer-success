@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/30c8b9e0143880208fcfff65955d4f83
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Videos: Yes | Visuals: Yes | Notion: https://app.notion.com/p/3d78b9e0143881438489e44b4242a40c | Old title: unchanged -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Dashboard | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3d78b9e0143881438489e44b4242a40c | Old title: unchanged -->
 
 # Dashboard Overview
 

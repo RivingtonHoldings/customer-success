@@ -24,7 +24,7 @@ Before the first Notion write in a session, read `notion://docs/enhanced-markdow
 
 ## Schema
 
-Eight properties. `Last updated` is system-managed; do not set it.
+Nine properties an article carries, plus four production fields covered under Media fields below. `Last updated` is system-managed; do not set it.
 
 | Property | Type | Values |
 |---|---|---|
@@ -34,18 +34,41 @@ Eight properties. `Last updated` is system-managed; do not set it.
 | `MLS/AOR` | select | `Baldwin`, `CRLMS All`, `NYC` |
 | `Collection` | select | `Getting Started Guide`, `Then vs. Now`, `Dashboard`, `Search`, `Tags`, `Client Collaboration`, `Manage People`, `Manage Listings`, `Reports`, `Analytics`, `User Settings`, `Client Experience`, `FAQs`, `Mobile`, `What's New`, `Integrations` |
 | `Roles` | select | `All`, `Agent`, `Admin/Broker`, `Invited Client`, `All Except Client` |
-| `Videos` | select | `Yes`, `No` |
-| `Visuals` | select | `Yes`, `No` |
+| `Video Included` | select | `Yes`, `No`. Whether the article contains a video |
+| `Visuals Included` | select | `Yes`, `No`. Whether the article contains visuals or screenshots |
+| `Media Update Needed` | multi-select | `Yes`, `No`. Whether the existing visuals or video need refreshing |
 | `Last updated` | last_edited_time | Read only |
 
 `Collection` and `Roles` are single selects, so an article belongs to exactly one collection and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
 
 `MLS/AOR` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Settled 2026-09-17 during the Universal Search Bar port: Intercom serves a shared article from a single record held in a collection in each help center, so there is no second article for a second row to describe. The cost is that the article's cross-links can only point into one help center; flag that at port time rather than splitting the row.
 
-Two open items for the team, flagged rather than worked around:
+## Media fields
 
-- The new database has no equivalent of the old `Fin AI`, `Text`, `Screenshot`, or `Video` workflow-status fields. `Videos` and `Visuals` record whether the article has them, not whether they are done. `docs/standards/fin-labeling.md` derives Fin labels from Notion fields, so it now derives them from `MLS/AOR` and `Collection`.
+Two sets of fields, and confusing them is the mistake this section exists to prevent.
+
+**The three article-level fields describe the article as it stands today:**
+
+- `Visuals Included`: the article contains visuals or screenshots.
+- `Video Included`: the article contains a video.
+- `Media Update Needed`: the existing visuals or video have been identified as needing a refresh.
+
+**The four production fields describe the work, and live in the Help Center Production Tracker:** `Visual Owner`, `Visual Status`, `Video Owner`, `Video Status`. The tracker is a view, not a second database. It sits at `https://app.notion.com/p/3dd8b9e0143881bbbaf4ea0964bd34f9` and reads the same data source, so these are columns on the same rows, surfaced through a view built for assigning and tracking production. The tracker is the source of truth for all four; do not infer any of them from the article-level fields.
+
+**The rule:** never read `Visuals Included`, `Video Included`, or `Media Update Needed` as evidence that assigned production work is outstanding. `Media Update Needed: Yes` means someone has flagged the article's media for a refresh, and says nothing about whether that refresh has been shot, edited, or delivered. Check the Production Tracker for that.
+
+Two consequences when reviewing or scoring:
+
+- Do not flag an article's visuals or video as incomplete because `Media Update Needed` reads `Yes`. Judge the media that is in the article.
+- Do not report a media field as an open item on a port. A port moves the article body; it does not close production work, and the flag's state is not the port's business.
+
+Split on 2026-09-16, when the Production Tracker view was created, and the three article-level fields were renamed from `Videos`, `Visuals`, and `Needs Updated Video/Visuals`. Recorded here 2026-09-21.
+
+One open item for the team, flagged rather than worked around:
+
 - The `MLS/AOR` option reads `CRLMS All`. If that is meant to be CRMLS, the option needs renaming in Notion; use the string exactly as it appears until then, since a select write with an unknown option fails.
+
+`docs/standards/fin-labeling.md` derives Fin labels from Notion fields, and derives them from `MLS/AOR` and `Collection`, never from the media fields.
 
 ## Triage queries
 
@@ -92,7 +115,7 @@ That query is for reading only. When an article with an old row needs work, crea
 
 ## Migrating a row from the Master Article List
 
-`/article-rewrite` uses this section when its input is an old Notion page URL. The old row is read, never written. The new row's seven properties come from the old row through this table; anything the table cannot resolve is a question in the confirmation summary, never a guess.
+`/article-rewrite` uses this section when its input is an old Notion page URL. The old row is read, never written. The new row's article-level properties come from the old row through this table; anything the table cannot resolve is a question in the confirmation summary, never a guess.
 
 | Old property | New property | Rule |
 |---|---|---|
@@ -100,9 +123,11 @@ That query is for reading only. When an article with an old row needs work, crea
 | `Collection in Intercom` (multi-select) | `Collection` (single select) | Same-name matches carry across: Search, Tags, Client Collaboration, Manage People, Dashboard, Reports, Analytics, User Settings, Client Experience, Mobile, Integrations, Getting Started Guide, Then vs. Now. Listing Maintenance and Listing Management map to Manage Listings. General, FAQ Tips and What's New in Perchwell, and FAQs & What's Coming map to FAQs when the article is question-and-answer and to What's New when it is release content. Anything else, or more than one value on the old row, is a question |
 | `MLS` (multi-select) | `MLS/AOR` (single select) | Baldwin to Baldwin; CRMLS to `CRLMS All`, written exactly as the option reads until it is renamed; NYC to NYC. All Regions, ICAAR, or more than one value is a question. When the same `intercom_id` is mirrored in both `docs/help-center/baldwin/` and `docs/help-center/crmls/`, the article is shared: pick the MLS the old row names and put the shared status in Open items |
 | `Roles` (multi-select) | `Roles` (single select) | All to All; Agent to Agent; Admin / Broker to Admin/Broker; Invited client to Invited Client; All - but client to All Except Client. More than one value is a question |
-| `Video` status, `Video Links`, a Loom or Arcade URL in the body | `Videos` | Yes when a video URL exists or the draft carries a video placeholder; otherwise No |
-| `Screenshot` status, images in the body | `Visuals` | Yes when the article has images or the draft carries screenshot placeholders; otherwise No |
-| `HC Status`, `Update Status`, `Fin AI`, `Text`, `Screenshot Owner`, `Text Owner`, `Video Owner`, `Final Review & Upload`, `Due Date`, `Baldwin?`, `CRMLS?`, `NYC?`, `Links to another articles`, `Product Area (Internal)` | none | Not carried. The new database has no per-asset workflow fields; that gap is already an open question on the project status page |
+| `Video` status, `Video Links`, a Loom or Arcade URL in the body | `Video Included` | Yes when a video URL exists or the draft carries a video placeholder; otherwise No. This records what the article contains, never whether the video is finished |
+| `Screenshot` status, images in the body | `Visuals Included` | Yes when the article has images or the draft carries screenshot placeholders; otherwise No. Same rule: contents, not progress |
+| any | `Media Update Needed` | Not set by a migration. It is a judgment the team makes about the live article, so leave it empty and raise it in Open items when the migrated screenshots look stale |
+| `Screenshot Owner`, `Video Owner`, and the other per-asset workflow fields | `Visual Owner`, `Video Owner`, `Visual Status`, `Video Status` | Not carried by the migration. These are production fields owned by the Help Center Production Tracker; a human sets them there |
+| `HC Status`, `Update Status`, `Fin AI`, `Text`, `Text Owner`, `Final Review & Upload`, `Due Date`, `Baldwin?`, `CRMLS?`, `NYC?`, `Links to another articles`, `Product Area (Internal)` | none | Not carried |
 | any | `Article Status` | Always `Draft` |
 
 Before creating the row, check that it does not already exist:
@@ -123,7 +148,7 @@ Confirm once with the user before writing: a compact summary of the page and its
 Creating 1 Draft in the Perchwell Help Center Database [Sep 2026]:
 - Create a Market Conditions Addendum Report (1004MC)
   Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports
-  Roles: All Except Client | Videos: No | Visuals: Yes
+  Roles: All Except Client | Video Included: No | Visuals Included: Yes
 Go?
 ```
 
@@ -139,15 +164,15 @@ Call shape:
       "MLS/AOR": "Baldwin",
       "Collection": "<collection>",
       "Roles": "<role>",
-      "Videos": "<Yes or No>",
-      "Visuals": "<Yes or No>"
+      "Video Included": "<Yes or No>",
+      "Visuals Included": "<Yes or No>"
     },
     "content": "<Notion markdown body>"
   }]
 }
 ```
 
-`Videos` and `Visuals` record whether the finished article will carry them, so a draft with screenshot placeholders is `Visuals: Yes`. Do not pass `template_id` together with `content`; the skill writes the full body itself.
+`Video Included` and `Visuals Included` record whether the finished article will carry them, so a draft with screenshot placeholders is `Visuals Included: Yes`. Leave `Media Update Needed` empty on a new draft; it describes media that already exists. Do not pass `template_id` together with `content`; the skill writes the full body itself.
 
 ## Publishing an update change sheet
 
