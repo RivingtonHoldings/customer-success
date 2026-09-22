@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-18T20:01:04Z",
+ "last_run": "2026-09-22T21:37:16Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
@@ -99,14 +99,6 @@
    "content_id": "16734204",
    "body_sha1": "2746f745b7ccf68670cfe8ef866cdc5150b39283"
   },
-  "13930735": {
-   "file": "sorting-listings-on-the-search-page.md",
-   "updated_at": 1782959965,
-   "state": "published",
-   "title": "Sorting Listings on the Search Page",
-   "content_id": "16199094",
-   "body_sha1": "033aefc1defbbc61561eae9c94c89b76f53bc6e8"
-  },
   "13923637": {
    "file": "creating-a-search-with-filters-in-perchwell.md",
    "updated_at": 1782959965,
@@ -115,13 +107,13 @@
    "content_id": "16185917",
    "body_sha1": "b93a9fefbc1177981aa01f84bf078925f0b93a98"
   },
-  "13923137": {
-   "file": "create-a-cloud-cma-presentation-from-search.md",
-   "updated_at": 1782959963,
+  "13930735": {
+   "file": "sorting-listings-on-the-search-page.md",
+   "updated_at": 1782959965,
    "state": "published",
-   "title": "Create a Cloud CMA Presentation from Search",
-   "content_id": "16185172",
-   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
+   "title": "Sorting Listings on the Search Page",
+   "content_id": "16199094",
+   "body_sha1": "033aefc1defbbc61561eae9c94c89b76f53bc6e8"
   },
   "13923207": {
    "file": "using-searchwell.md",
@@ -130,6 +122,14 @@
    "title": "Using Searchwell",
    "content_id": "16185254",
    "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
+  },
+  "13923137": {
+   "file": "create-a-cloud-cma-presentation-from-search.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Create a Cloud CMA Presentation from Search",
+   "content_id": "16185172",
+   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
   },
   "13921850": {
    "file": "filtering-your-search-by-property-types.md",
@@ -155,14 +155,6 @@
    "content_id": "16182104",
    "body_sha1": "ca22d7dadacdee501ffbcb2f4ce3fa70e345f88c"
   },
-  "13921294": {
-   "file": "the-days-active-on-market-widget.md",
-   "updated_at": 1782959958,
-   "state": "published",
-   "title": "The Days Active on Market Widget",
-   "content_id": "16182026",
-   "body_sha1": "bdc1183395659a27d51d3cf383bc5b8fee4077ce"
-  },
   "13921071": {
    "file": "filtering-listing-by-office-mls-or-your-listings-on-the-dashboard.md",
    "updated_at": 1782959958,
@@ -170,6 +162,14 @@
    "title": "Filtering Listing by Office, MLS, or Your Listings on the Dashboard",
    "content_id": "16181767",
    "body_sha1": "fde3a3a135bb43637c289cd01f0da0a5810a4cb8"
+  },
+  "13921294": {
+   "file": "the-days-active-on-market-widget.md",
+   "updated_at": 1782959958,
+   "state": "published",
+   "title": "The Days Active on Market Widget",
+   "content_id": "16182026",
+   "body_sha1": "bdc1183395659a27d51d3cf383bc5b8fee4077ce"
   },
   "13920731": {
    "file": "the-dashboard-page-overview.md",
