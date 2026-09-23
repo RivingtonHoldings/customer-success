@@ -52,7 +52,7 @@ The new Hot Sheets widget is added to the Dashboard and opens on a choice of two
 
 ## Set up a saved search hot sheet
 
-A saved search hot sheet tracks market events within one Saved Search, so a client's criteria sit on the Dashboard alongside the wider market. Once built, its widget is labeled Saved search hot sheet.
+A saved search hot sheet tracks market events within one Saved Search, so a client's criteria sit on the Dashboard alongside the wider market. Filter that search by brokerage or by office to build a hot sheet for your brokerage's or your office's activity. Once built, its widget is labeled Saved search hot sheet.
 
 https://app.arcade.software/share/1EP0inuZyl6aPKF6mY0o
 

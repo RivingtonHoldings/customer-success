@@ -207,6 +207,12 @@ No score change. Spelling consistency is not a scored check, though the underlyi
 | Why should I use a Hot Sheet instead of just searching? | Partly | Yes. "When to use a Hot Sheet" |
 | Can I set up Hot Sheets on my phone? | No | Yes. "Things to Know" |
 
+## Brokerage and office scoping added, September 22, 2026
+
+The Dashboard FAQ migration confirmed with Tara that a member watches a brokerage's or an office's activity by filtering the search that feeds a saved search hot sheet, choosing the brokerage filter for brokerage activity and the office filter for office activity. Neither the live article nor this draft said so anywhere, so the FAQ briefly held the only copy.
+
+Added as one sentence in the lead of "Set up a saved search hot sheet", where the Saved Search source is introduced: "Filter that search by brokerage or by office to build a hot sheet for your brokerage's or your office's activity." Not added to the "When to use a Hot Sheet" bullets, which are jobs rather than mechanisms, and not expanded into steps, because the mechanics are a search procedure that [Manage Your Saved Searches](http://support.perchwell.com/en/articles/8955646-manage-your-saved-searches) already owns and this article links four lines below. The Dashboard FAQ keeps the four-step short answer and points here for the widget setup.
+
 ## Changed after the fact, September 22, 2026
 
 The Dashboard FAQ migration found this article's Things to Know bullet, "A Hot Sheet holds up to five timeframes, and each one becomes a tab across its top", duplicating the FAQ's own answer to "What is the maximum timeframe for a Hot Sheet?" almost word for word. Two articles were answering one question, and this article's delegation line named only two things to look up in the FAQ while Dashboard Overview's, already live, named three and included the timeframe.
