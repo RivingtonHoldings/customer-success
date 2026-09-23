@@ -66,7 +66,7 @@ The new order is saved automatically, and it is still there the next time you op
 
 Filter what a Dashboard widget shows with the filter icon on that widget. Filter options vary by widget, which means the choices on one widget are not the choices on another.
 
-[Listings Widget Overview](http://support.perchwell.com/en/articles/13903171-listings-widget-overview) covers the scope options and listing type filters on the Listings widget in detail.
+[Listings Widget Overview](http://support.perchwell.com/en/articles/13903171-listings-widget-overview) covers choosing whose listings you see and the listing type filters on the Listings widget in detail.
 
 > Screenshot placeholder: a Dashboard widget with its filter control open | Alt text: A widget on the Perchwell Dashboard with the filter control open, showing the filter options for that widget
 
