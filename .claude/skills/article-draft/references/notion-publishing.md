@@ -64,6 +64,8 @@ Two consequences when reviewing or scoring:
 
 Split on 2026-09-16, when the Production Tracker view was created, and the three article-level fields were renamed from `Videos`, `Visuals`, and `Needs Updated Video/Visuals`. Recorded here 2026-09-21.
 
+**`Media Update Needed` also gates the production board, which the split above does not say.** The tracker's Visual Production view filters on `Media Update Needed contains Yes`, so a row without it is not on the board at all, whatever its `Visual Status` says. That makes the field do two jobs: the content flag described above, and the switch that puts an article in front of whoever shoots the screenshots. Found 2026-09-23, when the Dashboard FAQ was created with the field left empty per this file's own migration rule and did not appear on the tracker. Until the view's filter changes, set `Yes` on any draft carrying a placeholder. The rule against reading the field as evidence of outstanding *work* still holds: three rows on the board today read `Visual Status: Complete`, because nothing removes a finished article from it.
+
 One open item for the team, flagged rather than worked around:
 
 - The `MLS/AOR` option reads `CRLMS All`. If that is meant to be CRMLS, the option needs renaming in Notion; use the string exactly as it appears until then, since a select write with an unknown option fails.
@@ -125,7 +127,7 @@ That query is for reading only. When an article with an old row needs work, crea
 | `Roles` (multi-select) | `Roles` (single select) | All to All; Agent to Agent; Admin / Broker to Admin/Broker; Invited client to Invited Client; All - but client to All Except Client. More than one value is a question |
 | `Video` status, `Video Links`, a Loom or Arcade URL in the body | `Video Included` | Yes when a video URL exists or the draft carries a video placeholder; otherwise No. This records what the article contains, never whether the video is finished |
 | `Screenshot` status, images in the body | `Visuals Included` | Yes when the article has images or the draft carries screenshot placeholders; otherwise No. Same rule: contents, not progress |
-| any | `Media Update Needed` | Not set by a migration. It is a judgment the team makes about the live article, so leave it empty and raise it in Open items when the migrated screenshots look stale |
+| any | `Media Update Needed` | Set to `Yes` when the article carries any screenshot placeholder or any media the team will touch, because the Help Center Production Tracker's Visual Production view filters on `Media Update Needed contains Yes` and a row without it does not appear on the board at all. Leave it empty only when the article needs no media work. See the note below |
 | `Screenshot Owner`, `Video Owner`, and the other per-asset workflow fields | `Visual Owner`, `Video Owner`, `Visual Status`, `Video Status` | Not carried by the migration. These are production fields owned by the Help Center Production Tracker; a human sets them there |
 | `HC Status`, `Update Status`, `Fin AI`, `Text`, `Text Owner`, `Final Review & Upload`, `Due Date`, `Baldwin?`, `CRMLS?`, `NYC?`, `Links to another articles`, `Product Area (Internal)` | none | Not carried |
 | any | `Article Status` | Always `Draft` |
@@ -172,7 +174,7 @@ Call shape:
 }
 ```
 
-`Video Included` and `Visuals Included` record whether the finished article will carry them, so a draft with screenshot placeholders is `Visuals Included: Yes`. Leave `Media Update Needed` empty on a new draft; it describes media that already exists. Do not pass `template_id` together with `content`; the skill writes the full body itself.
+`Video Included` and `Visuals Included` record whether the finished article will carry them, so a draft with screenshot placeholders is `Visuals Included: Yes`. Set `Media Update Needed: Yes` on any draft that carries a screenshot or video placeholder, or the row will not reach the production board. Do not pass `template_id` together with `content`; the skill writes the full body itself.
 
 ## Publishing an update change sheet
 

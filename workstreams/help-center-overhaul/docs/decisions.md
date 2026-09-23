@@ -2,6 +2,19 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-23: `Media Update Needed` gates the production board, and the 2026-09-16 split does not account for it
+
+Found when the Dashboard FAQ was created with `Media Update Needed` left empty, per the migration rule in `notion-publishing.md`, and did not appear on the Help Center Production Tracker. The tracker's Visual Production view filters on `Media Update Needed contains Yes`, so a row without it is not on the board at all, whatever its `Visual Status` says.
+
+That makes the field do two jobs at once. The 2026-09-16 split below defines it as a content flag, "the existing visuals or video have been identified as needing a refresh," and warns against reading it as evidence that production work is outstanding. The view uses it as the queue switch that puts an article in front of whoever shoots the screenshots. Both readings are live, and they disagree: the Dashboard FAQ has no existing media to refresh, and had to be marked `Yes` anyway to reach the board.
+
+`notion-publishing.md` is corrected to set `Yes` on any draft carrying a placeholder, which is the behavior the tooling requires today. **The underlying choice is still open, and it is Tara's:**
+
+- **Change the view's filter** to something that means what the board is for, such as `Visual Status` is not `Complete`. `Media Update Needed` then goes back to meaning only what the split says, and finished articles leave the board on their own. Recommended.
+- **Change the definition** to make the field the production queue flag, and accept that it says nothing about existing media.
+
+Either way the board needs attention: all seven rows on it today read `Media Update Needed: Yes`, and three of them are already `Visual Status: Complete`, because nothing removes a finished article from the view.
+
 ## 2026-09-22: The set is the database, not the mirror
 
 Raised by Tara during the Dashboard FAQ migration. `/article-rewrite` ran its set-consistency checks against `docs/help-center/`, which mirrors Intercom and therefore holds only ported articles. Four of the six Dashboard articles were Notion drafts at the time, so the pass compared the new article to text the team had already replaced: it recommended a fix already applied in the Add a Hot Sheet draft, and it missed that the new timeframe section duplicated that draft's Things to Know bullet. The set is now assembled from the database rows sharing a `Collection`; the mirror is for what is live.
