@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-22T21:37:16Z. Articles: 124 (121 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-23T19:51:33Z. Articles: 124 (121 published, 3 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -35,7 +35,7 @@ Collection ID 17797865. 6 articles.
 
 - [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-07-20
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-07-02
-- [Dashboard Overview](dashboard-overview.md), updated 2026-09-22
+- [Dashboard Overview](dashboard-overview.md), updated 2026-09-23
 - [Integration Tools on the Dashboard](integration-tools-on-the-dashboard.md), updated 2026-07-02
 - [Listings Widget Overview](listings-widget-overview.md), updated 2026-07-02
 - [Set Up Saved Searches for Hot Sheets](set-up-saved-searches-for-hot-sheets.md), updated 2026-07-21
