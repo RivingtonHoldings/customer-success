@@ -92,5 +92,5 @@ The Hot Sheet fills in on the Dashboard with market events matching your criteri
 ## Things to Know
 
 - The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Both open on desktop only
-- For how many Hot Sheets a Dashboard holds, how far back a timeframe reaches, and what Off market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq)
+- For how many Hot Sheets a Dashboard holds, how far back a timeframe reaches, and what off-market covers, see [Dashboard FAQ](http://support.perchwell.com/en/articles/15216626-dashboard-faq)
 - To change which widgets sit on the Dashboard, see [Customize Your Dashboard](http://support.perchwell.com/en/articles/13623904-customize-your-dashboard)

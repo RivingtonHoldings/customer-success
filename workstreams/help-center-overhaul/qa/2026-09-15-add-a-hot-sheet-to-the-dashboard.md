@@ -213,7 +213,7 @@ The Dashboard FAQ migration found this article's Things to Know bullet, "A Hot S
 
 Settled by Tara: the bullet is cut and the FAQ owns the answer. The number stays where the member meets it, inside both `Steps:` blocks as "up to 998 each", and the defaults **Note:** is untouched. The delegation line now names three things and matches Dashboard Overview's.
 
-In the same pass "off-market" in that line became "Off market", the label this file already recorded at line 161 from the widget rows.
+A same-pass change from "off-market" to "Off market" in that line was made and then reverted by Tara the same day. The widget renders the row as Off market, but the exact-label rule governs controls a member has to find and click, and a category in a readout is not one. "Off-market" is the industry term members type, it is the live FAQ's own heading, and it is what nine other mirror articles use. The line keeps the hyphen.
 
 ## Open items
 

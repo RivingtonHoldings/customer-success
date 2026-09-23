@@ -24,9 +24,9 @@ migrated_from: master-article-list
 
 # Dashboard FAQ
 
-**Description:** Hot Sheets on the Perchwell Dashboard: how many fit, how far a timeframe reaches, what Off market covers, and whether they work on mobile.
+**Description:** Hot Sheets on the Perchwell Dashboard: how many fit, how far a timeframe reaches, what off-market covers, and whether they work on mobile.
 
-Use this article to answer common questions about Hot Sheets on the Perchwell Dashboard, including how to monitor brokerage or office activity, how many Hot Sheets fit on the Dashboard, how far back a timeframe reaches, what Off market includes, and whether Hot Sheets work on mobile.
+Use this article to answer common questions about Hot Sheets on the Perchwell Dashboard, including how to monitor brokerage or office activity, how many Hot Sheets fit on the Dashboard, how far back a timeframe reaches, what off-market includes, and whether Hot Sheets work on mobile.
 
 ## How do I see market activity for my brokerage or office on the Dashboard?
 
@@ -51,9 +51,9 @@ Add as many Hot Sheets to the Perchwell Dashboard as you need. There is no limit
 
 One Hot Sheet holds up to five timeframes for monitoring listing activity, and each timeframe is set by number of days, from 1 to 998. The timeframes appear as tabs across the top of the Hot Sheet widget, which means you switch between them without rebuilding the Hot Sheet.
 
-## What does Off market include in a Hot Sheet?
+## What does off-market include in a Hot Sheet?
 
-Off market in a Hot Sheet counts listings that are Cancelled and Withdrawn. Expired is its own row in the Hot Sheet, so expired listings are counted separately rather than under Off market.
+Off-market in a Hot Sheet counts listings that are Cancelled and Withdrawn. Expired is its own row in the Hot Sheet, so expired listings are counted separately rather than under off-market.
 
 [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines Cancelled, Withdrawn, Expired, and every other status.
 
