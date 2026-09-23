@@ -2,6 +2,10 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-22: The set is the database, not the mirror
+
+Raised by Tara during the Dashboard FAQ migration. `/article-rewrite` ran its set-consistency checks against `docs/help-center/`, which mirrors Intercom and therefore holds only ported articles. Four of the six Dashboard articles were Notion drafts at the time, so the pass compared the new article to text the team had already replaced: it recommended a fix already applied in the Add a Hot Sheet draft, and it missed that the new timeframe section duplicated that draft's Things to Know bullet. The set is now assembled from the database rows sharing a `Collection`; the mirror is for what is live.
+
 ## 2026-09-16: Production status splits from the article's media fields
 
 Decided by Tara; recorded 2026-09-21. Screenshot and video production is now tracked separately from what an article contains, so the two can no longer be confused.
