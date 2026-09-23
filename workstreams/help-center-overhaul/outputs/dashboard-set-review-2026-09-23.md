@@ -4,6 +4,8 @@ Everything a reviewer needs to move the five Dashboard drafts from `Draft` to `R
 
 Reviewer on all five: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com). Project lead: Tara, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Fin answer quality: Rafe Petkovic, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com).
 
+Nothing here is waiting on a decision any more. Every article is blocked only on screenshots, two video calls, and review itself.
+
 ## The one thing blocking all of it
 
 Every one of these is rewritten, scored, and sitting at `Article Status: Draft` with `Article Review Status: Not Started`. `/port-to-intercom` refuses to push anything that is not `Ready to Transfer`, so nothing reaches members until a person reviews each page and moves the row.
@@ -17,7 +19,7 @@ The Dashboard collection currently shows members seven articles, two of which ar
 | Article | Score, before to after | Blocked on | Notion comments open |
 |---|---|---|---|
 | [Find Listings in the Listings Widget](https://app.notion.com/p/3dd8b9e01438813ea9f6cdadffa18871) | 41.2 to 100.0 | 2 screenshots | 2 |
-| [Customize Your Dashboard](https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae) | 61.8 to 100.0 | **CRMLS duplicate article**, 1 screenshot, video call | 0 |
+| [Customize Your Dashboard](https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae) | 61.8 to 100.0 | 1 screenshot, video call | 0 |
 | [Add a Hot Sheet to the Dashboard](https://app.notion.com/p/3dc8b9e01438815891e6ccd033eccf97) | 60.0 to 96.4 | video call | 1 |
 | [Open Your MLS Integrations from the Dashboard](https://app.notion.com/p/3e38b9e0143881619bdbca3f04117a1e) | 39.0 to 100.0 | 3 screenshots | 1 |
 | [Dashboard FAQ](https://app.notion.com/p/3e48b9e014388136ba05ee2adf6955ed) | 66.3 to 95.7 | 1 screenshot | 0 |
@@ -26,15 +28,17 @@ All five pass the 14 golden questions and the plain language gate. Scores are ag
 
 Two scores carry an asterisk, both for the same reason. Find Listings and Dashboard FAQ are scored with Retrieval check 1 failing on their title patterns, which is the open question in `docs/project-status.md` about whether `<Page> Overview` and `<Area> FAQ` satisfy a check that wants a task-led title. If the team rules the patterns pass, Find Listings is unchanged at 100.0 and Dashboard FAQ rises to 100.0. Neither changes band.
 
-## One decision Tara owes, and one item now closed
+## Two items closed, September 23, 2026
 
-### 1. Customize Your Dashboard is marked for two MLSs and written for one
+### 1. Customize Your Dashboard is Baldwin-only
 
-`MLS/AOR` reads Baldwin and CRLMS All. The body is Baldwin's, and the mobile constraint in Things to Know traces to Baldwin sources only.
+`MLS/AOR` read Baldwin and CRLMS All and is now Baldwin. The body was always Baldwin's.
 
-**The widget list is no longer a reason to worry.** Tara confirmed on September 23, 2026 that CRMLS no longer has the Days on Market widget, so both MLSs run the same five: Hot Sheets, Contacts, Saved Searches, Tags, and Listings. The draft's list is correct for both.
+The original objection was the widget list, and it has gone away: with Days on Market removed from CRMLS, both MLSs run the same five widgets, so the draft's list is correct for both. The CRMLS article, which lists seven, is the one that is wrong.
 
-What still needs deciding is that CRMLS already has its own article on this subject, `Customizing your Dashboard`, ID 10159813. Publishing this one to both help centers means deciding what happens to that row.
+It stays Baldwin-only because three details in the draft come from a Baldwin screenshot and have never been checked against the CRMLS interface: the Add hot sheet action sitting alongside checkboxes rather than a checkbox per widget, the green Widget added and Widget removed confirmation, and the mobile constraint. Sharing the article would also mean deprecating CRMLS 10159813, and no CRMLS articles are being edited yet.
+
+Nothing in the body would have to change to make it shared later. Verify those three against the CRMLS interface, deprecate 10159813, set both values.
 
 ### 2. SentriLock: no action, it is coming back
 

@@ -74,7 +74,7 @@ These belong in the CRMLS audit regardless of the routing decision.
 
 | Question | Why it matters | Suggested owner |
 |---|---|---|
-| Should the CRMLS articles above be corrected before or after the audit is finalized? Now ten of them, six for Listing Presentations and four for Days on Market | Fin is answering from them today | Tara and Kelly Miragliotta |
+| Should the CRMLS articles above be corrected before or after the audit is finalized? Eight distinct articles: six for Listing Presentations, four for Days on Market, with `customizing-your-dashboard.md` and `the-dashboard-page-overview.md` in both lists | Fin is answering from them today | Tara and Kelly Miragliotta |
 
 Answered on September 10, 2026: NYC is out of scope, so "every MLS" means Baldwin and CRMLS. Listing Presentations is removed from CRMLS and was never a Baldwin feature.
 

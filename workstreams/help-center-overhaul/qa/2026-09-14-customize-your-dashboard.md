@@ -160,22 +160,20 @@ One consistency point that no check tests for. The opening paragraph defines a w
 - **The old row's MLS update note says:** "We would need to make a decision that we can show the listings from a MLS in the video." A video decision, not a content one, but it is unresolved
 - **Seven of the nine outbound and self links use the default help center path** (`support.perchwell.com/en/...`) rather than `/baldwin/en/...`, because that is how the mirror records them. Flag at Intercom transfer
 
-**MLS/AOR changed to Baldwin and CRLMS All, September 14, 2026**
+**MLS/AOR set back to Baldwin, September 23, 2026**
 
-Tara set the Notion row to both MLSs after the draft was written. The body is still Baldwin's. Two things in it are known not to hold for CRMLS:
+Tara set the Notion row to Baldwin and CRLMS All on September 14, after the draft was written, and it is Baldwin again as of September 23. The body was always Baldwin's.
 
-- **The widget list.** This draft says the panel holds an Add hot sheet action plus checkboxes for Contacts, Saved Search, and Tags, confirmed from a Baldwin screenshot. `crmls/customizing-your-dashboard.md` lists seven available widgets, adding Presentations and Days on Market. Presentations is gone from CRMLS, so that article is stale, but Days on Market is a real CRMLS widget Baldwin does not have
-- **The mobile constraint** in Things to Know traces to Baldwin sources only
+**What changed in between.** The original objection was the widget list: this draft describes Baldwin's five, and `crmls/customizing-your-dashboard.md` lists seven, adding Presentations and Days on Market. Both of those are now gone from the product, Presentations in September 2026 and Days on Market confirmed by Tara on September 23, so the two MLSs run the same five widgets and the list is no longer a reason the draft cannot serve CRMLS. The CRMLS article is the one that is wrong.
 
-CRMLS also already has its own article on this subject, `Customizing your Dashboard`, ID 10159813. Publishing this one to both help centers means deciding what happens to that row.
+**Why it is still Baldwin-only.** Three things in this draft come from a Baldwin screenshot and have not been checked against the CRMLS interface:
 
-Nothing is wrong with the draft as a Baldwin article. It is only wrong as a CRMLS one, and the property now says it is both.
+- Manage widgets holding an Add hot sheet action alongside checkboxes for Contacts, Saved Search, and Tags, rather than a checkbox for every widget
+- The green Widget added and Widget removed confirmation
+- The mobile constraint in Things to Know, which traces to Baldwin sources only. No CRMLS article says anything about the Dashboard being unavailable on mobile, and `docs/product-context.md` claims web and mobile parity
 
-**Universality**
+Making the article shared would also mean deprecating CRMLS 10159813, which is a live article, and Tara's September 14 direction is that no CRMLS articles are being edited yet.
 
-The old row marks this article `CRMLS?: 100% Applicable` and `NYC?: 100% Applicable`, but CRMLS already has its own separate article on the subject, `Customizing your Dashboard`, ID 10159813, whose widget list runs to seven and includes Presentations and Days on Market. Two things follow:
+**The path if the team wants one article later.** Verify those three facts against the CRMLS interface, deprecate 10159813, and set `MLS/AOR` to both. Nothing in the body would have to change. Baldwin-only today costs nothing and unblocks the draft; the shared version stays available when CRMLS work starts.
 
-1. The widget list in this draft is Baldwin's five. A shared body would need that list handled per MLS, exactly as the Dashboard Overview widget question did
-2. If the intent is one article for both, the CRMLS row is the one to deprecate, and that is a decision rather than a rewrite
-
-The mobile constraint carries the same caveat as in Dashboard Overview: it traces to Baldwin sources only, and `docs/product-context.md` claims web and mobile parity.
+**CRMLS 10159813 is stale either way.** Its widget list carries both removed features, so it sits in both halves of the CRMLS staleness backlog tracked in `audit/dashboard-widget-lineup-2026-09-10.md` and needs correcting whether or not this article ever replaces it.
