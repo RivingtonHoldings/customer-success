@@ -15,18 +15,18 @@ One body works. Scope is Baldwin and CRMLS only, and the two help centers differ
 | Contacts | Yes | Yes |
 | Saved Searches | Yes | Yes |
 | Tags | Yes | Yes |
-| Days on Market family | No trace | Yes, one or two, unconfirmed |
+| Days on Market family | No trace | Removed, confirmed September 23, 2026 |
 
-The five widgets the Dashboard Overview draft already covers are common to both MLSs, so its widget sections are universal as written. The only divergence is the Days on Market family, which is CRMLS-only and already has its own CRMLS articles.
+The five widgets the Dashboard Overview draft already covers are common to both MLSs, so its widget sections are universal as written. **There is no longer any divergence.** Tara confirmed on September 23, 2026 that CRMLS no longer has the Days on Market widget, which makes the lineup the same five for both MLSs and the shared spine five widgets rather than six. Days on Market as a listing field is unaffected; only the Dashboard widget is gone.
 
 Sources for the enumeration, both live:
 
 - Baldwin: `baldwin/customize-your-dashboard.md` lists Hot Sheets, Contacts, Saved Searches, and Tags under Manage Widgets, and states the Listings widget cannot be removed or reordered. Five total.
-- CRMLS: `crmls/customizing-your-dashboard.md` lists Hot Sheets, Listings, Contacts, Saved Searches, Tags, Presentations, and Days on Market, and states the Listing widget cannot be removed. Seven as documented, six now that Presentations is gone.
+- CRMLS: `crmls/customizing-your-dashboard.md` lists Hot Sheets, Listings, Contacts, Saved Searches, Tags, Presentations, and Days on Market, and states the Listing widget cannot be removed. Seven as documented, five in the product: Presentations and Days on Market are both gone.
 
 ## Recommendation
 
-**Keep the five core widgets as one shared body, and point at Manage widgets for anything MLS-specific.** This is the same move the integrations section now makes: the product already tells the member what they have, so the article does not duplicate a list that varies. CRMLS's Days on Market widget stays in its own CRMLS articles rather than being conditionally described in a shared body.
+**Keep the five core widgets as one shared body, and point at Manage widgets for anything MLS-specific.** This is the same move the integrations section now makes: the product already tells the member what they have, so the article does not duplicate a list that varies. The recommendation is now easier than when it was written: with Days on Market removed from CRMLS on September 23, 2026, the five core widgets are the whole lineup for both MLSs and nothing is left to route conditionally.
 
 The alternative, one row per MLS with duplicated core sections, costs a rewrite per MLS and creates two places to keep in sync, for one widget's worth of difference. A single universal row is not available anyway: `MLS/AOR` is a single select with no "all" option.
 
@@ -59,7 +59,13 @@ This is the more urgent finding. Fin answers from published articles, so CRMLS m
 
 These belong in the CRMLS audit regardless of the routing decision.
 
-1. **CRMLS disagrees with itself on how many Days on Market widgets exist.** `customizing-your-dashboard.md` lists one item, "Days on Market". Two separate live articles describe two different widgets: `the-days-active-in-the-mls-widget.md` (Days Active in MLS, DAM) and `the-days-active-on-market-widget.md` (Days Active on Market, DOM). This is now the only open question about the CRMLS lineup.
+1. **Four live CRMLS articles document a widget CRMLS no longer has.** Tara confirmed the removal on September 23, 2026, which answers the old one-or-two question with zero and turns it into the same problem Listing Presentations already has: Fin answers from published articles, so CRMLS members can be told about a widget that is not there.
+   - `the-days-active-on-market-widget.md`, 13921294, the whole article
+   - `the-days-active-in-the-mls-widget.md`, 11010483, the whole article
+   - `customizing-your-dashboard.md`, which lists Days on Market as the seventh available widget
+   - `the-dashboard-page-overview.md`, which describes its median-days chart and the hover behavior
+
+   Days on Market as a listing field is unaffected, so the fix is to remove the widget articles and the widget references, not every mention of the metric.
 2. **`crmls/the-days-active-on-market-widget.md` names the wrong widget in its own setup section**, reading "The Days Active in MLS widget appears on the Dashboard by default". The two articles also share one screenshot.
 3. **`crmls/the-dashboard-page-overview.md` omits the Tags widget** and uses the heading "Listings Widget" twice, once for the widget and once for listing management.
 4. **`baldwin/customize-your-dashboard.md` links to article 13903171 as "what is the listings widget on the dashboard"**, but that article's title is `Listings Widget Overview`. Link text should be the article title.
@@ -68,8 +74,8 @@ These belong in the CRMLS audit regardless of the routing decision.
 
 | Question | Why it matters | Suggested owner |
 |---|---|---|
-| Does the CRMLS Dashboard have one Days on Market widget or two? CRMLS's own articles disagree | The last unknown in the CRMLS lineup | Kelly Miragliotta |
-| Do Baldwin members have a Days on Market widget? Documentation says no, but only product can confirm | Decides whether the shared spine is five widgets or six | Tara, with product |
-| Should the six CRMLS articles above be corrected before or after the audit is finalized? | Fin is answering from them today | Tara and Kelly Miragliotta |
+| Should the CRMLS articles above be corrected before or after the audit is finalized? Now ten of them, six for Listing Presentations and four for Days on Market | Fin is answering from them today | Tara and Kelly Miragliotta |
 
 Answered on September 10, 2026: NYC is out of scope, so "every MLS" means Baldwin and CRMLS. Listing Presentations is removed from CRMLS and was never a Baldwin feature.
+
+Answered on September 23, 2026 by Tara: CRMLS no longer has the Days on Market widget. That closes both remaining lineup questions at once. The one-or-two question is moot at zero, and the shared spine is five widgets, since neither MLS has a sixth. Baldwin was never directly confirmed with product, but with the widget gone from CRMLS and no trace of it in Baldwin's documentation, nothing turns on it any more.

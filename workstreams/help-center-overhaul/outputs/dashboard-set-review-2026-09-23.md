@@ -17,33 +17,30 @@ The Dashboard collection currently shows members seven articles, two of which ar
 | Article | Score, before to after | Blocked on | Notion comments open |
 |---|---|---|---|
 | [Find Listings in the Listings Widget](https://app.notion.com/p/3dd8b9e01438813ea9f6cdadffa18871) | 41.2 to 100.0 | 2 screenshots | 2 |
-| [Customize Your Dashboard](https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae) | 61.8 to 100.0 | **MLS/AOR mismatch**, 1 screenshot, video call | 0 |
+| [Customize Your Dashboard](https://app.notion.com/p/3db8b9e01438819b95c4f80b6b719fae) | 61.8 to 100.0 | **CRMLS duplicate article**, 1 screenshot, video call | 0 |
 | [Add a Hot Sheet to the Dashboard](https://app.notion.com/p/3dc8b9e01438815891e6ccd033eccf97) | 60.0 to 96.4 | video call | 1 |
-| [Open Your MLS Integrations from the Dashboard](https://app.notion.com/p/3e38b9e0143881619bdbca3f04117a1e) | 39.0 to 100.0 | **SentriLock confirm marker**, 3 screenshots | 1 |
+| [Open Your MLS Integrations from the Dashboard](https://app.notion.com/p/3e38b9e0143881619bdbca3f04117a1e) | 39.0 to 100.0 | 3 screenshots | 1 |
 | [Dashboard FAQ](https://app.notion.com/p/3e48b9e014388136ba05ee2adf6955ed) | 66.3 to 95.7 | 1 screenshot | 0 |
 
 All five pass the 14 golden questions and the plain language gate. Scores are against the September 10, 2026 revision 2 check set.
 
 Two scores carry an asterisk, both for the same reason. Find Listings and Dashboard FAQ are scored with Retrieval check 1 failing on their title patterns, which is the open question in `docs/project-status.md` about whether `<Page> Overview` and `<Area> FAQ` satisfy a check that wants a task-led title. If the team rules the patterns pass, Find Listings is unchanged at 100.0 and Dashboard FAQ rises to 100.0. Neither changes band.
 
-## Two decisions Tara owes before anything ships
+## One decision Tara owes, and one item now closed
 
 ### 1. Customize Your Dashboard is marked for two MLSs and written for one
 
-`MLS/AOR` reads Baldwin and CRLMS All. The body is Baldwin's, and two things in it are known not to hold for CRMLS:
+`MLS/AOR` reads Baldwin and CRLMS All. The body is Baldwin's, and the mobile constraint in Things to Know traces to Baldwin sources only.
 
-- **The widget list.** The draft says Manage widgets holds an Add hot sheet action plus checkboxes for Contacts, Saved Search, and Tags, confirmed from a Baldwin screenshot. CRMLS has a Days on Market widget that Baldwin does not.
-- **The mobile constraint** in Things to Know traces to Baldwin sources only.
+**The widget list is no longer a reason to worry.** Tara confirmed on September 23, 2026 that CRMLS no longer has the Days on Market widget, so both MLSs run the same five: Hot Sheets, Contacts, Saved Searches, Tags, and Listings. The draft's list is correct for both.
 
-CRMLS also already has its own article on this subject, `Customizing your Dashboard`, ID 10159813. Publishing this one to both help centers means deciding what happens to that row.
+What still needs deciding is that CRMLS already has its own article on this subject, `Customizing your Dashboard`, ID 10159813. Publishing this one to both help centers means deciding what happens to that row.
 
-Nothing is wrong with this draft as a Baldwin article. It is wrong as a CRMLS one, and the property says it is both.
+### 2. SentriLock: no action, it is coming back
 
-### 2. SentriLock is the only open confirm marker in the set
+Open Your MLS Integrations carries `[confirm: SentriLock does not currently appear in the Baldwin Integrations panel and the team is looking into why]`. Tara confirmed on September 23, 2026 that SentriLock returns within 24 to 48 hours, so the absence is a temporary outage rather than a documentation error.
 
-Open Your MLS Integrations carries `[confirm: SentriLock does not currently appear in the Baldwin Integrations panel and the team is looking into why]`. Tara asked for it to be written as though it belongs there while the team investigates. It has to be resolved or removed before transfer.
-
-**This one reaches further than its own article.** The live Dashboard Overview, already published, names ShowingTime, SentriLock, and RPR as commonly connected integrations. If SentriLock is not on the Baldwin panel, a published article is telling members about a tool they do not have, and Fin is answering from it.
+The article stays as written, SentriLock included. The live Dashboard Overview, which names ShowingTime, SentriLock, and RPR as commonly connected integrations, needs no correction either. The marker can come off once the panel is back; leave it until then, since it is the reminder to check.
 
 ## What changed in each article
 
