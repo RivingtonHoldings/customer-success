@@ -32,6 +32,8 @@ This skill owns transfer mechanics only. It does not rewrite, score, or re-revie
 
 6. **Diff and confirm.** Fetch the live body with `get_article` and show the full before-and-after in the conversation: title, description, then the body section by section. Ask for confirmation **for this one article**. "Yes to all" is not accepted, and a batch of articles is confirmed one at a time.
 
+   **Diff against `get_article`, never against the mirror.** The mirror holds the page Intercom renders for a reader, and the rendering differs from the stored HTML: a cross-link stored as `/en/` is served as `/baldwin/en/`, so the mirror shows a path the article does not contain. Diffing the Notion draft against the mirror on 2026-09-23 produced a seven-link regression that did not exist, and the "fix" for it was an unrequested change to a reviewed page. The same trap as step 4's, one field over.
+
 7. **Push.** On an update call `update_article` with `id`, `body`, and `title` or `description` only when they changed. On a new article call `create_article` with `state: "draft"` and the `parent_id` and `parent_type` read from the mirror. Nothing else in either call. See the Rules.
 
 8. **Verify.** Call `get_article` and confirm `state` is unchanged and `parent_ids` still holds every collection it held before. Then open the public URL and check what a member sees: every image loaded, the video playing, and no blank gaps from whitespace between block tags. Expect the stored HTML to differ from what was sent in the ways `references/intercom-html.md` lists under "What Intercom changes on save"; anything beyond that list is a real defect.
