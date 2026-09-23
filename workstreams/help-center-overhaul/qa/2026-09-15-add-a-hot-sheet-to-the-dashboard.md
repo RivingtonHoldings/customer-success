@@ -207,6 +207,14 @@ No score change. Spelling consistency is not a scored check, though the underlyi
 | Why should I use a Hot Sheet instead of just searching? | Partly | Yes. "When to use a Hot Sheet" |
 | Can I set up Hot Sheets on my phone? | No | Yes. "Things to Know" |
 
+## Changed after the fact, September 22, 2026
+
+The Dashboard FAQ migration found this article's Things to Know bullet, "A Hot Sheet holds up to five timeframes, and each one becomes a tab across its top", duplicating the FAQ's own answer to "What is the maximum timeframe for a Hot Sheet?" almost word for word. Two articles were answering one question, and this article's delegation line named only two things to look up in the FAQ while Dashboard Overview's, already live, named three and included the timeframe.
+
+Settled by Tara: the bullet is cut and the FAQ owns the answer. The number stays where the member meets it, inside both `Steps:` blocks as "up to 998 each", and the defaults **Note:** is untouched. The delegation line now names three things and matches Dashboard Overview's.
+
+In the same pass "off-market" in that line became "Off market", the label this file already recorded at line 161 from the widget rows.
+
 ## Open items
 
 **Confirm markers in the draft:** none.
