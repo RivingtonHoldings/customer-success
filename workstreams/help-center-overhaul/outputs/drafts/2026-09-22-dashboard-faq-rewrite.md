@@ -30,18 +30,9 @@ Use this article to answer common questions about Hot Sheets on the Perchwell Da
 
 ## How do I see market activity for my brokerage or office on the Dashboard?
 
-To see market activity for your brokerage or office on the Dashboard, build a saved search hot sheet, a Hot Sheet widget that monitors activity within one Saved Search.
+Build a saved search hot sheet from a Saved Search filtered by brokerage or by office. The Hot Sheet shows that market activity on the Dashboard and updates automatically.
 
-### Steps:
-
-1. Run a search
-2. Filter by brokerage to monitor your brokerage's activity, or by office to monitor your office's activity
-3. Save the search
-4. Add the Saved Search to the Dashboard as a saved search hot sheet
-
-The Hot Sheet then tracks activity for that brokerage or office and updates automatically, so the Dashboard opens with current numbers.
-
-[Add a Hot Sheet to the Dashboard](http://support.perchwell.com/baldwin/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) walks through the widget setup step by step.
+[Add a Hot Sheet to the Dashboard](http://support.perchwell.com/baldwin/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) covers the setup steps.
 
 ## How many Hot Sheets can I add to the Dashboard?
 
@@ -49,11 +40,11 @@ Add as many Hot Sheets to the Perchwell Dashboard as you need. There is no limit
 
 ## What is the maximum timeframe for a Hot Sheet?
 
-One Hot Sheet holds up to five timeframes for monitoring listing activity, and each timeframe is set by number of days, from 1 to 998. The timeframes appear as tabs across the top of the Hot Sheet widget, which means you switch between them without rebuilding the Hot Sheet.
+A Hot Sheet timeframe reaches up to 998 days. Each Hot Sheet holds up to five timeframes, which appear as tabs across the top of the widget. Click a tab to switch the view without rebuilding the Hot Sheet.
 
 ## What does off-market include in a Hot Sheet?
 
-Off-market in a Hot Sheet counts listings that are Cancelled and Withdrawn. Expired is its own row in the Hot Sheet, so expired listings are counted separately rather than under off-market.
+Off-market in a Hot Sheet counts listings with a status of Cancelled or Withdrawn. Expired has its own row in the Hot Sheet, so expired listings are counted separately rather than under off-market.
 
 [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines Cancelled, Withdrawn, Expired, and every other status.
 
@@ -61,10 +52,10 @@ Off-market in a Hot Sheet counts listings that are Cancelled and Withdrawn. Expi
 
 ## Can I view the Dashboard and Hot Sheets in the Perchwell mobile app?
 
-The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Open Perchwell in a browser on a desktop computer to reach the Dashboard and your Hot Sheets.
+The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Open Perchwell in a desktop browser to access the Dashboard and your Hot Sheets.
 
 ## Where is the Market Monitor on the Perchwell Dashboard?
 
-Members who came from a legacy platform may know Hot Sheets as the Market Monitor. In Perchwell the equivalent is a Hot Sheet, a Dashboard widget that tracks new and updated listing activity.
+Members who came from a legacy platform may know Hot Sheets as the Market Monitor. In Perchwell, a Hot Sheet is the equivalent Dashboard widget for tracking new and updated listing activity.
 
 [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.

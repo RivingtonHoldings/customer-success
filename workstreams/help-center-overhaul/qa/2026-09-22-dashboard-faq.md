@@ -19,7 +19,7 @@ Scored by Claude for Tara, September 22, 2026. Check set: September 10, 2026, re
 | 1 disambiguation | Pass | Pass | Old said "home screen" for the Dashboard; corrected, but the old form was inconsistent rather than a dangling reference |
 | 2 visual_content_text | Pass | Pass | Old had no images. New carries one screenshot placeholder with its alt text |
 | 3 undefined_terms | **Fail** | Pass | Old never defined Hot Sheet, and put "Market Monitor" in the description with no legacy framing. New defines Hot Sheet at first use and gives the Market Monitor its own section |
-| 4 structured_enumeration | **Fail** | Pass | Old described a four-step procedure in flowing prose. New uses a numbered `Steps:` block |
+| 4 structured_enumeration | **Fail** | Pass | Old described a four-step procedure in flowing prose. New describes no procedure at all: the capability is stated in one sentence and the steps are handed to `Add a Hot Sheet to the Dashboard`. See the revision note below |
 | 5 query_answer_symmetry | Pass | Pass | All headings are questions in both |
 | 6 self_contained_sections | Pass | Pass | |
 | 7 audience_specification | Pass | Pass | No role gates the Dashboard among non-client roles, so silence is correct. `Roles: All - but client` records it |
@@ -72,6 +72,15 @@ The rewrite does not reach 100 because Retrieval signals check 1 fails on the ti
 | how do I track just my office's listings | Partial. "Search by agents and select the agents in your office" is not the office filter | Yes |
 | can I see my dashboard on my phone | Yes | Yes |
 | where did the market monitor go | No. "Market Monitor" appeared only in the description metadata, never in the body | Yes |
+
+## Revision pass, September 22, 2026
+
+Tara rewrote all five answers and the changes went in, three unaltered and two with a fix. Score and both gates unchanged.
+
+- **Q1 lost its `Steps:` block.** Once the brokerage and office capability was added to `Add a Hot Sheet to the Dashboard`, a four-step procedure here was the duplication the say-once rule exists to prevent. Tara's replacement was a two-action sequence in prose, which is the same golden question 4 shape the rewrite had just fixed, so it ships as a capability instead: "Build a saved search hot sheet from a Saved Search filtered by brokerage or by office." One action, no sequence, steps handed to the workflow article.
+- **Q2 now leads with the answer.** The heading asks for a maximum and the first sentence gives it; the original draft buried 998 at the end of a compound clause, which is the wrong order for an FAQ. Tara's "so you can switch between them" was replaced with "Click a tab to switch the view", since "you can" is a scored failure and the article is evidence in the open question about whether FAQs should be excepted from that ban.
+- **Q3 fixed a factual error in the draft.** "Listings that are Cancelled and Withdrawn" describes listings holding both statuses at once, which cannot happen. Now "with a status of Cancelled or Withdrawn". "Expired has its own row" also replaced "is its own row", which conflated the status with the row.
+- **Q4 and Q5 taken as written.** "Open Perchwell in a desktop browser to access" over "in a browser on a desktop computer to reach"; "a Hot Sheet is the equivalent Dashboard widget for tracking" over an appositive that named the feature twice to say one thing.
 
 ## Open items
 
