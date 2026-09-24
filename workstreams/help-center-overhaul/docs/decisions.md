@@ -2,6 +2,26 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-09-24: Two or more named things get a labeled list, and lead-in labels take a colon
+
+Raised by Tara after the Search Page Overview migration, where she rewrote all nine sections of the draft. Four of the nine were the same transformation: a set of named controls written as prose, converted to a bullet list with the label first and a colon. The other five had no set to list and she left them as prose, which is what made the rule crisp enough to write down.
+
+`content-standards.md` now carries it under Lists and tables, along with the colon convention for lead-in labels. That convention was previously settled per article by counting across the set, which the set-consistency pass in `/article-rewrite` step 7 had to re-run every time; it is settled once now, on a colon and with no bold.
+
+The examples under transformation pattern 10 still showed the bolded, period form that pattern 9 banned on September 16. Corrected at the same time. A rule written in one section of a file does not propagate to the examples in another.
+
+## 2026-09-24: The skill proposes the hand-off table for an Overview instead of asking about scope
+
+Search Page Overview reproduced, in full procedural detail, content owned by eight other live Baldwin articles, including a near-verbatim duplication of Customize Your Search View. The scope question was the largest single decision in the migration and it arrived as an open question, which cost a round.
+
+`/article-rewrite` step 5 now computes the overlap for any Overview article and presents a table of section against the article that already owns it, with three options and a recommendation. Tara chose orientation only, which removed about 70 percent of the live body. The `Hands off:` line in the starting prompt becomes optional for an Overview as a result: the teammate approves a proposal rather than designing the split.
+
+## 2026-09-24: Read the article's own images before asking anyone for screenshots
+
+Also from Search Page Overview. The skill asked Tara for screenshots the live article already carried. Reading the existing images answered eight of fourteen open questions and caught three labels that were wrong in the live article and in its siblings, including "Filter Filter", which Tara confirmed is an internal team nickname for a control that has no product name.
+
+`/article-rewrite` step 1 now reads them first, with the method written down, since the obvious route fails: the sandbox blocks curl, and the images have to come from `get_article` or from the public help center page in the browser. Existing images are strong evidence for what a control is called and weak evidence for whether it still exists, so they are dated, not trusted. The `Screenshots:` line in the starting prompt becomes "what changed" rather than "everything the article needs".
+
 ## 2026-09-23: `Media Update Needed` gates the production board, and the 2026-09-16 split does not account for it
 
 Found when the Dashboard FAQ was created with `Media Update Needed` left empty, per the migration rule in `notion-publishing.md`, and did not appear on the Help Center Production Tracker. The tracker's Visual Production view filters on `Media Update Needed contains Yes`, so a row without it is not on the board at all, whatever its `Visual Status` says.

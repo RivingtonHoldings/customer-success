@@ -1,6 +1,6 @@
 # Transformation Patterns Reference
 
-Detailed examples for each of the 10 help center article transformation patterns. Use these as a guide when rewriting articles.
+Detailed examples for each of the 12 help center article transformation patterns. Use these as a guide when rewriting articles.
 
 ## 1. Jobs-to-be-Done Opening
 
@@ -94,6 +94,16 @@ Remove "You can" and "allows you to." Use direct instructions.
 - "This allows you to track..." → "Track..."
 - "You can sort by Name" → "Sort by Name or Recently Updated."
 
+**Open the section with the verb, not with the thing.** Deleting "you can" is half the pattern. The other half is that a section lead starts with what the member does, and the control follows it. A lead that starts with the control describes the screen; a lead that starts with the verb hands the member the next move, and it still echoes the heading.
+
+| Starts with the thing | Starts with the verb |
+|---|---|
+| "The Save button sits in the upper left of the Search page." | "Click Save in the upper left of the Search page to save your current search." |
+| "The Columns control names the template currently applied." | "Open the Columns control to add or remove columns with the checkboxes." |
+| "The View control above them sets how those listings display." | "Click the View control above the search results to choose how the listings display." |
+
+Added September 24, 2026. On Search Page Overview the reviewer made this swap in three sections that had passed every grep in step 7, because nothing in "The Columns control names the template currently applied" is a banned construction. It is just the wrong end of the sentence.
+
 ## 6. Descriptive Section Titles
 
 Make titles specific enough for scanning.
@@ -158,7 +168,7 @@ The exact label is what the member matches against the screen, and it does that 
 - Callout labels: `> **Note:** ...`, `> **Important:** ...`, `> **Tip:** ...`. Intercom names the bold label as the signal Fin reads, so this one earns its keep.
 - The `**Description:**` line at the top of the article.
 
-**Bullet lead-in labels are not a third survivor.** `- **Listings.** Matched on address or MLS ID` looks like the callout pattern, a label introducing its own block, and it is not: Fin-parsable formatting check 3 reads "No other bold in the body", and Intercom names the callout label specifically. Write them plain, as `- Listings. Matched on address or MLS ID`. The Universal Search Bar draft carried three bolded labels and unbolding them is what returned Fin-parsable formatting to 8 of 8 and the article to 95.7. Corrected September 16, 2026; this file said to keep them and was the last place in the repo still teaching the retired bold style.
+**Bullet lead-in labels are not a third survivor.** `- **Listings.** Matched on address or MLS ID` looks like the callout pattern, a label introducing its own block, and it is not: Fin-parsable formatting check 3 reads "No other bold in the body", and Intercom names the callout label specifically. Write them plain and with a colon, as `- Listings: Matched on address or MLS ID`. The Universal Search Bar draft carried three bolded labels and unbolding them is what returned Fin-parsable formatting to 8 of 8 and the article to 95.7. Corrected September 16, 2026; this file said to keep them and was the last place in the repo still teaching the retired bold style. The colon settled September 24, 2026, and the examples under pattern 10 were corrected at the same time, having kept the bold for eight days after this paragraph banned it.
 
 ## 10. Say It Once
 
@@ -183,9 +193,9 @@ The first migration test is the worked example. The Universal Search Bar draft s
 >
 > ## What the Universal Search Bar returns
 > The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
-> - **Listings.** ...
-> - **Agents.** ...
-> - **Contacts.** ...
+> - Listings: ...
+> - Agents: ...
+> - Contacts: ...
 
 **After:** one canonical enumeration, in the section whose job it is.
 
@@ -197,9 +207,9 @@ The first migration test is the worked example. The Universal Search Bar draft s
 >
 > ## What the Universal Search Bar returns
 > The Universal Search Bar returns matching records of three types: listings, agents, and contacts.
-> - **Listings.** Match on address or MLS ID. ...
-> - **Agents.** Match on name. ...
-> - **Contacts.** Match on name or email. ...
+> - Listings: Match on address or MLS ID. ...
+> - Agents: Match on name. ...
+> - Contacts: Match on name or email. ...
 
 Each section still names the feature, still stands alone, and still answers the question a member would ask it. Nothing is said twice.
 
@@ -245,3 +255,25 @@ Two more from the same week:
 **Where the pattern stops.** The same pass changed "modal" to "search window" and it was reverted the same day. `docs/product-context.md` already required "modal", one word, used consistently, "so a member and Fin both track the same thing", which is the same argument the pattern rests on. The pass was right to go beyond the reviewer's literal list; what it skipped was checking each candidate against the terminology rules first, and "modal" was the one candidate with a rule already written against it.
 
 **The test:** read the description, the opening, and every H2 aloud as if to an agent on the phone. Any word you would not say is a candidate. Then check each candidate against the terminology rules in `docs/product-context.md` and against the on-screen label before you change it. The do-not list, with replacements and its three known false positives, is in `docs/standards/content-standards.md`.
+
+## 12. Two or More Named Things Get a Labeled List
+
+When a section introduces two or more named controls, tabs, views, options, or states, name them in a bullet list: the label first, a colon, one sentence on what each does. Prose is for one thing; a list is for a set.
+
+This is a retrieval rule as much as a scanning one. A member asking Fin "what is the Results tab" wants the line that defines it, and a labeled bullet is that line. The same fact buried mid-paragraph next to three other facts is a worse chunk.
+
+**Before:**
+> The Search page has two tabs in the upper right, Filters and Results. Filters is where you set your criteria, and Results is where the matching listings appear. Click either one to switch between them. Each tab carries its own count. Filters shows how many criteria are active, Results shows how many listings match them.
+
+**After:**
+> The Perchwell Search page has two tabs in the upper right:
+> - Filters: Set and adjust your search criteria. The number next to Filters shows how many filters are applied to the search.
+> - Results: View the listings that match your search criteria. The number next to Results shows how many listings match the search.
+>
+> Click the Filters or Results tab to move between them.
+
+**Where the pattern stops.** The trigger is a *set* of named things. A section that names one control and links out stays as prose, and so does a section with no named controls at all. On Search Page Overview the reviewer converted four sections of nine and left the other five alone, which is what makes this a rule rather than a preference: the five she left had nothing to list.
+
+Do not confuse this with pattern 4. Pattern 4 expands a thin description into actions and warns against inventorying the screen. This one is about form: when a set exists, it is a list. Both can apply to the same section, and neither licenses a bullet per field on a listing card.
+
+Added September 24, 2026, after the Search Page Overview migration, where this single transformation accounts for four of the nine sections the reviewer rewrote. The standard carries it under Lists and tables, along with the colon convention.

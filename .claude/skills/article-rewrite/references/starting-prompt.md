@@ -17,8 +17,10 @@ Across Universal Search Bar, Dashboard Overview, Customize Your Dashboard, and A
 | Inconsistent names across related articles | the set-consistency pass | nothing; the skill runs the check |
 | Bare-noun title kept or changed | nothing | **your call, and candidates to choose between** |
 | Invented facts that read plausibly | the sourcing rules, plus the flag-first line | **answers, when the skill asks** |
-| An article quietly growing a second surface | nothing | **what it covers and what it hands off** |
+| An article quietly growing a second surface | the hand-off table, for an Overview | **a yes or no on the proposed split** |
 | A question spent on something you already knew was broken | nothing | **what is already known wrong** |
+
+**Two of these changed on September 24, 2026, after Search Page Overview.** `Hands off:` is now optional on an Overview, because the skill computes the hand-off table itself and comes back with a proposal to approve rather than a question to answer; fill it in only when you already know the answer and want to skip the proposal. And `Screenshots:` is now "what changed", not "everything the article needs", because the skill reads the article's existing images first. Asking for shots the live article already carries cost a round on that migration, and the old images answered eight of fourteen open questions once they were read.
 
 Screenshots are the big one. About a third of the corrections traced to a product detail nobody could see from the sources: `Manage Widgets` was capitalized wrongly in eight of the nine places it appeared across both live help centers, the Edit hot sheet modal has five Days boxes where the draft described one field, and `From saved search` sits above `New hot sheet`, which reversed the order of two sections.
 
@@ -37,10 +39,11 @@ Screenshots are the big one. About a third of the corrections traced to a produc
 
 MLS: <Baldwin | CRMLS>
 Covers: <the surface this article is for>
-Hands off: <what belongs in another article, and which one>
+Hands off: <what belongs in another article, and which one. Optional on an
+    Overview; the skill proposes a hand-off table for you to approve>
 Title: <keep "<current title>" | propose 2 or 3 with the tradeoff for each>
-Screenshots: <attached, and what each one shows. Cropped to exclude
-    addresses, agent names, and license numbers>
+Screenshots: <what has changed since the article's current images, attached.
+    Cropped to exclude addresses, agent names, and license numbers>
 Set: <articles it sits with, if you know. The skill checks for others>
 Already known wrong: <anything live that is stale, and whether it is
     being fixed>
