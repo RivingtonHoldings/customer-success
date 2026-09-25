@@ -55,7 +55,9 @@ Terms flagged in the old article and their replacements:
 | **Total** | **45.9** | **100.0** | **+54.1** |
 
 **Old band:** Not retrievable as written (0 to 49)
-**New band:** Fin-ready (90 to 100), with one open `[confirm: ...]` to resolve before transfer
+**New band:** Fin-ready (90 to 100)
+
+**Rescored 2026-09-25 after Tara's review pass.** She rewrote all six sections. The rewrite brought in eight constructions the standard bans (six of the verb "use", one "you can", and one "appear" where the member is the actor), and one position error ("above the Results tab"). All were fixed before re-scoring, and every check still passes. Section 4 now carries its own column-setup steps; that duplicates section 3 as parallel procedures, which chunk-independence check 6 exempts. The score holds at 100.0.
 
 ## Fin test questions
 
@@ -68,14 +70,16 @@ Terms flagged in the old article and their replacements:
 | Why don't I see columns in Tiles? | No. Implied once, never stated | Yes. Add, remove, and reorder columns in your search results |
 | How do I turn on the satellite map? | Partly. Layers listed in a bullet with no steps and the wrong base map name | Yes. Resize, hide, and change layers on the search map |
 | How do I get the map out of the way? | Yes | Yes. Resize, hide, and change layers on the search map |
+| What does the orange on the flood map mean? | No. Flood layers named, never explained | Yes. Read the flood risk areas on the search map |
+| Why can't I turn on parcel lines? | No | Yes. Resize, hide, and change layers on the search map |
 | What's the difference between Update and Save New? | No. The old article named neither button | Yes. Save your columns as a column template |
 
 ## Open items
 
-1. `[confirm: what the Flood and Parcels overlays draw on the map]` in the map layers section. The toggle names are on screen; what each overlay renders is not sourced.
+1. **Resolved 2026-09-25 from Tara's screenshots.** Flood colors the map by FEMA flood risk area; Parcels outlines property boundaries and is unavailable until the member zooms in far enough. The four flood definitions went into a new H3 under the map section, paraphrased from the FEMA Flood Areas modal. Two deliberate omissions: the modal calls the 100-year area "moderate" risk, while FEMA classes 1% annual-chance areas as high-risk, so the article gives the percentage and drops the risk word; and the floodway's "beyond a certain height" clause is cut rather than carried as a vague number. The Parcels zoom threshold has no member-visible number, so "far enough" stands.
 2. **Shared article.** Intercom record `11962073` sits in a collection in both the Baldwin and the CRMLS help center. Per Tara, 2026-09-24, the row carries `MLS/AOR: Baldwin, CRLMS All`, matching Universal Search Bar. Cross-links in the body point into the Baldwin help center only; flag at port.
 3. **Link needs replacing when the new article lands.** The default-template hand-off currently points at the live *Customize Your Search Defaults with Template Searches*. Tara has *Create a Default Saved Search Template* planned as its own article; swap the link then.
 4. **Two errors in the live article that this rewrite drops.** Step 5 of both column procedures said "Click Save and name the template. You can select the star to save it as the default column view." There is no Save button and no star in the Columns control; the star belongs to saved searches. And the base map is Roads, not Roadmap.
 5. **Sibling check passed.** Search Page Overview states that Location and Status "can be reordered but cannot be removed." Confirmed correct by Tara, 2026-09-24. No fix needed to that draft.
-6. **Three new screenshots needed:** the Save Column Template modal, the Templates tab with a filled star, and the map layers panel. `Media Update Needed: Yes` is set so the row reaches the production board.
+6. **Four new screenshots needed:** the Save Column Template modal, the Templates tab with a filled star, the map layers panel, and the FEMA Flood Areas modal. `Media Update Needed: Yes` is set so the row reaches the production board.
 7. The nine carried images are the live article's own, July 2026, and show real addresses, as they do today in production. Replace or crop if the team's localization pass covers them.
