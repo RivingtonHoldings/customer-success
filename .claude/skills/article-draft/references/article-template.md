@@ -78,7 +78,7 @@ Notes on the skeleton:
 - Each fact belongs in one section. The feature name repeats throughout so a retrieved section identifies itself; its capabilities do not. If "When to use" and a later section enumerate the same things, cut one.
 - Screenshot placeholders carry the alt text the image will use, so the media owner does not have to invent it later.
 - Nothing in the body is bold. Name UI elements by their exact on-screen label and leave them plain. The only bold in a finished article is the callout label (`**Note:**`, `**Important:**`, `**Tip:**`) and the `**Description:**` line.
-- A pop-up window that opens over the page is a modal. Call it that, and keep calling it that through the article.
+- A pop-up window that opens over the page is a window named for what it does, such as "the search window". Keep that name through the article, and never call it a modal.
 
 ## Multi-path workflow table
 

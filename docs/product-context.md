@@ -77,7 +77,7 @@ One line each, using the name members see in the product. Name it exactly and le
 | System of record | The system where a listing officially lives. "The legacy platform was the system of record, which means new listings still happened there." |
 | RESO | The industry standards body for real estate data. Rarely needed in member content. |
 | Masquerading | An MLS staff ability to log in as a member for support. Staff-facing only; do not mention in member articles. |
-| Modal | A pop-up window that opens over the page, such as the one the Universal Search Bar opens in the center of the screen. Use "modal" in articles, and keep using it rather than switching to "window", "panel", or "pop-up" partway through. |
+| Modal | Developer word for a pop-up window that opens over the page, such as the one the Universal Search Bar opens in the center of the screen. Do not use it in articles. Call it a window named for what it does, "the search window", and keep that name rather than switching to "panel" or "pop-up" partway through. |
 | Collection | A group of articles in the Intercom help center. Members see collection names on the help center home page. |
 | Fin resolved | Perchwell's definition: Fin answered, no teammate sent a message afterward, and the same member did not follow up on the same topic within 48 hours. |
 | Human intervention | The share of Fin conversations where a teammate had to step in. Baldwin is around 40 percent; the target is 10 percent or less. |
@@ -85,7 +85,7 @@ One line each, using the name members see in the product. Name it exactly and le
 ## Terminology rules
 
 - Use the label the member sees on screen, spelled exactly as the UI spells it, and do not bold it. "Add/Edit," not "the listing form."
-- A pop-up window that opens over the page is a modal. One word for it, used consistently, so a member and Fin both track the same thing.
+- A pop-up window that opens over the page is a window, named for what it does: "the search window". One name for it, used consistently, so a member and Fin both track the same thing. Never "modal"; agents do not say it.
 - A Hot Sheet's date window is a timeframe, one word. The Edit hot sheet modal labels the field `Timeframe`, and the Dashboard FAQ asks "What is the maximum timeframe for a hot sheet?", so one word is both the product's spelling and the majority of the live help centers. Two words appears in four live articles and is the form to correct when those are next touched.
 - A listing's identifier is the MLS ID. Never "MLS number," "MLS #," or "listing number," in articles, macros, or replies. Perchwell labels the filter and the listing card **MLS ID**, and one term across every surface is what lets Fin match a member who types either phrasing.
 - Say "member" for people using Perchwell and "client" for an invited buyer or seller.
