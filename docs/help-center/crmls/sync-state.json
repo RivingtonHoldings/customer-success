@@ -1,5 +1,5 @@
 {
- "last_run": "2026-09-22T21:37:16Z",
+ "last_run": "2026-09-29T17:54:52Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
@@ -115,14 +115,6 @@
    "content_id": "16199094",
    "body_sha1": "033aefc1defbbc61561eae9c94c89b76f53bc6e8"
   },
-  "13923207": {
-   "file": "using-searchwell.md",
-   "updated_at": 1782959963,
-   "state": "published",
-   "title": "Using Searchwell",
-   "content_id": "16185254",
-   "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
-  },
   "13923137": {
    "file": "create-a-cloud-cma-presentation-from-search.md",
    "updated_at": 1782959963,
@@ -130,6 +122,14 @@
    "title": "Create a Cloud CMA Presentation from Search",
    "content_id": "16185172",
    "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
+  },
+  "13923207": {
+   "file": "using-searchwell.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Using Searchwell",
+   "content_id": "16185254",
+   "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
   },
   "13921850": {
    "file": "filtering-your-search-by-property-types.md",
