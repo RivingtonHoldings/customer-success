@@ -118,7 +118,7 @@ Name the real things, not the category that contains them, and use the word an a
 | "Each Dashboard widget is a tile that displays ..." | "Each Dashboard widget displays ..." |
 | "It is a lookup tool: type what identifies the record, click the match, and the record opens." | cut; the mechanics were already in the Steps block twelve lines below |
 
-**Where the pattern stops.** The same pass also changed "modal" to "search window" and had to be reverted: `docs/product-context.md` already required "modal", one word, used consistently, for the same Fin-matching reason the pattern exists. Check every candidate against the terminology rules and the on-screen label before swapping it. The full do-not list, with its replacements and its three known false positives, is in `docs/standards/content-standards.md`.
+**Where the pattern stops.** The same pass also changed "modal" to "search window" and had to be reverted: `docs/product-context.md` then required "modal", one word, used consistently, for the same Fin-matching reason the pattern exists. The swap was right, and the rule was retired on October 1, 2026 after the reviewer flagged "modal" again, but a settled term changes by changing the rule, not inside one article's pass. Check every candidate against the terminology rules and the on-screen label before swapping it. The full do-not list, with its replacements and its three known false positives, is in `docs/standards/content-standards.md`.
 
 ## Output format
 
