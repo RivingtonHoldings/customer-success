@@ -2,6 +2,16 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-10-06: Draft-quality rules, so first drafts need less hand editing
+
+Raised by Tara after the Contacts Page Overview review. She kept Claude's content and rewrote the writing: headings narrower than their sections, leads that described before they instructed, over-explained neighbors, and four links in one paragraph. She brought two inputs, a ChatGPT analysis of her v1-to-v2 edits and her manager's 23 general writing rules, and asked for whatever fits the existing standard to be adopted. She chose to put the rules into the standard and the skills, not just a personal memory.
+
+Adopted into `content-standards.md`: headings cover their whole section; Overviews give a neighbor one or two sentences and a link; FAQ answers answer first; a new Lead with the action section (no gerund leads, sentence length under 20 for instructions and under 25 otherwise, one word for one thing, verbs matched to the control, icons named by hover label and shape); the "For more information:" list for three or more links; and an AI-pattern do-not table. That table also promotes all six candidates from Tara's September 23 personal style trial. `/article-rewrite` gains patterns 12 to 16 in its summary list and a draft-quality pass at the end of step 7, which `/article-draft` reuses by reference.
+
+Most of the manager's rules were already in the standard: imperative voice, verb-first steps, active voice, real hedges only, the member's words, no marketing adjectives, say each fact once, labeled lists, no em dashes. Where a rule conflicted with the standard, the standard won and the rule now carries an exemption. Retrieval repetition (the heading echo, the feature name in every section, the "Use this article to" opening) is not restating. A factual contrast is not a paired contrast. FAQ question headings are not a rhetorical question. Articles always use H2 sections whatever their length. The "what happens next" sentence after Steps is content, not a recap. Inside a related-articles list, a parallel "covers" is fine.
+
+The scorecard is unchanged, so every revision 2 score stands. The new rules are a self-review pass, not scored checks; making them scored is Kelly and Rafe's call. All of it awaits Kelly and Rafe.
+
 ## 2026-09-24: Two or more named things get a labeled list, and lead-in labels take a colon
 
 Raised by Tara after the Search Page Overview migration, where she rewrote all nine sections of the draft. Four of the nine were the same transformation: a set of named controls written as prose, converted to a bullet list with the label first and a colon. The other five had no set to list and she left them as prose, which is what made the rule crisp enough to write down.

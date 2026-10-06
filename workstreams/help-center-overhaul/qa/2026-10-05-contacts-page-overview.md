@@ -102,6 +102,8 @@ Retrieval signals check 1 passes with a note: "Contacts Page Overview- Mobile" (
 - Video: the Arcade link is kept under the opening paragraph, and the video needs re-recording for the new workflow and UI (Tara, answer 12). `Media Update Needed: Yes`.
 - Four screenshot placeholders. Tara's working screenshots carry real names, emails, and phone numbers and are not article assets.
 
+**Draft-quality pass, 2026-10-06.** "Navigate" was removed from the description and the opening, per the AI-pattern do-not list added the same day. The description now reads "Manage your contacts and groups on the Contacts page, ..." (131 characters). The opening now names the first two sections: "open the Contacts page in Perchwell and read the Group, Last Shared, and Status columns." Applied in Notion and in the working draft. The v1 and v2 copies are left as the review record. No score change.
+
 **Corrections this rewrite found that outlive it**
 
 The sibling articles this one now links to are stale against the October screenshots:

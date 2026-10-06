@@ -1,6 +1,6 @@
 # Transformation Patterns Reference
 
-Detailed examples for each of the 12 help center article transformation patterns. Use these as a guide when rewriting articles.
+Detailed examples for each of the 16 help center article transformation patterns. Use these as a guide when rewriting articles.
 
 ## 1. Jobs-to-be-Done Opening
 
@@ -103,6 +103,16 @@ Remove "You can" and "allows you to." Use direct instructions.
 | "The View control above them sets how those listings display." | "Click the View control above the search results to choose how the listings display." |
 
 Added September 24, 2026. On Search Page Overview the reviewer made this swap in three sections that had passed every grep in step 7, because nothing in "The Columns control names the template currently applied" is a banned construction. It is just the wrong end of the sentence.
+
+**Nor with the activity.** A gerund subject is the same fault one step further from the member: it names the task, then describes how the task begins, and the click arrives in the second half of the sentence or the next one.
+
+| Starts with the activity | Starts with the verb |
+|---|---|
+| "Adding a contact starts from the Add contact icon, the pencil on the upper right of the My Contacts tab. It opens the Create New Contact modal, where you fill in the contact's details and choose what happens next:" | "Click the Add contact pencil icon on the My Contacts tab to open the Create New Contact window. Enter the contact's information and select any additional options:" |
+| "Adding a contact while you share listings starts from a new client Tag in the share flow." | "Add a new contact directly from the listing share flow." |
+| "Exporting your contact list downloads your My Contacts list as a CSV file. Click the Export contacts icon, the arrow on the upper right of the My Contacts tab, to start the download. The export covers the My Contacts tab only; the My MLS roster does not export." | "Click the Export contacts arrow icon on the My Contacts tab to download your contact list as a CSV file. The export includes contacts from My Contacts only. The My MLS roster is not included." |
+
+The third row also shows what the rewrite kept: the My Contacts-only limit, now in its own sentence, because a member asking "can I export the agent roster" needs it. Added October 6, 2026, from the Contacts Page Overview review.
 
 ## 6. Descriptive Section Titles
 
@@ -277,3 +287,77 @@ This is a retrieval rule as much as a scanning one. A member asking Fin "what is
 Do not confuse this with pattern 4. Pattern 4 expands a thin description into actions and warns against inventorying the screen. This one is about form: when a set exists, it is a list. Both can apply to the same section, and neither licenses a bullet per field on a listing card.
 
 Added September 24, 2026, after the Search Page Overview migration, where this single transformation accounts for four of the nine sections the reviewer rewrote. The standard carries it under Lists and tables, along with the colon convention.
+
+## 13. Headings Cover the Whole Section
+
+A heading names everything the section holds. List what the section does, then check that the heading names each item. If it cannot without running long, the section is covering two topics and splits.
+
+| Before | After | Why |
+|---|---|---|
+| Read your contact list on the My Contacts tab | What the Group, Last Shared, and Status columns show | The section defines three columns; it does not teach reading the list in general |
+| Find a contact on the My Contacts tab | Find, sort, and filter contacts | The section covers three actions, and the old heading named one |
+| Look up any member of your MLS on the My MLS tab | Find an MLS member on the My MLS tab | Shorter, and keeps the words a member would search with |
+
+This is a retrieval rule first. A member asking Fin "how do I sort my contacts" matches a heading that says sort, and gets nothing from one that says find.
+
+Added October 6, 2026, from the Contacts Page Overview review, where three of nine headings were rewritten for this.
+
+## 14. An Overview Gives a Neighbor One Sentence
+
+When an Overview reaches a control whose feature has its own article, say what the control does on this page in one or two sentences, then link. The neighbor's article explains how the feature works.
+
+**Before:**
+> - Create Tag: Turn on to create a Client Tag for the contact automatically. A Client Tag gathers the listings you send the contact, and the results of any Saved Search you send through the Tag, in one place where the client can like or dislike them. Set up alerts for the contact or send the Tag later from Tags. Click Learn more under Create Tag for a short explainer.
+
+**After:**
+> - Create Tag: Turn on to automatically create a Client Tag for the contact. The Tag keeps listings shared with the contact in one place and can also include listings from a Saved Search.
+
+**Before:**
+> The Reverse Prospecting toggle on the Contact Details tab controls whether agents with a matching listing discover this contact's Saved Searches and reach out to you.
+
+**After:**
+> The Reverse Prospecting toggle on the Contact Details tab controls whether the contact's Saved Searches are included in Reverse Prospecting. Turn it off to exclude the contact's Saved Searches.
+
+Both still give Fin the relationship between the contact, the Tag, and the Saved Search. What moved out is behavior the linked Tags and Reverse Prospecting articles own.
+
+**Where the pattern stops.** A limit or default the member meets on this page stays, because it is this article's fact. The My Contacts-only export limit and the five-email cap on Additional Emails both stayed.
+
+## 15. One Word for One Thing, and the Verb Matches the Control
+
+A word that already names an action in the article is reserved for that action. Contacts Page Overview uses Sort for clicking a column heading, so contact groups "organize" clients and leads instead of "sorting" them. Two meanings for one word make the member, and Fin, wonder whether they are the same thing.
+
+The verb also matches the kind of control:
+
+| Control | Verb |
+|---|---|
+| Button, icon, tab, link | Click |
+| Option in a list or dropdown | Select |
+| Text field | Enter |
+| Toggle | Turn on, turn off |
+
+Smaller fixes from the same review:
+
+| Before | After |
+|---|---|
+| set Grouping | select a group under Grouping |
+| the Filters icon, the last icon on the upper right | the Filters slider icon |
+| Type in the search field | Enter a name in the Search contacts field |
+| many contacts | multiple contacts |
+| open their profile, in a heading about reviewing it | view their profile |
+
+Name an icon by its hover label and its shape ("the Add contact pencil icon"). Add a position only when the shape alone does not single it out.
+
+## 16. Three or More Related Links Become a List
+
+**Before:**
+> [Create and Manage Your Contacts in Perchwell](...) walks through creating and editing a contact step by step. For the CSV file format and the upload itself, see [Bulk Upload Contacts](...), and [Invite Clients to Perchwell](...) covers what an invited client sees. The [Tags Page Overview](...) explains Client Tags in full.
+
+**After:**
+> For more information:
+>
+> - [Create and Manage Your Contacts in Perchwell](...) covers creating and editing contacts.
+> - [Bulk Upload Contacts](...) covers CSV requirements and uploading multiple contacts.
+> - [Invite Clients to Perchwell](...) covers inviting contacts and what they can access in Perchwell.
+> - [Tags Page Overview](...) covers Client Tags.
+
+Each article sits next to the question it answers, and a scanning member finds the right one in one line. Inside the list, the repeated "covers" is fine, because the list is read as a set. One or two links stay as ordinary sentences with varied phrasing, per pattern 7. The list goes at the end of the section the articles extend, never as an article footer.

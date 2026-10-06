@@ -19,6 +19,7 @@ Across Universal Search Bar, Dashboard Overview, Customize Your Dashboard, and A
 | Invented facts that read plausibly | the sourcing rules, plus the flag-first line | **answers, when the skill asks** |
 | An article quietly growing a second surface | the hand-off table, for an Overview | **a yes or no on the proposed split** |
 | A question spent on something you already knew was broken | nothing | **what is already known wrong** |
+| Section leads that describe before they instruct, headings narrower than their section, neighbors over-explained in an Overview, links buried in a paragraph | the draft-quality pass, added October 6, 2026, after Contacts Page Overview | nothing |
 
 **Two of these changed on September 24, 2026, after Search Page Overview.** `Hands off:` is now optional on an Overview, because the skill computes the hand-off table itself and comes back with a proposal to approve rather than a question to answer; fill it in only when you already know the answer and want to skip the proposal. And `Screenshots:` is now "what changed", not "everything the article needs", because the skill reads the article's existing images first. Asking for shots the live article already carries cost a round on that migration, and the old images answered eight of fourteen open questions once they were read.
 

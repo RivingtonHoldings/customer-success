@@ -87,6 +87,8 @@ Three were opened during the rewrite and all three were resolved by Tara on 2026
 - **Keep and Hide in the Actions menu.** Confirmed present by the September Actions screenshot.
 - **Whether the Location column can be removed.** Tara's answers 5 and 11 conflicted; she confirmed answer 5. Location and Status can be reordered but not removed, and the draft states it as what the member keeps rather than as a bare deficit: every listing keeps its address and status on screen whichever template is applied. The greyed checkbox on Location in the September screenshot is the constraint rendering correctly.
 
+**Draft-quality pass, 2026-10-06.** The repo draft had fallen behind the Notion page, which Tara edited through October 2. It was re-synced from Notion, with Notion images recorded as `> Image:` lines carrying their alt text. Two fixes were then applied in both places. First, "navigate" was removed. The description now opens "Set filters on the Search page" (132 characters), and the opening names the first section: "move between the Filters and Results tabs on the Search page". Second, eight sentences over the new length limits were split or trimmed: Quick Filters, the Quick Filter search, the filter search field, the map shape, the columns/template menu, Location and Status, the Narrow section lead, and the column filter. The column filter sentence dropped "without returning to the Filters tab" because the section lead now carries that fact once. No facts were added or removed. No score change.
+
 **Corrections this rewrite found that outlive it**
 
 Four labels are wrong in the live article, and three of them are wrong in sibling articles too. Ruling on where this backlog lives is still owed.

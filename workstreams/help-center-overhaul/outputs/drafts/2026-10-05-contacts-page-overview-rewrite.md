@@ -17,9 +17,9 @@ migrated_from: master-article-list
 
 # Contacts Page Overview
 
-**Description:** Navigate the Contacts page, manage your contacts and groups, and find members of your MLS and their contact information on the My MLS tab.
+**Description:** Manage your contacts and groups on the Contacts page, and find members of your MLS and their contact information on the My MLS tab.
 
-Use this article to navigate the Contacts page in Perchwell. Find, add, organize, and message contacts, review contact profiles, export your contact list, and find members of your MLS from the My MLS tab.
+Use this article to open the Contacts page in Perchwell and read the Group, Last Shared, and Status columns. Find, add, organize, and message contacts, review contact profiles, export your contact list, and find members of your MLS from the My MLS tab.
 
 https://app.arcade.software/share/hYdohaFqPRWoEKbZzQ9P
 

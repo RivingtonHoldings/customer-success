@@ -2,7 +2,7 @@
 
 The approved writing, structure, naming, and formatting standard for every Perchwell help center article. This file replaces the bundled fallback rules that used to live in `.claude/skills/article-draft/references/style-rules.md`. The golden questions (`golden-questions.md` in this folder) apply on top of it, and the Fin-readiness scorecard (`fin-readiness-scorecard.md`) measures how far an article is from meeting both.
 
-Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test. List order and member-controlled verbs added September 10, 2026 after the Dashboard Overview migration. Navigation-step rule added September 11, 2026 from the same article. Source-precedence and tighter-phrasing rules added September 14, 2026 after the Customize Your Dashboard migration. Alt text and caption rules added September 15, 2026. Title collision check and the source-agreement rule added September 16, 2026; the source-agreement rule is awaiting Kelly and Rafe. Plain language rules added September 15, 2026, after Kelly's review of the Universal Search Bar and Dashboard Overview drafts, and tightened September 16, 2026 after the Listings widget migration. The mirror-is-not-the-set rule and the control-versus-readout boundary on exact labels both added after the Dashboard FAQ migration, September 22 and 23, 2026. The caveat that the mirror cannot be used to find default help center links added September 23, 2026, after the Dashboard Overview port. The labeled-list rule and the colon convention for bullet lead-ins added September 24, 2026, after the Search Page Overview migration. All five awaiting Kelly and Rafe. "Modal" retired October 1, 2026, after Kelly flagged it a second time on the Universal Search Bar; also awaiting Kelly and Rafe.
+Owner: Tara, project lead, [tara.bars@perchwell.com](mailto:tara.bars@perchwell.com). Approvers: Kelly Miragliotta, Baldwin content audit owner, [kelly.miragliotta@perchwell.com](mailto:kelly.miragliotta@perchwell.com), and Rafe Petkovic, Fin answer-quality owner, [rafe.petkovic@perchwell.com](mailto:rafe.petkovic@perchwell.com). Written September 4, 2026. Migration and scorecard sections added September 9, 2026 after the first migration test. Audience, limitations, redundancy, and bold rules revised September 10, 2026 after the team reviewed that test. List order and member-controlled verbs added September 10, 2026 after the Dashboard Overview migration. Navigation-step rule added September 11, 2026 from the same article. Source-precedence and tighter-phrasing rules added September 14, 2026 after the Customize Your Dashboard migration. Alt text and caption rules added September 15, 2026. Title collision check and the source-agreement rule added September 16, 2026; the source-agreement rule is awaiting Kelly and Rafe. Plain language rules added September 15, 2026, after Kelly's review of the Universal Search Bar and Dashboard Overview drafts, and tightened September 16, 2026 after the Listings widget migration. The mirror-is-not-the-set rule and the control-versus-readout boundary on exact labels both added after the Dashboard FAQ migration, September 22 and 23, 2026. The caveat that the mirror cannot be used to find default help center links added September 23, 2026, after the Dashboard Overview port. The labeled-list rule and the colon convention for bullet lead-ins added September 24, 2026, after the Search Page Overview migration. All five awaiting Kelly and Rafe. "Modal" retired October 1, 2026, after Kelly flagged it a second time on the Universal Search Bar; also awaiting Kelly and Rafe. Draft-quality rules added October 6, 2026, from Tara's review of the Contacts Page Overview draft and the CS manager's writing rules: headings that cover their whole section, Overview neighbors, Lead with the action, the related-articles list, and the AI-pattern do-not table. Awaiting Kelly and Rafe.
 
 Related Notion pages: [Help Center Article & Collection Naming Standards](https://app.notion.com/p/3ce8b9e0143881b790c6c7c29eb11009) (naming, approved) and [Template Article](https://app.notion.com/p/3d18b9e0143880189917f12bdc34c500) (this standard rendered as a fill-in template).
 
@@ -24,6 +24,10 @@ Two rules from the old fallback were retired on September 4, 2026 because no liv
 | FAQ | Several short questions about one area, none large enough for its own article | "\<Area\> FAQ" |
 
 One primary goal per article. When the content starts branching into a second workflow, link out instead of expanding.
+
+**An Overview gives a neighboring feature one or two sentences, then a link.** Say what the control does on this page and stop. How the neighboring feature works belongs to its own article, which the section links. On the Contacts Page Overview, the Create Tag option first got three sentences of Tags behavior (where listings gather, liking and disliking, alerts, sending later) and was cut to one: "The Tag keeps listings shared with the contact in one place and can also include listings from a Saved Search." The Reverse Prospecting toggle went the same way: the article says what the toggle controls, and the Reverse Prospecting article explains how agents discover matching searches. Keep any limit or default the member meets on this page, since that is this article's fact, not the neighbor's.
+
+**An FAQ answer answers in its first sentence.** The question heading asks; the first sentence beneath it gives the answer, with the heading's key terms. Steps, if any, follow. A short answer does not grow into a how-to article.
 
 ## Titles
 
@@ -81,6 +85,7 @@ Headings are weighted heavily in Fin's retrieval scoring, so they carry more of 
 - FAQ articles use one heading per question, in question form. Question-form headings are allowed in any article type when they match how members ask.
 - Do not use bare nouns ("Settings", "Options") or bare imperatives with no object ("Get started").
 - Do not repeat the same heading twice in one article.
+- **A heading covers everything beneath it.** List what the section actually does, then check the heading names all of it. A section that searches, sorts, and filters is "Find, sort, and filter contacts", not "Find a contact". A section that defines three columns is "What the Group, Last Shared, and Status columns show", not "Read your contact list". When a heading cannot name everything without running long, the section is covering two topics and splits. Between two accurate headings, take the shorter one that keeps the words a member would search with: "Find an MLS member on the My MLS tab" over "Look up any member of your MLS on the My MLS tab". Added October 6, 2026, from the Contacts Page Overview review, where three of nine headings were rewritten for this.
 
 **Heading echo.** The first sentence under a heading repeats the heading's key terms. Fin sometimes fails to capture headings from the HTML, and the echo means the section still identifies itself. Under "Set the stable range", open with "The stable range controls ...", not "This controls ..."
 
@@ -136,7 +141,7 @@ Intercom's guidance is that a bold label is what marks a passage as something Fi
 - In the repo's markdown mirror these appear as blockquotes, for example `> **Important:** The report supports up to 500 listings.`
 - Do not stack two callouts back to back, and do not use a callout for something a plain sentence in the flow would carry just as well. Both model articles state most limits as ordinary sentences directly under the steps that produce them.
 
-Links to related articles are ordinary sentences or bullets, not callouts. Vary the phrasing: "Learn how column templates work in \<link\>", "\<Link\> covers tag sharing in detail", "For step-by-step guidance on inviting clients, see \<link\>". Never write "click here" or "view our article here".
+Links to related articles are ordinary sentences or bullets, not callouts. Vary the phrasing: "Learn how column templates work in \<link\>", "\<Link\> covers tag sharing in detail", "For step-by-step guidance on inviting clients, see \<link\>". Never write "click here" or "view our article here". Three or more links in one section become a "For more information:" list; see Internal linking.
 
 ## Audience and permissions
 
@@ -205,6 +210,7 @@ Where a limit is stated, it is stated precisely. All numbers, thresholds, limits
 Two uses that look like hits and are not, both live in the finished drafts: "public records and tax data" is the real-world term, and "click your browser's back button to return to the Dashboard" is the ordinary verb. A grep finds candidates; a person decides.
 
 **"tiles" in alt text was a third, and was struck September 18, 2026.** Alt text stands in for the image, so it should name what a sighted reader would see named, and the body of that same article was rewritten to avoid "tile" precisely because a definition that says what a thing does beats one that says what shape it is on screen. Keeping the word in alt text preserved in one field exactly what the body had been cleaned of. "showing widgets across the page" carries the same information in the article's own vocabulary. The no-inventory exception still stands: alt text may list what is on screen, because it exists for someone who cannot see it. Listing things and naming their shape are different problems.
+
 - Name the actual UI element the member sees. "Filter by Recently Created or New" beats "filter your contacts". Name it exactly; do not bold it.
 - Do not inventory what is already on the screen. A member looking at a listing card can see the price and the bed count, and listing those fields back adds length without adding an answer. Say what a display covers or what it does, not which fields it renders: "Listings in every status appear, including Active, Pending, Closed, and Expired" earns its place; "each card shows the address, city, price, bedrooms, and bathrooms" does not. Screenshot alt text is the exception, because it exists for people who cannot see the image.
 - State system behavior explicitly: what happens automatically, what is included by default, what is required, what cannot be undone.
@@ -214,6 +220,40 @@ Two uses that look like hits and are not, both live in the finished drafts: "pub
 - Hedge predictions about people. "Members may ask" beats "members will ask".
 - No internal language: no employee names, no internal product terms the member cannot see, no casual asides.
 - Legacy platforms are never named in an article. One article serves more than one MLS, and members came from different systems, so write "a legacy platform" and keep the legacy feature name the member would recognize. Full transition voice in `docs/product-context.md`. Never "old system", "retired", or "sunsetted".
+
+**AI-pattern do-not list.** These are the constructions that make a draft read as generated rather than written, which a reviewer then rewrites by hand. Each gets a replacement, as in the plain language list. Added October 6, 2026, from the CS manager's writing rules and Tara's personal style trial.
+
+| Do not write | Write instead |
+|---|---|
+| Narrator phrases: "this is where", "it's worth noting", "let's dive in", "here's how" | Drop the phrase and state the fact or the step |
+| Canned transitions: "It's important to note", "That said", "Furthermore", "Additionally" | Drop the transition. If the point is important, an **Important:** or **Note:** callout carries it |
+| A paired contrast: "This isn't X, it's Y", "not just X", "Not X. Not Y. Z." | Make the claim once: "Y" |
+| A question followed by its own answer, in body text | The answer as a statement |
+| delve, robust, crucial, landscape, journey, unlock, elevate | The fact or number behind the word, or nothing |
+| navigate, including "navigate the Contacts page" in an Overview opening | Name the first thing the member does on the page, which is also the first section: "open the Contacts page and read the Group, Last Shared, and Status columns", "move between the Filters and Results tabs on the Search page". "The top navigation" is the bar's name, not a hit. Both Overview openings that used it were fixed October 6, 2026 |
+| easily, simply, designed to, helps ensure | Drop the word, or state what the feature does: "designed to keep" becomes "keeps" |
+| signal as a noun, architecture used figuratively, compounding | The real thing: the count, the setting, the result |
+| many, a lot of, several, as a quantity where a number or a plainer word exists. "How many" in a question or a count ("shows how many filters are applied") is fine | the exact number, or "multiple": "add multiple contacts from a CSV file" |
+| A lead that names a set but claims a relationship the items lack: "Three columns tell you where each contact stands" | Say what the set has in common, plainly: "The Group, Last Shared, and Status columns show key details about each contact" |
+
+Four exemptions keep this list from contradicting the rest of the standard:
+
+- **Retrieval repetition is not restating.** The heading echo, the feature name in every section, and the "Use this article to" opening stay, however repetitive they read.
+- **A factual contrast is not a paired contrast.** "Unlike the checkboxes" names two things that genuinely differ, and stays.
+- **FAQ question headings are not a question followed by its answer.** The heading is the member's question, and the standard asks for it.
+- **A which-means clause is not filler.** It translates a system term, per Voice and terminology.
+
+## Lead with the action
+
+A section starts with what the member does, and the context comes after it. A reviewer will make this edit in every section that misses it, so it is the cheapest one to get right in the first draft. Added October 6, 2026, from the Contacts Page Overview review, where the reviewer rewrote five section leads for this alone.
+
+- **No gerund subject, no setup clause.** "Adding a contact starts from the Add contact icon" becomes "Click the Add contact pencil icon on the My Contacts tab to open the Create New Contact window." "Finding a contact works three ways" becomes the labeled list itself, under a heading that names all three ways. A sentence whose subject is an -ing verb ("Adding", "Exporting", "Finding") and whose verb is "starts", "works", "lets", or "downloads" is the pattern.
+- **The first sentence still echoes the heading.** Leading with the verb and the heading echo are the same sentence: "Click the Export contacts arrow icon on the My Contacts tab to download your contact list as a CSV file" opens the export section with the action and carries "export" and "contact list" from the heading.
+- **No lead that restates its own subject.** "Exporting your contact list downloads your My Contacts list as a CSV file" says that exporting exports. Cut it, and start with the click.
+- **One idea per sentence, with a length limit.** Instructions and steps run under 20 words; other sentences under 25. A limit or a scope fact gets its own sentence after the action, not a clause on the end of it: "The export includes contacts from My Contacts only. The My MLS roster is not included." The limit is a flag, not a cut: a longer sentence is split where it splits cleanly at an idea boundary. Two forms are exempt because their length is the enumeration itself: the "Use this article to" opening, and a labeled-list item that defines a set of states, such as the three Status values on the My Contacts tab.
+- **One word for one thing, across the article.** When a word already names a table action, such as search, sort, filter, or share, reserve it for that action. Contact groups "organize" clients and leads; they do not "sort" them, because Sort is a column-heading action two sections earlier. The same goes for the window, the panel, and the feature name: pick one and keep it.
+- **The verb matches the control.** Click a button, icon, or tab. Select an option from a list or dropdown. Enter text in a field. Turn a toggle on or off. "Set Grouping" became "select a group under Grouping", because Grouping is a dropdown. And the verb matches the intent: "view their profile" where the section is about reading it, "open" where the click is the point.
+- **Name an icon by its hover label and its shape.** "Click the Filters slider icon", "the Add contact pencil icon", "the Edit groups people icon". The hover label is the exact on-screen name, and the shape is what the member finds on the page before hovering. Add a position ("on the upper right") only where the shape alone does not single the icon out.
 
 ## Formatting
 
@@ -244,6 +284,7 @@ Two uses that look like hits and are not, both live in the finished drafts: "pub
 - Prefer the public help center URL for the article's own MLS (`support.perchwell.com/baldwin/en/...`). A link into the default help center (`support.perchwell.com/en/...`) is flagged at transfer so CS can confirm it resolves for that MLS's members. If only the Notion page is known, link that and flag it for replacement at Intercom transfer.
 - **The mirror cannot be used to find default help center links.** `docs/help-center/` holds the page Intercom renders for a reader of that help center, and Intercom rewrites a stored `/en/` link to `/baldwin/en/` on the way out. A grep of the mirror therefore finds none of the links this rule exists to catch, and reports that every link is already correct. Check the stored article with the Intercom connector's `get_article`, which is what `/port-to-intercom` now does at the transfer step. Found September 23, 2026, when the live Dashboard Overview turned out to carry seven `/en/` links the mirror had shown as `/baldwin/en/` since the article was first ported.
 - Do not recreate a workflow that already has an article.
+- **Three or more related articles in one section get a list.** Introduce them with "For more information:" and give each its own bullet: the linked title, then what that article covers, as in `- [Bulk Upload Contacts](...) covers CSV requirements and uploading multiple contacts.` A member scanning for "which article answers my question" finds it in one line, and each topic sits next to its own destination. Put the list at the end of the section the articles extend, never as an article footer, since Intercom renders Related Articles there already. One or two links stay as ordinary sentences with varied phrasing, per Callouts. Inside the list a parallel form ("covers ...") is fine, because a list is read as a set. Added October 6, 2026, from the Contacts Page Overview review, where four links in one paragraph became a four-bullet list.
 
 ## Migrating an existing article
 
@@ -279,6 +320,14 @@ Confirm before saving a draft:
 - Sections follow the order of any list in the opening paragraph or a lead sentence, and every item in that list has a section behind it
 - Title is the only H1; sections are H2; subsections and `Steps:` are H3
 - Every heading names what the section answers and carries the feature name where it fits
+- Every heading covers everything in its section: list the section's actions or topics and check each is named
+- Every section lead starts with the member's action, not a gerund subject or a setup clause, and still echoes the heading
+- Instructions and steps run under 20 words, other sentences under 25; a limit or scope fact gets its own sentence
+- A word that names a table action (search, sort, filter, share) is used for that action only; the verb matches the control (click, select, enter, turn on)
+- Icons are named by hover label and shape
+- In an Overview, each neighboring feature gets one or two sentences and a link; FAQ answers answer in their first sentence
+- Three or more related-article links in one section are a "For more information:" list
+- Nothing from the AI-pattern do-not list, outside its four exemptions
 - The first sentence under each heading echoes the heading's key terms
 - No section depends on "above", "then", or a previous section to make sense
 - No fact or enumeration appears in more than one section; the feature name repeats, its capabilities do not
