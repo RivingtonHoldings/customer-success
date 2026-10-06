@@ -90,7 +90,7 @@ The saved template appears under the Templates tab, and its name appears in the 
 
 To apply a template you saved earlier, click Columns, click the Templates tab, then select the template.
 
-> Screenshot placeholder: the Save Column Template modal, with the Name field and the Make this my default column view on a new search checkbox | Alt text: The Save Column Template modal with a Name field and a checkbox to make the template the default column view on a new search.
+> Screenshot placeholder: the Save Column Template window, with the Name field and the Make this my default column view on a new search checkbox | Alt text: The Save Column Template window with a Name field and a checkbox to make the template the default column view on a new search.
 
 ## Set a default column template for new searches
 
@@ -131,7 +131,7 @@ To search within a specific area instead, see [Map Tools in Search](http://suppo
 
 ### Read the flood risk areas on the search map
 
-The Flood overlay colors the search map by FEMA flood risk area. Click View flood risk definitions at the bottom of the layers panel to open the FEMA Flood Areas modal, which explains each color:
+The Flood overlay colors the search map by FEMA flood risk area. Click View flood risk definitions at the bottom of the layers panel to open the FEMA Flood Areas window, which explains each color:
 
 - Low risk (green): Areas with a reduced chance of flooding, where flooding is still possible.
 - 500-year flood area (yellow): A 0.2% chance of flooding in any given year.
@@ -140,4 +140,4 @@ The Flood overlay colors the search map by FEMA flood risk area. Click View floo
 
 Flood risk areas come from FEMA's National Flood Hazard Layer.
 
-> Screenshot placeholder: the FEMA Flood Areas modal, showing the four flood risk areas and their colors | Alt text: The FEMA Flood Areas modal, listing Low risk, 500-year flood area, 100-year flood area, and Regulatory floodway with a color for each.
+> Screenshot placeholder: the FEMA Flood Areas window, showing the four flood risk areas and their colors | Alt text: The FEMA Flood Areas window, listing Low risk, 500-year flood area, 100-year flood area, and Regulatory floodway with a color for each.
