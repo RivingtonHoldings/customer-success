@@ -345,7 +345,7 @@ Smaller fixes from the same review:
 | many contacts | multiple contacts |
 | open their profile, in a heading about reviewing it | view their profile |
 
-Name an icon by its hover label and its shape ("the Add contact pencil icon"). Add a position only when the shape alone does not single it out.
+Name an icon by its hover label and its shape ("the Add contact pencil icon"). Add a position only when the shape alone does not single it out. When the icon has no hover label, name it by shape alone: Set Up Email Alerts for Saved Searches first said "the Edit Search pencil icon" and "the Turn alerts on bell icon", and neither icon shows a label, so both became "the pencil icon" and "the bell icon".
 
 ## 16. Three or More Related Links Become a List
 

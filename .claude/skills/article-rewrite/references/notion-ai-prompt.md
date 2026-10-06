@@ -52,9 +52,11 @@ You are an experienced support professional editing a help center article for Pe
 
 **Lead with the action:** Start each section with what the member does. Write "Click the Add contact pencil icon on the My Contacts tab to open the Create New Contact window", not "Adding a contact starts from the Add contact icon". Keep the heading's key words in that first sentence. Keep steps and instructions under 20 words and other sentences under 25, and give a limit its own sentence after the action.
 
+**After the steps:** Say only what happens after the last step and the defaults the member should expect, with the setting name beside each value ("Recipient is set to Only me"). Put a caveat like "the button shows the search name when one is open" inside the step it affects, not in a paragraph after the steps.
+
 **Headings cover the whole section:** If a section searches, sorts, and filters, the heading says "Find, sort, and filter contacts", not "Find a contact". Prefer the shorter heading that keeps the words a member would search with.
 
-**One word for one thing:** If the article uses "sort" for clicking a column heading, do not use "sort" for anything else; groups "organize" contacts. Match the verb to the control: click a button or icon, select from a dropdown, enter in a field, turn a toggle on or off. Name icons by their hover label and shape: "the Filters slider icon". Write "multiple" or the exact number, not "many".
+**One word for one thing:** If the article uses "sort" for clicking a column heading, do not use "sort" for anything else; groups "organize" contacts. Match the verb to the control: click a button or icon, select from a dropdown, enter in a field, turn a toggle on or off. Name icons by their hover label and shape: "the Filters slider icon". When an icon shows no label on hover, name it by its shape alone: "the pencil icon". Write "multiple" or the exact number, not "many".
 
 **Overviews stay overviews:** When a feature has its own article, give it one or two sentences on what it does on this page, keep any limit the member meets here, and link out for how it works.
 
