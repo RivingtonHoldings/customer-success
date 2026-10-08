@@ -14,7 +14,7 @@ source_notion_url: https://app.notion.com/p/1d58b9e0143880c5816ac052fbead122
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Search | Roles: All | Video Included: Yes | Visuals Included: Yes | Media Update Needed: Yes | Notion: https://app.notion.com/p/3e68b9e0143881f3a934e295ac7a21b5 | Old title: Customize Your Search View -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Search | Roles: All | Video Included: Yes | Visuals Included: Yes | Media Update Needed: Yes | Notion: https://app.notion.com/p/3e68b9e0143881f3a934e295ac7a21b5 | Old title: Customize Your Search View | Synced from Notion October 8, 2026 -->
 
 # Customize Your Search Results View
 
@@ -24,15 +24,15 @@ Use this article to change how listings display in your search results, add, rem
 
 https://app.arcade.software/share/2ZGJhka6MY0J6paXfupr
 
-## Change how listings display with the View control
+## Change how listings display in your search results
 
-The View control above your search results changes how listings display on the Results tab of the Search page. Click View, then click the view you want:
+Choose how listings display on the Results tab of the Search page by clicking an icon next to View, above your search results:
 
 - List: Displays listings in rows with no photos.
 - Expanded: Displays listings in rows, with a photo and a listing summary in the Location column.
 - Tiles: Displays listings as cards with larger photos and no columns.
 - Preview: Opens a preview of one listing at a time. Click the < and > arrows to move through the listings in your search results without leaving Preview.
-- Analytics: Charts the listings that match your search criteria.
+- Analytics: Displays charts based on the listings that match your search criteria.
 
 Preview also opens when you click a listing in your search results. Click Exit to return to your search results.
 
@@ -50,12 +50,12 @@ Preview also opens when you click a listing in your search results. Click Exit t
 
 ## Add, remove, and reorder columns in your search results
 
-Customize the columns in your search results from the Columns control just above them. If a column template is applied, its name appears in the control, such as Columns: SFR Template.
+Customize the columns in your search results from the Columns menu just above them. If a column template is applied, the menu shows its name after Columns.
 
-Columns are available in List and Expanded views. If you are in Tiles, Preview, or Analytics, click View and switch to List or Expanded first.
+Columns are available in List and Expanded views. If you are in Tiles, Preview, or Analytics, click the List or Expanded icon next to View first.
 
 ### Steps:
-1. Click Columns above your search results
+1. Open the Columns menu above your search results
 2. Click the Columns tab
 3. *(Optional)* Search for a column by name
 4. Select or clear the checkbox next to a column to add or remove it
@@ -64,9 +64,9 @@ Columns are available in List and Expanded views. If you are in Tiles, Preview, 
 
 Your search results update with the columns you selected. Location and Status can be reordered but cannot be removed, so they remain in your results regardless of the column template you apply.
 
-![The Columns control open on the Columns tab, with a search field, drag handles and checkboxes beside each column, and Update and Save New buttons.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png)
+![The Columns menu open on the Columns tab, with a search field, drag handles and checkboxes beside each column, and Update and Save New buttons.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png)
 
-To reorder columns without opening the Columns control, click and hold a column header in your search results, then drag it to its new position.
+To reorder columns without opening the Columns menu, click and hold a column header in your search results, then drag it to its new position.
 
 ![A column header being dragged to a new position in the search results, with the moving column highlighted.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904860/b8f94473261ca5a6ddba5dc6cea2/Screenshot+2026-07-04+at+9_55_41%E2%80%AFAM.png)
 
@@ -75,7 +75,7 @@ To reorder columns without opening the Columns control, click and hold a column 
 Save your column setup as a template to apply the same columns and order to future searches.
 
 ### Steps:
-1. Click Columns above your search results
+1. Open the Columns menu above your search results
 2. Click the Columns tab
 3. Select or clear the checkboxes for the columns you want displayed
 4. Drag the handles to arrange the columns in the order you want
@@ -84,11 +84,11 @@ Save your column setup as a template to apply the same columns and order to futu
 7. *(Optional)* Select Make this my default column view on a new search to automatically apply the template to new searches
 8. Click Save
 
-The saved template appears under the Templates tab, and its name appears in the Columns control when it is applied.
+The saved template appears under the Templates tab, and its name appears in the Columns menu when it is applied.
 
 > **Important:** Update replaces the template already applied with your current columns and order. Save New creates a new template without changing the existing one.
 
-To apply a template you saved earlier, click Columns, click the Templates tab, then select the template.
+To apply a template you saved earlier, open the Columns menu, click the Templates tab, then select the template.
 
 > Screenshot placeholder: the Save Column Template window, with the Name field and the Make this my default column view on a new search checkbox | Alt text: The Save Column Template window with a Name field and a checkbox to make the template the default column view on a new search.
 
@@ -98,14 +98,14 @@ Set a column template as your default so its columns and order are automatically
 
 Set a default in one of two ways:
 
-- From a template you already saved: Click Columns, click the Templates tab, then click the star next to the template you want to make your default.
-- While saving a new template: Click Columns, click Save New, select Make this my default column view on a new search, then click Save.
+- From a template you already saved: Open the Columns menu, click the Templates tab, then click the star next to the template you want to make your default.
+- While saving a new template: Open the Columns menu, click Save New, select Make this my default column view on a new search, then click Save.
 
 When you start a new search, Perchwell applies your default column template unless you have a default Template Search. A default Template Search takes priority because it can apply filters, columns, map settings, and display settings together.
 
 See [Customize Your Search Defaults with Template Searches](http://support.perchwell.com/baldwin/en/articles/13903342-customize-your-search-defaults-with-template-searches) to learn how to create and set a default Template Search.
 
-> Screenshot placeholder: the Columns control open on the Templates tab, showing the saved column templates with a filled star on the default one | Alt text: The Templates tab of the Columns control, listing saved column templates with a filled star marking the default.
+> Screenshot placeholder: the Columns menu open on the Templates tab, showing the saved column templates with a filled star on the default one | Alt text: The Templates tab of the Columns menu, listing saved column templates with a filled star marking the default.
 
 ## Resize, hide, and change layers on the search map
 
@@ -117,7 +117,7 @@ Adjust the search map from either the Filters or Results tab of the Search page.
 
 ![The Search page with the handle on the right edge of the map highlighted for dragging.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599899020/d78f67cd644da9be857420cf9480/Screenshot+2026-07-04+at+10_35_59%E2%80%AFAM.png)
 
-![The Search page with the panel icon that hides the map highlighted, to the left of the View control.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png)
+![The Search page with the panel icon that hides the map highlighted, to the left of View.](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png)
 
 The layers panel includes map styles and overlays:
 
