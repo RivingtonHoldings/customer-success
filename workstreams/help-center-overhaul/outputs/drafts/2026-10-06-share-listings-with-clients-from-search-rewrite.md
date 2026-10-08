@@ -77,7 +77,7 @@ Click Email or Text in the Share window's via Public Link section. Click the Tex
 
 > Screenshot placeholder: the Text tab of the Share window with the Select a contact field, the message box, and the character counter | Alt text: The Text tab of the Share window with the Select a contact field, a message box, and the 600-character counter.
 
-Your contact receives a text with a link to the listings. The first time you text a new number, Perchwell sends a confirmation request instead of the listings. The listings send automatically once the contact replies YES.
+Your contact receives a text with a link to the listings. When a phone number receives a text from Perchwell for the first time, a consent message is sent before the listings. Once the contact replies YES, the listings send automatically. Consent is tied to the phone number and only needs to be provided once.
 
 Contacts without a phone number are greyed out and cannot be selected. Add a phone number to the contact first, then return to the Text tab. Click Create Contact to add someone who is not already in your contacts.
 
@@ -87,10 +87,9 @@ Texts sent from Perchwell follow these rules:
 
 - Message length: Enter up to 600 characters. The counter below the message box shows how many characters you have entered. Longer messages may arrive as multiple texts.
 - Listing link and opt-out: Perchwell automatically adds the listing link and "Reply STOP to opt out." to every text. Neither can be edited or removed.
-- Sender number: Texts come from 332-240-3300, not your phone number. Contacts cannot reply to you at this number. Perchwell recognizes replies only for opt-in (YES) and opt-out (STOP).
-- Sending hours: Texts send between about 8:00 AM and 8:00 PM in your time zone. Texts sent outside these hours go out at about 8:00 AM the next morning.
+- Sender number: Texts come from 332-241-3300, not your phone number. Contacts cannot reply to you at this number. Perchwell recognizes replies only for opt-in (YES) and opt-out (STOP).
 
-> **Tip:** Let your client know to expect a confirmation text before you text them for the first time.
+> **Tip:** Before you text a client for the first time, let them know they may receive a consent message.
 
 ## What clients see when they open shared listings
 

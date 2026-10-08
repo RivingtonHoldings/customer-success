@@ -29,7 +29,7 @@ The live article and the old Notion page both described a Share window with Emai
 | 11 overview_jtbd | Fail | Pass | Old had no opening paragraph |
 | 12 instruction_completeness | Fail | Pass | Old steps stopped at choosing a tab and at Share Listings |
 | 13 limitations_workarounds | Pass | Pass | |
-| 14 numerical_clarity | Pass | Pass | Sending hours hedged to match the source |
+| 14 numerical_clarity | Pass | Pass | Sending hours removed; not enforced today |
 
 ## Plain language gate
 
@@ -65,11 +65,12 @@ The old score does not count the fact that the live article describes a Share wi
 
 - Facebook, LinkedIn, and X each open a new post with the public link, confirmed by Tara October 7, 2026
 - Share via Text confirmed October 7, 2026: it opens a Share window on the Text tab. That window has four tabs (Email, Text, Tags, Public link), unlike the two-section Share 1 Listing window. The draft documents the UI as it is today and names Share via Text only as a shortcut to the Text tab. Tara asked the product team on October 7, 2026 whether the Share via Text window will be updated; no answer yet. If it changes, recheck the Text section and its screenshot
-- Sending hours are approximate per Tara (about 8am and 8pm, in the member's time zone). The draft keeps the hedge rather than stating exact times; numerical clarity passes on the source, but product may want to state the exact window
+- Sending hours removed October 8, 2026: the team confirmed the 8:00 AM to 8:00 PM window is not enforced today and may be later. Re-add if it is enforced
+- Sender number corrected October 8, 2026 to 332-241-3300, confirmed by the team. The live article carries 332-240-3300, which is wrong
 - Title collision to note: CRMLS has "Sharing Listings with Clients" in its own help center
 - Message Clients in Perchwell link points at the default help center (`/en/`); flag at transfer
 - The old Notion page's Loom (b39567cba22e48ae8944d27de72930c5) shows RLS, not Baldwin, per Tara. Replaced with a video placeholder
 - Search Page Overview draft describes this article as covering "email, text message (SMS), or public link" and links the old title; update the link text after transfer
 - Live Multi-Listing Actions on the Search Page still says Share sends "by Email or generate a Public Link"; needs its own pass
-- Pending Tara (product): whether the YES opt-in for texts applies per phone number across Perchwell or per agent. The draft keeps the source wording, "The first time you text a new number", until that is answered
+- Resolved October 8, 2026: the YES confirmation is sent once per phone number across Perchwell, so a client who switches agents is not asked again. Draft updated
 - Reviewed October 7, 2026: a second reviewer's tightening pass was merged; edits that dropped the invited-client condition, the icon shape, "greyed out", or the clear-the-box clause, or that added "you can" or an unsourced contacts-only rule, were not taken
