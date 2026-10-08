@@ -56,7 +56,7 @@ The Results tab shows the listings that match your search criteria. Click an ico
 
 > Screenshot placeholder: the view icons next to View above the search results, with each icon labeled List, Expanded, Tiles, Preview, or Analytics | Alt text: The view icons next to the View label above the search results, for List, Expanded, Tiles, Preview, and Analytics.
 
-The columns/template dropdown menu above the search results shows the name of the column template currently applied. Open the columns/template dropdown menu to add, remove, or reorder columns. Save your columns as a column template from the same menu.
+The Columns menu above the search results shows the name of the column template currently applied. Open the Columns menu to add, remove, or reorder columns. Save your columns as a column template from the same menu.
 
 Location and Status can be reordered but cannot be removed. Both columns remain visible in List and Expanded views regardless of the column template you select.
 
