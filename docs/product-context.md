@@ -85,6 +85,8 @@ One line each, using the name members see in the product. Name it exactly and le
 
 ## Terminology rules
 
+When a term is settled, list every Notion draft and repo copy in the set that uses the old term, update them together, and record the rollout on the term's line below.
+
 - Use the label the member sees on screen, spelled exactly as the UI spells it, and do not bold it. "Add/Edit," not "the listing form."
 - A pop-up window that opens over the page is a window, named for what it does: "the search window". One name for it, used consistently, so a member and Fin both track the same thing. Never "modal"; agents do not say it.
 - A Hot Sheet's date window is a timeframe, one word. The Edit hot sheet modal labels the field `Timeframe`, and the Dashboard FAQ asks "What is the maximum timeframe for a hot sheet?", so one word is both the product's spelling and the majority of the live help centers. Two words appears in four live articles and is the form to correct when those are next touched.

@@ -69,6 +69,8 @@ For runbooks, Q&A docs, project status pages, and anything staff-facing:
 | Notion | Collaborative review layer. Drafts go here for the team to comment on and approve | Claude creates and updates draft pages freely |
 | Intercom | Production. What members see and what Fin reads from | Humans publish. Claude pushes drafts only under the rules below |
 
+Once a draft has a Notion page, Notion is the working copy, because reviewers edit there. Before editing or relying on a draft's repo copy in `outputs/drafts/`, compare it with the Notion page and sync it if they differ.
+
 ## Write rules, as a ladder
 
 Each rung requires more than the one before it.
