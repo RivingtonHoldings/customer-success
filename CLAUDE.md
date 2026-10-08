@@ -95,6 +95,7 @@ Teammates never run git. Claude does it for them:
 - At session start, offer to pull the latest from main (`/setup-check` does this).
 - At session end, offer to commit and push, with a one-line message describing the work.
 - Before committing, check `git status` for anything under a `confidential/` folder or anything containing a member name or email, and leave it out.
+- Another session may be editing the same files. Before committing, diff any shared file, the standards especially, for lines its edits and yours have cross-wired. Commit only your own files, and say so when a shared file carries someone else's uncommitted changes.
 
 ## Knowledge management
 
