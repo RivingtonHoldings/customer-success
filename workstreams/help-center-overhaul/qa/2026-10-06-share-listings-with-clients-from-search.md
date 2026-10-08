@@ -63,11 +63,13 @@ The old score does not count the fact that the live article describes a Share wi
 
 ## Open items
 
-- `[confirm]` LinkedIn opens a new post with the link. Facebook and X confirmed by Tara, October 7, 2026; the LinkedIn icon is present
-- `[confirm]` Share via Text in the Actions menu opens the same Text tab
+- Facebook, LinkedIn, and X each open a new post with the public link, confirmed by Tara October 7, 2026
+- Share via Text confirmed October 7, 2026: it opens a Share window on the Text tab. That window has four tabs (Email, Text, Tags, Public link), unlike the two-section Share 1 Listing window. The draft documents the UI as it is today and names Share via Text only as a shortcut to the Text tab. Tara asked the product team on October 7, 2026 whether the Share via Text window will be updated; no answer yet. If it changes, recheck the Text section and its screenshot
 - Sending hours are approximate per Tara (about 8am and 8pm, in the member's time zone). The draft keeps the hedge rather than stating exact times; numerical clarity passes on the source, but product may want to state the exact window
 - Title collision to note: CRMLS has "Sharing Listings with Clients" in its own help center
 - Message Clients in Perchwell link points at the default help center (`/en/`); flag at transfer
 - The old Notion page's Loom (b39567cba22e48ae8944d27de72930c5) shows RLS, not Baldwin, per Tara. Replaced with a video placeholder
 - Search Page Overview draft describes this article as covering "email, text message (SMS), or public link" and links the old title; update the link text after transfer
 - Live Multi-Listing Actions on the Search Page still says Share sends "by Email or generate a Public Link"; needs its own pass
+- Pending Tara (product): whether the YES opt-in for texts applies per phone number across Perchwell or per agent. The draft keeps the source wording, "The first time you text a new number", until that is answered
+- Reviewed October 7, 2026: a second reviewer's tightening pass was merged; edits that dropped the invited-client condition, the icon shape, "greyed out", or the clear-the-box clause, or that added "you can" or an unsourced contacts-only rule, were not taken
