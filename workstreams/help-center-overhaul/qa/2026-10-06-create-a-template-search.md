@@ -9,9 +9,9 @@ Retitled from "Customize Your Search Defaults with Template Searches" (live) and
 - Mirror: `docs/help-center/baldwin/customize-your-search-defaults-with-template-searches.md` (Baldwin only, not shared)
 - Live article images, captured July 4, 2026: the My Searches window (out of date, and it shows real contact names) and the Save Search window (still current)
 - Tara's screenshots, October 6, 2026: the My Searches window with a green star on the Template Search, and the Save Search window after changing a search
-- Tara's answers on October 6, 2026: the Saved Searches button label, Start New and New Search both apply the Template Search, the Perchwell logo goes to the Dashboard and does not reset the search, Update Current on a new search does not change the Template Search, what the Template Search saves (map zoom, layer, size, sort order), starring a different search moves the Template Search, clicking the filled star turns it off, the star's hover label, changing the Template Search with Update Current, keeping the Arcade as a video placeholder
+- Tara's answers on October 6, 2026: the Saved Searches button label, Start New and New Search both apply the Template Search, the Perchwell logo goes to the Dashboard and does not reset the search, Update Current on a new search does not change the Template Search, what the Template Search saves (map zoom, layer, size, sort order), starring a different search moves the Template Search, clicking the filled star turns it off, the star has no hover label (corrected October 8, 2026; the article names it by shape), changing the Template Search with Update Current, keeping the Arcade as a video placeholder
 - Sibling drafts read for set consistency: Customize Your Search Results View, Search Page Overview, Set Up Email Alerts for Saved Searches
-- Draft: `workstreams/help-center-overhaul/outputs/drafts/2026-10-06-create-a-template-search-rewrite.md`, revised the same day with Tara's edit (tighter leads that name the task and place instead of the click, Start New and New Search labeled by location) plus seven fixes restoring "default", the view-icon location, "hide the map", "dropdown menu", the *(Optional)* format, the hover label in the lead, and a contrast lead for changing the Template Search. Scores below are for the revised draft and are unchanged
+- Draft: `workstreams/help-center-overhaul/outputs/drafts/2026-10-06-create-a-template-search-rewrite.md`, revised the same day with Tara's edit (tighter leads that name the task and place instead of the click, Start New and New Search labeled by location) plus seven fixes restoring "default", the view-icon location, "hide the map", "dropdown menu", the *(Optional)* format, and a contrast lead for changing the Template Search. Scores below are for the revised draft and are unchanged
 - Notion draft: https://app.notion.com/p/3f18b9e0143881f798baf9e86734ac7b
 
 ## Golden questions
@@ -29,13 +29,13 @@ Retitled from "Customize Your Search Defaults with Template Searches" (live) and
 | 9 semantic_chunk_boundaries | Pass | Pass | |
 | 10 restate_questions | Pass | Pass | No tables |
 | 11 overview_jtbd | Fail | Pass | Old article had no opening paragraph |
-| 12 instruction_completeness | Fail | Pass, pending one marker | Every Steps block ends with the outcome. Step 9 of the save procedure carries a confirm marker on the button that confirms the name |
+| 12 instruction_completeness | Fail | Pass | Every Steps block ends with the outcome. The save procedure now ends at Save in the New Search window (Tara's screenshot, October 8, 2026) |
 | 13 limitations_workarounds | Fail | Pass | One Template Search at a time, and its priority over a default column template, stated where the member sets it |
 | 14 numerical_clarity | Pass | Pass | |
 
 ## Plain language gate
 
-Pass. "columns/template dropdown menu" is the set's settled name for that control. "base template" appears only inside the star's exact hover label. No term from the do-not list.
+Pass. "Columns menu" names the control by its on-screen label, which reads "Columns:" followed by the template name. The star icon has no hover label and is named by shape. No term from the do-not list.
 
 ## Dimensions
 
@@ -63,7 +63,9 @@ Pass. "columns/template dropdown menu" is the set's settled name for that contro
 
 ## Open items
 
-- `[confirm: the button that confirms the name, and whether Save asks for a name on a search that has not been saved yet]`, step 9 of the save procedure. Create a Search with Filters says Start New asks for a name, so the name may already be set before Save is clicked.
+- Resolved October 8, 2026 from Tara's screenshot: Save on a search that has not been saved opens the New Search window, with a required Name this search field and its own Save button. Steps 10 and 11 of the save procedure now say so.
+- Resolved October 8, 2026 (Tara): a new search started from the Template Search works like any other new search, so Save opens the New Search window. The live article's "Click Save New" was wrong for this case. The Save Search window screenshot moved to Change your Template Search settings, where Update Current is used, and the New Search window got a screenshot placeholder.
+- "Columns menu" (Tara, October 8, 2026) matches the on-screen label, which reads "Columns:" followed by the template name. Customize Your Search Results View and Search Page Overview say "columns/template dropdown menu"; align them on their next pass.
 - Not in the draft: whether refreshing the page resets the search to the Template Search. The old Click Script said so; Tara confirmed only that the Perchwell logo does not.
 - MLS/AOR set to Baldwin and CRLMS All (Tara, October 6, 2026). The live article is in the Baldwin help center only, so adding it to a CRMLS collection is a step at port time. Its links point into the Baldwin help center.
 - The live article's first image shows real contact names. Replace it at port, or sooner.

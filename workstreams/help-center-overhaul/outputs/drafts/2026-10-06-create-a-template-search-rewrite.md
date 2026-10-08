@@ -36,14 +36,16 @@ Set up a search with the default settings you want new searches to start with, t
 ### Steps:
 
 1. Click Search in the top navigation
-2. Set your filters on the Filters tab
-3. Click the Results tab
-4. Click a column header to set the sort order
-5. Click a view icon next to View, above your search results
-6. Set your columns from the columns/template dropdown menu
-7. Adjust the map's size, zoom, position, and layer, or hide the map
-8. Click Save in the upper left of the Search page
-9. Enter a name for the search `[confirm: the button that confirms the name, and whether Save asks for a name on a search that has not been saved yet]`
+2. *(Optional)* Click Start New in the upper right if a saved search is open
+3. Set your filters on the Filters tab
+4. Click the Results tab
+5. Click a column header to set the sort order
+6. Select a results view next to View
+7. Set your columns and their order from the Columns menu
+8. Adjust the map's size, zoom, position, and layer, or hide the map
+9. Click Save in the upper left of the Search page
+10. Enter a name in the Name this search field of the New Search window
+11. Click Save in the New Search window
 
 The search is saved and appears in the My Searches window. Next, set it as your Template Search.
 
@@ -51,7 +53,7 @@ The search is saved and appears in the My Searches window. Next, set it as your 
 
 ## Set a saved search as your Template Search
 
-Set any saved search as your Template Search from the My Searches window. The star icon's hover label reads Make this your base template for new searches.
+Set any saved search as your Template Search from the My Searches window.
 
 ### Steps:
 
@@ -63,30 +65,30 @@ The star turns green, and new searches start with the settings saved in your Tem
 
 > Screenshot placeholder: the My Searches window with the green star next to the Template Search highlighted | Alt text: The My Searches window listing saved searches, with a green star marking the Template Search.
 
-Only one saved search can be your Template Search at a time. Click the star next to a different saved search to replace the current Template Search.
+Only one saved search can be your Template Search at a time. Click the star next to another saved search to make it your Template Search instead.
 
-If you also have a default column template, new searches take their columns from the Template Search.
+If you have a default column template, the Template Search determines the columns for new searches.
 
 ## Start a new search from your Template Search
 
 Start a new search from either the Search page or the My Searches window:
 
 - Search page: Click Start New in the upper right.
-- My Searches window: Click Saved Searches, or the name of the open saved search, then click New Search.
+- My Searches window: Click Saved Searches, or the name of the open saved search. Click New Search in the lower left of the window.
 
-The new search opens with the settings saved in your Template Search. Changes to the new search, including saving it, do not change your Template Search.
+The new search opens with the settings saved in your Template Search. Changing or saving the new search does not affect your Template Search.
 
-To save the new search separately, click Save, then click Save New in the Save Search window. An orange dot on the Save button means the search has unsaved changes.
+To save the new search, click Save, enter a name in the New Search window, then click Save. An orange dot on the Save button indicates unsaved changes.
 
-![The Save Search window over the Search page, with Cancel, Save New, and Update Current buttons.](https://downloads.intercomcdn.com/i/o/trq7czv5/2555446288/aa06fb5fcb550c741634d3dac729/Screenshot+2026-07-04+at+11_36_50%E2%80%AFAM.png)
+> Screenshot placeholder: the New Search window that opens when you click Save on a new search, with the Name this search field and the Save button | Alt text: The New Search window with a required Name this search field, a Contacts dropdown, alert and sharing toggles, and Cancel and Save buttons.
 
 ## Change or turn off your Template Search
 
-Change the settings saved in your Template Search or turn it off from the My Searches window. A filled green star marks the current Template Search.
+A filled green star in the My Searches window marks your current Template Search.
 
 ### Change your Template Search settings
 
-Change your Template Search settings by updating the Template Search itself, not a new search started from it.
+Open your Template Search and change the settings you want new searches to start with.
 
 ### Steps:
 
@@ -96,7 +98,9 @@ Change your Template Search settings by updating the Template Search itself, not
 4. Click Save
 5. Click Update Current in the Save Search window
 
-New searches now start with the updated Template Search settings.
+New searches start with the updated Template Search settings.
+
+![The Save Search window over the Search page, with Cancel, Save New, and Update Current buttons.](https://downloads.intercomcdn.com/i/o/trq7czv5/2555446288/aa06fb5fcb550c741634d3dac729/Screenshot+2026-07-04+at+11_36_50%E2%80%AFAM.png)
 
 ### Turn off your Template Search
 
