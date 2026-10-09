@@ -37,7 +37,7 @@ Share one or more listings with a contact in Messages. Each time you share, ente
 Start from where you are viewing the listing:
 
 - Search results: Select the checkbox next to each listing you want to share. Click Actions, then select Share via Message. Actions shares all selected listings, even in Preview.
-- Preview: Click Listing Actions, then select Share via Message to share only the listing you are previewing.
+- Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
 - Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
 
 ### Steps:
@@ -92,5 +92,5 @@ The conversation opens to the client's new message.
 ## Things to Know
 
 - Conversations in Messages cannot be deleted.
-- When you message a client, Perchwell sends them an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name as the sender. Replies to the email appear in your conversation with the client in Messages.
+- When you message a client, Perchwell sends them an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name as the sender. Replies to the email appear in your conversation with the client in Messages and in your email inbox.
 - Invited clients can send and receive messages through their Perchwell client portal, their workspace for collaborating with you.
