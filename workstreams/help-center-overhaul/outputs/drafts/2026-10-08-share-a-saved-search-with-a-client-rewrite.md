@@ -49,7 +49,7 @@ The Allow added contacts to see and edit this search toggle controls what client
 
 Changes a client saves to the shared saved search also update the saved search in your account.
 
-In the saved search, clients do not see Tags you have added to listings, whether the Tags are for them or another client.
+In the saved search, clients do not see Tags you have added to listings, whether the Tags are for them or another client. Tags do not show on the listing detail page, and the Tag Search column shows NA.
 
 > Screenshot placeholder: the Edit Search window with the Allow added contacts to see and edit this search toggle on | Alt text: The Edit Search window with the Allow added contacts to see and edit this search toggle turned on above the Update button.
 
