@@ -100,7 +100,7 @@ Click the Edit groups people icon to add, rename, reorder, or delete groups. To 
 
 From the My Contacts tab:
 
-- Chat icon: Click the chat icon next to a contact to open Messages with that contact.
+- Chat icon: Click the chat bubble icon labeled Chat in Messages next to a contact. Messages opens in a new tab with that contact selected.
 - Contact name: Click a contact's name to open their profile.
 
 The contact profile includes four tabs:
