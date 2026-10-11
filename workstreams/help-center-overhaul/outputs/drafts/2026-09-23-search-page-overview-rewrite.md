@@ -32,13 +32,13 @@ The Perchwell Search page has two tabs in the upper right:
 
 Click the Filters or Results tab to move between them. Next to the tabs, a count such as "Showing 30 of 54 listings" shows how many matching listings have loaded so far. Scroll down the results to load the next batch of listings, and the count updates.
 
-Quick Filters appear in a row across the upper left of the Search page. They cover common search criteria, including Property Type, Price, Beds, Baths, Sqft, and Year Built. The search map appears below the Quick Filters on the left side of the page. Every Quick Filter is also available on the Filters tab. To find one, enter its name in the search field in the upper right of the Filters tab.
+Quick Filters appear in a row across the upper left of the Search page. They cover common search criteria, including Property Type, Price, Beds, Baths, Sqft, and Year Built. The search map appears below the Quick Filters on the left side of the page. Property Type and Year Built are set from the Quick Filters only. The other Quick Filters are also available on the Filters tab. To find one, enter its name in the Search filters and values field in the upper right of the Filters tab.
 
 > Image: in the Notion draft, uploaded 2026-09-28. Re-upload to Intercom at transfer and carry this alt text | Alt text: The Perchwell Search page with the map on the left, listings on the right, and the Filters and Results tabs showing their counts in the upper right.
 
 ## Set your search criteria on the Filters tab
 
-Set and adjust your search criteria on the Filters tab of the Search page. Search filters are organized into panels on the Filters tab. To find a specific filter, type into the search field in the upper right of the Filters tab. The search field matches filter names and the values inside each filter. It also matches part of a word, which means a filter can appear because one of its values contains what you typed.
+Set and adjust your search criteria on the Filters tab of the Search page. Search filters are organized into panels on the Filters tab. To find a specific filter, enter its name in the Search filters and values field in the upper right of the Filters tab. The field matches filter names and the values inside each filter. It also matches part of a word, which means a filter can appear because one of its values contains what you typed.
 
 [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers how to build a search with filters and combine criteria using OR, AND, and NOT.
 
