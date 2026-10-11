@@ -2,6 +2,10 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-10-11: Pending rules in the content standard apply to drafts now
+
+Decided by Tara. A rule in `content-standards.md` marked "Awaiting Kelly and Rafe" applies to every draft from the day it is written; Kelly and Rafe's review confirms or revises it afterward. Many rules have been pending since September, and the drafts written under them are the examples the approvers review against, so holding them back would stall the drafts without making the review any easier. Skill changes in `.claude/skills/` never needed approver sign-off and are unaffected.
+
 ## 2026-10-06: Draft-quality rules, so first drafts need less hand editing
 
 Raised by Tara after the Contacts Page Overview review. She kept Claude's content and rewrote the writing: headings narrower than their sections, leads that described before they instructed, over-explained neighbors, and four links in one paragraph. She brought two inputs, a ChatGPT analysis of her v1-to-v2 edits and her manager's 23 general writing rules, and asked for whatever fits the existing standard to be adopted. She chose to put the rules into the standard and the skills, not just a personal memory.
