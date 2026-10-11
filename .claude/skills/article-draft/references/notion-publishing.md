@@ -191,6 +191,10 @@ Notion shape for the sheet: a one-line intro, an `##` heading per article with t
 
 After publishing, offer to set the affected rows' `Article Status`. Only do it when the user says yes.
 
+## Editing a line that starts with a bold label
+
+To change a line that opens with a bold label (`**Description:**`, **Note:**, **Important:**, **Tip:**), replace only the text after the label and leave the label out of `old_str`. Replacing the whole line can spread the bold across the new text, and the fetch readback still shows the markup as correct, so the error is invisible from here. If it has already happened, replace the line with plain placeholder text, then write it back, and ask the teammate to confirm on screen. Found October 10, 2026, on the Property Type description.
+
 ## Markdown to Notion mapping
 
 The repo file is plain markdown. Convert when building `content`:
