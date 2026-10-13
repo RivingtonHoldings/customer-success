@@ -42,7 +42,7 @@ Set and adjust your search criteria on the Filters tab of the Search page. Searc
 
 [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers how to build a search with filters and combine criteria using OR, AND, and NOT.
 
-Draw a shape on the map to search within it. The shape works together with your filters. The results show only listings inside the shape that also match your criteria on the Filters tab. [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) covers the radius, polygon, freehand, and commute tools.
+Draw a shape on the map to search within it. A shape and a Location filter, such as City or Zip Code, combine as Or, which means the results include listings that match either one. [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) covers the radius, polygon, freehand, and commute tools.
 
 ## Work through listings on the Results tab
 
