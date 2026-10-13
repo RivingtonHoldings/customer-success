@@ -55,8 +55,7 @@ Find or narrow your contact list from the My Contacts tab:
 Click the Add contact pencil icon on the My Contacts tab to open the Create New Contact window. Enter the contact's information and select any additional options:
 
 - Basic Details: Enter the contact's first name, last name, and email address. These fields are required. Phone number is optional.
-- Additional Emails: Click Add to include up to five additional email addresses. Notifications sent to the contact also go to these addresses in the same email thread.
-- Invite to Perchwell: Turn on to invite the contact to Perchwell when you create them. Leave it off to send an invitation later.
+- Additional Emails: Click Add to include up to five additional email addresses. Alerts sent to the contact also go to these addresses in the same email thread.- Invite to Perchwell: Turn on to invite the contact to Perchwell when you create them. Invited contacts can sign in to their client portal, a workspace for collaborating with you, where they can view shared searches and exchange messages with you. Leave it off to send an invitation later.
 - Create Tag: Turn on to automatically create a Client Tag for the contact. The Tag keeps listings shared with the contact in one place and can also include listings from a Saved Search.
 - Bulk upload: Click Bulk upload to add multiple contacts from a CSV (comma-separated values) file.
 
@@ -106,9 +105,9 @@ From the My Contacts tab:
 The contact profile includes four tabs:
 
 - Contact Details: View the contact's information. Click Edit profile to add or update details such as job title, company, phone numbers, or address.
-- Shared Listings: View listings shared with the contact.
-- Shared Searches: View searches shared with the contact.
-- Shared Reports: View reports shared with the contact.
+- Shared Listings: Listings you shared with the contact by email or in Messages. Listings shared by text, by public link, through a Tag, or in saved search alerts do not appear here.
+- Shared Searches: Saved searches the contact is added to.
+- Shared Reports: Reports you emailed to the contact.
 
 The Reverse Prospecting toggle on the Contact Details tab controls whether the contact's Saved Searches are included in Reverse Prospecting. Turn it off to exclude the contact's Saved Searches.
 
