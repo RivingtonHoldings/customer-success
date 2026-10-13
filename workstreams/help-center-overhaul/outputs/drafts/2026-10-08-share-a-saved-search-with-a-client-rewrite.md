@@ -22,7 +22,7 @@ https://app.arcade.software/share/2JEF0FWKz8HQbae6kfSR
 
 ## Share a saved search with a client
 
-Share a saved search with one or more clients from the Edit Search window. Clients open shared searches in their client portal, their own workspace in Perchwell.
+Share a saved search with one or more clients from the Edit Search window. Clients open shared searches in their client portal, their workspace for collaborating with you.
 
 The Contacts dropdown lists only people already in your contacts. Clients must accept their invitation to Perchwell before they can open a shared saved search. [Invite Clients to Perchwell](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite them.
 

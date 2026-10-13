@@ -43,7 +43,7 @@ The first time alerts are turned on, New match is selected, Recipient is set to 
 
 ### Turn on saved search alerts with the bell icon
 
-Click the bell icon next to a saved search in the My Searches window to turn on its alerts. The bell turns green when alerts are on.
+Click Saved Searches, or the name of the open saved search, in the upper left of the Search page. In the My Searches window, click the bell icon next to a saved search to turn on its alerts. The bell turns green when alerts are on.
 
 Click the pencil icon next to the saved search to change the alert settings in the Edit Search window.
 
@@ -107,7 +107,7 @@ The Contacts dropdown lists only people already in your contacts. To send alerts
 
 For invited clients, the Allow added contacts to see and edit this search toggle controls whether they can open and edit the saved search. Invited clients can receive alerts whether the toggle is on or off.
 
-[Add an Invited Client to a Saved Search](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) covers giving a client access to the saved search itself.
+[Share a Saved Search with a Client](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) covers giving a client access to the saved search itself.
 
 ## What a saved search alert email includes
 
