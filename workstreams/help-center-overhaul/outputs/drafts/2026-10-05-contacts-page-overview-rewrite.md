@@ -55,7 +55,7 @@ Find or narrow your contact list from the My Contacts tab:
 Click the Add contact pencil icon on the My Contacts tab to open the Create New Contact window. Enter the contact's information and select any additional options:
 
 - Basic Details: Enter the contact's first name, last name, and email address. These fields are required. Phone number is optional.
-- Additional Emails: Click Add to include up to five additional email addresses. Saved search alerts sent to the contact also go to these addresses, as CC or BCC recipients based on the Recipient option you choose when you set up the alert.- Invite to Perchwell: Turn on to invite the contact to Perchwell when you create them. Invited contacts can sign in to their client portal, a workspace for collaborating with you, where they can view shared searches and exchange messages with you. Leave it off to send an invitation later.
+- Additional Emails: Click Add to include up to five additional email addresses.- Invite to Perchwell: Turn on to invite the contact to Perchwell when you create them. Invited contacts can sign in to their client portal, a workspace for collaborating with you, where they can view shared searches and exchange messages with you. Leave it off to send an invitation later.
 - Create Tag: Turn on to automatically create a Client Tag for the contact. The Tag keeps listings shared with the contact in one place and can also include listings from a Saved Search.
 - Bulk upload: Click Bulk upload to add multiple contacts from a CSV (comma-separated values) file.
 
