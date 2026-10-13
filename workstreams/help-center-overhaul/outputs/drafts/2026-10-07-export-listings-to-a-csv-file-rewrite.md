@@ -25,17 +25,17 @@ Use this article to export listings to a CSV (comma-separated values) file, choo
 
 ## Export selected or all listings to a CSV file
 
-Export selected listings to a CSV file from the Results tab of the Search page. Search results load 30 listings at a time. To export all search results, scroll down until every listing has loaded. The count above the results shows how many have loaded.
+Export selected listings, or every listing in your search results, to a CSV file from the Results tab of the Search page.
 
 ### Steps:
 
-1. Select the checkbox next to each listing you want to export, or the checkbox above them to select all
+1. Select the checkbox next to each listing you want to export, or leave all listings unselected to export every listing
 2. Click Actions
 3. Select Export CSV
 4. Select Quick export or an export template
 5. Click Export
 
-The CSV file downloads to your computer and includes only the listings you selected. Open the downloaded file in your spreadsheet app, such as Microsoft Excel or Apple Numbers.
+The CSV file downloads to your computer with the listings you selected, or every listing in your search results if none were selected. Open the downloaded file in your spreadsheet app, such as Microsoft Excel or Apple Numbers.
 
 > Screenshot placeholder: the Search page with one listing selected and the Actions menu open, Export CSV highlighted | Alt text: The Search page with one listing selected and the Actions menu open, showing Export CSV.
 
