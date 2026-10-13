@@ -20,7 +20,7 @@ source_notion_url: https://app.notion.com/p/3658b9e014388064ab11cc67b5988819
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports | Roles: All Except Client | Video Included: No | Visuals Included: No | Notion: https://app.notion.com/p/3f88b9e014388163b713d6b5a87054a4 | Old title: unchanged -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3f88b9e014388163b713d6b5a87054a4 | Old title: unchanged -->
 
 # Reports FAQ
 
@@ -57,6 +57,8 @@ With Include exact address selected, each address in the PDF (Portable Document 
 
 - Open links externally with your branding: Opens the listing on a page with your branding.
 - Open links in Perchwell (clients must log in): Opens the listing in Perchwell after the client logs in.
+
+> Screenshot placeholder: the link and Additional Options settings on the Customize Report step of a Quick CMA | Alt text: The Customize Report step of a Quick CMA, with Select where links should open and Include exact address under Additional Options.
 
 ## Can I create a Quick CMA for lease listings?
 
