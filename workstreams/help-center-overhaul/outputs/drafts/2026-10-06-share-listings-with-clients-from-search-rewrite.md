@@ -48,7 +48,7 @@ To post the link on social media, click the Facebook, LinkedIn, or X icon. When 
 
 ## Email listings from Perchwell
 
-Click Email or Text in the Share window's via Public Link section to email the listings. The Email tab opens by default.
+To email the listings, click the Email or Text button in the via Public Link section of the Share window. The Email tab opens by default.
 
 ### Steps:
 1. Select one or more contacts in the To field
@@ -68,7 +68,7 @@ To email someone who is not in your contacts, enter their email address in the T
 
 ## Text listings from Perchwell
 
-Click Email or Text in the Share window's via Public Link section. Click the Text tab to text the listings. To open the Text tab directly from Search, select Share via Text in the Actions menu.
+To text the listings, click Actions and select Share via Text. The Share window opens on the Text tab. If the Share window is already open, click the Email or Text button in the via Public Link section, then click the Text tab.
 
 ### Steps:
 1. Select a contact in the Select a contact field
@@ -78,6 +78,8 @@ Click Email or Text in the Share window's via Public Link section. Click the Tex
 > Screenshot placeholder: the Text tab of the Share window with the Select a contact field, the message box, and the character counter | Alt text: The Text tab of the Share window with the Select a contact field, a message box, and the 600-character counter.
 
 Your contact receives a text with a link to the listings. When a phone number receives a text from Perchwell for the first time, a consent message is sent before the listings. Once the contact replies YES, the listings send automatically. Consent is tied to the phone number and only needs to be provided once.
+
+> Screenshot placeholder: the consent text a contact receives the first time Perchwell texts their number, followed by the listings text after they reply YES | Alt text: A phone's text thread showing Perchwell's consent request, the contact's YES reply, and a text with a link to the listings.
 
 Contacts without a phone number are greyed out and cannot be selected. Add a phone number to the contact first, then return to the Text tab. Click Create Contact to add someone who is not already in your contacts.
 
