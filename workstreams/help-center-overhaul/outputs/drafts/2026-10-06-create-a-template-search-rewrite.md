@@ -25,7 +25,7 @@ https://app.arcade.software/share/Z87zQnzdOOU5p5WHGdJK
 
 ## Save your default settings for a Template Search
 
-Set up a search with the default settings you want new searches to start with, then save it. A Template Search saves these settings:
+Start from a new search so no filters carry over from a previous search, then set up the default settings you want new searches to start with and save it. A Template Search saves these settings:
 
 - Filters: The search criteria on the Filters tab.
 - Sort order: How listings are sorted in your search results.
@@ -36,7 +36,7 @@ Set up a search with the default settings you want new searches to start with, t
 ### Steps:
 
 1. Click Search in the top navigation
-2. *(Optional)* Click Start New in the upper right if a saved search is open
+2. Click Start New in the upper right
 3. Set your filters on the Filters tab
 4. Click the Results tab
 5. Click a column header to set the sort order
@@ -58,8 +58,7 @@ Set any saved search as your Template Search from the My Searches window.
 ### Steps:
 
 1. Click Saved Searches, or the name of the open saved search, in the upper left of the Search page
-2. *(Optional)* Enter the search name in the Search by name or contact field
-3. Click the star icon next to the saved search
+2. Click the star icon next to the saved search
 
 The star turns green, and new searches start with the settings saved in your Template Search.
 

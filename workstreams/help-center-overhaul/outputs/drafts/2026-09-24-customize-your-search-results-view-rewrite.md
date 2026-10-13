@@ -101,9 +101,9 @@ Set a default in one of two ways:
 - From a template you already saved: Open the Columns menu, click the Templates tab, then click the star next to the template you want to make your default.
 - While saving a new template: Open the Columns menu, click Save New, select Make this my default column view on a new search, then click Save.
 
-When you start a new search, Perchwell applies your default column template unless you have a default Template Search. A default Template Search takes priority because it can apply filters, columns, map settings, and display settings together.
+When you start a new search, Perchwell applies your default column template unless you have a Template Search. A Template Search takes priority because it applies filters, sort order, columns, view, and map settings together.
 
-See [Customize Your Search Defaults with Template Searches](http://support.perchwell.com/baldwin/en/articles/13903342-customize-your-search-defaults-with-template-searches) to learn how to create and set a default Template Search.
+See [Create a Template Search](https://app.notion.com/p/3f18b9e0143881f798baf9e86734ac7b) to learn how to create a Template Search and set it for new searches.
 
 > Screenshot placeholder: the Columns menu open on the Templates tab, showing the saved column templates with a filled star on the default one | Alt text: The Templates tab of the Columns menu, listing saved column templates with a filled star marking the default.
 
