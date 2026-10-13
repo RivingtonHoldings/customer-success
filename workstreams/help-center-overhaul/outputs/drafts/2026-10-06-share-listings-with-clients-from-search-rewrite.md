@@ -68,7 +68,7 @@ To email someone who is not in your contacts, enter their email address in the T
 
 ## Text listings from Perchwell
 
-To text the listings, click Actions and select Share via Text. The Share window opens on the Text tab. If the Share window is already open, click the Email or Text button in the via Public Link section, then click the Text tab.
+To text listings, select them on the Search page, click Actions, then select Share via Text. The Share window opens on the Text tab. If the Share window is already open, click the Email or Text button in the via Public Link section, then click the Text tab.
 
 ### Steps:
 1. Select a contact in the Select a contact field
