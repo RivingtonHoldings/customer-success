@@ -57,14 +57,17 @@ Create an export template to save the fields and field order you want in a CSV f
 
 1. Click the plus icon next to Template in the Export window
 2. Enter a name in the Template Name field
-3. *(Optional)* Turn on Set as default list to select this template by default for future exports
-4. *(Optional)* Enter a field name in the Search columns field
-5. Select a field to include it in the export, or clear it to remove it
-6. *(Optional)* Click Select all or Deselect all to change every field at once
-7. Drag the handle next to a field to change its position
-8. Click Save as template
+3. Select the fields you want to include in the export
+4. Drag the handle next to a field to change its position
+5. Click Save as template
 
 The template is saved and appears below MLS Template in the Export window.
+
+The New Template form also includes these options:
+
+- Set as default list: Turn on to select this template by default for future exports.
+- Search columns: Enter a field name to find it in the list.
+- Select all and Deselect all: Click to select or clear every field at once.
 
 > Screenshot placeholder: the New Template form in the Export window, with the Template Name field, the Set as default list toggle, the Search columns field, and checked fields with drag handles | Alt text: The New Template form in the Export window, with a name field, a default toggle, a column search field, and fields with checkboxes and drag handles.
 
