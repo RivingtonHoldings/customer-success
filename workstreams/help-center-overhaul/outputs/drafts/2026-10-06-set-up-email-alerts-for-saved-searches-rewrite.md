@@ -32,8 +32,9 @@ Turn on the Alerts toggle in the Edit Search window to send email alerts for a s
 4. Select the listing activity you want alerts for
 5. Select an option from the Recipient dropdown
 6. Select an option from the Frequency dropdown
-7. Select a Day, Day of Month, and Time of day, if your Frequency includes those options
-8. Click Update
+7. *(Optional)* If you selected Weekly or Monthly, select a day from the Day or Day of Month dropdown
+8. *(Optional)* If you selected Daily, Weekly, or Monthly, select Morning or Evening from the Time of day dropdown
+9. Click Update
 
 Perchwell begins sending alerts for new matching activity on the schedule you set. Listings that already matched the search are not sent as new matches.
 
@@ -118,7 +119,7 @@ Each saved search alert email shows matching listing activity since the last ale
 - A link to open each listing's detail page
 - A link to unsubscribe from alerts for that saved search
 
-Contacts do not need a Perchwell account to receive alerts or open the listing links in the email.
+Contacts do not need a Perchwell account to receive alerts or open the listing links in the email. Each listing link opens a listing page with your name, brokerage, brokerage logo, email, and phone number at the top, along with your profile photo if you have added one.
 
 [Unsubscribe from Notifications (For Invited Clients)](http://support.perchwell.com/baldwin/en/articles/13602428-unsubscribe-from-notifications-for-invited-clients) covers how a client stops receiving alerts.
 
