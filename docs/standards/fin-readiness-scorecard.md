@@ -53,7 +53,7 @@ Two QA files predate revision 2. Dashboard Overview has been rescored: the rewri
 2. The description is 120 to 140 characters and names the feature
 3. The opening paragraph is "Use this article to ..." and names the feature and the outcomes
 4. Every H2 and H3 names what the section answers and carries the feature name where it fits
-5. The first sentence under every heading echoes the heading's key terms
+5. The first sentence under every heading echoes the heading's key terms. An FAQ H2 that only groups question H3s is exempt, since it takes no lead sentence (added October 14, 2026, from the Search FAQ; awaiting Kelly and Rafe)
 6. No section heading appears twice in the article; the `Steps:` H3 is exempt, since the standard requires it once under each procedure
 7. The sections follow the order of any list in the opening paragraph or a lead sentence, and every item in that list has a section behind it
 
