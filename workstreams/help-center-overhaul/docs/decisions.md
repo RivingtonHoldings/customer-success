@@ -2,6 +2,10 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-10-13: A capability the live article promised and the product lacks is stated, with no route
+
+Decided by Tara on Filter Your Search by Keyword. The live Baldwin article told members to exclude keywords with NOT; the Text Search dropdown offers only Or and And, and there is no other way to exclude. The standard's "never a bare deficit" rule would have left the article silent, and Fin would have kept no correct answer to give. The draft states the absence once, after the Or and And list. Hide was considered as a route and rejected, since hiding the listings a keyword search finds leaves nothing. The exception is now in `content-standards.md`, awaiting Kelly and Rafe.
+
 ## 2026-10-11: Pending rules in the content standard apply to drafts now
 
 Decided by Tara. A rule in `content-standards.md` marked "Awaiting Kelly and Rafe" applies to every draft from the day it is written; Kelly and Rafe's review confirms or revises it afterward. Many rules have been pending since September, and the drafts written under them are the examples the approvers review against, so holding them back would stall the drafts without making the review any easier. Skill changes in `.claude/skills/` never needed approver sign-off and are unaffected.
