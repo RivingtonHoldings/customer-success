@@ -34,7 +34,7 @@ Use this article to open the Universal Search Bar from any page in Perchwell, fi
 
 Open the Universal Search Bar when you already know which listing, agent, or contact you want and need to reach it fast, rather than building a list from filters.
 
-To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the Search page.
+To build a search from criteria such as price, property type, status, or location, [Create a Search with Filters](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers the Search page.
 
 ## Find a listing, agent, or contact with the Universal Search Bar
 

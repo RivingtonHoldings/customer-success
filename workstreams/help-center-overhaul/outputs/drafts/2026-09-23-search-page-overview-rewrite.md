@@ -40,9 +40,9 @@ Quick Filters appear in a row across the upper left of the Search page. They cov
 
 Set and adjust your search criteria on the Filters tab of the Search page. Search filters are organized into panels on the Filters tab. To find a specific filter, enter its name in the Search filters and values field in the upper right of the Filters tab. The field matches filter names and the values inside each filter. It also matches part of a word, which means a filter can appear because one of its values contains what you typed.
 
-[Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers how to build a search with filters and combine criteria using OR, AND, and NOT.
+[Create a Search with Filters](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) explains how to build a search from filters and combine criteria with Or, And, and Not.
 
-Draw a shape on the map to search within it. A shape and a Location filter, such as City or Zip Code, combine as Or, which means the results include listings that match either one. [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) covers the radius, polygon, freehand, and commute tools.
+Draw a shape on the map to filter listings by location. A shape and a Location filter, such as City or Zip Code, combine as Or, which means the results include listings that match either one. [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) covers the radius, polygon, freehand, and commute tools.
 
 ## Work through listings on the Results tab
 
@@ -77,7 +77,7 @@ The crossed-out eye icon next to the Actions menu shows how many listings are cu
 
 > **Important:** Keep and Hide apply only while you remain in the search. Save the search to keep the changes. If you reload or leave without saving, the hidden listings return.
 
-Click the filter icon in a column header, such as Price or Bedrooms, to filter your results by that column. A column filter is added to your search criteria and appears under Applied Filters on the Filters tab.
+Click the filter icon in a column header, such as Price or Bedrooms, to filter your results by that column. A column filter is added to your search criteria and appears under Applied Filters on the Filters tab. To clear it, click the x on the column header.
 
 ## Take action on selected listings from the Search page
 

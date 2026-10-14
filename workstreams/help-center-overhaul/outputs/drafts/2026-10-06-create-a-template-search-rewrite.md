@@ -49,7 +49,7 @@ Start from a new search so no filters carry over from a previous search, then se
 
 The search is saved and appears in the My Searches window. Next, set it as your Template Search.
 
-[Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers setting filters and sorting results. [Customize Your Search Results View](https://app.notion.com/p/3e68b9e0143881f3a934e295ac7a21b5) covers views, columns, and map settings.
+[Create a Search with Filters](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) covers setting filters and sorting results. [Customize Your Search Results View](https://app.notion.com/p/3e68b9e0143881f3a934e295ac7a21b5) covers views, columns, and map settings.
 
 ## Set a saved search as your Template Search
 

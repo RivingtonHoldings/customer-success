@@ -21,11 +21,11 @@ migrated_from: master-article-list
 
 Use this article to filter your search by Property Type, select specific subtypes, choose Or, And, or Not to narrow your results, and see what each Baldwin property type includes.
 
-> Video placeholder: a walkthrough of the Property Type quick filter on the Search page, from opening it through selecting a property type, selecting subtypes, and choosing Or, And, or Not
+> Video placeholder: a walkthrough of the Property Type Quick Filter on the Search page, from opening it through selecting a property type, selecting subtypes, and choosing Or, And, or Not
 
 ## Filter your search by Property Type
 
-Filter your search by Property Type to show one or more categories of listings, such as Residential-Single Family or Lease. Property Type is a quick filter in the upper left of the Search page. It does not appear in the Search filters and values field on the Filters tab.
+Filter your search by Property Type to show one or more categories of listings, such as Residential-Single Family or Lease. Property Type is a Quick Filter in the upper left of the Search page. It does not appear in the Search filters and values field on the Filters tab.
 
 Select more than one property type to include them in the same search, such as sales and rentals.
 
@@ -36,7 +36,7 @@ Select more than one property type to include them in the same search, such as s
 
 Your search results update to show listings of those property types. The Property Type button shows your selection. To clear the Property Type filter, click the x on the button.
 
-> Screenshot placeholder: the Search page with the Property Type quick filter open, showing the six property types with All next to each | Alt text: The Property Type quick filter open on the Search page, listing six property types with All and an arrow next to each.
+> Screenshot placeholder: the Search page with the Property Type Quick Filter open, showing the six property types with All next to each | Alt text: The Property Type Quick Filter open on the Search page, listing six property types with All and an arrow next to each.
 
 ## Narrow a property type by subtype
 
@@ -54,21 +54,21 @@ Your search results update to show listings with any of those subtypes. Each sel
 
 To remove a subtype, click it again in the list, or click the x on it in the Property sub type field. To remove all selected subtypes, click the x at the right end of the field.
 
-> Screenshot placeholder: the Property Type quick filter with Residential-Single Family selected, its Property sub type list open, and Residential attached selected | Alt text: Residential-Single Family selected in the Property Type filter, with Residential attached selected under Property sub type and All changed to 1.
+> Screenshot placeholder: the Property Type Quick Filter with Residential-Single Family selected, its Property sub type list open, and Residential attached selected | Alt text: Residential-Single Family selected in the Property Type filter, with Residential attached selected under Property sub type and All changed to 1.
 
 ## Include or exclude property subtypes with Or, And, or Not
 
 Include or exclude subtypes with the dropdown next to the Property sub type field. Each property type has its own dropdown, so your choice applies only to that property type's subtypes. Choose how the selected subtypes apply to your search:
 
-- Or: Shows listings that match at least one of the selected subtypes.
-- And: Shows listings that match all of the selected subtypes.
-- Not: Shows listings that match none of the selected subtypes.
+- Or: Shows listings that match at least one selected subtype.
+- And: Shows listings that match every selected subtype.
+- Not: Excludes listings that match any selected subtype.
 
 Or is selected by default.
 
 For example, under Lease, select Land in the Property sub type field, then select Not to leave land listings out of your rental search.
 
-> Screenshot placeholder: the Property Type quick filter with the Or dropdown open next to the Property sub type field | Alt text: The Or dropdown open next to the Property sub type field, showing Or, And, and Not.
+> Screenshot placeholder: the Property Type Quick Filter with the Or dropdown open next to the Property sub type field | Alt text: The Or dropdown open next to the Property sub type field, showing Or, And, and Not.
 
 ## Property types and subtypes in Baldwin
 
