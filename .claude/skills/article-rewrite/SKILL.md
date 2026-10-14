@@ -40,6 +40,8 @@ WHERE "Collection" = ?
 
 On September 22, 2026 the Dashboard FAQ migration ran its set pass against the mirror alone. Four of the six Dashboard articles were unported drafts, which produced a recommendation to fix something already fixed and hid a near-verbatim duplication with Add a Hot Sheet to the Dashboard.
 
+The set changes during a session, so re-run the query before any set-level claim, and fetch a sibling's Notion page again before telling the teammate it needs a fix. On Create a Search with Filters, October 13, 2026, the Filter Your Search with Map Tools draft was created after the first query, and Search Page Overview had already been fixed by another session when it was reported as wrong.
+
 ## Workflow
 
 1. **Ingest.**
@@ -82,7 +84,7 @@ On September 22, 2026 the Dashboard FAQ migration ran its set pass against the m
 11. **Publish to Notion as a Draft.** Skip if the user said "no notion" or "score only". Follow `.claude/skills/article-draft/references/notion-publishing.md` exactly: read `notion://docs/enhanced-markdown-spec` once per session, convert the body with the markdown-to-Notion mapping, show the compact page-and-properties summary, wait for "go", then create the page in data source `3d18b9e0-1438-80cc-ab0f-000bf0fc1389` with `Article Status: Draft`. Write the new page URL back into the draft's metadata comment.
 12. **Report.** Old title and new title; before-and-after score, band, and delta per dimension; golden questions that still fail and why; the source differences and which side won; the property mapping and any decision taken; open `[confirm: ...]` items; the Notion URL; and what remains: peer review in Notion, then `Ready to Transfer`, then `/port-to-intercom`, which converts the body and moves each image's alt text into Intercom's `alt` attribute. Fin labels per `docs/standards/fin-labeling.md`, MLS audience, and publishing stay manual, because the connector cannot write tags or audiences. The full checklist is under "After publishing" in `.claude/skills/article-draft/references/notion-publishing.md`.
 
-   **Review rounds.** When the teammate pastes a reviewer's rewrite of a section, apply it in Notion and the repo draft, then run step 7 over the new text. A reviewer's version can still break a rule, as "Adding ... does not add" did and a step naming an icon without what it does. Report each change with the rule behind it, and propose a standard or skill change when the edit shows a pattern rather than a one-off.
+   **Review rounds.** When the teammate pastes a reviewer's rewrite of a section, apply it in Notion and the repo draft, then run step 7 over the new text. A reviewer's version can still break a rule, as "Adding ... does not add" did and a step naming an icon without what it does. Report each change with the rule behind it, and propose a standard or skill change when the edit shows a pattern rather than a one-off. Before each round, check what changed in the standard since the draft was written (`git log --since=<draft date> -- docs/standards`), since rules land mid-review and both the opening rule and the bare-deficit exception arrived during Create a Search with Filters. Check a reviewer's cut against the rules that require a sentence, such as the bare-deficit exception and the legacy-platform sentence, not only the rules that forbid wording.
 
 ## Rules
 

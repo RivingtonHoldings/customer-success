@@ -126,7 +126,7 @@ Draw an area on the search map to filter listings by location. [Map Tools in Sea
 
 ## Sort your search results by up to three columns
 
-Sort your search results by any column in List or Expanded view on the Results tab. To sort by a field that is not displayed, add it as a column first. [Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to add and reorder columns.
+Sort your search results by any column in List or Expanded view on the Results tab. To sort by a field that is not displayed, add it as a column first. This includes one you have already set as a filter. [Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to add and reorder columns.
 
 Click a column header, such as Price, to sort in ascending order. Click it again for descending order, or a third time to remove the sort. To add a second or third sort, click another column header.
 

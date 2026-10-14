@@ -2,6 +2,10 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-10-14: The legacy-platform sentence stays when a reviewer reads it as migration-only
+
+Decided by Tara on Create a Search with Filters. A reviewer proposed cutting "Members who came from a legacy platform may know a single Features field ..." as migration material. It stays: the standard keeps the legacy feature name because it is the word a member searches for, Baldwin members still think in legacy terms, and the sentence explains why separate feature filters do not combine as Or. It goes in its own short paragraph after the point it explains, so it does not interrupt that point.
+
 ## 2026-10-13: A capability the live article promised and the product lacks is stated, with no route
 
 Decided by Tara on Filter Your Search by Keyword. The live Baldwin article told members to exclude keywords with NOT; the Text Search dropdown offers only Or and And, and there is no other way to exclude. The standard's "never a bare deficit" rule would have left the article silent, and Fin would have kept no correct answer to give. The draft states the absence once, after the Or and And list. Hide was considered as a route and rejected, since hiding the listings a keyword search finds leaves nothing. The exception is now in `content-standards.md`, awaiting Kelly and Rafe.
