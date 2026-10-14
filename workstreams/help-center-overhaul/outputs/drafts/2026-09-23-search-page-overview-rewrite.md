@@ -64,20 +64,20 @@ Location and Status can be reordered but cannot be removed. Both columns remain 
 
 > Image: in the Notion draft, uploaded 2026-09-28. Re-upload to Intercom at transfer and carry this alt text | Alt text: The Results tab with listings shown as cards carrying photos, prices, and status badges, and the Tiles icon selected next to View above them.
 
-## Narrow your search results without changing your filters
+## Narrow your search results with Keep, Hide, and column filters
 
-Narrow the listings on screen with Keep, Hide, or a column filter on the Results tab. Your search criteria on the Filters tab stay the same.
+Narrow the listings on the Results tab with Keep, Hide, or a column filter.
 
-Select the checkbox on each listing you want to keep or hide, then open the Actions menu:
+Keep and Hide change only the listings on screen, and your search criteria on the Filters tab stay the same. Select the checkbox on each listing you want to keep or hide, then open the Actions menu:
 
 - Keep: Shows only the selected listings and hides the rest.
 - Hide: Hides the selected listings and keeps the remaining listings on screen.
 
 The crossed-out eye icon next to the Actions menu shows how many listings are currently hidden. Click the icon to view and restore hidden listings to the search results.
 
-Click the filter icon in a column header, such as Price or Bedrooms, to narrow results by that column.
-
 > **Important:** Keep and Hide apply only while you remain in the search. Save the search to keep the changes. If you reload or leave without saving, the hidden listings return.
+
+Click the filter icon in a column header, such as Price or Bedrooms, to filter your results by that column. A column filter is added to your search criteria and appears under Applied Filters on the Filters tab.
 
 ## Take action on selected listings from the Search page
 
