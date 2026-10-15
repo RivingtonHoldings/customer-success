@@ -60,7 +60,7 @@ New: Fin-ready score; gate passed; plain language passed. No `[confirm: ...]` ma
 ## Open items
 
 - Resolved October 14, 2026: in the Open house column, one click on a date updates the results right away. The confirm marker was removed.
-- Notion draft: https://app.notion.com/p/3f98b9e0143881918ce0c6728621e7b0. Tracker ID not yet set; look it up under "Search for Open Houses" in the master sheet.
+- Notion draft: https://app.notion.com/p/3f98b9e0143881918ce0c6728621e7b0. Tracker ID TRK-090; added to the Production Tracker October 14, 2026.
 - Saved searches: whether a search saved with 30 days rolls forward daily or keeps fixed dates. Tara is confirming with the team, October 14, 2026. Left out of the draft until answered; it affects alerts.
 - Product question: the 30, 60, 180, and 365 days buttons select a range ending today (30 days set 9/14/2026 to 10/14/2026 on October 14), and open houses before today do not appear. The buttons therefore find no upcoming open houses. Tara flagged this as a likely bug and is confirming with the team, October 14, 2026. At her direction the section is now written as if fixed (today forward), with no marker in the draft, also at her direction. Do not port until the fix is live; if it does not ship, restore the current-behavior version.
 - Shared article: the same Intercom article sits in a Baldwin collection and a CRMLS collection. The row takes both MLS/AOR values.
