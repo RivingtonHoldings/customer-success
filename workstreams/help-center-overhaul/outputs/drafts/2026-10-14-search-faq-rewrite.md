@@ -38,7 +38,7 @@ Yes. Search by school zone with the Elementary School, Intermediate School, Midd
 
 ### How do I search for a specific street name?
 
-Enter the street name in the Street name field under Location on the Filters tab, then select the street from the list of matches. For example, enter Fairhope and select Fairhope Avenue.
+Enter part of the street name in the Street name field under Location on the Filters tab. Select the street from the list of matches.
 
 ### How do I search for acreage?
 
