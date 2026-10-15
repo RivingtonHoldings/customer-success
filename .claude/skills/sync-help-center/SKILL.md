@@ -61,4 +61,4 @@ Frontmatter: `intercom_id`, `content_id`, `title`, `description`, `url`, `help_c
 - Never hand-edit files in `docs/help-center/`. If an article needs to change, that happens in Notion and Intercom; the mirror follows.
 - `collections.md` is the membership source of truth. Regenerate it with the probe; do not edit ownership by hand unless Leo says a collection moved.
 - The default help center (NYC and brokerages) is not mirrored. It is out of scope for the CS team.
-- Articles with no collection at all (about 200 old drafts) belong to no help center and are not mirrored.
+- Articles with no collection at all (about 200 old drafts) belong to no help center and are not mirrored. List any of them whose state is `published` in the report, by ID and title, since they are reachable by URL and Fin may answer from them. Found October 15, 2026 (16170546).
