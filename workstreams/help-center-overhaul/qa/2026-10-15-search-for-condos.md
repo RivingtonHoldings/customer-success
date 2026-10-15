@@ -56,6 +56,7 @@ Pass. "Property sub type" appears only in the step that clicks the field. "Struc
 | How do I search for listings in a specific condo complex? | Yes, with stale steps | Yes |
 | How do I leave condos out of my search? | No | No; the Or to Not sentence was cut in review |
 | How do I find listings that are not in a subdivision? | No | Yes |
+| How do I leave one condo complex out of my search? | No | Yes |
 
 ## Source differences and decisions
 

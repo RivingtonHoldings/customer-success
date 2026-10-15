@@ -64,7 +64,7 @@ Find listings in a specific condo complex or subdivision with the Subdivision/Co
 4. Enter part of the complex or subdivision name in the search field at the top of the list
 5. Select the name from the list of matches
 
-Your search results update to show listings in the selected condo complex or subdivision. Select more than one name to find listings in any of them.
+Your search results update to show listings in the selected condo complex or subdivision. Select more than one name to find listings in any of them. To exclude listings in the selected complexes or subdivisions instead, change Or to Not.
 
 To find listings without a subdivision or condo complex, select None at the top of the list.
 
