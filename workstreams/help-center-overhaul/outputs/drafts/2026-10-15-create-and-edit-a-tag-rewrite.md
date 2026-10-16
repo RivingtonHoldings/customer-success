@@ -16,7 +16,7 @@ migrated_from: master-article-list
 
 **Description:** Create a Tag, rename it, manage its listings and saved searches, turn on reactions and email notifications, or delete it.
 
-Use this article to create, edit, or delete a Tag. A Tag groups listings in one place and has its own public link. In legacy platforms, Tags may have been called Listing Carts.
+Use this article to create, edit, or delete a Tag. A Tag groups listings in one place and has its own public link. Members who came from a legacy platform may know Tags as Listing Carts.
 
 > Video placeholder: Show creating a Tag from the Tags page, from clicking New Tag through the new Tag appearing in the list, then opening the Edit Tag window
 
