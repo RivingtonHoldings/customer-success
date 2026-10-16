@@ -53,7 +53,7 @@ Set a Tag's reactions, saved searches, listings, and notifications when you crea
 - Reactions: Turn on Reactions to let contacts like or dislike listings on the Tag's public page. Reactions are on by default. The like and dislike icons appear only when the Tag has at least one contact.
 - Saved searches: Click Add to connect one or more saved searches to the Tag. [How to Link a Saved Search to a Tag](http://support.perchwell.com/baldwin/en/articles/16221382-how-to-link-a-saved-search-to-a-tag) explains how saved search results appear in a Tag.
 - Listings and notes: Shows how many listings the Tag holds. Click Edit to add notes, reorder listings, open a full listing, or remove a listing. Add new listings to the Tag from Search or a listing's page.
-- Tag notifications: Turn on Tag notifications to receive an email when a listing in the Tag has a Price Increase, Price Decrease, or Status Change. Tag notifications is on by default, with all three changes selected. Emails go to you, and the Tag's contacts are copied.
+- Tag notifications: Turn on Tag notifications to receive emails about listings in the Tag. An email goes out when a listing is added or has a Price Increase, Price Decrease, or Status Change. Tag notifications is on by default, with all three changes selected. Emails go to you, and the Tag's contacts are copied.
 
 > Screenshot placeholder: Show the Add saved search window with the Saved searches menu open | Alt text: The Add saved search window with the Saved searches menu open, a Search by name or contact field, and a checkbox next to each saved search.
 
@@ -74,8 +74,6 @@ Change a Tag's name, description, or settings from the Edit Tag window on the Ta
 
 Changes to the Tag's name or description also appear on its public page.
 
-The Edit Tag window also includes Clear All Listings. [confirm: whether Clear All Listings removes listings from saved searches as well as individually added listings, and whether a confirmation opens first]
-
 ## Duplicate a Tag
 
 Duplicate a Tag on the Tags page to copy its listings and settings into a new Tag with its own public link. Contacts and client reactions are not copied.
@@ -85,11 +83,26 @@ Duplicate a Tag on the Tags page to copy its listings and settings into a new Ta
 2. Click Duplicate
 3. *(Optional)* Change the name, description, or settings in the Duplicate Tag window
 4. Click Duplicate
-5. *(Optional)* Add contacts to the copy in the window that opens [confirm: the window's title and the control that adds a contact]
 
 > Screenshot placeholder: Show the Duplicate Tag window | Alt text: The Duplicate Tag window with the Tag Name (Public) field ending in Copy, Description, Reactions, Saved Searches, Listings, and Tag notifications, with Cancel and Duplicate buttons.
 
-The copy appears on the Tags page with a new public link.
+A "Tag duplicated." message appears, and the duplicate is added to the Tags page with My Tag in the Status column. Its name ends in Copy unless you changed it. To add contacts to the duplicate, click Send in the Actions column next to it.
+
+## Clear all listings from a Tag
+
+Clear all listings from a Tag on the Tags page to empty it without deleting it.
+
+> **Important:** Clearing a Tag also removes its saved searches and your contacts' likes and dislikes. This cannot be undone.
+
+### Steps:
+1. Click the Edit tag pencil icon in the Actions column next to the Tag
+2. Click Clear All Listings
+3. Click Clear All to confirm
+
+> Screenshot placeholder: Show the Clear all listings window | Alt text: The Clear all listings window warning that listings, saved searches, and reactions will be removed, with the Tag's name, link, and listing count, and Cancel and Clear All buttons.
+
+An "All listings have been cleared." message appears. The Tag stays on the Tags page with 0 listings and keeps its name, reactions, and notification settings.
+
 
 ## Add contacts to an existing Tag
 
