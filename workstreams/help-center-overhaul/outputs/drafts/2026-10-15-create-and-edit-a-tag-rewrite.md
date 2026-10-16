@@ -10,7 +10,7 @@ source_notion_url: https://app.notion.com/p/3b28b9e0143881afb7c7e8656f4c495e
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Tags | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3fb8b9e0143881349fd7ce5e4749fa5a | Old title: How to Create a Tag -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Tags | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3fb8b9e0143881349fd7ce5e4749fa5a | Old title: How to Create a Tag | Tracker ID: TRK-096 -->
 
 # Create and Edit a Tag
 

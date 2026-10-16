@@ -89,5 +89,5 @@ The old score understates the problem: the live New Tag steps describe a window 
   - Sorting: first header click ascending, second descending, third removes it; the number shows sort order; no limit on sorted columns.
   - Tags with contacts show the contact's initials in a circle; manually named Tags do not. Status reads My Tag for a Tag with no contacts.
 - CRMLS: this draft serves both MLSs. The live CRMLS article Creating and Editing Tags (14324175, and its default help center copy 14324147) describes a different UI and should be retired or redirected when this one ports.
-- Tracker ID: Tara will add it from the master sheet.
+- Tracker ID: TRK-096, from the master sheet, set in Notion October 16, 2026.
 - How to Tag Individual Listings and How to Link a Saved Search to a Tag still describe the old New Tag window (Tag Name, Contacts, Next, Alerts, Save); both need fixing in their own rewrites.
