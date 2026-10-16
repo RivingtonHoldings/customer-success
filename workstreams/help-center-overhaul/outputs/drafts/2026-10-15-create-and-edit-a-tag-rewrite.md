@@ -88,6 +88,12 @@ Duplicate a Tag on the Tags page to copy its listings and settings into a new Ta
 
 A "Tag duplicated." message appears, and the duplicate is added to the Tags page with My Tag in the Status column. Its name ends in Copy unless you changed it. To add contacts to the duplicate, click Send in the Actions column next to it.
 
+## Add contacts to an existing Tag
+
+Add contacts to an existing Tag when you send it from the Tags page. Click Send in the Actions column next to the Tag, then add the contacts in the Share your tag window. [How to Share a Tag](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) explains how to send a Tag and invite contacts.
+
+> **Important:** A contact cannot be removed from a Tag after you save it. To stop a contact from viewing the Tag, delete the Tag.
+
 ## Clear all listings from a Tag
 
 Clear all listings from a Tag on the Tags page to empty it without deleting it.
@@ -103,12 +109,6 @@ Clear all listings from a Tag on the Tags page to empty it without deleting it.
 
 An "All listings have been cleared." message appears. The Tag stays on the Tags page with 0 listings and keeps its name, reactions, and notification settings.
 
-
-## Add contacts to an existing Tag
-
-Add contacts to an existing Tag when you send it from the Tags page. Click Send in the Actions column next to the Tag, then add the contacts in the Share your tag window. [How to Share a Tag](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) explains how to send a Tag and invite contacts.
-
-> **Important:** A contact cannot be removed from a Tag after you save it. To stop a contact from viewing the Tag, delete the Tag.
 
 ## Delete a Tag
 
