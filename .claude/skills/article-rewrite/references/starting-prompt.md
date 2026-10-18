@@ -49,14 +49,22 @@ Set: <articles it sits with, if you know. The skill checks for others>
 Already known wrong: <anything live that is stale, and whether it is
     being fixed>
 
+Don't just rephrase the article. Fix its structure first, then the sentences.
 Flag anything you'd have to invent before you write it, not after, and ask
 the product questions in one batch. I'll answer before you draft.
 Where you chose between two wordings, show me both and why.
+When you're done, give me the article, any product question still open, and
+a short summary: the scorecard band, both gates, and anything you couldn't
+satisfy or that could still trip Fin. Skip the edit-by-edit explanation.
 ```
 
 `Covers` and `Hands off` can be dropped when the article covers one surface and obviously stays there. Everything else earns its line.
 
-The last two instructions are the only ones worth adding, because they change the shape of the work rather than repeat a rule already in the standard.
+The instructions below the fields are the only ones worth adding, because they change the shape of the work rather than repeat a rule already in the standard.
+
+**"Don't just rephrase the article"** sets the depth of the rewrite. The draft-quality pass already puts structure first, but a rewrite that starts from the live text tends to keep its sections and polish them. Saying it up front means the skill questions the shape before it touches a sentence. Added October 18, 2026.
+
+**"When you're done, give me ..."** sets the shape of the hand-back. It keeps the report to what you act on: the article, the questions still open, and the scorecard band and both gates reported separately, as the skill requires. Added October 18, 2026.
 
 **"Flag anything you'd have to invent before you write it"** stops a false fact at the door. Two reached the first migrated draft because the more confident sentence reads better and nothing marks it as new: "Results populate as you type" became "results appear in a panel below the field", and "statuses like Active, Pending, Closed, and Expired" became "Listings in every status appear".
 
@@ -84,9 +92,13 @@ Set: I think standalone, but check
 Already known wrong: SentriLock is off the Baldwin panel and the team is
      looking into why. Write it as though it belongs there
 
+Don't just rephrase the article. Fix its structure first, then the sentences.
 Flag anything you'd have to invent before you write it, not after, and ask
 the product questions in one batch. I'll answer before you draft.
 Where you chose between two wordings, show me both and why.
+When you're done, give me the article, any product question still open, and
+a short summary: the scorecard band, both gates, and anything you couldn't
+satisfy or that could still trip Fin. Skip the edit-by-edit explanation.
 ```
 
 That prompt is the September 22 one rewritten with hindsight. What the real prompt lacked cost four rounds on the title, one round rediscovering that SentriLock was broken, and a listing-detail section that had to be cut back down after it was written.
