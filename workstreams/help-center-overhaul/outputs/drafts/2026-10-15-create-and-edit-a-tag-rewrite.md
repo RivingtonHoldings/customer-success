@@ -51,9 +51,9 @@ Perchwell creates a Client Tag named for the contact. The contact's initials app
 Set a Tag's reactions, saved searches, listings, and notifications when you create it. To change them later, click the Edit tag pencil icon next to the Tag on the Tags page.
 
 - Reactions: Turn on Reactions to let contacts like or dislike listings on the Tag's public page. Reactions are on by default. The like and dislike icons appear only when the Tag has at least one contact.
-- Saved searches: Click Add to connect one or more saved searches to the Tag. [How to Link a Saved Search to a Tag](http://support.perchwell.com/baldwin/en/articles/16221382-how-to-link-a-saved-search-to-a-tag) explains how saved search results appear in a Tag.
+- Saved searches: Click Add to link one or more saved searches to the Tag. [How to Link a Saved Search to a Tag](http://support.perchwell.com/baldwin/en/articles/16221382-how-to-link-a-saved-search-to-a-tag) explains how saved search results appear in a Tag.
 - Listings and notes: Shows how many listings the Tag holds. Click Edit to add notes, reorder listings, open a full listing, or remove a listing. Add new listings to the Tag from Search or a listing's page.
-- Tag notifications: Turn on Tag notifications to receive emails about listings in the Tag. An email goes out when a listing is added or has a Price Increase, Price Decrease, or Status Change. Tag notifications is on by default, with all three changes selected. Emails go to you, and the Tag's contacts are copied.
+- Tag notifications: Turn on Tag notifications to receive emails about listings in the Tag. An email goes out when a listing is added or has a Price Increase, Price Decrease, or Status Change. Tag notifications are on by default, with all three changes selected. Emails go to you, and the Tag's contacts are copied.
 
 > Screenshot placeholder: Show the Add saved search window with the Saved searches menu open | Alt text: The Add saved search window with the Saved searches menu open, a Search by name or contact field, and a checkbox next to each saved search.
 
