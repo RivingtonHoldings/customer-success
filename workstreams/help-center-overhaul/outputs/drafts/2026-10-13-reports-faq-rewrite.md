@@ -30,16 +30,31 @@ Use this article to answer common questions about Perchwell reports: changing a 
 
 ## Can I customize the layout of my reports?
 
-Perchwell reports, such as the Quick CMA and the Full Report, follow set layouts designed by Baldwin MLS staff and Perchwell. Not every field position can be changed. Choose what goes in each report instead:
+Perchwell reports follow set layouts designed by Baldwin MLS staff and Perchwell, so not every field position can be changed. Choose what goes in each report on the Customize Report step of the report window:
 
-- Quick CMA: Select Landscape or Portrait under Layout, then select the fields each listing shows.
-- Full Report: Select For agent or For client, and choose whether to include listing history.
+- Quick CMA: Select Landscape or Portrait, then select the fields each listing shows. Add a subject property, listings from a Tag, your contact information, or a summary section.
+- Listing Report: Enter a Report Label and Report Subtitle, and select Landscape or Portrait. Select details such as DOM, Open house, and Large map.
+- Show Sheet: Select Landscape or Portrait, select details such as Map and Floorplan, and choose whose contact information shows. Arrange up to 13 photos.
+- Itinerary: Set the tour date and times, and add an appointment time and notes to each stop. Add your client's name, and select details such as Agent name and Exact address.
+- Full Report: Select For agent, For client, or Both, and choose whether to include listing history.
+- One Pager: Select For agent, For client, or For both.
+- Media Report: Drag the listings into the order you want. The report includes the first 15 images from each listing.
+- 1004MC Market Conditions Addendum: Select Landscape or Portrait, set the Max List Date, and set the stable range.
 
-In both reports, drag listings to reorder them or remove ones you do not want.
+Reorder or remove listings in a Quick CMA, Listing Report, Show Sheet, Itinerary, or Full Report on the same step. Drag a listing to move it, or click the X to the right of a listing to remove it.
 
 Members who came from a legacy platform may know customizable reports, such as Agent All Fields Customizable and CMA Summary.
 
-[Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) walks through each Quick CMA setting, and [Create a Full Report](http://support.perchwell.com/en/articles/12816757-create-and-share-full-reports) covers the agent and client versions.
+For more information:
+
+- [Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) covers layouts, fields, and every Quick CMA option.
+- [Create a Listing Report](https://support.perchwell.com/baldwin/en/articles/8955755-create-a-listing-report) covers labels, listing details, and layout.
+- [Create a Show Sheet](https://support.perchwell.com/baldwin/en/articles/8955767-create-a-show-sheet) covers listing details, contact information, and photos.
+- [Create an Itinerary Report](https://support.perchwell.com/baldwin/en/articles/8955772-create-an-itinerary-report) covers tour times, notes, and listing details.
+- [Create a Full Report](https://support.perchwell.com/baldwin/en/articles/12816757-create-and-share-full-reports) covers the agent and client versions.
+- [Create a One Page Report](https://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers the agent, client, and combined versions.
+- [Create a Media Report](https://support.perchwell.com/baldwin/en/articles/8955781-create-a-media-report) covers the photos and floor plans in the report.
+- [Create a Market Conditions Addendum Report (1004MC)](https://support.perchwell.com/baldwin/en/articles/16414760-create-a-market-conditions-addendum-report-1004mc) covers the Max List Date and stable range.
 
 ## What fields can I include in a Quick CMA or a CMA with a subject property?
 
