@@ -27,7 +27,7 @@ Email a Tag to clients from the Tags page, or resend a Tag you already sent to a
 
 > Screenshot placeholder: Show the Share your tag window after clicking Send | Alt text: The Share your tag window with the Tag's link and listing count, a contact under Contacts, and the Template, Subject, and Message fields.
 
-> **Important:** A contact cannot be removed from a Tag after you save or send it. To stop a contact from viewing the Tag, delete the Tag.
+> **Important:** A contact cannot be removed from a Tag after you save or send it. To stop sharing the Tag, delete it. Its public link then stops working for everyone.
 
 ### Steps:
 1. Click Add next to Contacts in the Share your tag window
@@ -35,7 +35,7 @@ Email a Tag to clients from the Tags page, or resend a Tag you already sent to a
 3. Click Add again
 4. Click Invite to workspace
 
-The Tag invitation sent window lists the email address each invitation went to. Each client receives an email from no-reply@perchwell.com with your name displayed as the sender. It includes a View Tag button that opens the Tag's public page. On the Tags page, the Status column changes to Sent, and the Send button becomes Resend.
+The Tag invitation sent window lists the email address each invitation went to. Each client receives an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name displayed as the sender. It includes a View Tag button that opens the Tag's public page. On the Tags page, the Status column changes to Sent, and the Send button becomes Resend.
 
 When you resend a Tag, all of its contacts receive the email again. If you are not adding anyone, click Invite to workspace when the Share your tag window opens.
 
