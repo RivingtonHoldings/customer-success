@@ -8,7 +8,7 @@ collection: "Tags"
 state: published
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Tags | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3ff8b9e0143881da9fbdc159f0044306 | Old title: How to Tag Individual Listings | Tracker ID: <pending from Tara> -->
+<!-- Article Status: Draft | MLS/AOR: Baldwin, CRLMS All | Collection: Tags | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3ff8b9e0143881da9fbdc159f0044306 | Old title: How to Tag Individual Listings | Tracker ID: TRK-099 -->
 
 # Add Listings to a Tag
 

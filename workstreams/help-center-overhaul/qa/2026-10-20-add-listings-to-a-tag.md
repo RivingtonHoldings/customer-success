@@ -73,7 +73,6 @@ The new score assumes the three open `[confirm: ...]` markers resolve as written
 - Set consistency: Link a Saved Search to a Tag says a reacted saved search listing leaves the Tag only once the reaction is removed, and Create and Edit a Tag names only the Tags page route for removing a listing. Neither mentions the Listing Detail Page x. Offered to Tara as a follow-up.
 - `docs/product-context.md` says adding a listing to a Tag emails the agent with the Tag's contacts copied when Tag notifications are on. The Share via Tag window says uninvited contacts are not notified. Which wins for uninvited contacts with Tag notifications on is unconfirmed; the draft states only the on-screen behavior.
 - Loom (3dcc11372b634f93a35935b9d7785f8e, about three months old) kept at Tara's request; she is checking whether it shows the old Tags tab.
-- Tracker ID pending from Tara.
 - Title change: the live URL slug stays "how-to-tag-individual-listings" until the port; sibling drafts link that URL with the old title as link text, matching the set convention.
 - MLS: the article lives only in the Baldwin help center. CRMLS has its own "Saving Listings with Tags" with different controls; the team should decide whether this article replaces it for CRMLS.
 - Tara's working screenshots show contact and agent names; they are context only and are not to be used as article images.
