@@ -92,7 +92,7 @@ A "Tag duplicated." message appears, and the duplicate is added to the Tags page
 
 Add contacts to an existing Tag when you send it from the Tags page. Click Send in the Actions column next to the Tag, then add the contacts in the Share your tag window. [How to Share a Tag](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) explains how to send a Tag and invite contacts.
 
-> **Important:** A contact cannot be removed from a Tag after you save it. To stop a contact from viewing the Tag, delete the Tag.
+> **Important:** A contact cannot be removed from a Tag after you save it. To stop sharing the Tag, delete it. Its public link then stops working for everyone.
 
 ## Clear all listings from a Tag
 
@@ -112,7 +112,7 @@ An "All listings have been cleared." message appears. The Tag stays on the Tags 
 
 ## Delete a Tag
 
-Delete a Tag on the Tags page when you no longer need it, or to remove a contact's access.
+Delete a Tag on the Tags page when you no longer need it or want to stop sharing it.
 
 > **Important:** Deleting a Tag cannot be undone.
 
@@ -123,4 +123,4 @@ Delete a Tag on the Tags page when you no longer need it, or to remove a contact
 
 > Screenshot placeholder: Show the Delete Tag window | Alt text: The Delete Tag window asking to confirm the deletion, showing the Tag's name, public link, and listing count, with Cancel and Delete buttons.
 
-The Tag is removed from the Tags page, and its public link stops working, so its contacts can no longer view it. Its listings remain in Perchwell and in any other Tags that contain them.
+The Tag is removed from the Tags page, and its public link stops working. Its listings remain in Perchwell and in any other Tags that contain them.
