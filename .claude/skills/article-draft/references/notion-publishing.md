@@ -216,7 +216,7 @@ The repo file is plain markdown. Convert when building `content`:
 | `> Video placeholder: ...` / `> Screenshot placeholder: ... | Alt text: ...` | `<callout color="orange_bg">` with the placeholder text, so owners can spot it |
 | Markdown image with alt text | Keep the alt text; it is required |
 | Markdown table | `<table header-row="true">` with `<tr>` and `<td>` rows; cells hold plain rich text |
-| Blank lines | Drop them. Notion spaces blocks itself; use `<empty-block/>` only if a visual gap is essential |
+| Blank lines | Keep one blank line between blocks. A single newline in `content` or in an `update_content` `new_str` becomes a line break inside one block, which merged the description and opening of Tags Page Overview into one paragraph on October 20, 2026. Use `<empty-block/>` only if a visual gap is essential |
 | Em dashes | Must not exist. Fix before converting |
 
 There is no support footer and no `In this article:` heading to convert. Both were retired on September 4, 2026.
