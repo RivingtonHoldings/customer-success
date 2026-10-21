@@ -57,7 +57,7 @@ Chunk independence check 4 fails in the new draft too: five link or orientation 
 ## Open items
 
 - Notion: https://app.notion.com/p/3ff8b9e0143881b0a4cce4d39512740b, created October 20, 2026.
-- Tracker ID: pending from Tara. Article, Visual, and Video Due set to October 22, 2026, and reviewer and owners copied from Add Listings to a Tag, as assumptions; no dates were given.
+- Tracker ID: TRK-101 (Tara, October 21, 2026), set in Notion. Article, Visual, and Video Due set to October 22, 2026, and reviewer and owners copied from Add Listings to a Tag, as assumptions; no dates were given.
 - Live images, replace now: both August 5, 2026 images show a staff test account's email and phone, and the first shows a first name in the Tag name and message. They are live until the port.
 - Truncated column: the Tags page screenshot cuts off a column between Last Modified and Actions (header begins "T"). The draft names no column list, so nothing depends on it.
 - Gear icon right of the filter icon on the Tags page: purpose unknown, left out.
