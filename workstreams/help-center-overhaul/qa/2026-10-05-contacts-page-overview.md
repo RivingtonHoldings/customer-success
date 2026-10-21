@@ -114,3 +114,4 @@ The sibling articles this one now links to are stale against the October screens
 - Contacts Page Overview- Mobile repeats the live web article's opening and is a near-identical title.
 - Five links in the draft point into the default help center (`/en/`): Bulk Upload Contacts, Invite Clients to Perchwell, Create and Manage Your Contacts in Perchwell, Export Your Contact List, and Message Clients in Perchwell. Confirm at transfer that they resolve for Baldwin members.
 - The old Notion page's open comment, asking whether additional emails are CC'd or BCC'd, is answered by the modal: notifications go to them in the same thread.
+- Shared Listings: corrected October 20, 2026. Tara confirmed listings shared through a Tag appear there; the line now reads email, Messages, or a Tag, and excludes text, public link, and saved search alerts.

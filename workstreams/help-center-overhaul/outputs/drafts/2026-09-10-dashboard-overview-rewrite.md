@@ -69,11 +69,11 @@ The Saved Searches widget on the Dashboard lists your Saved Searches, and clicki
 
 ### Tags widget on the Dashboard
 
-The Tags widget on the Dashboard lists your Tags, the folders of listings you organize, track for status and price updates, and share with clients. Clicking a tag opens the Tag page in a new tab. Sort the Tags widget by Name or # of Properties.
+The Tags widget on the Dashboard lists your Tags, the folders of listings you organize, track for status and price updates, and share with clients. Click a Tag to open its public page in a new tab. Sort the Tags widget by Name or # of Properties.
 
 Members who came from a legacy platform may know Tags as listing carts. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
 
-For creating a Tag, sharing one with a client, and setting its alerts, see [Tags Page Overview](http://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview).
+[Tags Page Overview](http://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview) explains how Tags hold listings, how My Tags and Client Tags differ, and how to work with Tags on the Tags page.
 
 > Screenshot placeholder: the Tags widget on the Dashboard | Alt text: The Tags widget on the Perchwell Dashboard listing tags with a property count beside each one
 

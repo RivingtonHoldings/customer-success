@@ -12,7 +12,7 @@ state: published
 
 # Link a Saved Search to a Tag
 
-**Description:** Link one or more saved searches to a Tag so its listings are added or removed automatically as the search results change.
+**Description:** Link saved searches you've already created to a Tag so their listings are added or removed automatically as search results change.
 
 Use this article to link saved searches to a Tag, keep specific listings in the Tag, and unlink a saved search. A Tag groups listings in one place and has its own public link. Members who came from a legacy platform may know Tags as Listing Carts.
 
@@ -20,7 +20,7 @@ Use this article to link saved searches to a Tag, keep specific listings in the 
 
 ## Link saved searches to a new or existing Tag
 
-Link one or more of your saved searches to a new or existing Tag from the Tags page. Start from either of these:
+Save a search first, then link it to a new or existing Tag from the Tags page. There is no Tag option when you save a search. [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches) explains how to save one. Start from either of these:
 
 - New Tag: Click New Tag in the upper right, then enter a name in the Name field.
 - Edit tag: Click the Edit tag pencil icon in the Actions column next to an existing Tag.
@@ -28,7 +28,7 @@ Link one or more of your saved searches to a new or existing Tag from the Tags p
 ### Steps:
 1. Click Add next to Saved searches
 2. Click the Saved searches field
-3. *(Optional)* Enter part of a saved search or contact name in the Search by name or contact field
+3. Enter the saved search's name in the Search by name or contact field
 4. Select the checkbox next to each saved search you want to link
 5. Click Add again
 6. Click Create for a new Tag, or Save for an existing Tag
