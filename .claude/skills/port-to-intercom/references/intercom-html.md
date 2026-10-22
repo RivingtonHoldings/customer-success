@@ -25,7 +25,8 @@ The mapping `/port-to-intercom` uses. Every rule here was read off the HTML Inte
 | `![alt](url)` | `<div class="intercom-container"><img src="url" alt="alt" width="W" height="H" style="height: auto;"></div>` |
 | `<video src="https://www.loom.com/share/ID"></video>` | `<div class="intercom-h2b-video"><iframe src="https://www.loom.com/embed/ID" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; fullscreen; picture-in-picture; encrypted-media"></iframe></div>` |
 | `> **Note:** text`, `> **Important:** text`, `> **Tip:** text` | A callout. See Callouts below; the color depends on the label. |
-| `> Screenshot placeholder: …` | Omit, and report it. A placeholder means the image does not exist yet. |
+| `![Baldwin \| Alt text: alt](url)` or `![CRMLS \| Alt text: alt](url)` | The same `<img>` with `alt="alt"`, the label and prefix stripped, when the label matches the target help center. Omit it when the label names the other MLS. See step 5 of `SKILL.md`. |
+| `> Screenshot placeholder: …` | Omit, and report it. A placeholder means the image does not exist yet. A placeholder labeled `(Baldwin)` or `(CRMLS)` is reported only when the label matches the target help center. |
 | `&`, `<`, `>` in text | `&amp;`, `&lt;`, `&gt;` |
 
 Heading levels are fixed by the house standard: H1 is the title and never appears in the body, H2 is a major section, H3 is a subsection and the `Steps:` heading. Do not emit `id` attributes; Intercom generates its own anchors.
