@@ -229,9 +229,9 @@ Report the new page URL(s). What happens next:
 
 1. Peer review in Notion, by a person
 2. Move the row to `Ready to Transfer`
-3. Run `/port-to-intercom`. It converts the body, moves each image's alt text into Intercom's `alt` attribute, shows the diff, pushes on your confirmation, writes the changelog, sets `Article Status` to `Live in Intercom` and fills `Intercom URL`, and re-syncs the mirror
+3. Run `/port-to-intercom`. It converts the body, drops each image's caption and alt text, shows the diff, pushes on your confirmation, writes the changelog, sets `Article Status` to `Live in Intercom` and fills `Intercom URL`, and re-syncs the mirror
 4. Set the Fin labels per `docs/standards/fin-labeling.md`, by a person. `update_article` cannot write tags
 5. Assign the MLS audience, by a person
 6. Publish in Intercom, by a person, for a new article. A port to an already-live article keeps its published state
 
-Step 3 used to be the step that got missed, and the part of it that got missed was the alt text: Notion has no separate alt text field, so the alt text sits in the caption and the draft looks finished. Left alone, every published article carried a visible description under each screenshot and no alt text at all, which is exactly what golden question 2 tests for. The skill now does that conversion, so the remaining manual steps are the ones the connector cannot reach.
+Notion has no separate alt text field, so the alt text sits in the image caption. The port drops the caption and does not carry the alt text into Intercom, because Intercom does not support alt text (Tara, October 23, 2026). Keep writing the alt text in the Notion caption anyway: it describes the screenshot for reviewers, and the `Baldwin |` or `CRMLS |` label at its start tells the port which help center the image belongs to.

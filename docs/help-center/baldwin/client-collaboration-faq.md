@@ -12,17 +12,17 @@ collections: ["Client Collaboration / FAQs"]
 state: published
 author_id: 8314814
 created_at: 2026-05-21T04:32:46Z
-updated_at: 2026-09-10T22:51:49Z
+updated_at: 2026-10-06T14:22:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-14T14:26:04Z
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Client Collaboration FAQ
 
 # Will contacts who have existing saved search emails from Paragon still receive those alerts after the transition to Perchwell?
 
-When Paragon is fully replaced by Perchwell, the client will no longer receive. search alert emails. During the Parallel Period, all saved searches will come over from Paragon with the alerts turned on. You will need to turn on search notifications for each Saved Search. You'll also want to turn search alerts off in Paragon for each search to avoid duplicate emails.
+When Paragon is fully replaced by Perchwell, the client will no longer receive search alert emails. You will need to turn on search notifications for each Saved Search.
 
 # Can I export my contact interactions?
 

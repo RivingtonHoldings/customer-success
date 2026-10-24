@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-29T17:54:52Z. Articles: 85 (71 published, 14 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-10-24T02:46:33Z. Articles: 85 (71 published, 14 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -10,7 +10,7 @@ Collection ID 16867014. 4 articles.
 
 - [Adding a New Chart in Analytics](adding-a-new-chart-in-analytics.md) (draft), updated 2026-07-02
 - [Analytics Overview](analytics-overview.md), updated 2026-07-02
-- [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-07-02
+- [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-10-06
 - [Share and Export Analytics Charts](share-and-export-analytics-charts.md), updated 2026-07-02
 
 ## Client Collaboration
@@ -116,27 +116,27 @@ Collection ID 16866944. 8 articles.
 - [Enhancing Your Search with Filters](enhancing-your-search-with-filters.md), updated 2026-07-02
 - [Filter Your Search by Commute](filter-your-search-by-commute.md), updated 2026-07-02
 - [Filter Your Search by Keywords](filter-your-search-by-keywords.md), updated 2026-07-02
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
 - [Filtering your Search by Property Types](filtering-your-search-by-property-types.md), updated 2026-07-02
-- [Search for Open Houses](search-for-open-houses.md), updated 2026-07-02
 - [Using the Draw Filter](using-the-draw-filter.md) (draft), updated 2026-07-02
 
 ## Search / Search (under Search)
 
 Collection ID 16866865. 15 articles.
 
-- [Add an Invited Client to a Saved Search](add-an-invited-client-to-a-saved-search.md), updated 2026-07-02
 - [Create a Cloud CMA Presentation from Search](create-a-cloud-cma-presentation-from-search.md), updated 2026-07-02
-- [Customize Your Search View](customize-your-search-view.md), updated 2026-08-10
-- [Export Listings in Perchwell](export-listings-in-perchwell.md), updated 2026-07-02
-- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-08-31
+- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
+- [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
+- [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
+- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-10-23
 - [Multi-Listing Actions on the Search Page](multi-listing-actions-on-the-search-page.md) (draft), updated 2026-07-02
-- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-08-31
+- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-10-23
+- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
 - [Sharing Multiple Listings via Email or with a Public Link](sharing-multiple-listings-via-email-or-with-a-public-link.md), updated 2026-07-02
 - [Sharing a Saved Search with Clients](sharing-a-saved-search-with-clients.md) (draft), updated 2026-07-02
 - [Sorting Listings on the Search Page](sorting-listings-on-the-search-page.md), updated 2026-07-02
 - [The Search Page Overview](the-search-page-overview.md), updated 2026-07-02
-- [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-09-18
+- [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
 - [Using Searchwell](using-searchwell.md), updated 2026-07-02
 - [Using the Map on the Search Page](using-the-map-on-the-search-page.md), updated 2026-07-02
 

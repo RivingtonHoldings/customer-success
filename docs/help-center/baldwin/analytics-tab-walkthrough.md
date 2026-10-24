@@ -1,26 +1,26 @@
 ---
-intercom_id: "8955889"
-content_id: "9099187"
+intercom_id: "17453999"
+content_id: "22673263"
 title: "Analytics Tab Walkthrough"
-description: "In this article, you will learn how to open Analytics from Search, build charts from your current results, and export or email your charts."
-url: "http://support.perchwell.com/en/articles/8955889-analytics-tab-walkthrough"
+description: "In this article, you will learn how to open Analytics from Search and build charts from your current results."
+url: "http://support.perchwell.com/baldwin/en/articles/17453999-analytics-tab-walkthrough"
 help_center: baldwin
 help_center_id: 4755399
 collection: "Analytics / Analytics Tools"
 collection_ids: [19585615]
 collections: ["Analytics / Analytics Tools"]
 state: published
-author_id: 9490228
-created_at: 2024-02-15T22:11:52Z
-updated_at: 2026-07-02T02:37:45Z
+author_id: 10644865
+created_at: 2026-10-08T14:39:27Z
+updated_at: 2026-10-08T14:44:09Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T19:41:23Z
 ---
 
 # Analytics Tab Walkthrough
 
-# Analytics overview
+# **Analytics Overview**
 
 Use **Analytics** to turn your current **Search** results into charts you can share.
 - Compare pricing and trends within your filtered results.
@@ -30,28 +30,28 @@ Use **Analytics** to turn your current **Search** results into charts you can sh
 
 **💡 Analytics only reflects the listings in your current search. Update your filters first, then review your charts.**
 
-# Analytics access (Search)
+# **Analytics access (Search)**
 
-[Embedded video](https://demo.arcade.software/BYe4IWzm0HlXFCKP7de8?embed)
-
-### Steps:
+## **Steps:**
 1. Open **Search**
 2. Switch to the Listings view
-3. Select the View drop down
-4. Click Analytics
+3. Navigate to the View ribbon
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2721418289/673ef6c4432eea14ad86dd15ac22/Screenshot+2026-10-08+at+10_40_57%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2721418289/673ef6c4432eea14ad86dd15ac22/Screenshot+2026-10-08+at+10_40_57%E2%80%AFAM.png?expires=1792786500&signature=26a7f584d0e44e617af771e584ac62624006e6e131addbbdaefd9cdef2facf33&req=diclF81%2FlYNXUPMW1HO4zaNNywtTqvrjZYeUDvQF41Dotx8UuWGdZULexfwE%0ATu%2BX%0A)
+4. Click Analytics:
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2721420260/51d23bd72e4f3d1f0a10de5dfddf/Screenshot+2026-10-08+at+10_41_49%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2721420260/51d23bd72e4f3d1f0a10de5dfddf/Screenshot+2026-10-08+at+10_41_49%E2%80%AFAM.png?expires=1792786500&signature=dd9e544f80f9b10fa3e6101fe99a189e05816efd7d17c3a2f8e6e7f7c2f03bb8&req=diclF818nYNZWfMW1HO4zcT%2F%2B36M4joT3m%2FvnX9nhmtTyw40u%2BAwWI%2BHlJ6%2F%0AHAg1%0A)
 
-# Chart creation
+# **Chart creation**
 
-## Chart setup
+## **Chart setup**
 
 Create charts directly from the **Analytics** tab.
 
-### Steps:
+## **Steps:**
 1. Click **+ Charts**
 2. Open a **chart category**
 3. Choose a **chart type**
 
-## Choose the right chart category
+## **Choose the right chart category**
 
 Pick a category based on the question you are trying to answer.
 
@@ -62,22 +62,8 @@ Pick a category based on the question you are trying to answer.
 | **Location** | Compare pricing and property data across areas and nearby locations. |
 | **Median** | Analyze pricing medians like price per square foot or price per bedroom. |
 
-# Share, Export, and Print
+​
 
-Use **Share** to generate a PDF or send a report via Email.
+[Embedded video](https://www.loom.com/embed/956e41165b0647618e4019b58a019046)
 
-### Steps:
-1. Click **Share icon**
-2. Choose **Portrait** or **Landscape**
-3. Enter recipients names or select from the **Suggested contacts list**
-4. Select to **Email Report** or **Export PDF**
-
-Use the Print icon to print the charts currently displayed.
-
-### Steps:
-1. Click the Print icon
-2. A PDF download will appear, and you can take the next steps on your device to print
-
-## Tips
-- Update your **Filters** before you open **Analytics** so your charts reflect the right set of listings.
-- Add exported PDFs to CMAs or Listing Reports.
+​

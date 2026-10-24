@@ -1,15 +1,87 @@
 {
- "last_run": "2026-09-29T17:54:52Z",
+ "last_run": "2026-10-24T02:46:33Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
   "11002620": {
    "file": "universal-search-bar.md",
-   "updated_at": 1789697843,
+   "updated_at": 1792809926,
    "state": "published",
    "title": "Universal Search Bar",
    "content_id": "11821319",
-   "body_sha1": "78699adfa54abe74b70adcfb6c9d580bec7fd05a"
+   "body_sha1": "a37ebd696b045b1b04fa38d40faa5ace74d9ddf2"
+  },
+  "8955682": {
+   "file": "share-a-saved-search-with-a-client.md",
+   "updated_at": 1792796852,
+   "state": "published",
+   "title": "Share a Saved Search with a Client",
+   "content_id": "9098973",
+   "body_sha1": "0afd0cad9f99470e3e27844e9b1184be7ca3fb64"
+  },
+  "11112420": {
+   "file": "set-up-email-alerts-for-saved-searches.md",
+   "updated_at": 1792795291,
+   "state": "published",
+   "title": "Set Up Email Alerts for Saved Searches",
+   "content_id": "11986197",
+   "body_sha1": "63b1fcfda8eea8638b1c04df5567dc88d956d4bb"
+  },
+  "8955646": {
+   "file": "manage-your-saved-searches.md",
+   "updated_at": 1792793756,
+   "state": "published",
+   "title": "Manage Your Saved Searches",
+   "content_id": "9098936",
+   "body_sha1": "aff23cd15068f4a424606bc92b5bc3c3636f7220"
+  },
+  "11010696": {
+   "file": "filter-your-search-by-status-and-price-changes.md",
+   "updated_at": 1792792861,
+   "state": "published",
+   "title": "Filter Your Search by Status and Price Changes",
+   "content_id": "11832103",
+   "body_sha1": "df90a7430d1cd0590058e2b3f490aa4e39473a2c"
+  },
+  "11517245": {
+   "file": "filter-your-search-by-open-house-date.md",
+   "updated_at": 1792792401,
+   "state": "published",
+   "title": "Filter Your Search by Open House Date",
+   "content_id": "12507731",
+   "body_sha1": "88581401e1e5f4ae5a2837105f82d938c9f21784"
+  },
+  "11776740": {
+   "file": "export-listings-to-a-csv-file.md",
+   "updated_at": 1792791920,
+   "state": "published",
+   "title": "Export Listings to a CSV File",
+   "content_id": "12887977",
+   "body_sha1": "57bc1c58003195991ecbc1f7800e92daf4c81134"
+  },
+  "11962073": {
+   "file": "customize-your-search-results-view.md",
+   "updated_at": 1792791645,
+   "state": "published",
+   "title": "Customize Your Search Results View",
+   "content_id": "13190641",
+   "body_sha1": "d927b98e85f351ecbac9c2141c632b40087ed80f"
+  },
+  "8955876": {
+   "file": "share-and-export-analytics-charts.md",
+   "updated_at": 1782959863,
+   "state": "published",
+   "title": "Share and Export Analytics Charts",
+   "content_id": "9099174",
+   "body_sha1": "997054685147c7331d95930d7aa09d3867a82804"
+  },
+  "8955889": {
+   "file": "analytics-tab-walkthrough.md",
+   "updated_at": 1791308845,
+   "state": "published",
+   "title": "Analytics Tab Walkthrough",
+   "content_id": "9099187",
+   "body_sha1": "81e9394d8464502ab679cd57fe5d13b17c7fd3fd"
   },
   "12816757": {
    "file": "create-and-share-full-reports.md",
@@ -26,22 +98,6 @@
    "title": "Create One Page Reports",
    "content_id": "14458010",
    "body_sha1": "c6802cf71a592f8a043514b4589a43c98f132e02"
-  },
-  "11112420": {
-   "file": "set-up-email-alerts-for-saved-searches.md",
-   "updated_at": 1788200121,
-   "state": "published",
-   "title": "Set Up Email Alerts for Saved Searches",
-   "content_id": "11986197",
-   "body_sha1": "7c9531f7f92a2cfba4f491f82d19e2d1bca95111"
-  },
-  "8955646": {
-   "file": "manage-your-saved-searches.md",
-   "updated_at": 1788187258,
-   "state": "published",
-   "title": "Manage Your Saved Searches",
-   "content_id": "9098936",
-   "body_sha1": "26e8c1bda62ed195a145ccbfb82dbebeaf98525b"
   },
   "11373849": {
    "file": "share-listings-with-your-agent.md",
@@ -83,14 +139,6 @@
    "content_id": "9099049",
    "body_sha1": "49fc371fec9664c9fc3369fad62c82efa1d75ac8"
   },
-  "11962073": {
-   "file": "customize-your-search-view.md",
-   "updated_at": 1786399621,
-   "state": "published",
-   "title": "Customize Your Search View",
-   "content_id": "13190641",
-   "body_sha1": "255fad7773af2b2f3f27cc9b0fd9a011a27f8819"
-  },
   "14324175": {
    "file": "creating-and-editing-tags.md",
    "updated_at": 1782959972,
@@ -98,14 +146,6 @@
    "title": "Creating and Editing Tags",
    "content_id": "16734204",
    "body_sha1": "2746f745b7ccf68670cfe8ef866cdc5150b39283"
-  },
-  "13923637": {
-   "file": "creating-a-search-with-filters-in-perchwell.md",
-   "updated_at": 1782959965,
-   "state": "published",
-   "title": "Creating a Search with Filters in Perchwell",
-   "content_id": "16185917",
-   "body_sha1": "b93a9fefbc1177981aa01f84bf078925f0b93a98"
   },
   "13930735": {
    "file": "sorting-listings-on-the-search-page.md",
@@ -115,13 +155,13 @@
    "content_id": "16199094",
    "body_sha1": "033aefc1defbbc61561eae9c94c89b76f53bc6e8"
   },
-  "13923137": {
-   "file": "create-a-cloud-cma-presentation-from-search.md",
-   "updated_at": 1782959963,
+  "13923637": {
+   "file": "creating-a-search-with-filters-in-perchwell.md",
+   "updated_at": 1782959965,
    "state": "published",
-   "title": "Create a Cloud CMA Presentation from Search",
-   "content_id": "16185172",
-   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
+   "title": "Creating a Search with Filters in Perchwell",
+   "content_id": "16185917",
+   "body_sha1": "b93a9fefbc1177981aa01f84bf078925f0b93a98"
   },
   "13923207": {
    "file": "using-searchwell.md",
@@ -131,6 +171,14 @@
    "content_id": "16185254",
    "body_sha1": "853fb9037a92b015e1d0ca21376759165f99d060"
   },
+  "13923137": {
+   "file": "create-a-cloud-cma-presentation-from-search.md",
+   "updated_at": 1782959963,
+   "state": "published",
+   "title": "Create a Cloud CMA Presentation from Search",
+   "content_id": "16185172",
+   "body_sha1": "a2b15de2a0963061d8a090e2f34c081874c14d5c"
+  },
   "13921850": {
    "file": "filtering-your-search-by-property-types.md",
    "updated_at": 1782959960,
@@ -139,14 +187,6 @@
    "content_id": "16183138",
    "body_sha1": "a218aae5ec5de9e5a58ab85760148c3f9317ecf3"
   },
-  "13921493": {
-   "file": "integration-tools-on-the-dashboard.md",
-   "updated_at": 1782959959,
-   "state": "published",
-   "title": "Integration Tools on the Dashboard",
-   "content_id": "16182357",
-   "body_sha1": "17b6053b0995413224beb94c34542bd65152d198"
-  },
   "13921348": {
    "file": "adding-a-hot-sheet-to-the-dashboard.md",
    "updated_at": 1782959959,
@@ -154,6 +194,14 @@
    "title": "Adding a Hot Sheet to the Dashboard",
    "content_id": "16182104",
    "body_sha1": "ca22d7dadacdee501ffbcb2f4ce3fa70e345f88c"
+  },
+  "13921493": {
+   "file": "integration-tools-on-the-dashboard.md",
+   "updated_at": 1782959959,
+   "state": "published",
+   "title": "Integration Tools on the Dashboard",
+   "content_id": "16182357",
+   "body_sha1": "17b6053b0995413224beb94c34542bd65152d198"
   },
   "13921071": {
    "file": "filtering-listing-by-office-mls-or-your-listings-on-the-dashboard.md",
@@ -307,14 +355,6 @@
    "content_id": "13240712",
    "body_sha1": "7250ac6a0a64aaee98c8daeef15e0b3d1a88f2ba"
   },
-  "11776740": {
-   "file": "export-listings-in-perchwell.md",
-   "updated_at": 1782959912,
-   "state": "published",
-   "title": "Export Listings in Perchwell",
-   "content_id": "12887977",
-   "body_sha1": "99ff743023347a72e336d6ad2675d3ba64aba7fe"
-  },
   "11680979": {
    "file": "what-s-new-in-perchwell-crmls.md",
    "updated_at": 1782959909,
@@ -346,14 +386,6 @@
    "title": "Reporting Listings",
    "content_id": "12508574",
    "body_sha1": "29b5a4c14bd67183de45017e08dd1e91413be16a"
-  },
-  "11517245": {
-   "file": "search-for-open-houses.md",
-   "updated_at": 1782959905,
-   "state": "published",
-   "title": "Search for Open Houses",
-   "content_id": "12507731",
-   "body_sha1": "b1d87d8635ab73b3c9c74a4e24e3b15cdd8b1b90"
   },
   "11373888": {
    "file": "communicate-with-your-agent-in-perchwell.md",
@@ -435,14 +467,6 @@
    "content_id": "11832296",
    "body_sha1": "433d8f495137972a1a60cf6150c15d6f293d2134"
   },
-  "11010696": {
-   "file": "understand-status-and-activity-filter.md",
-   "updated_at": 1782959888,
-   "state": "published",
-   "title": "Understand Status and Activity Filter",
-   "content_id": "11832103",
-   "body_sha1": "dc0ced6d56419df0a4eede40537e912cc1b189f0"
-  },
   "11010483": {
    "file": "the-days-active-in-the-mls-widget.md",
    "updated_at": 1782959887,
@@ -490,22 +514,6 @@
    "title": "Overview of Listing Presentations",
    "content_id": "10604715",
    "body_sha1": "1f35812d7939034e6701dc0814ea49525e0daf07"
-  },
-  "8955889": {
-   "file": "analytics-tab-walkthrough.md",
-   "updated_at": 1782959865,
-   "state": "published",
-   "title": "Analytics Tab Walkthrough",
-   "content_id": "9099187",
-   "body_sha1": "81e9394d8464502ab679cd57fe5d13b17c7fd3fd"
-  },
-  "8955876": {
-   "file": "share-and-export-analytics-charts.md",
-   "updated_at": 1782959863,
-   "state": "published",
-   "title": "Share and Export Analytics Charts",
-   "content_id": "9099174",
-   "body_sha1": "997054685147c7331d95930d7aa09d3867a82804"
   },
   "8955860": {
    "file": "analytics-overview.md",
@@ -562,14 +570,6 @@
    "title": "Adding a Open House to your Listing",
    "content_id": "9099000",
    "body_sha1": "18b146fac6c27d6bdf000c09ad2a2cfa3ec42580"
-  },
-  "8955682": {
-   "file": "add-an-invited-client-to-a-saved-search.md",
-   "updated_at": 1782959845,
-   "state": "published",
-   "title": "Add an Invited Client to a Saved Search",
-   "content_id": "9098973",
-   "body_sha1": "cd5d6309b816f96612491cf4ccedf2bacbd3ee45"
   },
   "13624055": {
    "file": "adding-a-subject-property-to-a-cma.md",

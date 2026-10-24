@@ -12,10 +12,10 @@ collections: ["Analytics"]
 state: published
 author_id: 9490228
 created_at: 2024-02-15T22:11:52Z
-updated_at: 2026-07-02T02:37:45Z
+updated_at: 2026-10-06T17:47:25Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Analytics Tab Walkthrough

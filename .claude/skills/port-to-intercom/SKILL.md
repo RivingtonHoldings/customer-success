@@ -32,6 +32,15 @@ This skill owns transfer mechanics only. It does not rewrite, score, or re-revie
 
    **Keep only this help center's screenshots.** A caption that starts `Baldwin |` or `CRMLS |` marks an image for that MLS only, and a placeholder labeled `(Baldwin)` or `(CRMLS)` likewise. Take the target help center from step 4: keep the unlabeled images and the ones labeled for that help center, strip the label, and drop the rest. List what was dropped in the diff, so a reviewer can see each step still has its image. If step 4 found the article in both Baldwin and CRMLS and the draft has labeled images, stop: one article cannot show each MLS its own screenshot, and keeping either set shows the wrong one to the other MLS. Ask the teammate whether to split the article or pick one image per step.
 
+   **Replace every link to a Notion page with the Intercom article it stands for.** Drafts link sibling articles as Notion page mentions (`<mention-page url="…">`) or `app.notion.com` / `notion.so` URLs while those siblings are still drafts. Members cannot open a Notion page, so none may reach Intercom. For each one:
+
+   - Fetch the linked page. If it is a row in the Perchwell Help Center Database [Sep 2026], take its `Intercom URL`. If that is empty, find the Intercom article the row will replace: the `Intercom article ID` in its QA file under `workstreams/help-center-overhaul/qa/`, or `search_articles` on its `Article Name` and old title.
+   - Call `get_article` on that ID. Use the public `url` it returns, with the target help center from step 4 in the path (`/baldwin/en/` or the CRMLS equivalent), never a bare `/en/` link.
+   - Keep the row's `Article Name` as the link text. If the target has not been ported yet, its live title still differs; say so in the report, because the link text matches only once that article ports.
+   - **Stop on that link** if the target has no Intercom article, is `draft` in Intercom, or does not sit in the target help center. Name the link and let the teammate decide. Do not drop it, and do not link the Notion page.
+
+   List every replacement in the diff (link text, Notion page, Intercom URL). Added October 23, 2026, after the Search collection review found Notion links in five articles.
+
 6. **Diff and confirm.** Fetch the live body with `get_article` and show the full before-and-after in the conversation: title, description, then the body section by section. Ask for confirmation **for this one article**. "Yes to all" is not accepted, and a batch of articles is confirmed one at a time.
 
    **Diff against `get_article`, never against the mirror.** The mirror holds the page Intercom renders for a reader, and the rendering differs from the stored HTML: a cross-link stored as `/en/` is served as `/baldwin/en/`, so the mirror shows a path the article does not contain. Diffing the Notion draft against the mirror on 2026-09-23 produced a seven-link regression that did not exist, and the "fix" for it was an unrequested change to a reviewed page. The same trap as step 4's, one field over.

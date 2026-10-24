@@ -21,8 +21,6 @@ migrated_from: master-article-list
 
 Use this article to move between the Filters and Results tabs on the Search page, set search criteria in the Filters tab, review and narrow listings in the Results tab, select and work with listings, save a search, view your Saved Searches, and explore market data in Search Analytics.
 
-> Video placeholder: a Loom walkthrough of the Search page, starting on the Filters tab, moving to Results, switching between views, selecting listings to open the Actions menu, and ending on a saved search
-
 ## Move between the Filters and Results tabs on the Search page
 
 The Perchwell Search page has two tabs in the upper right:

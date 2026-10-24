@@ -12,10 +12,10 @@ collections: ["Listing Maintenance"]
 state: published
 author_id: 8314814
 created_at: 2026-02-04T22:50:42Z
-updated_at: 2026-09-01T22:02:46Z
+updated_at: 2026-10-20T12:03:47Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Manage Listings Page Overview
@@ -67,10 +67,28 @@ Use filters to narrow your results so you can focus on the listings you need to 
   - Update or clear filters as needed
 ​
 Filtering for **Draft Listings**
-- You can use the **Filter** section on the right side to filter for certain Listings, and even filter for **Drafts**
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png?expires=1788542100&signature=0214ea31cd6a01a629c01d7de17ef09761d99cc3e0bebd11ed5dedf7f1b53c81&req=diUuH857lYFdXPMW1HO4zeCS%2B%2BM2b8ohS9kgalMYGalXSGC2fRuKDmhWljWy%0AiBbC%0A) Click on **Drafts **under **Publication Status **to filter for only Drafts.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png?expires=1788542100&signature=8535265d1a8c5e59d797e67ed06cbc5e635b48ceec1b243c858c2a5e9009fb35&req=diUuH854nIhdXPMW1HO4zXZwDSG6g2qcvg%2F%2FPQ55m877q6dqyktZrCarM45y%0Aev1m%0A)
+
+You can use the **Filter** section on the right side to filter for certain Listings, and even filter for **Drafts**
 ​
+
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png?expires=1792786500&signature=e8ed2c5c69919fb5c761e2a3beab9375f29cfffb74d965bd96728884c775bcc9&req=diUuH857lYFdXPMW1HO4zeCS%2Buk0Y84lS9kgcFceEJO81C0pNJjuPZXsvrk7%0A%2B9InncJLpSPTjb7Yh1M%3D%0A)
+
+Click on **Drafts **under **Publication Status **to filter for only Drafts.
+​
+
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png?expires=1792786500&signature=5fbb65cf9f3819d4adfe289844cd19bbcee80c64ef1822599a95e3011d25b1ed&req=diUuH854nIhdXPMW1HO4zXZwDCu4j26Yvg%2F%2FJwp%2FkvR5Vs12%2BjP0NrarITbX%0AGrXh0DgaechnPpprtAE%3D%0A)
+
+​
+
+## Share draft listings
+
+You can share a report of your draft/partial listing via the Manage Listings page.
+- Head over to Manage Listings
+- Select the Listing you want to share by clicking on the address link
+- Click on Actions on the top right, then select either the one page or full report:
+
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2753270573/675e8adea59823aa901f3724ff00/Screenshot+2026-10-20+at+8_02_05%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2753270573/675e8adea59823aa901f3724ff00/Screenshot+2026-10-20+at+8_02_05%E2%80%AFAM.png?expires=1792786500&signature=29473407fdcd058eba8a50345ec8294e2b9203a4757d2b78276a5d040b506d35&req=diciFct5nYRYWvMW1HO4zX8hFnQbFY%2Bm1HMhshpLlxNlMH8s%2FZgucEPSi1MU%0AuU%2FDVfyBpBl2cvx8orA%3D%0A)
+- You can download this report then send it to your client via email.
 
 ## **Tips**
 - Keep listing details current so clients see the right information.

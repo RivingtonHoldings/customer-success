@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 9490228
 created_at: 2026-03-02T04:56:55Z
-updated_at: 2026-08-01T15:56:12Z
+updated_at: 2026-10-05T18:57:48Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Create a Search with Filters in Perchwell
@@ -37,17 +37,18 @@ Add filters to create a search.
 ## Apply commonly used filters
 1. Start on the **Search** page
 2. In **Quick Filters**, select the criteria you need
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580607492/c5cad13eae5655dc2374ce012587/Screenshot+2026-08-01+at+11_55_30%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580607492/c5cad13eae5655dc2374ce012587/Screenshot+2026-08-01+at+11_55_30%E2%80%AFAM.png?expires=1788542100&signature=68ce5957b655f3cbed5698666c373f9180e265c627174601be333f7cd200c9ad&req=diUvFs9%2BmoVWW%2FMW1HO4zXrs1ytgSlDf6WxELAoSa8GR6a8fLSortqFFmcCA%0A46oL%0A)
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580607492/c5cad13eae5655dc2374ce012587/Screenshot+2026-08-01+at+11_55_30%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580607492/c5cad13eae5655dc2374ce012587/Screenshot+2026-08-01+at+11_55_30%E2%80%AFAM.png?expires=1792786500&signature=7057e9ac1cf522573c9146abffb3d40f29d7753b27c5886e1618a3abee655990&req=diUvFs9%2BmoVWW%2FMW1HO4zXrs1iFiRlTb6WxELAoSa8EzP8r2ulD9x4wmjD2A%0AHJKr%0A)
 3. Type the filters and values you need.
 
 Common filters to start with:
 - **Property Type**: Select listing categories, then click **Edit** to include or exclude subtypes.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580605569/c082a8a065489057aae856beb92d/Screenshot+2026-08-01+at+11_52_43%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580605569/c082a8a065489057aae856beb92d/Screenshot+2026-08-01+at+11_52_43%E2%80%AFAM.png?expires=1788542100&signature=4e2b0b5916ac8446445a9b8c0d5bd3d907e2b1d24d01d402df086605f13ce6a9&req=diUvFs9%2BmIRZUPMW1HO4zSg1o%2FUGRqKqNfQ8w9O4d3PHgGmEqSQTy22BZVQe%0AaRuj%0A)
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580605569/c082a8a065489057aae856beb92d/Screenshot+2026-08-01+at+11_52_43%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580605569/c082a8a065489057aae856beb92d/Screenshot+2026-08-01+at+11_52_43%E2%80%AFAM.png?expires=1792786500&signature=bd8d65cd12d58a8a5c319773860e2d7773e89fa6befa8d30e24fdbc5776e643e&req=diUvFs9%2BmIRZUPMW1HO4zSg1ov8ESqauNfQ8w9O4d3ME6yfwWwKP%2FibfcbxR%0AUll6%0A)
+- **Price: **Select the price range. Quick tip: you can use keyboard shortcuts to help enter the price quicker. Use "K" for thousand, and "M" for Million.
 - **Bedrooms** and **Bathrooms**:
   - Select a number with **+** to include that number or more.
   - Use **Exact Matches** to set specific minimums and maximums.
   - For bathrooms, choose **Total** or **Type** to separate full and half baths.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580606689/5dffaf6df891a264166f11f0293c/Screenshot+2026-08-01+at+11_54_08%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580606689/5dffaf6df891a264166f11f0293c/Screenshot+2026-08-01+at+11_54_08%E2%80%AFAM.png?expires=1788542100&signature=677e083590ed1b6b541daaab9760fa309732490c0f4fd0e4c927198fbc38c0c1&req=diUvFs9%2Bm4dXUPMW1HO4zeRMWZOoNEOt2F99Tb%2BRvjdlDGAolwaqspSeibpe%0AtByP%0A)
+​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2580606689/5dffaf6df891a264166f11f0293c/Screenshot+2026-08-01+at+11_54_08%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2580606689/5dffaf6df891a264166f11f0293c/Screenshot+2026-08-01+at+11_54_08%E2%80%AFAM.png?expires=1792786500&signature=e91d135e5b2635dc523076ddf5d032b39850cafcd1adbb369c686698dc41d67b&req=diUvFs9%2Bm4dXUPMW1HO4zeRMWJmqOEep2F99Tb%2BRvjf3CURh2iNyaU0C8c7G%0AoDDz%0A)
 - **Sqft**: The properties square footage.
 - **Year Built**: The year the property was built.
 - **Location**: Narrow by where the listing is by city, county, zip code or schools.
@@ -69,6 +70,7 @@ Use map tools when a client has specific location requirements outside of the st
 - **Radius:** Draw a search area within a set number of miles from a specific location, such as a workplace or school.
 - **Commute:** Find listings within a set commute time from a location. Choose the commute type: Walking, Driving, or Biking.
 - **Freehand:** Outline a custom area directly on the map. Use this when a client wants to search within a boundary that does not follow standard neighborhood or zone lines.
+- **Polygon: **Draw a polygonal shape around an area on the map. Use this to draw more structured shapes compared to the freehand tool.
 - **Overlapping Boundaries:** Search within the shared area of two different locations. Use this when a client needs to stay close to more than one place, such as a workplace and a family member's home.
 
 📖 Learn more [here](http://support.perchwell.com/p/34b8b9e0143880adb5d0e99524c3d3fa?pvs=25) about using our Map Tools.
@@ -84,7 +86,7 @@ From the **Search** page:
 
 # Refining Filters further with OR, AND, or NOT
 
-[![AND, OR, or NOT filter options](https://downloads.intercomcdn.com/i/o/trq7czv5/2501651720/9d304aca60af30a5eb3abfa54928/Group+122.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2501651720/9d304aca60af30a5eb3abfa54928/Group+122.png?expires=1788542100&signature=ef263f34910b942e2db8c3db8c9d4428471776254c1079eb09badf6d65a7018b&req=diUnF897nIZdWfMW1HO4zYCW2Mve3Uxswwz9wfCEMrUFuP%2FsWWJV1H2znxIb%0AEugPgNW%2FESUqyql6QkI%3D%0A)
+[![AND, OR, or NOT filter options](https://downloads.intercomcdn.com/i/o/trq7czv5/2501651720/9d304aca60af30a5eb3abfa54928/Group+122.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2501651720/9d304aca60af30a5eb3abfa54928/Group+122.png?expires=1792786500&signature=99341eefb14b378a0c9b1cd33c3524693516b67a64d37a10daee52e9f7817c65&req=diUnF897nIZdWfMW1HO4zYCW2cHc0Uhowwz9wfCEMrWHip8UNyEmuJqpuGbe%0A8%2BHeSb77QYgIYWUOTkg%3D%0A)
 
 Use the OR, AND, or NOT drop-down to include or exclude specific filter values and narrow your results.
 - **OR:** Returns listings that **match at least one** of the selected options for that filter.
@@ -117,6 +119,6 @@ You can sort your results by clicking on any column header. Sorting works in a l
 
 💡The **arrows** reflect ascending or descending order. The **numbers** reflect the sorting order.
 
-[![Sorting Listing Options](https://downloads.intercomcdn.com/i/o/trq7czv5/2551072772/f1ba493982ffc3278cfd3c2911d9/Group%2B123.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2551072772/f1ba493982ffc3278cfd3c2911d9/Group%2B123.png?expires=1788542100&signature=5c7c7fa5edc0a73c5b0ea04a60902d921cbb0e644c2c46bce291884f0125f830&req=diUiF8l5n4ZYW%2FMW1HO4zdGj2kAdPrUeY8ZAc52ZxcpH2R2BDkkgPTuglmfO%0AGzpYEUtS9wbAFx5OoZ0%3D%0A)
+[![Sorting Listing Options](https://downloads.intercomcdn.com/i/o/trq7czv5/2551072772/f1ba493982ffc3278cfd3c2911d9/Group%2B123.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2551072772/f1ba493982ffc3278cfd3c2911d9/Group%2B123.png?expires=1792786500&signature=37cf88c23d6654a4be17869f091ecb75f6cc1ec3ab0ca79beed5ab4b6cbda634&req=diUiF8l5n4ZYW%2FMW1HO4zdGj20ofMrEaY8ZAc52ZxcpXnF0Tk5RLSwffxE5S%0A0XO5mF2fVkQIBRPwU8c%3D%0A)
 
 📍**Select the column you want to sort by last, as the most recently selected column takes priority in the sort order.**

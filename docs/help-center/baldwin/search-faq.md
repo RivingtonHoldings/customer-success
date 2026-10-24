@@ -2,7 +2,7 @@
 intercom_id: "15200328"
 content_id: "17970084"
 title: "Search FAQ"
-description: "Questions about searching for listings, using search filters, and managing saved searches in Perchwell."
+description: "Answers to common Search questions about filters, map tools, hidden listings, sharing, exporting, saved search alerts, and more."
 url: "http://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,134 +10,183 @@ collection: "Search / FAQs"
 collection_ids: [19642611]
 collections: ["Search / FAQs"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-05-21T02:36:19Z
-updated_at: 2026-08-31T14:52:51Z
+updated_at: 2026-10-23T21:24:01Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T21:24:49Z
 ---
 
 # Search FAQ
 
-# Can I search by school zone?
+Use this article to find quick answers to common questions about the Search page and its features.
 
-Yes, you can search using school-related filters.
+# Search filter questions
 
-# How do I unhide listings?
+## Can I search by school zone?
 
-Click the **eyeball icon**, then select the listings you want to unhide.
+Yes. Search by school zone with the Elementary School, Intermediate School, Middle School, and High School filters under Location on the Filters tab.
 
-# How do I search for a specific street name?
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png?expires=1792792800&signature=148cbdc062a19aaae0528f87351e83819f24d4f53bc0f3169f119fff22ae9bde&req=dichFMl%2Bm4RWUfMW1HO4zRGIg0rPphHSubsPkgGvwm%2BJF1W8%2Fto3X1n36oho%0A65l8%0A)
 
-Go to the **Street** field and enter the name in quotation marks.
+## How do I search for a specific street name?
 
-Example: “Fairhope Avenue”
+Enter part of the street name in the Street name field under Location on the Filters tab. Select the street from the list of matches.
 
-# Does it matter if I use the map search or filters first?
+## How do I search for acreage?
 
-No, both work together. The map itself acts as a filter, so you can use it at any point in your search.
+Search with the Apx Acreage (approximate acreage) filter under Location & Site Context on the Filters tab. Enter the minimum in the From field and the maximum in the To field.
 
-# Can I customize the Quick Filters that appear at the top of my search results?
+## Can I search listings by neighborhood or subdivision?
 
-The Quick Filter options available today were identified by Baldwin MLS staff as the commonly used filters for agents. While you can't customize them just yet, changes are planned for Q3 2026 that will allow you to select your own filters.
+Yes. Enter the neighborhood or subdivision name in the Subdivision/Condo filter on the Filters tab, then select it from the list of matches. To find the filter, enter Subdivision in the Search filters and values field.
 
-# How many saved searches can I have?
+[Search for a Condo](http://support.perchwell.com/baldwin/en/articles/15363551-search-for-a-condo) explains how to find listings in a specific condo complex.
 
-There is no limit on saved searches in Perchwell.
+## How do I search for waterfront properties?
 
-# How do saved search alert notifications work? Do they come by text or email?
+Search for waterfront properties with the waterfront filters on the Filters tab. Enter water in the Search filters and values field to find these filters:
+- Lot Description: Select Waterfront or Water view.
+- Water Property Type: Select the type of water frontage or access, such as Bay front, Gulf front, or Lake front.
+- Named Waterfront Y/N: Select Yes for listings with frontage on a named body of water, such as a lake, river, bay, or creek.
+- Waterfront Feet Y/N: Select Yes for listings with a waterfront frontage measurement in linear feet.
+- Waterfront Footage: Enter the minimum and maximum frontage, in feet, in the From and To fields.
 
-Saved search alerts are sent by email. In **Search Settings**, choose how often they send (immediately, daily, weekly, or monthly) and which listing activity to include: new listings, price drops, status changes, and new open houses. Alerts only send when there is something to report, which means quiet days do not produce an email.
+Lot Description and Water Property Type are set to Or by default, which shows listings that match at least one selected value. Change Or to Not to exclude listings with the selected values.
 
-# Can I send a client a weekly or monthly market update from a saved search?
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png?expires=1792792800&signature=0047b49059a850efd78df498926b0115b4a66b98432349e62ef9fdd7fad4bf28&req=dichFMl%2Bm4ddUfMW1HO4zdQpHB1FZjuQSuZhOoCdUboiOmFiCyrdpNB9x7Us%0Avlez%0A)
 
-Yes. Open **Search Settings** for the saved search, set the frequency to **Weekly** or **Monthly**, pick the day and a **Morning** or **Evening** window, and add the client as a recipient. The client receives one email on that schedule with the matching activity since the last alert. Visit [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) for step-by-step guidance on every alert option.
+## How do I search for listings with an open house?
 
-#
+Select a date range in the Open house filter under Listing Details on the Filters tab. Your results show listings with an open house on those dates.
 
-# Can I run multiple searches at the same time?
+To find open houses from the Dashboard, click the Open Houses tab in the Listings widget. It shows listings with an open house and the date and time of each. [Listings Widget Overview](http://support.perchwell.com/baldwin/en/articles/13903171-listings-widget-overview) covers the other tabs in the Listings widget.
 
-Yes. You can open a new Perchwell tab and run a different search at the same time. You can also save a search and return to it whenever you need.
+## How do I search for one or more listings by MLS ID?
 
-# If a client has access to a saved search I sent them, can they hide listings?
+To find one listing, enter its MLS ID in the Universal Search Bar in the top navigation. Click the listing in the results to open it.
 
-Yes. Clients can also add listings from their search page by updating the search criteria.
+To find multiple listings, enter their MLS IDs in the MLS ID filter under Listing Visibility & Access on the Filters tab. Separate each MLS ID with a space or a comma, such as 123456 678901.
 
-# I drew a map search along the waterfront. Can I then exclude non-waterfront listings?
+If a listing is missing from your results, check that its status is selected under Status & Activity on the Filters tab.
 
-Perchwell offers waterfront and direct bay front view filters. Keep in mind the listing will show the information entered by the agents when they add their listings. For the most complete and accurate results, we recommend using the map's draw tool to create a custom boundary along the coastline to capture all relevant listings.
+## Can I customize the Quick Filters on the Search page?
 
-# Is a public link the only way to send multiple listings at once?
+No. The Quick Filters are set to Property Type, Price, Beds, Baths, Sqft, and Year Built. To filter by anything else, enter the filter's name in the Search filters and values field on the Filters tab.
 
-There are a few options to share multiple listings with the client. You select multiple listings and share them via email or a public link, your client will see all the listings you shared and can use the arrow to browse through them. You can also tag mulitple listings and send a link to your client that way.
+## Can Perchwell add new search filters?
 
-# Can I select a school and then draw a shape on the map?
+Yes. Perchwell can add new listing fields at the MLS level, and each field can then be searched as a filter. The Baldwin MLS Board of Directors must approve new fields first. To request a new field, contact the Baldwin MLS team at [mls@baldwinrealtors.com](mailto:mls@baldwinrealtors.com) or 251-270-0328. The team is available Monday through Friday, 8:00 AM to 4:30 PM CT.
 
-Currently, those two filters work as an "or" function rather than an "and" filter. That feedback has been shared with the product team. For now, we recommend drawing a radius around the school and double-checking that the school on the listing matches the school you're looking for.
+# Search map questions
 
-# Will I receive a notification if my client changes the search criteria?
+## Does it matter whether I draw on the map or set filters first?
 
-Not at the moment, but that feedback has been shared with the product team.
+No. Draw on the map before or after you set your search filters.
 
-# How do I search for acreage?
+## How do I find the radius or commute search tool?
 
-To search for acreage, use the search filter “apx acreage” under the section “Location and Site Context”. Then enter a range in the “from” and “to” boxes.
+To find the Radius and Commute tools, click the Address search pin icon in the upper left of the map. Enter a location or drag the pin to a spot on the map, then click Radius or Commute below the pin.
 
-# How can I search by an MLS ID or multiple MLS IDs at once?
+[Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) explains how to set a radius or commute time.
 
-You can search for a single MLS ID by typing it into the universal search bar. You can also enter the MLS ID as a search filter under the MLS ID field using the Listing Visibility & Access filter. To search for multiple MLS IDs at once, separate each ID with a comma. For example: 123456, 678901. Double-check that your status filters are set to the status of the listings you are searching for.
+## Can I select a school and then draw a shape on the map?
 
-# How do I find the radius or commute search tool?
+Yes, but your results include listings in the school zone as well as listings inside the boundary, not only listings in both.
 
-Select the location pin on the map. You can search for a specific area or drop the pin directly on the map. From there, you'll see options for both commute and radius searches.
+To search near a specific school, clear the school filter and draw a radius around the school. Then check the school listed on each listing in your results.
 
-# Can I search listings by neighborhood or subdivision?
+## I drew a map boundary along the waterfront. How do I leave out listings that are not on the water?
 
-Yes. Use the “Subdivision/Condo” filter under Location & Site Context on either mobile or web and enter the subdivision or neighborhood name.
+Add a waterfront filter, such as the Waterfront option in Lot Description, to limit your results to waterfront listings within the map boundary. Waterfront filters depend on the information entered for each listing. For more complete results, draw the boundary closely along the coastline.
 
-# Will contacts who have existing saved search emails from Paragon still receive those alert after the transition to Perchwell?
+## How often are the satellite images on the Search map updated?
 
-When Paragon is fully replaced by Perchwell, the client will no longer receive. search alert emails. During the Parallel Period, all saved searches will come over from Paragon with the alerts turned on. You will need to turn on search notifications for each Saved Search. You'll also want to turn search alerts off in Paragon for each search to avoid duplicate emails.
+Satellite imagery on the Search map comes from the map provider and may not show recent construction or other property changes. How often the imagery updates varies by location. For a property's current condition, check the listing photos on the Listing Detail Page.
 
-# Can Perchwell create new filters that don't currently exist in the system?
+# Search results questions
 
-While Perchwell can support the addition of new fields at the MLS level, any decision to add them must be approved by the Baldwin MLS Board of Directors.
+## How do I unhide listings in my search results?
 
-# What search fields can I export in a CSV file?
+Unhide listings from the Hidden Listings window, which opens from the crossed-out eye icon next to Actions on the Results tab. The number on the icon shows how many listings are hidden.
+1. Click the crossed-out eye icon
+2. Select the checkbox next to each listing you want to unhide
+3. Click Unhide Selected
 
-You can export any field that you can input into Perchwell when adding a listing.
+The listings return to your search results if they still match your current filters. To unhide every hidden listing at once, click Unhide All.
 
-# How can I export my listing data into my CRM?
+Hidden listings stay hidden after you leave the search only if you save the search.
 
-You can integrate your listing data into your CRM or other platforms through a broker-only feed via Bridge. Brokers have access to these feeds at no cost. Reach out to your MLS staff for details on how to set that up.
+[Search Page Overview](http://support.perchwell.com/baldwin/en/articles/14786263-search-page-overview) explains how Keep and Hide work.
 
-# How often are the satellite images in the map updated?
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png?expires=1792792800&signature=4285e2006f58cf6657d42f533a62d4c0ef89b2e58318d9535ecd4b74aa0817f8&req=dichFMl%2Bm4ZcX%2FMW1HO4zTGNGPNbm2wZV7fAe8tvGBJtDbsa5vjuwwRBmNmJ%0AyIau%0A)
 
-Satellite images are updated every one to three years, which is the same cadence used by Google Maps. If a property has recent construction or changes, the map image may not reflect the most current condition of the property.
+## Can I run multiple searches at the same time?
 
-When I enter the street address in my Street Filter the results show me listings with only part of the name?
-When searching for a name include quotation marks around the street name for an exact search
+Yes. Open Perchwell in multiple browser tabs to run a different search in each one. If your current search has unsaved changes, click Start New in the upper right of the Search page, then click Open New Tab. A new search opens in another tab, and the original tab keeps your changes.
 
-# **Can I have multiple searches open at the same time?**
+To return to a search later, save it. [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches) explains how.
 
-Yes. You can run multiple searches at once by opening each one in a separate browser tab. To start a new search in a new tab, click the **Start New** button on the right side of the Search page.
+## Why is Driving Directions greyed out?
 
-# **How do I search for specific listings by MLS ID and share them with a client?**
+Driving Directions in the Actions menu is greyed out when your browser is not sharing your location with Perchwell. Turn on location access for Perchwell in your browser settings.
 
-You can look up one or more listings by MLS ID directly from the Search page:
-1. In the filter search bar, search for **MLS ID**. You'll find it under the **Listing Visibility & Access** section.
-2. Enter the MLS ID(s) you want to find. To search for multiple listings at once, separate each ID with a comma.
-3. Navigate to the **Results** tab to view your matches.
-4. Select the listings you want to share. Use the checkbox next to each listing, or **Select All** to grab everything on the page.
-5. Click **Actions** and choose **Share** to send listings via email or generate a public link for your client.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png?expires=1792792800&signature=977fa9d0c38133fe384c9be3915fb8a31d4b37cc3e57401211aa349b0161d8c8&req=dichFMl%2Bm4ZWWvMW1HO4zSdQXvt6hiRKr0sMoPn6k%2BGQqTI%2Br2xJjrrOZUgz%0Ap9%2BM%0A)
 
-# **How to Search for waterfront properties?**
+[Multi-Listing Actions on the Search Page](http://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) covers Driving Directions and the other options in the Actions menu.
 
-You can quickly find the Waterfront Property Filter in the Filters by typing "waterfront". Then, the Water Property Type field will appear, where you can select the waterfront types like Gulf Front or Lake from from the drop-down.
+# Sharing and exporting questions
 
-# Why are my Driving Directions Greyed Out?
+## Is a public link the only way to send multiple listings at once?
 
-Please check your browser settings and turn on location sharing. Go to your Privacy And Security settings in your internet browser, and make sure location sharing is turned on:
+No. Select the listings in your search results, click Actions, then select one of these options:
+- Share: Email or text the listings, copy a public link, or add the listings to a Tag.
+- Share via Message: Send the listings to a contact. Invited clients receive them in Messages and by email. Contacts who have not been invited receive them by email only.
+- Share via Text: Text the listings to a contact directly.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2579517878/6795de2aa2c7bce91afaa6fc4ee7/Screenshot+2026-07-31+at+3_54_34%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2579517878/6795de2aa2c7bce91afaa6fc4ee7/Screenshot+2026-07-31+at+3_54_34%E2%80%AFPM.png?expires=1788542100&signature=71e022bac07f2d57bf055a3bcdbcf0e38ca1006197de3a626f719c36b8b5e356&req=diUgH8x%2FmolYUfMW1HO4zfAKjCsDERmvaN%2BpE9JnBtFPF9nDNjHOuhdpIOFS%0Aohowsu9c6lefgITY%2BWo%3D%0A)
+[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) explains each sharing option step by step.
+
+## What listing fields can I export to a CSV file?
+
+Every field entered when adding a listing is available to export to a CSV (comma-separated values) file. Select Export CSV from the Actions menu, then create an export template to choose which fields to include and their order.
+
+[Export Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/11776740-export-listings-in-perchwell) explains how to export listings and save export templates.
+
+## How do I send listing data to my CRM?
+
+Brokers can send listing data to a CRM (customer relationship management system) or other platform through a Bridge feed. Contact the Baldwin MLS team at [mls@baldwinrealtors.com](mailto:mls@baldwinrealtors.com) or 251-270-0328 to set up the feed. The team is available Monday through Friday, 8:00 AM to 4:30 PM CT.
+
+[Client Collaboration FAQ](http://support.perchwell.com/baldwin/en/articles/15201114-client-collaboration-faq) explains how to send contact data to a CRM.
+
+# Saved search and alert questions
+
+## How many saved searches can I have?
+
+There is no limit on the number of saved searches.
+
+## Do saved search alerts come by text or email?
+
+Saved search alerts are sent by email, not text message. Each alert includes the listing activity you choose, such as new matches, price changes, status changes, and open houses. If there is no matching activity, no email is sent.
+
+[Set Up Email Alerts for Saved Searches](http://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how to turn on alerts and choose their frequency.
+
+## Can I send a client a weekly or monthly market update from a saved search?
+
+Yes. Add the client to the saved search, set the Frequency to Weekly or Monthly, and select a Recipient option that includes contacts. The client receives one email on that schedule with matching activity since the last alert.
+
+[Set Up Email Alerts for Saved Searches](http://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains the Frequency and Recipient options.
+
+## Can clients hide listings in a saved search?
+
+Yes. Clients can hide listings in saved searches they create and searches you share with them. When a client hides a listing in a search you shared, the listing is also hidden in your version of the search.
+
+If Allow added contacts to see and edit this search is turned on, clients can also change the search filters. Changes they save update your saved search.
+
+[Add an Invited Client to a Saved Search](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) explains how to control what clients can edit.
+
+## Why are alerts off on saved searches from a legacy platform?
+
+Saved searches transferred from a legacy platform arrived with alerts turned off. Turn on alerts for each saved search you want to receive emails for.
+
+[Set Up Email Alerts for Saved Searches](http://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how to turn on alerts.

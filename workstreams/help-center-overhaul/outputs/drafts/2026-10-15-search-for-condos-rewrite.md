@@ -14,7 +14,7 @@ migrated_from: master-article-list
 
 # Search for Condos and Condo Complexes
 
-**Description:** Find condo listings with Property Type and Structure Style filters, or search for listings in a specific condo complex or subdivision.
+**Description:** Find condos with Property Type and Structure Style filters, or find listings in a specific condo complex, subdivision, or community.
 
 Use this article to search for condos and find listings in specific condo complexes.
 

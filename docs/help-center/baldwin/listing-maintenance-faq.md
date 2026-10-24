@@ -12,10 +12,10 @@ collections: ["Listing Maintenance / FAQs"]
 state: published
 author_id: 8314814
 created_at: 2026-05-21T02:07:42Z
-updated_at: 2026-09-01T22:04:16Z
+updated_at: 2026-10-06T12:58:25Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Listing Maintenance FAQ
@@ -46,7 +46,7 @@ If you would like to add a **Virtual Tour** to an existing Listing, please follo
 3. The Virtual Tour sections will be in the last 3 fields:
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png?expires=1788542100&signature=74324aae9a6e3dae37679d0c5a01e9d391d163aa436f534236c57aacd7840290&req=diYnH895noBeUfMW1HO4zULtRkTXkPl7KuK2d2NlaKez8pDB6PANCjdhdfXl%0A2Vzy8XSbSA8g4wln80E%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png?expires=1792786500&signature=a37046b73737f975adde5afae61be8ad27758ad45aae3466e7f98c795c47f0ba&req=diYnH895noBeUfMW1HO4zULtR07VnP1%2FKuK2d2NlaKdBrZ6bCbp5fQ8yQdI4%0AxztfllfPxFiqjqgouV0%3D%0A)
 
 # Where does Autofill get its information in the Add/Edit form?
 
@@ -84,14 +84,12 @@ Yes, you can actually clone, or **Duplicate**, a Listing.
 On your Manage Listings Page, Check the Listing you want to **Duplicate **by clicking on the check box on the left:
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png?expires=1788542100&signature=10135b4c5ff347a5911962e5a784ec9e39a710d85b6f85c067c6273133b44cac&req=diYnEsB5mIRZUfMW1HO4zYMKC5zEl8OfyDpVirZX19asm1HrVeFwwZIA2Up1%0AEy7kR6qMvRJ6nH00JfM%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png?expires=1792786500&signature=7ba6b03cac046507244a306cc56189c83ad2ec545d3dedfaa920260655d794f8&req=diYnEsB5mIRZUfMW1HO4zYMKCpbGm8ebyDpVirZX19bndurMCN6GxZfd%2FfF9%0AdCO0naIVzkZKXFJp668%3D%0A)
 
-​At the bottom there will be option to **Duplicate**. Remember that you cannot **Duplicate **Expired Listings.
+​At the bottom there will be option to **Duplicate**.
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png?expires=1788542100&signature=70b6df9ee838c6316ca4008d75feef8fb09c24aeba38c391e04ae1fc55ea657e&req=diUvE8t7lIJWUPMW1HO4zZCLT8bjmBaz3k5YU%2B6Xcg1oUmC%2FEIA%2BngklzVjq%0AH4ModDESQl%2FD4AfwZWY%3D%0A)
-
-> NOTE: We do not allow Expired Listings to be Duplicated.
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png?expires=1792786500&signature=8331977dc03e377e614719a40afb85e8d4e2905ce70c628325c50487dba61f07&req=diUvE8t7lIJWUPMW1HO4zZCLTszhlBK33k5YU%2B6Xcg1nJ7rnV%2FOi5GQDYbg%2F%0A%2B%2F4Ozdd%2BZtF0%2B5EuOpk%3D%0A)
 
 # ​Do we have the same ability to share listings with Mobile Alabama MLS when we create a new listing?
 

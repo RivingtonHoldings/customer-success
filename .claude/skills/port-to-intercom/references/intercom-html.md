@@ -4,8 +4,8 @@ The mapping `/port-to-intercom` uses. Every rule here was read off the HTML Inte
 
 ## The three rules that break an article
 
-1. **No whitespace between block tags.** Intercom converts a newline or an indent between two block elements into an empty paragraph, which renders as a blank gap. Emit the whole body as one line: `</p><h2>`, never `</p>\n<h2>`. For a deliberate blank line use a paragraph whose only content is `&nbsp;`.
-2. **Alt text goes in `alt=`, never in a caption.** Notion has no alt text field, so the alt text sits in the image caption and the draft looks finished. Left alone, the published article carries a visible description under every screenshot and no alt text at all, which is what golden question 2 tests for. This conversion is the step that fixes it, and it is the step `notion-publishing.md` says always gets missed when a human does it.
+1. **No stray whitespace between block tags, and a blank line where Tara wants one.** Intercom converts a newline or an indent between two block elements into an empty paragraph, which renders as a blank gap. Emit the body as one line, `</p><h2>`, except for the house spacing: after a paragraph or an image, when the next block is a paragraph, an image, a heading, or a video, insert `<p class="no-margin"></p>` followed by a newline. Put nothing before a list or a callout, nothing after a list, heading, callout, or video, and nothing at the end. The rule was read off Tara's own edit of Create a Search with Filters (13903380) on 2026-10-23. An empty paragraph sent without the newline is stripped on save; with the newline it is stored and renders as one 24px line, which is the form the Intercom editor saves.
+2. **No caption and no alt text.** Notion keeps the alt text in the image caption. Drop the whole caption, and do not write an `alt` attribute: Intercom does not support alt text (Tara, October 23, 2026). Read the caption only for its `Baldwin |` or `CRMLS |` label, which decides whether the image goes to this help center.
 3. **Nothing in the body is bold** except a callout label. The Notion draft has already had bold removed by the standard; do not add it back while converting. If the source has stray `**` on a UI element, stop and say so rather than carrying it through.
 
 ## Mapping
@@ -22,10 +22,11 @@ The mapping `/port-to-intercom` uses. Every rule here was read off the HTML Inte
 | `-` bulleted list | `<ul><li><p class="no-margin">item</p></li></ul>` |
 | Nested bullet | A second `<ul>` inside the parent `<li>`, after its `<p>` |
 | `[text](url)` | `<a href="url">text</a>` |
-| `![alt](url)` | `<div class="intercom-container"><img src="url" alt="alt" width="W" height="H" style="height: auto;"></div>` |
+| `<mention-page url="notion url"/>`, or `[text](notion url)` | `<a href="intercom url">Article Name</a>`, with the Intercom URL resolved from the linked Notion row. Never emit a Notion URL. See step 5 of `SKILL.md`. |
+| `![alt](url)` or `<image>` with a caption | `<div class="intercom-container"><img src="url"></div>`, with the caption and alt text dropped |
 | `<video src="https://www.loom.com/share/ID"></video>` | `<div class="intercom-h2b-video"><iframe src="https://www.loom.com/embed/ID" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; fullscreen; picture-in-picture; encrypted-media"></iframe></div>` |
 | `> **Note:** text`, `> **Important:** text`, `> **Tip:** text` | A callout. See Callouts below; the color depends on the label. |
-| `![Baldwin \| Alt text: alt](url)` or `![CRMLS \| Alt text: alt](url)` | The same `<img>` with `alt="alt"`, the label and prefix stripped, when the label matches the target help center. Omit it when the label names the other MLS. See step 5 of `SKILL.md`. |
+| `![Baldwin \| Alt text: alt](url)` or `![CRMLS \| Alt text: alt](url)` | The same `<img>` with no caption or alt text, when the label matches the target help center. Omit it when the label names the other MLS. See step 5 of `SKILL.md`. |
 | `> Screenshot placeholder: …` | Omit, and report it. A placeholder means the image does not exist yet. A placeholder labeled `(Baldwin)` or `(CRMLS)` is reported only when the label matches the target help center. |
 | `&`, `<`, `>` in text | `&amp;`, `&lt;`, `&gt;` |
 
@@ -49,7 +50,7 @@ Take the color from the label, not from the Notion block's own color. They agree
 
 The `<b>` on the label is deliberate and is the one exception to rule 3 above. Intercom names the bold label as what marks a passage for Fin to carry into an answer, so a callout converted without it loses the thing the callout was for.
 
-The gray pair was read off Dashboard Overview (13903062) on 2026-09-18, where both callouts are Notes. The yellow pair has not been read off a ported `Important:` callout; it entered this file when the skill was built, against a port that had no callouts at all. Check it against the stored HTML the first time an `Important:` goes out, and correct it here if it differs.
+The gray pair was read off Dashboard Overview (13903062) on 2026-09-18, where both callouts are Notes. The yellow pair was confirmed on Actions Menu Options on the Search Page (13623271) on 2026-10-23: Intercom stored it as sent, and it renders light yellow on the public page.
 
 A `> Screenshot placeholder:` line is not a callout here. Notion holds it in an orange callout so owners can spot it, and the conversion omits it and reports it.
 
