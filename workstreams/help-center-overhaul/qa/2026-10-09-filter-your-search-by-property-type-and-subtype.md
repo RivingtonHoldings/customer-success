@@ -73,6 +73,6 @@ Old failures: description over 140 characters and written as "In this article, y
 - The live Property Types in Perchwell article mixes types and subtypes, lists Land Lease and Other, and says Lease includes multi-family. It needs its own rewrite and a link back to this article.
 - Search for a Condo is stored with a default help center link (`/en/`); the draft links the Baldwin path. Confirm at port.
 - Confirm what distinguishes the four Multi-family classifications (the Multi-family property type and the Multi-family subtype under Commercial Sale, Commercial Lease, and Lots and Land), then decide whether the article needs a second sentence on capturing all multi-family listings.
-- When Property Types in Perchwell is rewritten to cover all six types, change this article's link sentence to "explains each property type in more detail."
+- October 15, 2026: the property type table moved to What Each Property Type Includes (the rewrite of Property Types in Perchwell). This article's last section is now a link there, and "see what each Baldwin property type includes" left the opening. Comment threads on the table's What it covers header and the Multi-family sentence were attached to removed text. The link uses the 14709796 URL, whose slug changes when the new title is ported.
 - Mobile is not covered.
 - Fin labels, MLS audience, and publishing stay manual.

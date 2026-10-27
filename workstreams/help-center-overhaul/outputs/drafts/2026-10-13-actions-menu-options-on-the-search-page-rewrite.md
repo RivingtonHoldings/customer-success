@@ -33,9 +33,9 @@ The count next to Actions shows how many listings are selected, such as 3 of 29.
 
 > Screenshot placeholder: the Results tab in Expanded view with three listings selected and the Actions menu open | Alt text: The Search page with three listings selected and the Actions menu open, with 3 of 29 shown next to Actions.
 
-With no listings selected, only Export CSV and Print are available. Choose at least one listing to turn on the other options.
+With no listings selected, only Export CSV is available. Choose at least one listing to turn on the other options.
 
-> Screenshot placeholder: the Actions menu open with no listings selected | Alt text: The Actions menu with no listings selected, with only Export CSV and Print available and the other options greyed out.
+> Screenshot placeholder: the Actions menu open with no listings selected | Alt text: The Actions menu with no listings selected, with only Export CSV available and the other options greyed out.
 
 ## Share listings and email listing agents from the Actions menu
 

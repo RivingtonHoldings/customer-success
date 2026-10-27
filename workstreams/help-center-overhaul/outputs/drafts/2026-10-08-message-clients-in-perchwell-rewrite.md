@@ -80,7 +80,8 @@ Perchwell notifies you when an invited client sends a new message:
 
 - Email: Perchwell sends you an email.
 - Green dot: A green dot appears on Messages in the top navigation.
-- Push notification: The Perchwell mobile app sends a notification when push notifications are turned on. [Messages Overview](http://support.perchwell.com/baldwin/en/articles/14786130-messages-overview) covers Messages in the mobile app.
+
+Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/14786130-messages-overview) covers Messages on your phone.
 
 ### Steps:
 

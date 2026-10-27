@@ -19,7 +19,7 @@ migrated_from: master-article-list
 
 **Description:** Filter listings by Property Type in Perchwell, narrow your search by subtype, and include or exclude selections with Or, And, or Not.
 
-Use this article to filter your search by Property Type, select specific subtypes, choose Or, And, or Not to narrow your results, and see what each Baldwin property type includes.
+Use this article to filter your search by Property Type, select specific subtypes, and choose Or, And, or Not to narrow your results.
 
 > Video placeholder: a walkthrough of the Property Type Quick Filter on the Search page, from opening it through selecting a property type, selecting subtypes, and choosing Or, And, or Not
 
@@ -72,17 +72,6 @@ For example, under Lease, select Land in the Property sub type field, then selec
 
 ## Property types and subtypes in Baldwin
 
-Each property type has its own subtypes. This table lists each property type, what it covers, and the subtypes under it. Members who came from a legacy platform may know Property Type as Class and subtypes as Property Type.
+[What Each Property Type Includes](https://support.perchwell.com/baldwin/en/articles/14709796-property-types-in-perchwell) explains what each Baldwin property type covers and lists the subtypes under it. Members who came from a legacy platform may know Property Type as Class and subtypes as Property Type.
 
-| Property type | What it covers | Subtypes |
-|---|---|---|
-| Residential-Single Family | Detached and attached homes, boat slips, and fractional ownership properties | Residential attached, Residential detached, Boat slip, Fractional ownership |
-| Lease | Homes and land available for rent | Residential attached, Residential detached, Land |
-| Commercial Sale | Commercial properties for purchase, such as office, retail, or industrial spaces | Farm/ranch, Hospitality, Industrial, Office, Retail, Special purpose, Vacant land, Multi-family, Other |
-| Commercial Lease | Commercial properties available for lease, including multi-family properties | Farm/ranch, Hospitality, Industrial, Office, Retail, Special purpose, Vacant land, Multi-family, Other |
-| Lots and Land | Vacant lots or undeveloped parcels | Multi-family, Mobile home, Residential lots, RV lot improved, RV lot unimproved, Zoned, Land |
-| Multi-family | Residential properties with two or more units intended for rental or income-producing use | 4-10, Duplex, Townhome, Triplex |
-
-Multi-family appears as its own property type and as a subtype under Commercial Sale, Commercial Lease, and Lots and Land.
-
-[Search for a Condo](https://support.perchwell.com/baldwin/en/articles/15363551-search-for-a-condo) explains how to find condos with Property Type, subtypes, and other filters. [Property Types in Perchwell](https://support.perchwell.com/baldwin/en/articles/14709796-property-types-in-perchwell) describes the residential, lease, and land property types in more detail.
+[Search for a Condo](https://support.perchwell.com/baldwin/en/articles/15363551-search-for-a-condo) explains how to find condos with Property Type, subtypes, and other filters.
