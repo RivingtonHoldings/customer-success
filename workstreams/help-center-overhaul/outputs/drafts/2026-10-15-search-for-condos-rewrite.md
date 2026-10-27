@@ -14,7 +14,7 @@ migrated_from: master-article-list
 
 # Search for Condos and Condo Complexes
 
-**Description:** Find condo listings with Property Type and Structure Style filters, or search for listings in a specific condo complex or subdivision.
+**Description:** Find condos with Property Type and Structure Style filters, or find listings in a specific condo complex, subdivision, or community.
 
 Use this article to search for condos and find listings in specific condo complexes.
 
@@ -22,7 +22,7 @@ Use this article to search for condos and find listings in specific condo comple
 
 ## Search for condos by Property Type and subtype
 
-Residential attached, a subtype under the Residential-Single Family property type, includes condos and other homes that share a common wall.
+Residential attached, a subtype under the Residential-Single Family property type, includes condos and other homes that share a common wall, such as duplexes and triplexes.
 
 ### Steps:
 

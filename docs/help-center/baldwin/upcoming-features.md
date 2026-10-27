@@ -3,19 +3,19 @@ intercom_id: "15809212"
 content_id: "18908712"
 title: "Upcoming Features"
 description: "Perchwell delivers new features every week, many of them shaped by feedback from agents like you. The table below highlights key features on Perchwell's roadmap that are expected to be released before our August 2026 cutover."
-url: "http://support.perchwell.com/baldwin/en/articles/15809212-upcoming-features"
+url: ""
 help_center: baldwin
 help_center_id: 4755399
 collection: "FAQs & Cheat Sheets"
 collection_ids: [19547885]
 collections: ["FAQs & Cheat Sheets"]
-state: published
+state: draft
 author_id: 10644865
 created_at: 2026-07-02T18:48:41Z
-updated_at: 2026-08-06T02:58:15Z
+updated_at: 2026-10-16T12:52:40Z
 labels: ["Roadmap"]
-body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+body_source: intercom-api
+synced_at: 2026-10-23T19:40:37Z
 ---
 
 # Upcoming Features

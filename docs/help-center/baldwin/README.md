@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-09-29T18:12:35Z. Articles: 124 (121 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-10-24T02:46:31Z. Articles: 128 (120 published, 8 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -50,14 +50,15 @@ Collection ID 19547885. 7 articles.
 - [Most Common Questions Asked to MLS Staff](most-common-questions-asked-to-mls-staff.md), updated 2026-08-04
 - [Property Types in Perchwell](property-types-in-perchwell.md), updated 2026-07-02
 - [Top Compliance Questions](top-compliance-questions.md), updated 2026-07-02
-- [Upcoming Features](upcoming-features.md), updated 2026-08-06
+- [Upcoming Features](upcoming-features.md) (draft), updated 2026-10-16
 
 ## Getting Started Guide
 
-Collection ID 19562394. 14 articles.
+Collection ID 19562394. 15 articles.
 
 - [Add the Client and Invite Them](add-the-client-and-invite-them.md), updated 2026-08-25
 - [Appraiser Capabilities in Perchwell](appraiser-capabilities-in-perchwell.md), updated 2026-08-04
+- [Baldwin’s Conversion FAQs](baldwin-s-conversion-faqs.md), updated 2026-10-16
 - [Client Valuation and Adding a Listing](client-valuation-and-adding-a-listing.md), updated 2026-08-25
 - [Getting Started in Perchwell](getting-started-in-perchwell.md), updated 2026-08-25
 - [Hot Sheets](hot-sheets.md), updated 2026-08-25
@@ -87,7 +88,7 @@ Collection ID 17797908. 5 articles.
 - [Add and Edit Listings](add-and-edit-listings.md), updated 2026-08-04
 - [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-09-08
 - [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-09-10
-- [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-09-01
+- [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-10-20
 
 ## Manage People
 
@@ -167,9 +168,13 @@ Collection ID 19361693. 4 articles.
 
 ## What's New in Perchwell
 
-Collection ID 19652175. 1 articles.
+Collection ID 19652175. 5 articles.
 
+- [August Features](august-features.md) (draft), updated 2026-10-02
+- [July Features](july-features.md) (draft), updated 2026-10-02
+- [June Features](june-features.md) (draft), updated 2026-10-02
 - [May Features](may-features.md), updated 2026-07-02
+- [September Features](september-features.md) (draft), updated 2026-10-02
 
 ## Dashboard / FAQs (under Dashboard)
 
@@ -181,41 +186,41 @@ Collection ID 19644346. 1 articles.
 
 Collection ID 19642611. 1 articles.
 
-- [Search FAQ](search-faq.md), updated 2026-08-31
+- [Search FAQ](search-faq.md), updated 2026-10-23
 
 ## Search / Filters (under Search)
 
 Collection ID 17797942. 4 articles.
 
-- [Filter Your Search with Keywords](filter-your-search-with-keywords.md), updated 2026-07-23
-- [Map Tools in Search](map-tools-in-search.md), updated 2026-07-02
-- [Search for Open Houses](search-for-open-houses.md), updated 2026-07-02
-- [Search for a Condo](search-for-a-condo.md), updated 2026-07-02
+- [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
+- [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-10-23
+- [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-10-23
 
 ## Search / Search (under Search)
 
 Collection ID 17797941. 14 articles.
 
-- [Add an Invited Client to a Saved Search](add-an-invited-client-to-a-saved-search.md), updated 2026-07-02
-- [Create a Search with Filters in Perchwell](create-a-search-with-filters-in-perchwell.md), updated 2026-08-01
-- [Customize Your Search Defaults with Template Searches](customize-your-search-defaults-with-template-searches.md), updated 2026-07-20
-- [Customize Your Search View](customize-your-search-view.md), updated 2026-08-10
-- [Export Listings in Perchwell](export-listings-in-perchwell.md), updated 2026-07-02
-- [Filter Your Search by Property Types](filter-your-search-by-property-types.md), updated 2026-07-02
-- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-08-31
-- [Multi-Listing Actions on the Search Page](multi-listing-actions-on-the-search-page.md), updated 2026-07-02
-- [Print Search Results](print-search-results.md), updated 2026-08-10
-- [Search Page Overview](search-page-overview.md), updated 2026-07-31
-- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-08-31
-- [Share Multiple Listings in Perchwell](share-multiple-listings-in-perchwell.md), updated 2026-09-10
-- [Understand Status and Activity Filter](understand-status-and-activity-filter.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-09-18
+- [Actions Menu Options on the Search Page](actions-menu-options-on-the-search-page.md), updated 2026-10-23
+- [Create a Search with Filters](create-a-search-with-filters.md), updated 2026-10-23
+- [Create a Template Search](create-a-template-search.md), updated 2026-10-23
+- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
+- [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
+- [Filter Your Search by Property Type and Subtype](filter-your-search-by-property-type-and-subtype.md), updated 2026-10-23
+- [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
+- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-10-23
+- [Print or Save Search Results as a PDF](print-or-save-search-results-as-a-pdf.md), updated 2026-10-23
+- [Search Page Overview](search-page-overview.md), updated 2026-10-23
+- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-10-23
+- [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-10-23
+- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
+- [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
 
 ## Listing Maintenance / FAQs (under Listing Maintenance)
 
 Collection ID 19642616. 2 articles.
 
-- [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-09-01
+- [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-10-06
 - [Listings FAQ](listings-faq.md), updated 2026-09-01
 
 ## Tags / FAQs (under Tags)
@@ -228,7 +233,7 @@ Collection ID 19644367. 1 articles.
 
 Collection ID 19642645. 1 articles.
 
-- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-09-10
+- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-10-06
 
 ## Reports / FAQ (under Reports)
 
@@ -238,11 +243,10 @@ Collection ID 19642643. 1 articles.
 
 ## Analytics / Analytics Tools (under Analytics)
 
-Collection ID 19585615. 3 articles.
+Collection ID 19585615. 2 articles.
 
 - [Analytics Tab Overview](analytics-tab-overview.md), updated 2026-09-17
-- [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-07-02
-- [Share and Export Analytics Charts](share-and-export-analytics-charts.md), updated 2026-07-02
+- [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-10-08
 
 ## Analytics / FAQs (under Analytics)
 

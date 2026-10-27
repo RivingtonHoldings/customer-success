@@ -47,9 +47,6 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Print or Save Search Results as a PDF**, TRK-086
 - The Actions menu placeholder (Print highlighted) has no image yet. When captured, place it above the printout image, after steps 2 and 3.
 
-**Universal Search Bar**, TRK-095
-- One Intercom record serves both Baldwin and CRMLS, so it cannot carry separate Baldwin and CRMLS screenshots. `/port-to-intercom` stops on labeled images here. Split the article or use one unlabeled image per step.
-
 ## Manage Listings
 
 **Listing Detail Page FAQ**, TRK-048

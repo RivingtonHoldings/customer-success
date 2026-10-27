@@ -2,7 +2,7 @@
 intercom_id: "13903243"
 content_id: "16154547"
 title: "Search Page Overview"
-description: "In this article:\n\nYou will learn how to find listings on the Search page, apply Filters, search from the Map, manage Saved Searches, share and take action on listings, and export results."
+description: "Set filters on the Search page, review results, select and work with listings, save and view searches, and explore Search Analytics."
 url: "http://support.perchwell.com/en/articles/13903243-search-page-overview"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,249 +10,107 @@ collection: "Search / Search"
 collection_ids: [17797941]
 collections: ["Search / Search"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2026-03-02T04:09:22Z
-updated_at: 2026-07-31T18:29:22Z
+updated_at: 2026-10-23T21:31:43Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-10-23T21:32:23Z
 ---
 
 # Search Page Overview
 
-# What you can do on the **Search** page
+Use this article to move between the Filters and Results tabs on the Search page, set search criteria in the Filters tab, review and narrow listings in the Results tab, select and work with listings, save a search, view your Saved Searches, and explore market data in Search Analytics.
 
-Use **Search** as your home base for daily listing work.
-- Find listings in the **Filters view**.
-- Use the **Filter Filter** to find specific criteria.
-- **Keep** Listings to hide unwanted results.
-- View search results in the **Search** view.
-- Refine results by filtering columns
-- Use **Draw** and **Commute** tools on the map to filter by custom boundaries or travel time.
-- Save searches in **Saved Searches**.
-- Share listings and create reports.
-- Export listings with **Export**.
-​
+# Move between the Filters and Results tabs on the Search page
 
-[Embedded video](https://demo.arcade.software/Uenvnu6uSrUOaAMXUFDK?embed)
+The Perchwell Search page has two tabs in the upper right:
+- Filters: Set and adjust your search criteria. The number next to Filters shows how many filters are applied to the search.
+- Results: View the listings that match your search criteria. The number next to Results shows how many listings match the search.
 
-# Find listing using filters
+Click the Filters or Results tab to move between them. Next to the tabs, a count such as "Showing 30 of 54 listings" shows how many matching listings have loaded so far. Scroll down the results to load the next batch of listings, and the count updates.
 
-Use the **Filters** page to add criteria and narrow down your search. Then use filter columns to fine-tune your results.
+Quick Filters appear in a row across the upper left of the Search page. They cover common search criteria, including Property Type, Price, Beds, Baths, Sqft, and Year Built. The search map appears below the Quick Filters on the left side of the page. Property Type and Year Built are set from the Quick Filters only. The other Quick Filters are also available on the Filters tab. To find one, enter its name in the Search filters and values field in the upper right of the Filters tab.
 
-## Open **Filters** and add criteria
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png?expires=1792792800&signature=6e68e4c667af1036e75647f4711ce6b49ca9277d5fbb24fff3d1e273ab06fa35&req=dichFMl%2Fm4NZUfMW1HO4zQebseR06krjFXbeNablNexlhSH5SDZqtpsa%2Fvv7%0AZDbs%0A)
 
-### Steps:
-1. Click **Filters**.
-2. Select common filters such as **Property Type**, **Bedrooms**, and **Bathrooms**.
-3. Search for additional filters via the Filter Filter. You can search for the desired filters by using the search bar on the **Filters** page.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561459977/d14cf0045acaaf992ec28e758e11/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561459977/d14cf0045acaaf992ec28e758e11/image.png?expires=1788542100&signature=52d75fa643546cfaeca6191dfde2aa6f633988833b581d7073a59595a90679ee&req=diUhF817lIhYXvMW1HO4zQfChuqri9dxn72l04vT4pNZrzpRcqruGD3R8%2Fj2%0AkYfu%0A)
-4. Type keywords and any matching results will appear below.
-​ [![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561460895/b15f2696e6f74e8edb84aad2c8ab/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561460895/b15f2696e6f74e8edb84aad2c8ab/image.png?expires=1788542100&signature=f14a187c60e3227718511e4736e966c1db0021fff82a93308d182c0bc4264755&req=diUhF814nYlWXPMW1HO4zUQNZKZQSLy2xU%2B5fgBP2FtNmg9fskFjfo2JHriV%0APTI3%0A)
-5. Click **Results** to view the listing results.
-6. Filter the results further by clicking the **three lines** to refine your search.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561462648/824b27e054286ecdf41c7fe43ea0/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561462648/824b27e054286ecdf41c7fe43ea0/image.png?expires=1788542100&signature=cf18189e0a6a9dc1c40466f452f029981ea0d06882ba353943f3f8f26164adf7&req=diUhF814n4dbUfMW1HO4zQti5eCYsM6Nq451gKDYHzGw9ShlWwJWv1zIRX2i%0AO%2BFC%0A)
-7. Click **Save** and name your search.
+# Set your search criteria on the Filters tab
 
-## Use the Keep feature to Hide unwanted Listings
+Set and adjust your search criteria on the Filters tab of the Search page. Search filters are organized into panels on the Filters tab. To find a specific filter, enter its name in the Search filters and values field in the upper right of the Filters tab. The field matches filter names and the values inside each filter. It also matches part of a word, which means a filter can appear because one of its values contains what you typed.
 
-On the Results Page, click **Keep,** located in the **Actions** drop-down to only show selected Listings.
-1. Select the Listings you want to keep by clicking the check box on the left-hand side.
+[Create a Search with Filters](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) explains how to build a search from filters and combine criteria with Or, And, and Not.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561465967/750bd2e516ed3a25ee94d5f3c012/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561465967/750bd2e516ed3a25ee94d5f3c012/image.png?expires=1788542100&signature=d336a4e0c6d9b193911e02c3fdfd6e0f113e8134aaee58c8fb7d003b84e7f7a5&req=diUhF814mIhZXvMW1HO4zReZk5AlKvEBIIBQoK1KIQYLk36SKf4aVAr8%2FnVY%0A1OiQi4LoToM0EcnlOsk%3D%0A)
+Draw a shape on the map to filter listings by location. A shape and a Location filter, such as City or Zip Code, combine as Or, which means the results include listings that match either one. [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) covers the radius, polygon, freehand, and commute tools.
 
-2. Select **Actions.** Then select **Keep.**
+# Work through listings on the Results tab
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561466572/23044a50596239093c67c7686ff0/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561466572/23044a50596239093c67c7686ff0/image.png?expires=1788542100&signature=b77398597c41fa7b4e6dbd416ebd0f8a242cfe39149767e8429a1fddfa4e2508&req=diUhF814m4RYW%2FMW1HO4zVJcemiy17mu1ZTlHj%2FRFBFZYAmaw4df4cLGPE9n%0ABsT8OSkIT4RHKrsroP8%3D%0A)
+The Results tab shows the listings that match your search criteria. Click an icon next to View, above the search results, to choose how the listings display:
+- List: Displays listings in rows with no photos.
+- Expanded: Displays listings in rows, with a photo and a listing summary in the Location column.
+- Tiles: Displays listings as cards with larger photos and no columns.
+- Preview: Opens one listing at a time.
+- Analytics: Displays charts based on the listings that match your search criteria.
 
-Now only the Listings you selected will be visible. The rest will be hidden
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png?expires=1792792800&signature=2a0382cb61c28d30829b2223f95dc38d39f09221580e9d84091d19a478a778d5&req=dichFMl%2Fm4NXW%2FMW1HO4zU8D7sQJn52uWOOBBKVhyiIv3ckRiJYG2B2JU%2FNj%0AN8an%0A)
 
-3. If you want to Unhide the Listings, select the **Unhide** icon that is located next to the **Actions** button.
+The Columns menu above the search results shows the name of the column template currently applied. Open the Columns menu to add, remove, or reorder columns. Save your columns as a column template from the same menu.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561467296/0eef78817b7d40657630cd430ac1/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561467296/0eef78817b7d40657630cd430ac1/image.png?expires=1788542100&signature=f8aca9906aa1580aee98e06cbed682d92948aff477ce82ea949af42bb0ba1007&req=diUhF814moNWX%2FMW1HO4za2yS1sqR%2FnlpRi5ZGPjTLUMxzD0yzrugcjvfPAF%0AHDqEX7Uyp8WM3B6ArTs%3D%0A)
+Location and Status can be reordered but cannot be removed. Both columns remain visible in List and Expanded views regardless of the column template you select.
 
-## Reorganize the columns and save a column template
+[Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) covers search result views, column templates, and the map display step by step.
 
-On the **Results** page, reorganize your columns to show the information that you want to see each time you run a search. You can do so from the **Columns** drop down or by dragging and dropping the columns on the results page.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png?expires=1792792800&signature=5d5a9c55a276583205b5265461933380bca3669c6112c7d1f7844f10a255695e&req=dichFMl%2Fm4JfWvMW1HO4zZKDgumgz%2F%2FtUfoQF7dE2%2BZFhwHpgtaEUlmXTzxU%0A5Gcx%0A)
 
-Steps to reorganize columns on the **Columns** drop down:
+# Narrow your search results with Keep, Hide, and column filters
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561467571/c1c9f8e77a0e2b6f1ab356664235/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561467571/c1c9f8e77a0e2b6f1ab356664235/image.png?expires=1788542100&signature=482af418bca4192bb83d1e839a96eba8f63edb3f42ad25415eaf0e15cee146bc&req=diUhF814moRYWPMW1HO4zS%2FQ9b6z21%2FChSgJAtP%2BMTjTx7thsdlVbqOp03zZ%0AmHjDM7E72puXkVu%2Bb5o%3D%0A)
-1. Click on **Results** to view the listings that match the filters.
-2. Click the **Columns** drop down.
-3. Drag and drop columns to change the order by clicking the **6 dots** and dragging the column.
-4. Select or deselect the checkboxes next to the columns you want to add or remove from the view.
-5. Click **Save** and name the template. You can select the **star** to save it as the default column view.
+Narrow the listings on the Results tab with Keep, Hide, or a column filter.
 
-Steps to reorganize columns by reordering the columns on the results page:
+Keep and Hide change only the listings on screen, and your search criteria on the Filters tab stay the same. Select the checkbox on each listing you want to keep or hide, then open the Actions menu:
+- Keep: Shows only the selected listings and hides the rest.
+- Hide: Hides the selected listings and keeps the remaining listings on screen.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561468380/3b1da79c0a3a27eb6ea1a2e78cc9/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561468380/3b1da79c0a3a27eb6ea1a2e78cc9/image.png?expires=1788542100&signature=464018984e1564033f7f376b0e9a2cca573c95b4fe8fbc0c75008e30e572c76f&req=diUhF814lYJXWfMW1HO4zUrrsQyu9Egb4Y0lA5Oxezs825dwztXZHAJjpb4k%0AhgYmsRW9IMp1uwe6bvs%3D%0A)
-1. Click on **Results** to view the listings that match the filters.
-2. Click the columns and hold down the mouse.
-3. Drag the column to create the desired order.
-4. Click the **Columns** drop down.
-5. Drag and drop columns to change the order by clicking the 6 dots and dragging the column.
-6. Select or deselect the checkboxes next to the columns you want to add or remove from the view.
-7. Click **Save** and name the template. You can select the **star** to save it as the default column view.
+The crossed-out eye icon next to the Actions menu shows how many listings are currently hidden. Click the icon to view and restore hidden listings to the search results.
 
-> 📖 Check out this collection to learn more about how to save a [column templates.](https://app.notion.com/p/1d88b9e014388066ba5ed34cfc8ca910?pvs=21)
+> **Important:** Keep and Hide apply only while you remain in the search. Save the search to keep the changes. If you reload or leave without saving, the hidden listings return.
 
-## Flood Zones Map Layer
+Click the filter icon in a column header, such as Price or Bedrooms, to filter your results by that column. A column filter is added to your search criteria and appears under Applied Filters on the Filters tab. To clear it, click the x on the column header.
 
-Use the **Flood Zone **option in maps to view FEMA flood areas with data directly from the FEMA Flood Map Service Center. This tool provides a map layer that displays FEMA Flood Map service data as an overlay to better understand the flood risk for listings.
-​
-Navigate over to the search map:
+# Take action on selected listings from the Search page
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358778/1693495a1db4aa2a69ebe053c16f/Screenshot-2B2026-07-31-2Bat-2B12_04_03-E2-80-AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358778/1693495a1db4aa2a69ebe053c16f/Screenshot-2B2026-07-31-2Bat-2B12_04_03-E2-80-AFPM.png?expires=1788542100&signature=4c150d23ace3ee6ead0d1b2c8f5d68bfa6536b23775655a4daaeed11260859b3&req=diUgH8p7lYZYUfMW1HO4zWJ5m6FL79miZGTlQ8dAh%2FTqARk%2FGO6XD5L%2BxJOs%0A46DR9Acsy9V294F690k%3D%0A)
+Select the checkbox on each listing you want, then open the Actions menu. The number next to Actions shows how many listings are selected. The Actions menu is where sharing, tagging, reporting, printing, and exporting all start.
 
-On the bottom right, click the "layer" icon:
+[Multi-Listing Actions on the Search Page](http://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) covers each option in the Actions menu.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358776/47f16f22a9e48e3a34b8467c28a5/Screenshot-2B2026-07-31-2Bat-2B12_04_53-E2-80-AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358776/47f16f22a9e48e3a34b8467c28a5/Screenshot-2B2026-07-31-2Bat-2B12_04_53-E2-80-AFPM.png?expires=1788542100&signature=4c8b84af15b362acfd3c7ebe32bada9bb54bd7da2a33a7b9e42205c3f33723b8&req=diUgH8p7lYZYX%2FMW1HO4zaK4p7E4RHKLRkHmbSWS7EWCzLuzNYGDoBTOsw%2F7%0AnMlKq1EAb%2BBKxrGFbVw%3D%0A)
+[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing by email, text message (SMS), or public link. [Export Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/11776740-export-listings-in-perchwell) covers CSV (comma-separated values) exports and export templates. [Print Search Results](http://support.perchwell.com/baldwin/en/articles/16302253-print-search-results) covers printing search results or saving them as a PDF.
 
-Click on the Flood zone toggle:
+> **Note:** Print appears in the Actions menu when search results are in List or Expanded view. Print is not available in Tiles view because Tiles view has no columns. Switch to List or Expanded view to print search results.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358779/ab51cd260d4bb86015c4b2f3d3d0/Screenshot-2B2026-07-31-2Bat-2B12_05_26-E2-80-AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2579358779/ab51cd260d4bb86015c4b2f3d3d0/Screenshot-2B2026-07-31-2Bat-2B12_05_26-E2-80-AFPM.png?expires=1788542100&signature=7b7f38e00c04a428be762829afb6be44f716fd0b760f99726f947c0dc4d1a7bd&req=diUgH8p7lYZYUPMW1HO4ze8iW9vsZk6YxG5JtYEIw29K8%2F2hO8FHDGhDh1tu%0ACZXyc3YTnQRLKSDEXo0%3D%0A)
+## Tag listings from your search results
 
-## Create and Manage **Saved Searches**
+To tag listings from your search results, select the listings, open the Actions menu, and click Share. Under via Tag, select one or more Tags to add the listings to, then click Next and Add Listings.
 
-Use **Saved Searches** to save common client criteria and return to it anytime.
+[How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) covers tagging step by step, including how to notify the contacts on a Tag.
 
-## Create a new saved search
-1. Add **Filters** to a new search.
-2. Click **Save**.
-3. Enter a name (example: **Paul’s Ellisville Homes**).
-4. When applicable, add a contact to the search.
-5. When applicable, set search notifications to the search.
-6. Click **Saved Searches** to view, edit, and duplicate any saved search. Keep in mind, the name of the current search will show. You can still access any saved search from this button regardless of the name shown.
+# Save a search and view your Saved Searches
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561469617/9ee06bd019a41ea97ed784321c4c/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561469617/9ee06bd019a41ea97ed784321c4c/image.png?expires=1788542100&signature=22c7b94d5608682528c0c277ee191687319374513d976209c1a6dc295dbaf290&req=diUhF814lIdeXvMW1HO4zU7p53VoKTl2ip8OLd2aQQqVNBrNNIt5ouHJDX8B%0A27ulBwD6HoIfKAZwb74%3D%0A)
+Click Save in the upper left of the Search page, next to Saved Searches, to save your current search. An orange dot on the Save button means the search has changes that have not been saved.
 
-## Update an existing saved search
+Click Saved Searches to view and reopen searches you have already saved. A saved search can be connected to a contact and set to send alerts when new listings match the search criteria.
 
-When you edit filters on a saved search an orange dot will appear above the save button:
-- Click **Save** to update it.
-- Clic **Saved Searches** to view, edit, and duplicate any saved search. Keep in mind, the name of the current search will show.
+[Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches) covers sharing saved searches, setting alerts, using templates, and deleting a saved search.
 
-## Customize how listing results and the map display
+# See market charts for your results with Search Analytics
 
-Adjust the layout on the **Results** page to view listings and scan through results.
-​
+Search Analytics creates charts from the listings that match your current search criteria. When you change the search criteria, the Search Analytics charts update to reflect the new results.
 
-## Change listing view
+From the Results tab, click the Analytics icon next to View. Add charts to Search Analytics with these two buttons:
+- Charts: Opens the Charts window. Market Share, Distribution, Location, and Median each expand to show the charts in that category. Select the checkbox next to each chart you want to add.
+- Update Dashboard: Adds your selected charts to Search Analytics.
 
-**List View**
-​
+Drag the handle on the left side of a chart card to move it to a different position.
 
-Select **List View** to hide images and focus on a compact view of listing data.
+> **Note:** Search Analytics is different from the Analytics page in the top navigation. Search Analytics creates charts from the listings in your current search results. The Analytics page runs standalone reports on agents, offices, and market activity. [Analytics Tab Overview](http://support.perchwell.com/baldwin/en/articles/13623210-analytics-tab-overview) covers the Analytics page.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561470597/1428ab04e9d23b85e56579d1a223/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561470597/1428ab04e9d23b85e56579d1a223/image.png?expires=1788542100&signature=d3ef4182628bfc595cf2397e4f337af6b828e4f018a2defcca95a839e3784ebd&req=diUhF815nYRWXvMW1HO4zU9oQvjiHON2nX4zEFbQ6%2FsPM6u%2Bmuz7JsOy5%2Fx1%0ACFln9IX48VVSwrBdCfk%3D%0A)
+[Analytics FAQ](http://support.perchwell.com/baldwin/en/articles/15200594-analytics-faq) covers how many charts can be added to one search and whether Search Analytics charts are kept when you save a search. [Share and Export Analytics Charts](http://support.perchwell.com/en/articles/8955876-share-and-export-analytics-charts) covers emailing charts and exporting them to PDF.
 
-**Expanded View**
-
-Select **Expanded View** to preview the first photo and key listing data in the first column.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561470936/a589a2c14e1c9cd75e57eb47d22e/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561470936/a589a2c14e1c9cd75e57eb47d22e/image.png?expires=1788542100&signature=7ff3466e23990fcd5e50251ec0d124b1f17289150e7957b9674bcef82cce2ffd&req=diUhF815nYhcX%2FMW1HO4zZcF35VADTwoXqEEtkwriGTDEmo%2BNFoTgX67t5yU%0ACIy2awXp%2FwpPflHTgcw%3D%0A)
-
-**Tiles View**
-
-Select **Tiles View** to see a consumer focused view of listings with larger photos and key details.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471145/8b7a0d81f66e8b3d60d893f3cc6d/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471145/8b7a0d81f66e8b3d60d893f3cc6d/image.png?expires=1788542100&signature=6156bcc707d1794371cbec7a82338ff8ba0b2dd25b095ba28f98aefaf127c248&req=diUhF815nIBbXPMW1HO4zesyhh9wUpgsbQDwnTLnuojr9Ye1nj4J8BkaHtlW%0AcI51RePtaziiZBLCnjo%3D%0A)
-
-**Preview**
-
-Select **Preview** to see the full listing details and page through the search results.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471338/317c938bf622bdbd146d773bc640/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471338/317c938bf622bdbd146d773bc640/image.png?expires=1788542100&signature=d41582c844fe1ca9c60253fdc41c04bd4ec8756006cd1ca18bae4d29ac5879d4&req=diUhF815nIJcUfMW1HO4zTJM5rYLMzU2vEeCXWCHIgTfJeUeT5vr01absw5Z%0Af053DP0IzXdPiDXrnpU%3D%0A)
-
-**Analytics View**
-​
-
-Select **Analytics View** to use visual charts to view listing data.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471559/a50ea902b0604393a7a3d15f02a2/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471559/a50ea902b0604393a7a3d15f02a2/image.png?expires=1788542100&signature=723701a52c25a064d4de3553cfea4dfaeaed8402ce7ec338160bfa2621ab268d&req=diUhF815nIRaUPMW1HO4zTLHI1daOOC%2FtliZEP6Q8kfCl6FDIcxMP8FijtV%2B%0A6W1XhoewEyLaeyt9FGw%3D%0A)
-
-## Resize or hide the map
-- From the **Filters** or **Results** page, click and drag the **3 dots** to readjust the size of the map.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471880/80f4638c2a609bbbe169b7eb12fd/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561471880/80f4638c2a609bbbe169b7eb12fd/image.png?expires=1788542100&signature=59eb6c221ce032f825989f7388ed192bf4aa28f1d92ac6abddfb340892a78f8e&req=diUhF815nIlXWfMW1HO4zTtYsqKnNu76pUNExGIRPAqnKVuV7S6KAZW2NIY5%0Agq4FOsgmWJ7QS4274zw%3D%0A)
-- From the **Filters** or **Results** page, click the **hide map button** to hide the map.
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472136/3b6157d53f282a33ca2b80bf5bd5/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472136/3b6157d53f282a33ca2b80bf5bd5/image.png?expires=1788542100&signature=42dfb45c915c4fd7e7517c8677becc022bd064e3d4ec4184707586f0bec53456&req=diUhF815n4BcX%2FMW1HO4zS5Uuu%2B4PE%2Br2H6nVapgqYexq0LQ0jHrBXjFJrAg%0A2IaSprF1czMV5YyPrH4%3D%0A)
-
-## Share listings
-
-Share listings by copying a public link, sending them by email, sending them through the Perchwell messaging app, or adding a tag.
-​
-
-**Share via Email**
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472518/59b6c8e9e480608bfb45a4fcb6b3/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472518/59b6c8e9e480608bfb45a4fcb6b3/image.png?expires=1788542100&signature=0b83a76c84f7e2353690dad26ace45bae55073e1477cc64c6604e928304c73a4&req=diUhF815n4ReUfMW1HO4zRFgkGJF%2BaEURlHzIVTrAgdSewZNgvdFsOYUcaAm%0ATUyc6iKwOvU5EccH2Yg%3D%0A)
-1. Select the checkboxes next to the listings you want to share.
-2. Click **Actions.**
-3. In the drop down, click **Share**.
-4. In the pop-up window, choose **Email**.
-5. Choose one or more recipients in **Select emails**.
-6. Add a message in the message field.
-7. Edit the email **Subject**.
-8. Click **Email** to send.
-
-**Share via Public Link**
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472865/200dee8976bd9b6b838c81682583/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561472865/200dee8976bd9b6b838c81682583/image.png?expires=1788542100&signature=60b76091e174fd8bdcada11d84f03471f47e815888e177ba02fe1fc66c30283d&req=diUhF815n4lZXPMW1HO4zRZhKFlZG91351Fv4iNwLVyAWuwkZGHxL3WXvgrw%0AzLAN9gqdKHOSspOjDuY%3D%0A)
-1. Select the checkboxes next to the listings you want to share.
-2. Click **Actions.**
-3. In the drop down, click **Share**.
-4. In the pop-up window, choose **Public Link**.
-5. Click **Copy** to copy the generated link.
-6. Paste the link anywhere you want to share it. For example, an email from you or a text message.
-
-**Create a Tag**
-
-Use Tags to group and organize listings for your clients, then share them in one place.
-
-Steps:
-1. Select the checkboxes next to the listings you want to save.
-2. Click **Actions.**
-3. Select **Tag.**
-4. Choose an existing tag from the list, or type a new name to create a new tag.
-5. A highlight on the tag confirms the listings have been added.
-
-**View tagged listings in Search**
-
-Steps:
-1. Click the **Columns** drop down
-2. Add the **Tags** column to your Search view
-3. Select a tag from the list to filter your results
-
-**💡 You can tag listings on behalf of another client while running a search.**
-​
-
-**Share via Messenger**
-
-Message invited contacts directly through Perchwell. The contact will log into their Perchwell account (desktop or mobile) to message back and forth. The contact can also like, dislike, and provide feedback on each listing.
-1. Select the checkboxes next to the listings you want to share.
-2. Click **Actions.**
-3. In the drop down, click **Share via Message**.
-4. Select the contact.
-5. Write a short message to send to the contact.
-​
-
-> 📖 Learn about the client experience and inviting you client to Perchwell [here](https://app.notion.com/p/2ef8b9e0143880eb8fb8fecea9e7bf07?pvs=21).
-
-## Export listing results with **Export**
-
-Download listing data when you need to share or analyze results outside of Perchwell.
-- Click **Export** icon to download a CSV.
-- Select the desired template to export the listings with the selected fields.
-
-> 📖 Learn how **Export** templates work in this article: [Exporting listings in Perchwell](https://intercom.help/perchwell/en/articles/11776740-exporting-listings-in-perchwell)
-
-## Use **Analytics** for market insights
-
-Switch to the **Analytics** view when you need to visualize the results and understand the market.
-- Review reports such as Market Share, Distribution, Location, and Trends.
-- Export reports as a PDF.
-- Email reports to clients.
-​
-
-> 📖 Check out this collection to learn more about **Analytics**: [Analytics](https://intercom.help/perchwell/en/collections/8401610-analytics)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png?expires=1792792800&signature=2a3e0563e344bec851a8f151286c3a1f2405574f96cc0439d6455e0be653e9a2&req=dichFMl%2Fm4JeUPMW1HO4zd9wbvj5lsottgbZrXWQseNaSTVyH2P%2Frmwy55o9%0AXMoZ%0A)
