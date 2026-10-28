@@ -1,6 +1,6 @@
 ---
 name: rename-drive-images
-description: Rename every image in a Google Drive folder to the team's screenshot naming convention (Baldwin-Page-Description, for example Baldwin-Search-Lot-Description.png). Use whenever a teammate types /rename-drive-images, pastes a Google Drive folder link and says "rename these images," "fix the screenshot names," "clean up the file names in this folder," or asks to make a folder of screenshots match the naming convention. Only changes file names. Never adds, removes, moves, copies, or edits an image.
+description: Rename every image in a Google Drive folder to the team's screenshot naming convention (MLS-Page-Description, for example Baldwin-Search-Lot-Description.png or CRMLS-Search-List-View.png). Use whenever a teammate types /rename-drive-images, pastes a Google Drive folder link and says "rename these images," "fix the screenshot names," "clean up the file names in this folder," or asks to make a folder of screenshots match the naming convention. Only changes file names. Never adds, removes, moves, copies, or edits an image.
 ---
 
 # Rename Drive images
@@ -19,9 +19,9 @@ The Drive tools come from a claude.ai connector, and the server ID in the tool n
 
 ## The naming convention
 
-`Baldwin-<Page>-<Description>.<ext>`
+`<MLS>-<Page>-<Description>.<ext>`
 
-1. **MLS name first.** Always `Baldwin`.
+1. **MLS name first.** `Baldwin` or `CRMLS`, spelled exactly that way. Use the label the teammate names. If they do not name one, use the folder's name when it includes `Baldwin` or `CRMLS`, and say which label you picked when you show the plan. If neither tells you, ask before building the plan. Use one label for the whole folder.
 2. **Page name.** The Perchwell page or area the screenshot was taken on, spelled the way the screen spells it: `Search`, `Listing-Detail`, `Add-Edit`, `Saved-Searches`, `Hotsheets`, `Dashboard`, `Contacts`, `Reports`, `Settings`. Use the vocabulary in `docs/product-context.md`.
 3. **Description.** What the image shows, in 1 to 4 words. When the image is about one specific option whose on-screen label is longer, use that label in full, as in the third example.
 4. Every part is separated by a single `-`. No spaces, underscores, or other punctuation. Capitalize the first letter of each word.
@@ -32,6 +32,9 @@ Examples from the team:
 - `Baldwin-Search-Lot-Description`
 - `Baldwin-Search-Start-New-highlighted`
 - `Baldwin-Search-Allow-added-Contacts-to-see-and-edit-search`
+- `CRMLS-Search-List-View`
+
+**Match the other MLS.** When a screenshot shows the same thing as one already named for the other MLS, reuse that name and change only the label, so `Baldwin-Search-Map-Flood-Layer` becomes `CRMLS-Search-Map-Flood-Layer`. Matching names make it easy to swap one help center's image for the other's. To find them, list the other MLS's folder by name with `search_files` (`title contains 'Baldwin-'` or `title contains 'CRMLS-'`), names only. Mark these rows "matches Baldwin" or "matches CRMLS" in the plan.
 
 ## Steps
 

@@ -1,1 +1,1 @@
-Follow `.claude/skills/rename-drive-images/SKILL.md` to rename every image in the Google Drive folder the teammate provides to the Baldwin-Page-Description naming convention, changing names only and never adding or removing a file.
+Follow `.claude/skills/rename-drive-images/SKILL.md` to rename every image in the Google Drive folder the teammate provides to the MLS-Page-Description naming convention (Baldwin or CRMLS), changing names only and never adding or removing a file.
