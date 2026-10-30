@@ -28,7 +28,7 @@ Save a search first, then link it to a new or existing Tag from the Tags page. T
 ### Steps:
 1. Click Add next to Saved searches
 2. Click the Saved searches field
-3. Enter the saved search's name in the Search by name or contact field
+3. Enter the saved search's name in the Search by name or contact field, or scroll through the list to find it
 4. Select the checkbox next to each saved search you want to link
 5. Click Add again
 6. Click Create for a new Tag, or Save for an existing Tag

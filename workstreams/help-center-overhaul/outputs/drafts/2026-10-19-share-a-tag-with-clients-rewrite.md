@@ -35,7 +35,11 @@ Email a Tag to clients from the Tags page, or resend a Tag you already sent to a
 3. Click Add again
 4. Click Invite to workspace
 
-The Tag invitation sent window lists the email address each invitation went to. Each client receives an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name displayed as the sender. It includes a View Tag button that opens the Tag's public page. On the Tags page, the Status column changes to Sent, and the Send button becomes Resend.
+The Tag invitation sent window lists the email address each invitation went to. On the Tags page, the Status column changes to Sent, and the Send button becomes Resend.
+
+Each client receives an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name displayed as the sender. It includes a View Tag button that opens the Tag's public page.
+
+> Screenshot placeholder: Show the Welcome to Your Tag email a client receives, with the agent's name as the sender and the View Tag button | Alt text: The Welcome to Your Tag email from the agent, with the message text and a View Tag button.
 
 When you resend a Tag, all of its contacts receive the email again. If you are not adding anyone, click Invite to workspace when the Share your tag window opens.
 
