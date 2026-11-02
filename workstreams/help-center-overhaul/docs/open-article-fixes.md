@@ -9,10 +9,8 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 
 **Create a Media Report**, TRK-069
 - The description and opening section say the report has photos and floor plans; the sample shows photos only. Confirm, or reword.
-- The sample shows a full street address, plus an agent's name and photo in the footer and the Printed by line. Decide whether to blur.
 
 **Create an Itinerary Report**, TRK-072
-- The sample does not blur the listing agents' names, brokerages, and phone numbers, which the placeholder under When to use an Itinerary report asks for.
 - The sample shows Agent name and Agent phone number, which the article says are off by default.
 - The When to use placeholder asks for a first page with start time and meeting place. Decide whether the sample replaces it, or move the sample up.
 
@@ -21,7 +19,6 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
   - Page 1: `Baldwin | Alt text: Page 1 of a sample Full Report, with the listing's price, photo, map, key details, Description, and agent-only sections.`
   - Page 2: `Baldwin | Alt text: Page 2 of a sample Full Report, with agent-only listing details, Syndication Settings, and the listing's Property Details.`
 - The sample is the For agent version. Optionally say so after "Sample Full Report:".
-- Page 2 shows a first name and phone number in agent remarks, and the association's phone number and email. Decide whether to blur.
 
 **Create a Listing Report**, TRK-067
 - The sample has a "% Change +9893.57%" row that looks like a data error.
@@ -59,7 +56,6 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 
 **Create and Manage Teams**, TRK-052
 - The screen is titled Team details; the article calls it Edit Team. Match the screen.
-- The screenshots show real brokerage emails and two agents' names, emails, and phone numbers. Decide whether to blur.
 
 **Log In as an Agent with Assume Identity**, TRK-050
 - One image in the "Log in as" step was rewritten into Notion's other image format so edits would save. Automated edits to this page may fail on it again.
