@@ -1,0 +1,90 @@
+{
+  "doc_id": "1iNA80EIx1pbQelLRf5omcQPnYNaYCGWUb6r_N3jDlwE",
+  "weeks": [
+    {
+      "label": "Oct 19 to 25",
+      "start": "2026-10-19",
+      "complete": true,
+      "conversations": 111,
+      "themes": {
+        "Printing and reports": 11,
+        "Listing status changes": 6,
+        "Finding listings and search": 7,
+        "Contacts and client sharing": 6,
+        "Agent phone numbers": 4,
+        "Missing subdivisions and areas": 4,
+        "Listing documents and photos": 2,
+        "Listing data accuracy (CDOM, HOA)": 3,
+        "Seller activity report": 4,
+        "Login and account access": 3,
+        "Social sharing and syndication": 5
+      },
+      "signals": {
+        "Fin handed to a teammate": 24,
+        "Fin thumbs down": 3,
+        "Member ratings of 1 or 2 out of 5": 0,
+        "Member ratings of 4 or 5 out of 5": 2
+      },
+      "note": "Themes for this week were assigned mostly from conversation titles.",
+      "end": 1792987200,
+      "end_note": "Monday Oct 26 00:00 Eastern. The first Friday run covers Oct 26 to Oct 30."
+    }
+  ],
+  "persisting": [
+    {
+      "issue": "Agent phone number wrong or not saving",
+      "first_seen": "Week of Oct 19",
+      "reports": 7,
+      "status": "No tracker"
+    },
+    {
+      "issue": "Seller activity report, as Paragon had",
+      "first_seen": "Week of Oct 19",
+      "reports": 6,
+      "status": "PWEB-22992, no release date"
+    },
+    {
+      "issue": "Printed text too small to read",
+      "first_seen": "Week of Oct 19",
+      "reports": 5,
+      "status": "No tracker; larger font option exists"
+    },
+    {
+      "issue": "Find a listing by address in Manage Listings",
+      "first_seen": "Sep 2",
+      "reports": 3,
+      "status": "PWEB-19711, open"
+    },
+    {
+      "issue": "Listing documents error in Manage Listings",
+      "first_seen": "Oct 22",
+      "reports": 3,
+      "status": "PWEB-23664, investigating"
+    },
+    {
+      "issue": "CDOM or DOM wrong",
+      "first_seen": "Week of Oct 19",
+      "reports": 3,
+      "status": "PWEB-23580, PWEB-23637"
+    },
+    {
+      "issue": "Annual HOA fee shown as monthly",
+      "first_seen": "Week of Oct 19",
+      "reports": 3,
+      "status": "PWEB-23551"
+    },
+    {
+      "issue": "One page report errors",
+      "first_seen": "Oct 14",
+      "reports": 3,
+      "status": "MOBILE-4301"
+    },
+    {
+      "issue": "Preview a draft listing before it goes live",
+      "first_seen": "Sep 30",
+      "reports": 2,
+      "status": "PWEB-21265, in review"
+    }
+  ],
+  "persisting_note": "Report counts include the partial week of Oct 26 (drafted Oct 29). The Friday Oct 30 run recounts them with the full window."
+}
