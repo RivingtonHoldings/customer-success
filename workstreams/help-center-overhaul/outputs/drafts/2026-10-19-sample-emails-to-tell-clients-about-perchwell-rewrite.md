@@ -18,39 +18,37 @@ migrated_from: master-article-list
 
 **Description:** Copy and personalize sample emails that tell buyers, sellers, and past clients you moved to Perchwell, with or without an invitation.
 
-Use this article to tell clients you moved to Perchwell with a sample email: invite active buyers, let clients know without inviting them, update sellers about their listing, or check in with past clients.
+Use this article to choose a sample email for your clients, whether you're inviting them to Perchwell or letting them know about the transition. Each email is ready to personalize and send.
 
-## Personalize a sample client email before you send it
+## Personalize a sample email
 
-Replace each bracketed placeholder in a sample client email with your own details before you send it:
+Personalize a sample email by replacing each bracketed placeholder with your own details:
 
-- [CLIENT FIRST NAME]: The client's first name.
-- [PREVIOUS SYSTEM]: The MLS system you worked in before Perchwell.
-- [SIGN OFF]: Your closing and your name.
-- [AGENT NAME], [PHONE], and [EMAIL]: Your name and contact details, in the past client email.
-- [Paste public link here]: The public link to the seller's listing, in the seller email.
-- [Optional: ...]: A line to keep or delete, in the past client email.
+- [CLIENT FIRST NAME]: Your client's first name.
+- [SIGN OFF]: Your preferred closing and name.
+- [AGENT NAME], [PHONE], and [EMAIL]: Your name and contact information.
+- [LISTING PUBLIC LINK]: The public link to the seller's listing.
 
-## Invite active buyers to Perchwell with a sample email
+## Invite active buyers with a sample email
 
-Send this sample email to active buyers you plan to search and message with in Perchwell. The email tells the buyer to watch for a Perchwell invitation, so invite them from the Contacts page as well. [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how.
+Send this sample email to active buyers you plan to work with in Perchwell. Invite them from the Contacts page too, so they receive the invitation email. [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how.
 
 Subject line options:
 
-- A better home search is on its way to you
-- Here is your Perchwell invitation
+- Your home search is moving to Perchwell
+- Watch for your Perchwell invite
 
 Email body:
 
 Hi [CLIENT FIRST NAME],
 
-I've moved from [PREVIOUS SYSTEM] to a modern platform called Perchwell, the core system I use to work with you. One of the things I'm most excited about is the Perchwell mobile app, where we can collaborate on your search and chat about listings.
+Our MLS recently switched to a new platform called Perchwell, and I'll be using it for your home search. My favorite part is the Perchwell app, where we can keep your search in one place and talk through listings together.
 
 Here's all you need to do:
 
-1. Watch for an invitation email from Perchwell
-2. Click to accept it and set a password. You'll sign in with your email address and that password
-3. Open Perchwell and take a look. The searches and listings I share with you are in your client portal, your Perchwell workspace for our home search [confirm: where shared saved searches appear for a client in the Perchwell mobile app]
+1. Watch for an invitation email from Perchwell.
+2. Accept the invitation and set your password.
+3. Sign in to explore the searches and listings I've shared with you. In the mobile app, you'll find your shared searches under the My Searches dropdown.
 
 [Accept Your Agent's Perchwell Invitation](https://support.perchwell.com/baldwin/en/articles/15521326-accept-your-agent-s-perchwell-invitation) walks you through getting started.
 
@@ -58,11 +56,11 @@ Like listings with the heart icon and message me about any of them in one place,
 
 If you have questions, just reply here or text me. Excited to keep the search going.
 
-[SIGN OFF],
+[SIGN OFF]
 
 ## Tell clients about Perchwell with a sample email instead of an invitation
 
-Send this sample email to buyers or other clients you plan to keep working with by email and text, without inviting them to Perchwell. The email tells them about the change and asks nothing of them.
+Send this sample email to tell clients about Perchwell without inviting them. You'll keep working with them by email and text.
 
 Subject line:
 
@@ -72,11 +70,11 @@ Email body:
 
 Hi [CLIENT FIRST NAME],
 
-I've moved the MLS system I use from [PREVIOUS SYSTEM] to a modern platform called Perchwell. It gives me more tools to serve you in your home search.
+Our MLS recently switched to a new platform called Perchwell.
 
 There's nothing you need to do. The listings and reports I send will look a little different, but nothing changes about how we work together.
 
-[SIGN OFF],
+[SIGN OFF]
 
 ## Update sellers about their listing with a sample email
 
@@ -90,37 +88,35 @@ Email body:
 
 Hi [CLIENT FIRST NAME],
 
-I wanted to give you a quick update about your listing. Our MLS has moved the core system I use to manage listings and work with you from [PREVIOUS SYSTEM] to a modern platform called Perchwell.
+I wanted to give you a quick update about your listing. Our MLS recently switched to a new platform called Perchwell.
 
-This change has no impact on your listing's visibility. Your listing remains live everywhere buyers are looking, including Zillow, Homes.com, and Realtor.com, and the other sites and agent searches that drive traffic to it.
+The transition doesn't change how I'm marketing your home. Your listing is still on the MLS and the real estate websites where it normally appears.
 
-Take a look at the new public link and let me know what you think: [Paste public link here]
+Take a look at the new public link and let me know what you think: [LISTING PUBLIC LINK]
 
 I'll keep you updated as always. Reach out anytime with questions.
 
-[SIGN OFF],
+[SIGN OFF]
 
 ## Check in with past clients about Perchwell with a sample email
 
-Send this sample email to past clients or people in your sphere as a light check-in. The email mentions your move to Perchwell and tells them your saved search alert emails will look different, without asking anything of them. [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how to send alerts to clients.
+Send this sample email to check in with past clients or people in your sphere and tell them about Perchwell. Keep the bracketed line about alerts only for clients who receive your saved search alerts. [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how to send alerts to clients.
 
 Subject line:
 
-- When you're ready, the search just got better
+- A quick hello and a small update
 
 Email body:
 
 Hi [CLIENT FIRST NAME],
 
-I hope you're doing well. A quick hello and a small update: I've moved the MLS system I use to help clients buy and sell from [PREVIOUS SYSTEM] to a modern platform called Perchwell. It makes searching and staying on top of the market a lot smoother.
+I hope you're doing well! Our MLS recently switched to a new platform called Perchwell, which I'll now be using to help clients buy and sell homes.
 
-As part of this change, the email alerts I send you will look a little different than what you're used to.
+[If they receive your alerts: The property alerts I send you will look a little different, but there's nothing you need to do.]
 
-There's no need to do anything on your end. I hope you enjoy the new look and feel.
+I'd love to catch up over coffee and hear how things are going!
 
-[Optional: I'd love to get coffee and show you the market in the Perchwell mobile app.]
-
-Always happy to help. Take care.
+As always, I'm here if you have any real estate questions.
 
 Warm regards,
 [AGENT NAME]
