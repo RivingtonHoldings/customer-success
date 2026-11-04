@@ -17,7 +17,7 @@ Perchwell replaces legacy MLS systems. For Baldwin, that system was Paragon.
 | StellarMLS | Customer | Out of scope for this project |
 | REcolorado | Customer | Out of scope for this project |
 
-Perchwell also serves brokerages directly (Engel & Volkers, Keller Williams, and NYC brokerages), which is why some Notion articles carry a `NYC|` prefix. Those are not Baldwin or CRMLS content, and NYC is out of scope for the help center overhaul, confirmed September 10, 2026. The new Notion database offers NYC as an `MLS/AOR` option, which is a leftover, not an invitation: "every MLS" in this project means Baldwin and CRMLS.
+Perchwell also serves brokerages directly (Engel & Volkers, Keller Williams, and NYC brokerages), which is why some Notion articles carry a `NYC|` prefix. Those are not Baldwin or CRMLS content, and NYC is out of scope for the help center overhaul, confirmed September 10, 2026. The new Notion database's `MLS` property offers only Baldwin and CRMLS: "every MLS" in this project means those two.
 
 ## User roles
 

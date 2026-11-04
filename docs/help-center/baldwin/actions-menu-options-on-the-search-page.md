@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2026-02-04T23:44:58Z
-updated_at: 2026-10-23T21:02:03Z
+updated_at: 2026-11-04T17:49:03Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:02:55Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Actions Menu Options on the Search Page
@@ -34,11 +34,11 @@ Select listings on the Results tab of the Search page to access all options in t
 
 The count next to Actions shows how many listings are selected, such as 3 of 29. The column header checkbox selects only the listings on the page so far, and results load 30 at a time as you scroll.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931785/7ad515247f12a182e68c444259e4/upload_5832800428253288570.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931785/7ad515247f12a182e68c444259e4/upload_5832800428253288570.png?expires=1792791000&signature=05dd29a4bd7b4bc7fb7217a84aeae8fc6db2787e1dc95453083e8ba8f1f1e5f5&req=dichF8B9nIZXXPMW1HO4zaTm6xuNUzkdm4RYdJ5T%2B39xduS8KlpFijhs%2FENx%0AfhkU%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931785/7ad515247f12a182e68c444259e4/upload_5832800428253288570.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931785/7ad515247f12a182e68c444259e4/upload_5832800428253288570.png?expires=1793817000&signature=9a0380e7fab97752c179fa46e70c98b2c88c5f08068972f61612dbb91337de9a&req=dichF8B9nIZXXPMW1HO4zaTm6xqCWz8dm4RYbppV8kWwDx4TC98iteOmCMG8%0AxM9AQw%2BRp6sIudy95Sc%3D%0A)
 
 With no listings selected, only Export CSV is available. Choose at least one listing to turn on the other options.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931877/51d2729fd05cbfe8f202c8d0d651/upload_5899736788091596586.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931877/51d2729fd05cbfe8f202c8d0d651/upload_5899736788091596586.png?expires=1792791000&signature=6c2c044bc7dc6c8dffe93bc33c5f8e6968e3445466e40717b6e025948accb615&req=dichF8B9nIlYXvMW1HO4zReBfMGh09RvbSNGPHgXfiExifU%2Fs4SdsIcK%2BS4C%0A2%2Bnn%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931877/51d2729fd05cbfe8f202c8d0d651/upload_5899736788091596586.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931877/51d2729fd05cbfe8f202c8d0d651/upload_5899736788091596586.png?expires=1793817000&signature=8e5c4fc36c756f70eb9144c4233546024279f0e44c432fa7305677d86c766c90&req=dichF8B9nIlYXvMW1HO4zReBfMCu29JvbSNGJnwRdxsd7TVLYvbdKBFIKOnB%0AHNqL5Co6PMhfaAkvNdY%3D%0A)
 
 # Share listings from the Actions menu
 
@@ -68,7 +68,7 @@ The Contact Agent window also includes these options:
 
 > **Tip:** Enter {listing} in the subject or message to include each listing's address in its email.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931926/11543035538d8159f7dbda2d5729/upload_16910855003748796152.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931926/11543035538d8159f7dbda2d5729/upload_16910855003748796152.png?expires=1792791000&signature=650e3125717a36484f99f646e3d0d45e9d2648c39aa506acbe22534ae18afb37&req=dichF8B9nIhdX%2FMW1HO4zT8LUhyDjw0CcGHZrMyjnqHTWiayNyVGrkY90XaF%0Au0S%2F%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931926/11543035538d8159f7dbda2d5729/upload_16910855003748796152.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761931926/11543035538d8159f7dbda2d5729/upload_16910855003748796152.png?expires=1793817000&signature=633518b295f527cf6d5a6492b673714c45cd009209edb2e2b652651dba2269ef&req=dichF8B9nIhdX%2FMW1HO4zT8LUh2MhwsCcGHZtsill5sy%2FDsy4u3eFTVGRIpu%0A2%2FpULZHfuBhd%2B34s5TY%3D%0A)
 
 # Create reports, export, or print listings from the Actions menu
 
@@ -79,7 +79,7 @@ Create a report, export a CSV (comma-separated values) file, or print search res
 
 For more information:
 - [Create a Listing Report](http://support.perchwell.com/baldwin/en/articles/8955755-create-a-listing-report) covers creating, customizing, and sharing a Listing Report.
-- [Create One Page Reports](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers choosing the client or agent version and the built-in QR code.
+- [Create a One Page Report](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers choosing the client or agent version and the built-in QR code.
 - [Export Listings to a CSV File](http://support.perchwell.com/baldwin/en/articles/11776740-export-listings-in-perchwell) covers choosing export fields and creating export templates.
 - [Print or Save Search Results as a PDF](http://support.perchwell.com/baldwin/en/articles/16302253-print-search-results) covers page layout, printed columns, and saving a PDF.
 

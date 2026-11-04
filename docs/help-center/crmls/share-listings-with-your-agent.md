@@ -1,0 +1,63 @@
+---
+intercom_id: "18232061"
+content_id: "23615213"
+title: "Share Listings with Your Agent"
+description: "Send listings to your agent by email or in Messages from your search results or a Listing Detail Page to ask questions or request a showing."
+url: ""
+help_center: crmls
+help_center_id: 4767477
+collection: "Client Experience"
+collection_ids: [19802003]
+collections: ["Client Experience"]
+state: draft
+author_id: 8314814
+created_at: 2026-11-04T17:58:03Z
+updated_at: 2026-11-04T17:58:03Z
+labels: []
+body_source: intercom-api
+synced_at: 2026-11-04T18:08:00Z
+---
+
+# Share Listings with Your Agent
+
+Use this article, as an invited client, to email listings to your agent or share them in your conversation in Messages.
+
+# Share listings with your agent by email
+
+Share listings with your agent by email from the Share window. Open it from where you are viewing the listings:
+- Search results: Click Results on the Search page, then select the checkbox next to each listing you want to share. Click Actions, then select Share.
+- Listing Detail Page: Click Actions in the upper right, then select Share via email.
+
+The Share window opens on the Email tab.
+
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750564/1031a0374b76f358b6d59bfce9c3/upload_5718333669130804291.png)
+
+## Steps:
+1. Select your agent in the To field
+2. Enter a subject in the Subject field
+3. Click Email
+
+Your agent receives an email with the listings. To email someone other than your agent, enter their email address in the To field.
+
+The Share window also includes these options:
+- CC: Select recipients to copy on the email.
+- BCC: Select recipients to copy without the other recipients seeing them.
+
+# Share listings with your agent in Messages
+
+Share listings with your agent in Messages, your Perchwell conversation with them. Start from where you are viewing the listings:
+- Search results: Click Results on the Search page, then select the checkbox next to each listing you want to share. Click Actions, then select Share via Message.
+- Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
+- Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
+
+A separate window opens with a Search contacts field.
+
+## Steps:
+1. Select your agent
+2. Click Share
+3. Enter a message in the Include a message field
+4. Click Send
+
+The listings appear in Shared properties in your conversation, and your agent receives an email.
+
+[Communicate with Your Agent in Perchwell](http://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) explains how to chat with your agent and react to the listings they share with you.

@@ -26,7 +26,9 @@ The mapping `/port-to-intercom` uses. Every rule here was read off the HTML Inte
 | `![alt](url)` or `<image>` with a caption | `<div class="intercom-container"><img src="url"></div>`, with the caption and alt text dropped |
 | `<video src="https://www.loom.com/share/ID"></video>` | `<div class="intercom-h2b-video"><iframe src="https://www.loom.com/embed/ID" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay; fullscreen; picture-in-picture; encrypted-media"></iframe></div>` |
 | `> **Note:** text`, `> **Important:** text`, `> **Tip:** text` | A callout. See Callouts below; the color depends on the label. |
-| `![Baldwin \| Alt text: alt](url)` or `![CRMLS \| Alt text: alt](url)` | The same `<img>` with no caption or alt text, when the label matches the target help center. Omit it when the label names the other MLS. See step 5 of `SKILL.md`. |
+| `![Baldwin \| Alt text: alt](url)` or `![CRMLS \| Alt text: alt](url)` | The same `<img>` with no caption or alt text, when the label matches the target help center. Omit it when the label names the other MLS. See step 5 of `SKILL.md`. In CRMLS mode a step whose only image is Baldwin-labeled carries no image, and the omission is reported. |
+| `<video>` with a caption starting `Baldwin \|` or `CRMLS \|` | The same iframe, when the label matches the target help center. Omit it when the label names the other MLS. |
+| `<video>` with no label | The iframe, in the default flow. In CRMLS mode, only when the row's `Video Status CRMLS` is `Complete`; otherwise omit it and report it. Recordings made before November 4, 2026 are unlabeled and were shot in Baldwin. |
 | `> Screenshot placeholder: …` | Omit, and report it. A placeholder means the image does not exist yet. A placeholder labeled `(Baldwin)` or `(CRMLS)` is reported only when the label matches the target help center. |
 | `&`, `<`, `>` in text | `&amp;`, `&lt;`, `&gt;` |
 
@@ -64,6 +66,10 @@ Observed on the Universal Search Bar port, 2026-09-17. None of these is an error
 - **Links gain `target="_blank"` and `class="intercom-content-link"`.** Emit a plain `<a href>` and let Intercom decorate it.
 - **Anchor `id`s are generated.** `<h2>Steps:</h2>` comes back as `<h2 id="h_3d75a56c5c">`, and the on-page table of contents is built from them.
 
+## Arcade links
+
+An Arcade share URL (`app.arcade.software/share/ID`) becomes the embed URL `demo.arcade.software/ID?embed` inside the same `intercom-h2b-video` wrapper as a Loom. Observed on Message Clients in Perchwell (12541968) and Accept Your Agent's Perchwell Invitation (15521326).
+
 ## Loom links
 
 A Loom share URL and a Loom embed URL are different paths on the same ID. `loom.com/share/ID` must become `loom.com/embed/ID` or the iframe renders a share page instead of a player.
@@ -81,7 +87,7 @@ That is why a Notion draft's screenshots need no download, no Chrome, and no man
 3. `get_article` on that draft. The `src` values now point at `perchwell.intercom-attachments-1.com`. Strip the `?expires=…&signature=…` query; the bare path is stable and Intercom re-signs it on read.
 4. Build the real body from those URLs, so the live article never contains a URL that can expire.
 
-Reuse the CDN URL already on the live article whenever the draft points at the same image. Carry `width` and `height` over from the current body when you have them, so the layout does not shift; on a freshly re-hosted image, omit them and let Intercom size it.
+Reuse the CDN URL already on the live article whenever the draft points at the same image. In CRMLS mode the "live article" for this purpose is the Baldwin record, and the reuse applies to unlabeled images only; every `CRMLS |` image is new to Intercom and goes through the scratch draft. Carry `width` and `height` over from the current body when you have them, so the layout does not shift; on a freshly re-hosted image, omit them and let Intercom size it.
 
 The connector has no delete tool, so say in the report that the scratch draft needs deleting by hand in Intercom.
 

@@ -30,8 +30,9 @@ Nine properties an article carries, plus four production fields covered under Me
 |---|---|---|
 | `Article Name` | title | The article title, matching the title in the body exactly |
 | `Article Status` | status | `New Article Request`, `Draft`, `Ready to Transfer`, `Live in Intercom`, `Deprecated` |
-| `Intercom URL` | url | The live article's public URL, set by `/port-to-intercom` after a push. Empty until the article reaches Intercom |
-| `MLS/AOR` | select | `Baldwin`, `CRLMS All`, `NYC` |
+| `Intercom URL` | url | The live Baldwin article's public URL, set by `/port-to-intercom` after a push. Empty until the article reaches Intercom |
+| `Intercom URL CRMLS` | url | The CRMLS record's public URL under `/crmls/en/`, set by the CRMLS mode of `/port-to-intercom`. Empty until the CRMLS record exists. Added November 4, 2026 |
+| `MLS` | multi-select | `Baldwin`, `CRMLS`. Renamed from `MLS/AOR`, whose `CRLMS All` option is gone |
 | `Collection` | select | `Getting Started Guide`, `Then vs. Now`, `Dashboard`, `Search`, `Tags`, `Client Collaboration`, `Manage People`, `Manage Listings`, `Reports`, `Analytics`, `User Settings`, `Client Experience`, `FAQs`, `Mobile`, `What's New`, `Integrations` |
 | `Roles` | select | `All`, `Agent`, `Admin/Broker`, `Invited Client`, `All Except Client` |
 | `Video Included` | select | `Yes`, `No`. Whether the article contains a video |
@@ -41,7 +42,7 @@ Nine properties an article carries, plus four production fields covered under Me
 
 `Collection` and `Roles` are single selects, so an article belongs to exactly one collection and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
 
-`MLS/AOR` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Settled 2026-09-17 during the Universal Search Bar port: Intercom serves a shared article from a single record held in a collection in each help center, so there is no second article for a second row to describe. The cost is that the article's cross-links can only point into one help center; flag that at port time rather than splitting the row.
+`MLS` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Since November 4, 2026 that one row drives two Intercom records: the Baldwin one in `Intercom URL` and the CRMLS one in `Intercom URL CRMLS`, each carrying its own MLS's screenshots and videos. The copy is written once; a later edit ports twice. Earlier (2026-09-17) the one row described one shared record; `decisions.md` has both entries.
 
 ## Media fields
 
@@ -53,7 +54,7 @@ Two sets of fields, and confusing them is the mistake this section exists to pre
 - `Video Included`: the article contains a video.
 - `Media Update Needed`: the existing visuals or video have been identified as needing a refresh.
 
-**The four production fields describe the work, and live in the Help Center Production Tracker:** `Visual Owner`, `Visual Status`, `Video Owner`, `Video Status`. The tracker is a view, not a second database. It sits at `https://app.notion.com/p/3dd8b9e0143881bbbaf4ea0964bd34f9` and reads the same data source, so these are columns on the same rows, surfaced through a view built for assigning and tracking production. The tracker is the source of truth for all four; do not infer any of them from the article-level fields.
+**The production fields describe the work, and live in the Help Center Production Tracker:** `Visual Owner`, `Video Owner`, and one status per MLS: `Visual Status Baldwin`, `Visual Status CRMLS`, `Video Status Baldwin`, `Video Status CRMLS`. The CRMLS mode of `/port-to-intercom` reads `Video Status CRMLS` to decide whether an unlabeled video serves CRMLS, and reports `Visual Status CRMLS`. The tracker is a view, not a second database. It sits at `https://app.notion.com/p/3dd8b9e0143881bbbaf4ea0964bd34f9` and reads the same data source, so these are columns on the same rows, surfaced through a view built for assigning and tracking production. The tracker is the source of truth for all four; do not infer any of them from the article-level fields.
 
 **The rule:** never read `Visuals Included`, `Video Included`, or `Media Update Needed` as evidence that assigned production work is outstanding. `Media Update Needed: Yes` means someone has flagged the article's media for a refresh, and says nothing about whether that refresh has been shot, edited, or delivered. Check the Production Tracker for that.
 
@@ -68,11 +69,7 @@ Split on 2026-09-16, when the Production Tracker view was created, and the three
 
 **Adding a row to the Production Tracker.** At page creation, and whenever a teammate asks, set the Tracker ID they give or the one in the master sheet; Article Reviewer, Visual Owner, and Video Owner from the newest rows in the same collection; Article Review Status, Visual Status, and Video Status to Not Started, or Video Status to Not Needed only when the article has no video placeholder; and Article Due, Visual Due, and Video Due to the date those rows carry. Report the owners and dates as assumptions, since assignments can change.
 
-One open item for the team, flagged rather than worked around:
-
-- The `MLS/AOR` option reads `CRLMS All`. If that is meant to be CRMLS, the option needs renaming in Notion; use the string exactly as it appears until then, since a select write with an unknown option fails.
-
-`docs/standards/fin-labeling.md` derives Fin labels from Notion fields, and derives them from `MLS/AOR` and `Collection`, never from the media fields.
+`docs/standards/fin-labeling.md` derives Fin labels from Notion fields, and derives them from `MLS` and `Collection`, never from the media fields.
 
 ## Triage queries
 
@@ -81,7 +78,7 @@ Query the new database first with the Notion connector's query-data-sources tool
 By collection:
 
 ```sql
-SELECT "Article Name", "Article Status", "MLS/AOR", "Collection", "Roles", url, "Last updated"
+SELECT "Article Name", "Article Status", "MLS", "Collection", "Roles", url, "Last updated"
 FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
 WHERE "Collection" = ?
   AND "Article Status" != 'Deprecated'
@@ -91,20 +88,22 @@ ORDER BY "Last updated" DESC
 By title keyword (run once per keyword, binding `%keyword%`):
 
 ```sql
-SELECT "Article Name", "Article Status", "MLS/AOR", "Collection", url
+SELECT "Article Name", "Article Status", "MLS", "Collection", url
 FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
 WHERE "Article Name" LIKE ?
 ORDER BY "Last updated" DESC
 ```
 
-By MLS:
+By MLS (`MLS` is a multi-select, stored as a JSON array, so match with LIKE):
 
 ```sql
-SELECT "Article Name", "Article Status", "Collection", url
+SELECT "Article Name", "Article Status", "Collection", "Intercom URL", "Intercom URL CRMLS", url
 FROM "collection://3d18b9e0-1438-80cc-ab0f-000bf0fc1389"
-WHERE "MLS/AOR" = ?
+WHERE "MLS" LIKE ?
 ORDER BY "Last updated" DESC
 ```
+
+Bind `%CRMLS%` or `%Baldwin%`.
 
 The new database only holds what this project has touched, so an article that exists in the live help center may have no row yet. When a keyword search comes back empty, check the mirror in `docs/help-center/`, then the old Master Article List for the article's history:
 
@@ -125,7 +124,7 @@ That query is for reading only. When an article with an old row needs work, crea
 |---|---|---|
 | `Resource Title` | `Article Name` | Retitle per the naming standard when the old title is a bare noun; the user picks between the proposed task-led title and the old one, and the report records both |
 | `Collection in Intercom` (multi-select) | `Collection` (single select) | Same-name matches carry across: Search, Tags, Client Collaboration, Manage People, Dashboard, Reports, Analytics, User Settings, Client Experience, Mobile, Integrations, Getting Started Guide, Then vs. Now. Listing Maintenance and Listing Management map to Manage Listings. General, FAQ Tips and What's New in Perchwell, and FAQs & What's Coming map to FAQs when the article is question-and-answer and to What's New when it is release content. An `<Area> / FAQs` sub-collection in Intercom is not the `FAQs` option: FAQs nests inside a parent collection on the help center home page, so the row takes its parent area, and `FAQs` is for the top-level FAQs & Cheat Sheets collection. Confirmed September 22, 2026 from the Baldwin Dashboard collection page. Anything else, or more than one value on the old row, is a question |
-| `MLS` (multi-select) | `MLS/AOR` (single select) | Baldwin to Baldwin; CRMLS to `CRLMS All`, written exactly as the option reads until it is renamed; NYC to NYC. All Regions, ICAAR, or more than one value is a question. When the same `intercom_id` is mirrored in both `docs/help-center/baldwin/` and `docs/help-center/crmls/`, the article is shared: pick the MLS the old row names and put the shared status in Open items |
+| `MLS` (multi-select) | `MLS` (multi-select) | Baldwin to Baldwin; CRMLS to CRMLS; both when the old row names both or when the same `intercom_id` is mirrored in both `docs/help-center/baldwin/` and `docs/help-center/crmls/`. NYC, All Regions, or ICAAR is a question, since the new field has no option for them |
 | `Roles` (multi-select) | `Roles` (single select) | All to All; Agent to Agent; Admin / Broker to Admin/Broker; Invited client to Invited Client; All - but client to All Except Client. More than one value is a question |
 | `Video` status, `Video Links`, a Loom or Arcade URL in the body | `Video Included` | Yes when a video URL exists or the draft carries a video placeholder; otherwise No. This records what the article contains, never whether the video is finished |
 | `Screenshot` status, images in the body | `Visuals Included` | Yes when the article has images or the draft carries screenshot placeholders; otherwise No. Same rule: contents, not progress |
@@ -151,7 +150,7 @@ Confirm once with the user before writing: a compact summary of the page and its
 ```
 Creating 1 Draft in the Perchwell Help Center Database [Sep 2026]:
 - Create a Market Conditions Addendum Report (1004MC)
-  Article Status: Draft | MLS/AOR: Baldwin | Collection: Reports
+  Article Status: Draft | MLS: Baldwin | Collection: Reports
   Roles: All Except Client | Video Included: No | Visuals Included: Yes
 Go?
 ```
@@ -165,7 +164,7 @@ Call shape:
     "properties": {
       "Article Name": "<title>",
       "Article Status": "Draft",
-      "MLS/AOR": "Baldwin",
+      "MLS": ["Baldwin"],
       "Collection": "<collection>",
       "Roles": "<role>",
       "Video Included": "<Yes or No>",
@@ -186,7 +185,7 @@ If the user names a target page, write the sheet there with the Notion update-pa
 
 - `Article Name`: `Help center changes: <feature> (YYYY-MM-DD)`
 - `Article Status`: `Draft`
-- `MLS/AOR` and `Collection`: from the release note's target
+- `MLS` and `Collection`: from the release note's target
 - `content`: the change sheet body
 
 Notion shape for the sheet: a one-line intro, an `##` heading per article with the Notion page mentioned via `<mention-page>`, plain bullets for edits using `->`, an `###` heading plus final-form text only for new or rewritten sections, and one `## Open items` list. No callouts or tables in the sheet.
@@ -229,7 +228,7 @@ Report the new page URL(s). What happens next:
 
 1. Peer review in Notion, by a person
 2. Move the row to `Ready to Transfer`
-3. Run `/port-to-intercom`. It converts the body, drops each image's caption and alt text, shows the diff, pushes on your confirmation, writes the changelog, sets `Article Status` to `Live in Intercom` and fills `Intercom URL`, and re-syncs the mirror
+3. Run `/port-to-intercom`. It converts the body, drops each image's caption and alt text, shows the diff, pushes on your confirmation, writes the changelog, sets `Article Status` to `Live in Intercom` and fills `Intercom URL`, and re-syncs the mirror. For a row whose `MLS` includes CRMLS, run it again as "port to CRMLS": that creates the CRMLS record with the CRMLS screenshots and fills `Intercom URL CRMLS`
 4. Set the Fin labels per `docs/standards/fin-labeling.md`, by a person. `update_article` cannot write tags
 5. Assign the MLS audience, by a person
 6. Publish in Intercom, by a person, for a new article. A port to an already-live article keeps its published state

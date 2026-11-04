@@ -102,6 +102,10 @@ def cmd_probe(args):
             arts = sorted(set(re.findall(r'/articles/(\d+)', page)))
             children = [c for c in dict.fromkeys(re.findall(r'/collections/(\d+)', page)) if c != cid and c not in seen]
             rows.setdefault(cid, {'name': name, 'owner': mls, 'parent': '', 'articles': set(), 'children': []})
+            if not rows[cid]['name']:
+                # a child row is created blank when its parent is crawled; name it 'Parent / Child' once its own page is read
+                parent = rows[cid]['parent']
+                rows[cid]['name'] = (rows[parent]['name'] + ' / ' + name) if parent and rows.get(parent, {}).get('name') else name
             rows[cid]['articles'] |= set(arts)
             for ch in children:
                 rows.setdefault(ch, {'name': '', 'owner': mls, 'parent': cid, 'articles': set(), 'children': []})

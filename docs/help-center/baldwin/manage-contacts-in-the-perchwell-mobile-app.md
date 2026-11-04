@@ -15,7 +15,7 @@ created_at: 2026-04-27T14:50:20Z
 updated_at: 2026-11-04T17:20:08Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T17:32:36Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Manage Contacts in the Perchwell Mobile App
@@ -45,7 +45,7 @@ Add a contact from the Contacts page before you share listings, searches, or rep
 
 The Contacts page opens with a Contact added message.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326593927/51820cbf2aa4dca108a2261120be/Group+90.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326593927/51820cbf2aa4dca108a2261120be/Group+90.png?expires=1793815200&signature=048c27eabd2e1b3666ca06e4fbe8395779522286b242820cf437d007d92100f5&req=diMlEMx3nohdXvMW1HO4zaNNpYmAa%2FZ8nBCrpVZFaapGnWOXf5QHGI7Hb56n%0AOGYU1gQlw%2B4G%2BlcdncI%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326593927/51820cbf2aa4dca108a2261120be/Group+90.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326593927/51820cbf2aa4dca108a2261120be/Group+90.png?expires=1793817000&signature=0ba5d5f6b3b9e939bd5cc23e85fae3df1bc948f69aabb912b56d3b1f8bd3f37a&req=diMlEMx3nohdXvMW1HO4zaNNpYmAa%2FR%2BnBCrpVZFaaowPkYZOQPWt3%2BoUkIF%0AsnQ44ZEM5l6Pjp%2BYX30%3D%0A)
 
 The Add contact window also includes these options:
 - Invite to Perchwell: Turn on to email the contact an invitation to their client portal, their workspace for collaborating with you.
@@ -54,7 +54,7 @@ The Add contact window also includes these options:
 - Phone, Company, and Title: Enter more details about the contact.
 - Additional emails: Tap Add emails to CC (carbon copy) up to 5 more addresses whenever Perchwell emails the contact.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326595333/1f1a50d0e13405d49073a25f6118/Group+87.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326595333/1f1a50d0e13405d49073a25f6118/Group+87.png?expires=1793815200&signature=a05c2c9ae3496e939d2ce204aadce72c54c6c610865291e5fab7b639bc05b99f&req=diMlEMx3mIJcWvMW1HO4zYv8WjsvU%2BxsMCmyWcjLKP1fCYS6uc6WEjB5C4UH%0AATGwLKoME5lwx8YszyQ%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326595333/1f1a50d0e13405d49073a25f6118/Group+87.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326595333/1f1a50d0e13405d49073a25f6118/Group+87.png?expires=1793817000&signature=d13d625befac6bb23ac11db9a2a787a9c95a2699fb879a4031967bd9ff7cee13&req=diMlEMx3mIJcWvMW1HO4zYv8WjsvU%2B5uMCmyWcjLKP2mpdQUbMRnnUX3et%2FM%0AJaymDs9qtSLwtfNAePw%3D%0A)
 
 # Edit and assign contact groups in the mobile app
 
@@ -69,7 +69,7 @@ Call, email, or message a contact from their Contact details, which open when yo
 - Email: Copies the contact's email address to your phone's clipboard.
 - Message: Opens Messages in Perchwell. Messages works with invited clients only.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343457/268d43a939beef56468e269af057/upload_7178348445256415751.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343457/268d43a939beef56468e269af057/upload_7178348445256415751.png?expires=1793815200&signature=0bee6b8c0d02b3e6109e6ec96ce7902af222590028159c2996f2a09fca30c74f&req=dicvE8p6noVaXvMW1HO4zfFHsiDqfyeGWx698IrUExeU2VSlFbp2Rbys%2BFEs%0Amqejc%2BtwOOy2s9inV%2BY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343457/268d43a939beef56468e269af057/upload_7178348445256415751.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343457/268d43a939beef56468e269af057/upload_7178348445256415751.png?expires=1793817000&signature=f0a62106bff5121bbf01b7aa22883a51cdf2056334f69caa2ecfd019b58bc771&req=dicvE8p6noVaXvMW1HO4zfFHsiDqfyWEWx698IrUExcM7i8vYmwli8f9C5ea%0A9zA6SVY17OBUQrpv0g0%3D%0A)
 
 [Message Clients in Perchwell](http://support.perchwell.com/baldwinhttps://support.perchwell.com/en/articles/12541968-message-clients-in-perchwell) explains how to start a conversation and share listings in Messages.
 
@@ -79,7 +79,7 @@ Review the searches and reports shared with a contact under Shared items in thei
 - Searches: Saved searches the contact is added to.
 - Reports: Reports you emailed to the contact.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343509/2f515193efda13a73f28937f5bf7/upload_2446491756569187729.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343509/2f515193efda13a73f28937f5bf7/upload_2446491756569187729.png?expires=1793815200&signature=71bfefbd390ed339d617565cf0544e72ce01473393b33dd4a8e371ac2b80521a&req=dicvE8p6noRfUPMW1HO4zYu%2F1Fx%2FH9doDWJY1oJ6HCwMWkmoShtPorVEsaZu%0AJ0WgRVMys0BQLT3UIFc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343509/2f515193efda13a73f28937f5bf7/upload_2446491756569187729.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785343509/2f515193efda13a73f28937f5bf7/upload_2446491756569187729.png?expires=1793817000&signature=2df9dd70d49be4cf519cc4abc6c8aa914808da80899693c5e95bc377751c3224&req=dicvE8p6noRfUPMW1HO4zYu%2F1Fx%2FH9VqDWJY1oJ6HCxjuZMhQvMPFr2Sgxtp%0Acp2%2B1zoEQdy0vqH5nBY%3D%0A)
 
 # Invite a contact to Perchwell from the mobile app
 

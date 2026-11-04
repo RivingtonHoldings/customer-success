@@ -12,10 +12,10 @@ collections: ["Client Collaboration / Agents"]
 state: published
 author_id: 5472692
 created_at: 2025-03-07T21:29:58Z
-updated_at: 2026-11-03T20:47:40Z
+updated_at: 2026-11-04T17:56:09Z
 labels: ["Client Contacts", "How To: Contacts"]
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:41Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Bulk Upload Contacts from a CSV File
@@ -42,7 +42,7 @@ Open the Upload Contacts window from Upload on the Contacts page. Bulk upload wo
 
 The Upload Contacts window opens.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702293/2cfc2946c9b6874f284871f57aad/upload_8315645668320994760.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702293/2cfc2946c9b6874f284871f57aad/upload_8315645668320994760.png?expires=1793764800&signature=04252b2cac7b1f3533ed7bc53b2fadd5c3b7826953559554e3d020dd9fd29475&req=dicvE85%2Bn4NWWvMW1HO4zfKNqE7ndbI9j7pWVLfl%2BnM9KzAbnXHdHgm1p0UP%0AprKaws%2Fw50B1lSJ01Ko%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702293/2cfc2946c9b6874f284871f57aad/upload_8315645668320994760.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702293/2cfc2946c9b6874f284871f57aad/upload_8315645668320994760.png?expires=1793817000&signature=f14c177a591656a8229d4e298059fd524cc56a8a8cb1160a280f31f8f5623d92&req=dicvE85%2Bn4NWWvMW1HO4zfKNqE7ocrE1j7pWTrPj80n4%2F8lh%2FcaJNapKEzJ2%0ASdA7%0A)
 
 # Download and fill in the CSV template
 
@@ -56,7 +56,7 @@ Download the CSV template from the Upload Contacts window, then add your contact
 
 Your CSV file is ready to upload in the Upload Contacts window
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702322/bdc1bbb432ba346862abb697b45a/upload_2202889507652372943.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702322/bdc1bbb432ba346862abb697b45a/upload_2202889507652372943.png?expires=1793764800&signature=295bf0164bc1b6f4dec2c785637dedb383a9c3d978988361b5fb4b7a5deffdd0&req=dicvE85%2Bn4JdW%2FMW1HO4zdfFuvV0YlNJosnABjm8P%2FC4iL4vAchrTF%2FTHOKs%0A8hN42KHiQR%2BcDiVRbhM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702322/bdc1bbb432ba346862abb697b45a/upload_2202889507652372943.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702322/bdc1bbb432ba346862abb697b45a/upload_2202889507652372943.png?expires=1793817000&signature=4f850a3247ac82ad1ed90943574fc632e8922df0ed3e4f4bceaf567173a8a53f&req=dicvE85%2Bn4JdW%2FMW1HO4zdfFuvV7ZVBBosnAHD26NsrDB%2FV5zDnj0b3KR8gT%0AmKUf%0A)
 
 ## CSV template requirements for bulk upload
 
@@ -101,4 +101,4 @@ Perchwell adds the uploaded contacts to the Contacts page.
 
 # Invite bulk uploaded contacts to Perchwell
 
-Invite bulk uploaded contacts to Perchwell after the upload finishes, from each contact's profile or all at once from the Actions menu on the Contacts page. The Upload Contacts window does not send invitations. This article walks you through sending an invitation: [Invite Clients to Perchwell](https://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell).
+Invite bulk uploaded contacts to Perchwell after the upload finishes, from each contact's profile or all at once from the Actions menu on the Contacts page. The Upload Contacts window does not send invitations. This article walks you through sending an invitation: [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell).

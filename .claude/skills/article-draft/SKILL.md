@@ -44,7 +44,7 @@ The rulebook is `docs/standards/content-standards.md`. Do not restate it here an
 
 - New article: `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<slug>.md`
 - Update change sheet: `workstreams/help-center-overhaul/outputs/drafts/YYYY-MM-DD-<feature-slug>-changes.md` (one file per release, all affected articles inside)
-- Line 3 of every file is the metadata comment: `<!-- Article Status: Draft | MLS/AOR: <Baldwin or CRLMS All> | Collection: <Collection> | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <page url> -->` (add the Notion URL after the page exists). Change sheets use the header from the change-sheet template instead.
+- Line 3 of every file is the metadata comment: `<!-- Article Status: Draft | MLS: <Baldwin, CRMLS, or both separated by a comma> | Collection: <Collection> | Roles: <Roles> | Video Included: <Yes or No> | Visuals Included: <Yes or No> | Notion: <page url> -->` (add the Notion URL after the page exists). Change sheets use the header from the change-sheet template instead.
 - Do not add drafts to the mirror index. The mirror reflects Intercom only.
 - Re-running the skill on the same feature the same day overwrites the file. A later day creates a new dated file and the report links the previous one.
 
@@ -74,4 +74,4 @@ Decision: C. New article, plus two light updates. No existing article covers the
 Open items: [confirm: exact label of the "remember stable range" checkbox] [confirm: whether the report can be exported to PDF from inside Perchwell or only via browser print]
 ```
 
-After confirmation, the new article is drafted from the workflow template, saved to `workstreams/help-center-overhaul/outputs/drafts/2026-08-14-create-a-market-conditions-addendum-report.md`, and created in the Perchwell Help Center Database [Sep 2026] as a Draft with Collection `Reports`, MLS/AOR `Baldwin`, Roles `All Except Client`, Visuals `Yes`, Videos `No`. The two updates go in one change sheet, `2026-08-14-market-conditions-addendum-report-changes.md`, published as a single Notion page. The report closes with the manual CS steps that remain.
+After confirmation, the new article is drafted from the workflow template, saved to `workstreams/help-center-overhaul/outputs/drafts/2026-08-14-create-a-market-conditions-addendum-report.md`, and created in the Perchwell Help Center Database [Sep 2026] as a Draft with Collection `Reports`, MLS `Baldwin`, Roles `All Except Client`, Visuals `Yes`, Videos `No`. The two updates go in one change sheet, `2026-08-14-market-conditions-addendum-report-changes.md`, published as a single Notion page. The report closes with the manual CS steps that remain.

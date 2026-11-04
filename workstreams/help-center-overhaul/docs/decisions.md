@@ -2,6 +2,20 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-11-04: A shared article becomes two Intercom records, one per help center, from one Notion row
+
+Decided by Leo. The CRMLS help center (4767477) keeps its articles, but every one of them is replaced by a record built from the Notion row, carrying the CRMLS screenshots and videos. The Baldwin record is left as it is. This supersedes the 2026-09-17 entry below, which accepted one shared record because there was no second record to write to; the CRMLS mode of `/port-to-intercom` now creates that record. The row stays one row, with a new `Intercom URL CRMLS` property for the second record, so the copy stays single-sourced in Notion and a later edit ports twice, once per help center.
+
+The rules the port follows, decided the same day:
+
+- Collections in CRMLS take Baldwin's names. A teammate restructured the CRMLS collections in Intercom on November 4; the connector has no collection tool, so the port places an article by looking the Baldwin collection's name up among the crmls-owned collections in `docs/help-center/collections.md`.
+- A CRMLS video that does not exist yet is left out, and the gap is logged. The Baldwin recording is never embedded as a stand-in. An unlabeled video counts as serving CRMLS only when the row's `Video Status CRMLS` is `Complete`.
+- A CRMLS screenshot that does not exist yet is left out, and the gap is logged. The Baldwin screenshot is never shown to CRMLS members as a stand-in.
+- What the new record replaces is retired only after a teammate publishes it: a CRMLS-only legacy record is set to draft under rung 3, one record at a time; a shared Baldwin record is removed from the CRMLS collection by a human in Intercom, because the connector's single `parent_id` would drop its other collections.
+- Pilot: the Client Experience collection, five articles (TRK-015 to TRK-019), then the other collections.
+
+Also recorded here: the Notion property `MLS/AOR` has been renamed `MLS` (multi-select: Baldwin, CRMLS) and the `CRLMS All` option is gone, which closes the open question from September 11. Per-MLS production fields exist on the row: `Visual Status Baldwin`, `Visual Status CRMLS`, `Video Status Baldwin`, `Video Status CRMLS`.
+
 ## 2026-11-03: The Baldwin batch port skips per-article confirmation, once
 
 Decided by Tara. The 71 Baldwin rows that were Ready to Transfer on November 3 (all collections except Search; the list is in `qa/2026-11-03-baldwin-port-preflight.md`) go live in one batch. Tara reviews them in Intercom afterward. One article at a time, each with a diff and a yes in chat, was too slow for 71 articles that had already passed Notion review. This is a one-time exception to rung 3 of the write rules in the root `CLAUDE.md`. The rule is unchanged for everyone else and for every later port, including re-ports of these articles.

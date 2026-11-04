@@ -12,10 +12,10 @@ collections: ["Mobile"]
 state: published
 author_id: 5472692
 created_at: 2026-04-27T14:37:39Z
-updated_at: 2026-11-03T18:39:39Z
+updated_at: 2026-11-04T17:51:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Add and Edit Listings in the Perchwell Mobile App
@@ -33,7 +33,7 @@ Find and manage listings with these controls on the Manage Listings page:
 
 Members who came from a legacy platform may know Manage Listings as Maintain Listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389881/4dc4326cc4650045309431033802/upload_15614537428900772767.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389881/4dc4326cc4650045309431033802/upload_15614537428900772767.png?expires=1793740500&signature=32ee95ccf22f7138df7fa4e1dd8b89e4809e681c0d794c6f548c86a99588787d&req=dicvE8p2lIlXWPMW1HO4zZlkgm0njU7x%2BNoS7C01jxRql3ccuzS2n9s%2BFMjj%0A9qKGlXw5Hcqf3Ck1LCQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389881/4dc4326cc4650045309431033802/upload_15614537428900772767.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389881/4dc4326cc4650045309431033802/upload_15614537428900772767.png?expires=1793817000&signature=be7e1c46d6aebeb19e7aca69a2f8c2818e111373c350ed91024deb362b564404&req=dicvE8p2lIlXWPMW1HO4zZlkgm0oiEn0%2BNoS7C01jxR76DAA1wHJP2mRg0Em%0ALS34kpoyzfxpUL8a42A%3D%0A)
 
 # Add a new listing in the mobile app
 
@@ -60,7 +60,7 @@ To search by tax ID or PPIN (Parcel/Property Index Number) instead, tap Search b
 
 Members who came from a legacy platform may know Autofill as CRS Tax Autofill.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389936/2f34804664d6432d532f359e77e6/upload_5549701160523533124.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389936/2f34804664d6432d532f359e77e6/upload_5549701160523533124.png?expires=1793740500&signature=c5331594a51f9bb702994ca9894b474bd6eb2fbb79be9952cb228092c728b621&req=dicvE8p2lIhcX%2FMW1HO4zQQhs7gWMy%2BwwBfFfIVz9QFylH2%2BmSx92i2D9emQ%0AQQY6g2ik9BZl%2BoRLBrk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389936/2f34804664d6432d532f359e77e6/upload_5549701160523533124.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389936/2f34804664d6432d532f359e77e6/upload_5549701160523533124.png?expires=1793817000&signature=5f98d3dd5ecd19f8f9d0a307cbee5882367875bb240f6b56c654b6a29805cc50&req=dicvE8p2lIhcX%2FMW1HO4zQQhs7gZNii1wBfFfIVz9QEazWJ8r%2FaX6aM8HJ8I%0AWGcsviAbeDiDrwhSbEg%3D%0A)
 
 # Complete required fields in the mobile app
 
@@ -77,9 +77,9 @@ Write remarks, set syndication, and attach documents in the mobile app the same 
 - Syndication Settings: Choose where the listing is published online.
 - Documents: Attach files such as an authorization form or marketing materials. Each file can be up to 50 MB.
 
-[AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe) explains how to set the length, tone, and focus of the remarks. [Add and Edit Listings](https://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) describes each syndication setting and where to add a virtual tour link.
+[Write a Listing Description with AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe) explains how to set the length, tone, and focus of the remarks. [Add and Edit Listings](https://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) describes each syndication setting and where to add a virtual tour link.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389975/b1c5a375247d635a92455e6d7cb9/upload_7978018576107629177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389975/b1c5a375247d635a92455e6d7cb9/upload_7978018576107629177.png?expires=1793740500&signature=49efd545a1556c1ef82cfb28b2ec8afc59e5d9e831b962ed76bcbfb8e8769222&req=dicvE8p2lIhYXPMW1HO4zZHE%2BxIivAQ6PbnmDr1n43pkJUa2iK2M%2FEHN4aAO%0AvNRwdv6Qqci3fEy7fxU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389975/b1c5a375247d635a92455e6d7cb9/upload_7978018576107629177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785389975/b1c5a375247d635a92455e6d7cb9/upload_7978018576107629177.png?expires=1793817000&signature=37e0c53ad0b6ac9bab7b207cfaeae2ab7b79cc92d3cb6eef16c0e30cd645b29a&req=dicvE8p2lIhYXPMW1HO4zZHE%2BxItuQM%2FPbnmDr1n43qsWCxTOaL%2BkFKTNsD4%0AHgoQYn3u7f54mIZdyJY%3D%0A)
 
 # Add, reorder, and delete listing photos in the mobile app
 
@@ -89,7 +89,7 @@ Arrange the photos with the controls above each one:
 - Up and down arrows: Move the photo one position earlier or later in the order with each tap. Photos cannot be dragged into place in the mobile app.
 - Trash icon: Delete the photo from the listing.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785390002/23c22989e57dee279f9f781a804b/upload_11420280660818108394.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785390002/23c22989e57dee279f9f781a804b/upload_11420280660818108394.png?expires=1793740500&signature=549cfb899bdb459434980f046b51c2d6c67e03c780d2d629d1a13746f3315b9b&req=dicvE8p3nYFfW%2FMW1HO4zXLhohkYEVg8LGdHGFrPQNF3KdZfLcQRpvYWxN%2F3%0A3wXt2lrHG2h6lRLyTt4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785390002/23c22989e57dee279f9f781a804b/upload_11420280660818108394.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785390002/23c22989e57dee279f9f781a804b/upload_11420280660818108394.png?expires=1793817000&signature=6de7cfc64b02925ec62e9d6a3e55efa05d59990d89c000f5223420cfd8e0d19b&req=dicvE8p3nYFfW%2FMW1HO4zXLhohkXFF85LGdHGFrPQNG%2F6ftz56GOR6W%2BzO%2BB%0AboP7iCGMNrb2mmXDu0A%3D%0A)
 
 # Edit an existing listing in the mobile app
 

@@ -12,6 +12,18 @@ Pushes were turned on September 17, 2026. The decision is in `workstreams/help-c
 4. The collection (and section, if any) the article belongs to has been identified in the mirror, so `parent_id` and `parent_type` are known rather than guessed.
 5. An `author_id` for the pushing teammate is known. The Intercom connector does not expose an admin lookup, so this comes from an existing article's `author` field in the mirror. An update omits `author_id` and keeps the original author, so this precondition binds on new articles only.
 
+## CRMLS record of a live article (ladder rung 2, CRMLS mode)
+
+Since November 4, 2026 a Notion row with `MLS` containing CRMLS produces two Intercom records: the Baldwin one `Intercom URL` points at, and a CRMLS one in the CRMLS help center (4767477) that `Intercom URL CRMLS` points at. The CRMLS mode of `/port-to-intercom` creates and later updates the second record. Its preconditions replace number 3 above:
+
+- The row's `Article Status` is `Live in Intercom` or `Ready to Transfer`, and `Article Review Status` is `Review Finished` or `Complete`. A CRMLS create normally happens from a row that is already live in Baldwin; that is not an overwrite, because it writes a different record.
+- `Intercom URL CRMLS` is empty for a create and holds the CRMLS record for an update. A filled field is never overwritten by a create.
+- `docs/help-center/collections.md` has a crmls-owned collection with the same name as the Baldwin collection the live article sits in.
+
+Everything else in the two sections below applies. The Baldwin record is never written by a CRMLS port; a change to it is a separate default-mode update with its own confirmation.
+
+**Retiring what the CRMLS record replaces.** Only after a teammate publishes the CRMLS record. A CRMLS-only legacy record is set to `draft` with `update_article` carrying `id` and `state` and nothing else, under the rung 3 rules: shown, confirmed one record at a time, one changelog line each. A shared Baldwin record leaves the CRMLS collection by a human in Intercom, because `update_article` takes a single `parent_id` and would drop its other collections. Deleting a record stays human.
+
 ## New article (ladder rung 2)
 
 - Convert the approved draft to Intercom HTML with no whitespace between block tags (the tool description explains why).

@@ -12,10 +12,10 @@ collections: ["Client Collaboration / FAQs"]
 state: published
 author_id: 5472692
 created_at: 2026-05-21T04:32:46Z
-updated_at: 2026-11-03T17:26:20Z
+updated_at: 2026-11-04T17:57:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Client Collaboration FAQ
@@ -30,13 +30,13 @@ An invited client is a client you invited to Perchwell. Accepting the invitation
 - Share listings with you in Messages
 - Search for listings and save their own searches
 
-[Invite Clients to Perchwell](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to send or resend an invitation.
+[Invite Clients to Perchwell and Resend Invitations](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to send or resend an invitation.
 
 # Do clients need a Perchwell login to view listings I share?
 
 Clients do not need a Perchwell account or login to view listings you share by public link, email, Tags, or text message. To have a conversation with a client in Messages, invite them to Perchwell first. They create a password when they accept the invitation.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with clients you have not invited.
+[Share Listings with Clients from Search](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with clients you have not invited.
 
 # Is there a Perchwell mobile app for clients?
 
@@ -64,7 +64,7 @@ Yes. Edit the message in the Text tab of the Share window before you click Send 
 
 Enter up to 600 characters. A longer message may arrive as multiple texts.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers texting listings step by step.
+[Share Listings with Clients from Search](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers texting listings step by step.
 
 # Can the listing agent see or contact my clients?
 
@@ -78,7 +78,7 @@ Yes. Get written permission from the listing agent before you promote their list
 
 No. Perchwell does not notify you when a client changes the filters in a saved search you shared with them. Changes the client saves also update the saved search in your account, which means you see the client's current filters when you open it.
 
-Learn how to control what clients can edit in [Add an Invited Client to a Saved Search](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search).
+Learn how to control what clients can edit in [Share a Saved Search with a Client](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search).
 
 # Do clients still receive saved search alerts from a legacy platform?
 
@@ -92,7 +92,7 @@ To keep sending clients alerts for matching listings, turn on alerts for each Sa
 
 Yes. Add contacts from the Contacts page in the Perchwell mobile app. Turn on Invite to Perchwell while you create a contact to send them an invitation at the same time.
 
-[Contacts Page Overview- Mobile](http://support.perchwell.com/baldwin/en/articles/14785957-contacts-page-overview-mobile) explains how to add a contact in the app.
+[Manage Contacts in the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/14785957-contacts-page-overview-mobile) explains how to add a contact in the app.
 
 # Does Perchwell connect to my CRM?
 

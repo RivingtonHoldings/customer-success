@@ -20,7 +20,7 @@ Three facets. Every article carries exactly one label from each, written exactly
 | MLS: CRMLS | The article is in the CRMLS help center only |
 | MLS: Shared | The article is in both help centers through a shared collection (26 articles today) |
 
-[decide: whether the 26 shared articles should stay shared with one label, or be split into MLS-specific copies once the audit settles shared versus MLS-specific content. If split, MLS: Shared is retired.]
+Decided November 4, 2026 (Leo): shared articles are being split into MLS-specific records through the CRMLS mode of `/port-to-intercom`. Each split retires MLS: Shared on that article; the Baldwin record takes MLS: Baldwin and the new CRMLS record takes MLS: CRMLS. MLS: Shared stays only on articles not yet split.
 
 ### Facet 2: Topic
 
@@ -65,7 +65,7 @@ Conversation triage tags stay on conversations: Feedback: *, Bug: *, FIN: *, Sel
 
 ## Rule for assigning labels to a new article
 
-1. The Notion draft row in the Perchwell Help Center Database [Sep 2026] already carries `MLS/AOR` and `Collection`. The MLS and Topic labels are read from those two fields, not chosen fresh. The new database has no article-type field, so the Type label is read from the article's shape: a workflow article is How-to, a `<Page> Overview` is Overview, an `<Area> FAQ` is FAQ.
+1. The Notion draft row in the Perchwell Help Center Database [Sep 2026] already carries `MLS` (multi-select: Baldwin, CRMLS) and `Collection`. The MLS and Topic labels are read from those two fields, not chosen fresh. The new database has no article-type field, so the Type label is read from the article's shape: a workflow article is How-to, a `<Page> Overview` is Overview, an `<Area> FAQ` is FAQ.
 2. MLS label: `MLS` value Baldwin gives MLS: Baldwin, CRMLS gives MLS: CRMLS, both or All Regions gives MLS: Shared.
 3. Topic label: look the collection up in the Topic table above. A collection missing from the table is a signal to add a row here first, not to invent a label.
 4. Type label: How-to if the article has a Steps section, FAQ if it lives in a FAQs collection or uses question headings throughout, Overview for "<Page> Overview" titles, Reference for definitions and lists, Training for sessions and videos, Release notes for What's New.

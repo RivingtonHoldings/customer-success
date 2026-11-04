@@ -19,7 +19,7 @@ Gathering a fact is not the same as publishing it. `Roles affected` feeds the No
 | Limits (counts, dates, roles, plans) | |
 | What is saved automatically or cannot be undone | |
 | Roles affected (All, Agent, Admin/Broker, Invited Client, All Except Client) | |
-| MLS scope (Baldwin, CRLMS All, NYC) | |
+| MLS scope (Baldwin, CRMLS, or both) | |
 | Related existing features it touches | |
 | Media available (Loom, Arcade, screenshots) | |
 
@@ -29,7 +29,7 @@ Query the Perchwell Help Center Database [Sep 2026] using the SQL in `notion-pub
 
 1. By `Article Name LIKE '%<keyword>%'` for two or three keywords from the feature name and the entry point. This is the most reliable query.
 2. By `Collection` for the collection the feature belongs in.
-3. By `MLS/AOR` for the MLS in scope.
+3. By `MLS` for the MLS in scope.
 
 Exclude rows whose `Article Status` is `Deprecated` unless the release resurrects that workflow. Fetch the body of every remaining candidate.
 

@@ -1,8 +1,80 @@
 {
- "last_run": "2026-11-04T17:32:36Z",
+ "last_run": "2026-11-04T18:08:00Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13975194": {
+   "file": "contacts-page-overview.md",
+   "updated_at": 1793815162,
+   "state": "published",
+   "title": "Contacts Page Overview",
+   "content_id": "16256222",
+   "body_sha1": "2c9b3a3bfec19ebd25d098d50d306d048b2c9cf8"
+  },
+  "15201114": {
+   "file": "client-collaboration-faq.md",
+   "updated_at": 1793815026,
+   "state": "published",
+   "title": "Client Collaboration FAQ",
+   "content_id": "17971183",
+   "body_sha1": "d3e4c94a4ee48e1a530b5ec2869b614a7100f62e"
+  },
+  "10732227": {
+   "file": "bulk-upload-contacts-from-a-csv-file.md",
+   "updated_at": 1793814969,
+   "state": "published",
+   "title": "Bulk Upload Contacts from a CSV File",
+   "content_id": "11478300",
+   "body_sha1": "4b0b124a2f184a320924c84d31d9f1919504d62f"
+  },
+  "16221347": {
+   "file": "add-listings-to-a-tag.md",
+   "updated_at": 1793814792,
+   "state": "published",
+   "title": "Add Listings to a Tag",
+   "content_id": "19552103",
+   "body_sha1": "72db8503469f70e0c1f30dfaae355ebdf1002abe"
+  },
+  "13627189": {
+   "file": "add-and-edit-listings.md",
+   "updated_at": 1793814747,
+   "state": "published",
+   "title": "Add and Edit Listings",
+   "content_id": "15700488",
+   "body_sha1": "18f8c94c77edf0010423058eaaa7fc5399971749"
+  },
+  "14785355": {
+   "file": "add-and-edit-listings-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793814665,
+   "state": "published",
+   "title": "Add and Edit Listings in the Perchwell Mobile App",
+   "content_id": "17380619",
+   "body_sha1": "98695f0da2d89f9f5a48f82f75bdb79fecbf670d"
+  },
+  "13893409": {
+   "file": "add-a-hot-sheet-to-the-dashboard.md",
+   "updated_at": 1793814607,
+   "state": "published",
+   "title": "Add a Hot Sheet to the Dashboard",
+   "content_id": "16137563",
+   "body_sha1": "bc37dc9cf2c951646452bdaf15c2fe8edc121c6b"
+  },
+  "13623271": {
+   "file": "actions-menu-options-on-the-search-page.md",
+   "updated_at": 1793814543,
+   "state": "published",
+   "title": "Actions Menu Options on the Search Page",
+   "content_id": "15695301",
+   "body_sha1": "c4856e3d749ca39e17f7b6294f286a49af4fcfc8"
+  },
+  "15521326": {
+   "file": "accept-your-agent-s-perchwell-invitation.md",
+   "updated_at": 1793814440,
+   "state": "published",
+   "title": "Accept Your Agent's Perchwell Invitation",
+   "content_id": "18497092",
+   "body_sha1": "8174a46160c876be1f77180d5cac5d8976d81a5a"
+  },
   "14459773": {
    "file": "listing-field-changes-in-perchwell.md",
    "updated_at": 1793813338,
@@ -17,7 +89,7 @@
    "state": "published",
    "title": "Tags Page Overview",
    "content_id": "16914937",
-   "body_sha1": "fc6b1e695de1e85056b7025e31c02d2551dbe610"
+   "body_sha1": "de20e0d6af89219e9eae7f0da7944eebf56c318f"
   },
   "16221382": {
    "file": "link-a-saved-search-to-a-tag.md",
@@ -25,7 +97,7 @@
    "state": "published",
    "title": "Link a Saved Search to a Tag",
    "content_id": "19552161",
-   "body_sha1": "d8664e6560a5fda1fd6556708f4bf23ad799a314"
+   "body_sha1": "3c2f0c4415400527025388d85bcfe2c6ffbe4410"
   },
   "16221240": {
    "file": "create-and-edit-a-tag.md",
@@ -33,7 +105,7 @@
    "state": "published",
    "title": "Create and Edit a Tag",
    "content_id": "19551948",
-   "body_sha1": "7bd3b0a646892324829d1346cfe1822f54d4c5c0"
+   "body_sha1": "c9fb5c2af4d2e07a6d285f9568f7b19b61830ec8"
   },
   "14786263": {
    "file": "search-in-the-perchwell-mobile-app.md",
@@ -41,7 +113,7 @@
    "state": "published",
    "title": "Search in the Perchwell Mobile App",
    "content_id": "17381674",
-   "body_sha1": "6ea064c3a886b3121c6d2b262c75978dc4e7fe15"
+   "body_sha1": "eb4d195b26e02b2d1f7cb00b578b628f086dbe1a"
   },
   "14784837": {
    "file": "listing-detail-page-in-the-perchwell-mobile-app.md",
@@ -49,7 +121,7 @@
    "state": "published",
    "title": "Listing Detail Page in the Perchwell Mobile App",
    "content_id": "17380040",
-   "body_sha1": "b723d55f6b5172db23e92258440d2536d4ecbbdb"
+   "body_sha1": "5b53f5267e449cc3d57eae3d7d4c13df48cbc9b1"
   },
   "14785957": {
    "file": "manage-contacts-in-the-perchwell-mobile-app.md",
@@ -57,7 +129,7 @@
    "state": "published",
    "title": "Manage Contacts in the Perchwell Mobile App",
    "content_id": "17381257",
-   "body_sha1": "14448de74ece4454be9119deb541c8a87df59bcd"
+   "body_sha1": "4c09c1e7f949698489ddad53f2acbb113b809d5c"
   },
   "14743530": {
    "file": "view-shared-saved-searches.md",
@@ -65,15 +137,7 @@
    "state": "published",
    "title": "View Shared Saved Searches",
    "content_id": "17316361",
-   "body_sha1": "244b05242cd57997b27a051e328c9c18e59f79b7"
-  },
-  "13975194": {
-   "file": "contacts-page-overview.md",
-   "updated_at": 1793810771,
-   "state": "published",
-   "title": "Contacts Page Overview",
-   "content_id": "16256222",
-   "body_sha1": "fc73a518c1b0711a47522b49b688b0bd49bf3c7c"
+   "body_sha1": "9c02d43874e03081a431a9799694b2dd2582693d"
   },
   "11373805": {
    "file": "receive-alerts-about-new-listings.md",
@@ -155,14 +219,6 @@
    "content_id": "9099068",
    "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
   },
-  "15521326": {
-   "file": "accept-your-agent-s-perchwell-invitation.md",
-   "updated_at": 1793760780,
-   "state": "published",
-   "title": "Accept Your Agent's Perchwell Invitation",
-   "content_id": "18497092",
-   "body_sha1": "58880aaa72b383d437bf4c8ecbd321edeb394424"
-  },
   "12816780": {
    "file": "create-a-one-page-report.md",
    "updated_at": 1793760448,
@@ -219,14 +275,6 @@
    "content_id": "12922702",
    "body_sha1": "172fcff863b6bb3dc83db1118f0d2c98e34a9d12"
   },
-  "13627189": {
-   "file": "add-and-edit-listings.md",
-   "updated_at": 1793755044,
-   "state": "published",
-   "title": "Add and Edit Listings",
-   "content_id": "15700488",
-   "body_sha1": "759bb5f44c5e37ff8fc9e4a3a243412ded8515ae"
-  },
   "13903171": {
    "file": "find-listings-in-the-listings-widget.md",
    "updated_at": 1793743210,
@@ -266,14 +314,6 @@
    "title": "Customize Your Dashboard",
    "content_id": "15696089",
    "body_sha1": "7f26c669bb6c0e75b07d1297c1f69161960b4b7d"
-  },
-  "13893409": {
-   "file": "add-a-hot-sheet-to-the-dashboard.md",
-   "updated_at": 1793742196,
-   "state": "published",
-   "title": "Add a Hot Sheet to the Dashboard",
-   "content_id": "16137563",
-   "body_sha1": "8978aeed288fb148eeae45f208b206bfefffcfe3"
   },
   "14790755": {
    "file": "create-and-manage-your-contacts-in-perchwell.md",
@@ -322,14 +362,6 @@
    "title": "Export Contacts to a CSV File",
    "content_id": "14593607",
    "body_sha1": "0583a4e63c142059795134e59c8a097cdbde8adf"
-  },
-  "10732227": {
-   "file": "bulk-upload-contacts-from-a-csv-file.md",
-   "updated_at": 1793738860,
-   "state": "published",
-   "title": "Bulk Upload Contacts from a CSV File",
-   "content_id": "11478300",
-   "body_sha1": "35f99905e91847cde91dc4c3d397c91225361674"
   },
   "15280170": {
    "file": "log-in-to-the-perchwell-mobile-app.md",
@@ -411,14 +443,6 @@
    "content_id": "18496654",
    "body_sha1": "74ae0f3fa04e8b5d741300383c042a92078f924f"
   },
-  "16221347": {
-   "file": "add-listings-to-a-tag.md",
-   "updated_at": 1793735757,
-   "state": "published",
-   "title": "Add Listings to a Tag",
-   "content_id": "19552103",
-   "body_sha1": "5311529952a5b76bcb500ccbce0793ffb6c36aff"
-  },
   "16221617": {
    "file": "share-a-tag-with-clients.md",
    "updated_at": 1793735607,
@@ -458,14 +482,6 @@
    "title": "Tags in the Perchwell Mobile App",
    "content_id": "17381417",
    "body_sha1": "3ab80ceefe3a1267ed84fb7514c432afa82c5e10"
-  },
-  "14785355": {
-   "file": "add-and-edit-listings-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793731179,
-   "state": "published",
-   "title": "Add and Edit Listings in the Perchwell Mobile App",
-   "content_id": "17380619",
-   "body_sha1": "663e5634cfff6cd0eb8e11a67280b4917e9b7591"
   },
   "15201164": {
    "file": "mobile-app-faq.md",
@@ -562,14 +578,6 @@
    "title": "Find and Contact Buyer's Agents with Reverse Prospecting",
    "content_id": "19515818",
    "body_sha1": "b34f9f9e68da44464edc7d226e1b3da6af5c8a77"
-  },
-  "15201114": {
-   "file": "client-collaboration-faq.md",
-   "updated_at": 1793726780,
-   "state": "published",
-   "title": "Client Collaboration FAQ",
-   "content_id": "17971183",
-   "body_sha1": "c3a4393741487aed21a517c7cd53456e742f7fd6"
   },
   "13623210": {
    "file": "analytics-page-overview.md",
@@ -722,14 +730,6 @@
    "title": "Create a Template Search",
    "content_id": "16154717",
    "body_sha1": "ccc43d0a8aaa478552b2d3c19e2ae644d07700d5"
-  },
-  "13623271": {
-   "file": "actions-menu-options-on-the-search-page.md",
-   "updated_at": 1792789323,
-   "state": "published",
-   "title": "Actions Menu Options on the Search Page",
-   "content_id": "15695301",
-   "body_sha1": "4445f75317684e0b172efd683d295cf8ca10c1cb"
   },
   "13903380": {
    "file": "create-a-search-with-filters.md",

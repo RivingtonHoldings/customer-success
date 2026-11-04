@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T17:32:36Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:08:00Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -8,7 +8,7 @@ Each file carries frontmatter with the Intercom article ID, the content ID Fin c
 
 Collection ID 17797961. 9 articles.
 
-- [Bulk Upload Contacts from a CSV File](bulk-upload-contacts-from-a-csv-file.md), updated 2026-11-03
+- [Bulk Upload Contacts from a CSV File](bulk-upload-contacts-from-a-csv-file.md), updated 2026-11-04
 - [Contacts Page Overview](contacts-page-overview.md), updated 2026-11-04
 - [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-11-03
 - [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
@@ -33,7 +33,7 @@ Collection ID 19361684. 5 articles.
 Collection ID 17797865. 6 articles.
 
 - [Access Integrations from the Dashboard or a Listing](access-integrations-from-the-dashboard-or-a-listing.md), updated 2026-11-03
-- [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-03
+- [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-04
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-03
 - [Dashboard Overview](dashboard-overview.md), updated 2026-11-03
 - [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-03
@@ -101,7 +101,7 @@ Collection ID 18306004. 3 articles.
 
 Collection ID 19615962. 6 articles.
 
-- [Add and Edit Listings in the Perchwell Mobile App](add-and-edit-listings-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Add and Edit Listings in the Perchwell Mobile App](add-and-edit-listings-in-the-perchwell-mobile-app.md), updated 2026-11-04
 - [Listing Detail Page in the Perchwell Mobile App](listing-detail-page-in-the-perchwell-mobile-app.md), updated 2026-11-04
 - [Manage Contacts in the Perchwell Mobile App](manage-contacts-in-the-perchwell-mobile-app.md), updated 2026-11-04
 - [Message Clients in the Perchwell Mobile App](message-clients-in-the-perchwell-mobile-app.md), updated 2026-11-03
@@ -137,7 +137,7 @@ Collection ID 17797980. 9 articles.
 
 Collection ID 17797953. 5 articles.
 
-- [Add Listings to a Tag](add-listings-to-a-tag.md), updated 2026-11-03
+- [Add Listings to a Tag](add-listings-to-a-tag.md), updated 2026-11-04
 - [Create and Edit a Tag](create-and-edit-a-tag.md), updated 2026-11-04
 - [Link a Saved Search to a Tag](link-a-saved-search-to-a-tag.md), updated 2026-11-04
 - [Share a Tag with Clients](share-a-tag-with-clients.md), updated 2026-11-03
@@ -175,17 +175,32 @@ Collection ID 19652175. 5 articles.
 - [May Features](may-features.md), updated 2026-07-02
 - [September Features](september-features.md) (draft), updated 2026-10-02
 
-## Collection 19644346 (under Dashboard)
+## Dashboard / FAQs (under Dashboard)
 
 Collection ID 19644346. 1 articles.
 
 - [Dashboard FAQ](dashboard-faq.md), updated 2026-11-03
 
-## Collection 17797941 (under Search)
+## Search / FAQs (under Search)
+
+Collection ID 19642611. 1 articles.
+
+- [Search FAQ](search-faq.md), updated 2026-11-02
+
+## Search / Filters (under Search)
+
+Collection ID 17797942. 4 articles.
+
+- [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
+- [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-10-23
+- [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-10-23
+
+## Search / Search (under Search)
 
 Collection ID 17797941. 14 articles.
 
-- [Actions Menu Options on the Search Page](actions-menu-options-on-the-search-page.md), updated 2026-10-23
+- [Actions Menu Options on the Search Page](actions-menu-options-on-the-search-page.md), updated 2026-11-04
 - [Create a Search with Filters](create-a-search-with-filters.md), updated 2026-10-23
 - [Create a Template Search](create-a-template-search.md), updated 2026-10-23
 - [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
@@ -200,72 +215,57 @@ Collection ID 17797941. 14 articles.
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
 - [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
 
-## Collection 17797942 (under Search)
-
-Collection ID 17797942. 4 articles.
-
-- [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
-- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
-- [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-10-23
-- [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-10-23
-
-## Collection 19642611 (under Search)
-
-Collection ID 19642611. 1 articles.
-
-- [Search FAQ](search-faq.md), updated 2026-11-02
-
-## Collection 19642616 (under Listing Maintenance)
+## Listing Maintenance / FAQs (under Listing Maintenance)
 
 Collection ID 19642616. 2 articles.
 
 - [Listing Detail Page FAQ](listing-detail-page-faq.md), updated 2026-11-03
 - [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-11-03
 
-## Collection 19644367 (under Tags)
+## Tags / FAQs (under Tags)
 
 Collection ID 19644367. 1 articles.
 
 - [Tags FAQ](tags-faq.md), updated 2026-11-04
 
-## Collection 19642645 (under Client Collaboration)
+## Client Collaboration / FAQs (under Client Collaboration)
 
 Collection ID 19642645. 1 articles.
 
-- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-11-03
+- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-11-04
 
-## Collection 19642643 (under Reports)
+## Reports / FAQ (under Reports)
 
 Collection ID 19642643. 1 articles.
 
 - [Reports FAQ](reports-faq.md), updated 2026-11-03
 
-## Collection 19585615 (under Analytics)
+## Analytics / Analytics Tools (under Analytics)
 
 Collection ID 19585615. 2 articles.
 
 - [Analytics Page Overview](analytics-page-overview.md), updated 2026-11-03
 - [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-10-08
 
-## Collection 19642621 (under Analytics)
+## Analytics / FAQs (under Analytics)
 
 Collection ID 19642621. 1 articles.
 
 - [Analytics FAQ](analytics-faq.md), updated 2026-11-03
 
-## Collection 19642626 (under Manage People)
+## Manage People / FAQs (under Manage People)
 
 Collection ID 19642626. 1 articles.
 
 - [Manage People FAQ](manage-people-faq.md), updated 2026-11-03
 
-## Collection 19648857 (under User Settings)
+## User Settings / Log In to Perchwell (under User Settings)
 
 Collection ID 19648857. 1 articles.
 
 - [Log In to the Perchwell Mobile App](log-in-to-the-perchwell-mobile-app.md), updated 2026-11-03
 
-## Collection 19642648 (under Mobile)
+## Mobile / FAQs (under Mobile)
 
 Collection ID 19642648. 1 articles.
 

@@ -15,7 +15,7 @@ created_at: 2026-04-27T14:22:48Z
 updated_at: 2026-11-04T17:21:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T17:32:36Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Listing Detail Page in the Perchwell Mobile App
@@ -28,7 +28,7 @@ Use this article to review a listing's details and photos, contact the listing a
 
 Review a listing's photos, asking price, association fee, DOM (days on market), and CDOM (cumulative days on market) at the top of the Listing Detail Page in the mobile app. Tap any photo to open the photo gallery.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793815200&signature=6743d9b734e5dae0ed59ef23f7cfa242ea598be7a1e8b7785f9986c6e036c2d1&req=diMlEMx4mYNbWfMW1HO4zVZXojgJ0tzWleWqur8nZSzWAtnN00V%2Bz%2FkcG5rT%0AdzdVSt%2B60t2sHID6Gx4%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793817000&signature=ea9444e5c68bd7444f0567aa6ca179cd638805c10386a70b0838f229a2ef50ae&req=diMlEMx4mYNbWfMW1HO4zVZXojgJ0t7UleWqur8nZSxpduzH7xhbzqf5XqI%2B%0ACiHxKZOkByNWRb3liZI%3D%0A)
 
 Below the summary, the listing's details are grouped into sections. Tap a section's name to expand or collapse it. The sections are:
 - Description
@@ -63,7 +63,7 @@ The Actions tab of the three-dots menu holds nine options:
 - Create Report: Create a CMA, Extended CMA, Listing Report, Show Sheet, or Media Report for the listing.
 - Auto CMA: Open a search for comparable listings, with this listing as the subject property of a CMA (Comparative Market Analysis).
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793815200&signature=f0a6ef081921f74f128e26686ff2e5a07e819681f99bf76b721de00596a9ea73&req=diMlEMx4m4FdWvMW1HO4za74%2BkRz8fOeV5Ys96knvt460aYVQCVbBpleE0hS%0AwZHuN5l13UdUjP%2FfhVk%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793817000&signature=c35ae6b6ca4379bfe174da984907a9c4d2d38effa586eaac9dcfcf545cef0ae4&req=diMlEMx4m4FdWvMW1HO4za74%2BkRz8fGcV5Ys96knvt74Wqmi3EhxgPoBNmeR%0A5In8JMrG3EpFcJKEAQA%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](http://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how clients receive listings in Messages.
@@ -80,7 +80,7 @@ Tap Integrations in the three-dots menu, then tap a tool to open it for the list
 - InfoSparks: View market statistics and charts.
 - CRS tools: Open CRS Comparables, CRS Demographic, CRS Listing Integrity, CRS Parcel Map, or CRS Property Report.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793815200&signature=510d3b69718dc81ebca344e22a4e2ecb987077d688ba1d17438db4e82880a717&req=diMlEMx4modbWvMW1HO4zTTkULQTlYFm976mR%2BXRok64QEmb%2BqxLM%2BFo0HEa%0AvukZ117bMXPM4MdC0XU%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793817000&signature=050e5605f1ff6012abd04d1500f2e89ba711e2217f75535808bd55d75db02ecd&req=diMlEMx4modbWvMW1HO4zTTkULQTlYNk976mR%2BXRok5TDk3ERZAgsyAnxXix%0AlRvUPRKSNDaiU5Ji18Y%3D%0A)
 
 ## Edit a listing from the Admin tab
 

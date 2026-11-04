@@ -1,8 +1,104 @@
 {
- "last_run": "2026-11-04T17:32:36Z",
+ "last_run": "2026-11-04T18:08:00Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18232061": {
+   "file": "share-listings-with-your-agent.md",
+   "updated_at": 1793815083,
+   "state": "draft",
+   "title": "Share Listings with Your Agent",
+   "content_id": "23615213",
+   "body_sha1": "f27d395b4eab4878630dd4ac7422a3d61ab240ff"
+  },
+  "10732227": {
+   "file": "bulk-upload-contacts-from-a-csv-file.md",
+   "updated_at": 1793814969,
+   "state": "published",
+   "title": "Bulk Upload Contacts from a CSV File",
+   "content_id": "11478300",
+   "body_sha1": "4b0b124a2f184a320924c84d31d9f1919504d62f"
+  },
+  "18231970": {
+   "file": "receive-alerts-about-new-listings.md",
+   "updated_at": 1793814957,
+   "state": "draft",
+   "title": "Receive Alerts About New Listings",
+   "content_id": "23615116",
+   "body_sha1": "64931433c56021da793d37ee0e13469950f87833"
+  },
+  "18231941": {
+   "file": "communicate-with-your-agent-via-messages-in-perchwell.md",
+   "updated_at": 1793814892,
+   "state": "draft",
+   "title": "Communicate with Your Agent via Messages in Perchwell",
+   "content_id": "23615083",
+   "body_sha1": "dc72a26c731bed9cf2cb4c736be8a6871e6175a7"
+  },
+  "18231917": {
+   "file": "accept-your-agent-s-perchwell-invitation-18231917.md",
+   "updated_at": 1793814811,
+   "state": "draft",
+   "title": "Accept Your Agent's Perchwell Invitation",
+   "content_id": "23615056",
+   "body_sha1": "b04e5f0dc158e887a1dc01e8f7faff85691d0d0c"
+  },
+  "18231908": {
+   "file": "listing-field-changes-in-perchwell.md",
+   "updated_at": 1793814672,
+   "state": "published",
+   "title": "Listing Field Changes in Perchwell",
+   "content_id": "23615043",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231729": {
+   "file": "perchwell-quick-start-training-workshop.md",
+   "updated_at": 1793814260,
+   "state": "published",
+   "title": "Perchwell Quick Start Training & Workshop",
+   "content_id": "23614834",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231715": {
+   "file": "search-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793814223,
+   "state": "published",
+   "title": "Search in the Perchwell Mobile App",
+   "content_id": "23614817",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231693": {
+   "file": "common-perchwell-faqs.md",
+   "updated_at": 1793814186,
+   "state": "published",
+   "title": "Common Perchwell FAQs",
+   "content_id": "23614786",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231676": {
+   "file": "update-your-brokerage-logo-and-colors.md",
+   "updated_at": 1793814143,
+   "state": "published",
+   "title": "Update Your Brokerage Logo and Colors",
+   "content_id": "23614769",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231652": {
+   "file": "masquerade-an-agent-s-account.md",
+   "updated_at": 1793814100,
+   "state": "published",
+   "title": "Masquerade an Agent's Account",
+   "content_id": "23614728",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
+  "18231637": {
+   "file": "share-listings-with-your-agent-18231637.md",
+   "updated_at": 1793814033,
+   "state": "published",
+   "title": "Share Listings With Your Agent",
+   "content_id": "23614692",
+   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
+  },
   "12881759": {
    "file": "perchwell-transfer-guide-searches-contacts-more.md",
    "updated_at": 1782959927,
@@ -98,14 +194,6 @@
    "title": "Export Contacts to a CSV File",
    "content_id": "14593607",
    "body_sha1": "0583a4e63c142059795134e59c8a097cdbde8adf"
-  },
-  "10732227": {
-   "file": "bulk-upload-contacts-from-a-csv-file.md",
-   "updated_at": 1793738860,
-   "state": "published",
-   "title": "Bulk Upload Contacts from a CSV File",
-   "content_id": "11478300",
-   "body_sha1": "35f99905e91847cde91dc4c3d397c91225361674"
   },
   "11002620": {
    "file": "universal-search-bar.md",

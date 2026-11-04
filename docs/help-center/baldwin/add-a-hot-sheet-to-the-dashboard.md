@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: published
 author_id: 5472692
 created_at: 2026-02-27T23:29:53Z
-updated_at: 2026-11-03T21:43:16Z
+updated_at: 2026-11-04T17:50:07Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T18:08:00Z
 ---
 
 # Add a Hot Sheet to the Dashboard
@@ -42,7 +42,7 @@ Add a Hot Sheets widget to the Dashboard from Manage widgets, in the top right c
 2. Click Manage widgets in the top right corner
 3. Click Add hot sheet
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785803030/b69a05e9b26f673f736a58f7a50d/upload_9082310993311612838.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785803030/b69a05e9b26f673f736a58f7a50d/upload_9082310993311612838.png?expires=1793764800&signature=acfe5c298019f6f0f8c2ad562542c280b48a3b1aaa7f1f89b12ef65a172bad8b&req=dicvE8F%2BnoFcWfMW1HO4zdudBmvuDael0NTdJdORzBixSEHdjaxq0gyHm24l%0A1EIde13fuRnG1J5DGbU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785803030/b69a05e9b26f673f736a58f7a50d/upload_9082310993311612838.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785803030/b69a05e9b26f673f736a58f7a50d/upload_9082310993311612838.png?expires=1793817000&signature=34b0a78e9b7665e89f0dd1cfb1dcad0370715d9997a49483e48743ca47635e8e&req=dicvE8F%2BnoFcWfMW1HO4zdudBmvhCqSt0NTdJdORzBhNWNhLkSVcMTnwOZ1k%0AfrDYpPImPwP2mjlcciY%3D%0A)
 
 The new Hot Sheets widget is added to the Dashboard and opens on a choice of two: From saved search, or New hot sheet.
 
@@ -65,7 +65,7 @@ The Hot Sheet fills in on the Dashboard with listing activity from that Saved Se
 
 > **Tip:** A more specific Saved Search makes a more useful Hot Sheet.
 
-Learn how to build a search in [Create a Search with Filters in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell), and how to edit and manage it in [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches).
+Learn how to build a search in [Create a Search with Filters](http://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell), and how to edit and manage it in [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches).
 
 # Set up a quick hot sheet
 
