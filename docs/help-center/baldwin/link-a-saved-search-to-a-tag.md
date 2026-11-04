@@ -12,15 +12,17 @@ collections: ["Tags"]
 state: published
 author_id: 5472692
 created_at: 2026-08-05T18:00:48Z
-updated_at: 2026-11-03T19:51:21Z
+updated_at: 2026-11-04T17:26:44Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T17:32:36Z
 ---
 
 # Link a Saved Search to a Tag
 
 Use this article to link saved searches to a Tag, keep specific listings in the Tag, and unlink a saved search. A Tag groups listings in one place and has its own public link. Members who came from a legacy platform may know Tags as Listing Carts.
+
+[Embedded video](https://www.loom.com/embed/ac5b7a3c722f4cd88ef0e26bbf758bb8)
 
 # Link saved searches to a new or existing Tag
 
@@ -36,7 +38,7 @@ Save a search first, then link it to a new or existing Tag from the Tags page. T
 5. Click Add again
 6. Click Create for a new Tag, or Save for an existing Tag
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793740500&signature=da60b730625b1928270c1a7c4e5fb5f3f18030f9b586e8380040e24d7cc6afa5&req=dicvE8x3mYRXXPMW1HO4zecmShOXvu%2FmdszBoAtRmRCLXZQ9dkzW4Kmm%2FiX7%0AbiIFPBGMfumcM%2FBxpRM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793815200&signature=43bdbdce9b29eb5aedaa6a860942368497f1a5fff07d1ec30fbef42965bd6599&req=dicvE8x3mYRXXPMW1HO4zecmShOYu%2BrhdszBug9XkCrtefhJw1S%2BOhIgGm6J%0AFVVo%0A)
 
 The Tag includes the listings from each linked saved search right away.
 
@@ -56,7 +58,7 @@ Check the label under each listing on the Tag's public page to see whether it ca
 
 In the Edit Tag window, click Edit next to Listings and notes. Listings added individually appear under Added by you, and listings from each saved search are grouped under the search's name.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793740500&signature=d2520e89d9a2f1e827bc2e791e7b58121d8d708700627c6057e91258ed6bc5c9&req=dicvE8x3mYddWfMW1HO4zel9BvSFNtCm6fCFdKqEl0DhFdwHH%2FmEGakmczJS%0Axi35dm9ctmz4k4MCOc0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793815200&signature=c48dd697a99739d0c1aa506390aa0cce310eb636113c33b50d016fbf78325ce0&req=dicvE8x3mYddWfMW1HO4zel9BvSKM9Wh6fCFbq6CnnqSBXBolcPtSIPmgtt9%0Aa8HM%0A)
 
 # Remove one saved search listing from a Tag
 
@@ -73,6 +75,6 @@ Unlink a saved search in the Edit Tag window to remove listings added from that 
 2. Click the x next to the saved search's name under Saved searches
 3. Click Save
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793740500&signature=5e50464ba9a2865b91837c3d7caf649d86dbb46ae3fa9983ddc7eb420e4a4b87&req=dicvE8x3mYdaWvMW1HO4zRWgnsdyIhWhSn2QLbRrC%2FfHHvquqYD7Hdf1tE%2F6%0A0mRyaBWy6z4pWi2B1SE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793815200&signature=4531a6f1487f2e0e0e0fd1a6b8541c3856351f5493e21a4203ea2dc79c156f2d&req=dicvE8x3mYdaWvMW1HO4zRWgnsd9JxCmSn2QN7BtAs1pxjn0K84t5aGQZcBs%0AVcXT%0A)
 
 A "Tag updated." message appears, and listings added from the saved search are removed from the Tag. Listings a contact liked or disliked remain.

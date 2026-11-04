@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T15:49:46Z. Articles: 85 (71 published, 14 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T17:32:36Z. Articles: 81 (68 published, 13 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -19,7 +19,7 @@ Collection ID 16866981. 1 articles.
 
 - [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
 
-## Critical Workflows
+## Collection 17037737
 
 Collection ID 17037737. 7 articles.
 
@@ -49,6 +49,12 @@ Collection ID 16867037. 2 articles.
 
 - [Frequently Asked Questions](frequently-asked-questions.md), updated 2026-07-02
 - [What's New in Perchwell | CRMLS 🚀](what-s-new-in-perchwell-crmls.md), updated 2026-07-02
+
+## Getting Started Guide
+
+Collection ID 19802001. 1 articles.
+
+- [Perchwell Transfer Guide: Searches, Contacts & More](perchwell-transfer-guide-searches-contacts-more.md), updated 2026-07-02
 
 ## Listings
 
@@ -95,32 +101,7 @@ Collection ID 16867017. 3 articles.
 - [Perchwell Essentials: Perfecting the CMA](perchwell-essentials-perfecting-the-cma.md), updated 2026-07-02
 - [Perchwell Essentials: Unlocking Search](perchwell-essentials-unlocking-search.md), updated 2026-07-02
 
-## Welcome to Perchwell
-
-Collection ID 16808724. 1 articles.
-
-- [Create Email Templates](create-email-templates.md) (draft), updated 2026-07-02
-
-## Welcome to Perchwell / From Legacy to Perchwell: Getting Started after Migrations (under Welcome to Perchwell)
-
-Collection ID 16869046. 1 articles.
-
-- [Perchwell Transfer Guide: Searches, Contacts & More](perchwell-transfer-guide-searches-contacts-more.md), updated 2026-07-02
-
-## Search / Filters (under Search)
-
-Collection ID 16866944. 8 articles.
-
-- [Create Custom Boundaries with the Draw Filter](create-custom-boundaries-with-the-draw-filter.md), updated 2026-07-02
-- [Creating a Search with Filters in Perchwell](creating-a-search-with-filters-in-perchwell.md), updated 2026-07-02
-- [Enhancing Your Search with Filters](enhancing-your-search-with-filters.md), updated 2026-07-02
-- [Filter Your Search by Commute](filter-your-search-by-commute.md), updated 2026-07-02
-- [Filter Your Search by Keywords](filter-your-search-by-keywords.md), updated 2026-07-02
-- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
-- [Filtering your Search by Property Types](filtering-your-search-by-property-types.md), updated 2026-07-02
-- [Using the Draw Filter](using-the-draw-filter.md) (draft), updated 2026-07-02
-
-## Search / Search (under Search)
+## Collection 16866865 (under Search)
 
 Collection ID 16866865. 15 articles.
 
@@ -140,7 +121,20 @@ Collection ID 16866865. 15 articles.
 - [Using Searchwell](using-searchwell.md), updated 2026-07-02
 - [Using the Map on the Search Page](using-the-map-on-the-search-page.md), updated 2026-07-02
 
-## Client Collaboration / Agents (under Client Collaboration)
+## Collection 16866944 (under Search)
+
+Collection ID 16866944. 8 articles.
+
+- [Create Custom Boundaries with the Draw Filter](create-custom-boundaries-with-the-draw-filter.md), updated 2026-07-02
+- [Creating a Search with Filters in Perchwell](creating-a-search-with-filters-in-perchwell.md), updated 2026-07-02
+- [Enhancing Your Search with Filters](enhancing-your-search-with-filters.md), updated 2026-07-02
+- [Filter Your Search by Commute](filter-your-search-by-commute.md), updated 2026-07-02
+- [Filter Your Search by Keywords](filter-your-search-by-keywords.md), updated 2026-07-02
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
+- [Filtering your Search by Property Types](filtering-your-search-by-property-types.md), updated 2026-07-02
+- [Using the Draw Filter](using-the-draw-filter.md) (draft), updated 2026-07-02
+
+## Collection 16866993 (under Client Collaboration)
 
 Collection ID 16866993. 7 articles.
 
@@ -152,14 +146,11 @@ Collection ID 16866993. 7 articles.
 - [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-03
 - [Sharing Listings](sharing-listings.md) (draft), updated 2026-07-02
 
-## Client Collaboration / Invited Clients (under Client Collaboration)
+## Collection 16867003 (under Client Collaboration)
 
-Collection ID 16867003. 7 articles.
+Collection ID 16867003. 4 articles.
 
 - [Accept Your Agent’s Perchwell Invitation](accept-your-agent-s-perchwell-invitation.md), updated 2026-07-02
-- [Communicate with Your Agent via Messages in Perchwell](communicate-with-your-agent-via-messages-in-perchwell.md), updated 2026-11-04
 - [Engaging with Multiple Agents](engaging-with-multiple-agents.md) (draft), updated 2026-07-02
-- [Receive Alerts About New Listings](receive-alerts-about-new-listings.md), updated 2026-11-03
-- [Share Listings with Your Agent](share-listings-with-your-agent.md), updated 2026-11-04
 - [Unsubscribe from Saved Search Alert Emails](unsubscribe-from-saved-search-alert-emails.md), updated 2026-11-03
 - [View Shared Saved Searches](view-shared-saved-searches.md), updated 2026-07-02

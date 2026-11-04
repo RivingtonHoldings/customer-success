@@ -12,15 +12,17 @@ collections: ["Client Experience"]
 state: published
 author_id: 5472692
 created_at: 2026-04-23T17:51:02Z
-updated_at: 2026-11-03T17:30:14Z
+updated_at: 2026-11-04T16:48:30Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T17:32:36Z
 ---
 
 # View Shared Saved Searches
 
 Use this article, as an invited client, to open the saved searches your agent shares with you, browse the listings, sort and filter the results, and save your changes.
+
+[Embedded video](https://www.loom.com/embed/d0fff90472824038babacce977adfc8a)
 
 # Open a saved search your agent shared with you
 
@@ -32,7 +34,7 @@ Open a saved search your agent shared with you from the Search page in your clie
 
 The saved search opens with the filters your agent set. From your email, click Open saved search in the message you received when your agent added you to the search.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169166/b3eba8b5fc3107dd5fda8e02b85e/upload_18384193777411797090.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169166/b3eba8b5fc3107dd5fda8e02b85e/upload_18384193777411797090.png?expires=1793740500&signature=92fa3763ebeed595eae8b610c741b71617c56de8440729a3b3430f65ac47a74d&req=dicvE8h4lIBZX%2FMW1HO4zUxwMIPXi6pLDfKDVvOtA%2BcGhyvdiKvzjhNTIeVl%0APQ5Trq3RYaKyfvsQlts%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169166/b3eba8b5fc3107dd5fda8e02b85e/upload_18384193777411797090.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169166/b3eba8b5fc3107dd5fda8e02b85e/upload_18384193777411797090.png?expires=1793815200&signature=2017699d1c82b9e25ebc8cf492255f5bd952989f20ede0ae4c1956cd70abe0eb&req=dicvE8h4lIBZX%2FMW1HO4zUxwMIPYjq9MDfKDVvOtA%2Bd6f8ucEB0EYUFNVyAz%0A4i4BXejcGacX%2FUmGihM%3D%0A)
 
 # Browse the listings in a shared saved search
 
@@ -46,7 +48,7 @@ Preview shows the listing's photos and details. Click the arrows next to the lis
 
 [Share Listings with Your Agent](https://support.perchwell.com/baldwin/en/articles/11373849-share-listings-with-your-agent) explains how to send a listing to your agent from Preview.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169228/22fe859153fd75a5c250ced5ae7a/upload_13206054061776184869.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169228/22fe859153fd75a5c250ced5ae7a/upload_13206054061776184869.png?expires=1793740500&signature=109781acfb3616c9eef92f939f4583ca6db6e7dcfb7d7b459bf97e1636e11af1&req=dicvE8h4lINdUfMW1HO4zeqZhFIWR6DgO5%2FDvaZNDLEl77QemafSsVBwXlPm%0AvBPoZB5X%2BmBwnwQJZIM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169228/22fe859153fd75a5c250ced5ae7a/upload_13206054061776184869.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169228/22fe859153fd75a5c250ced5ae7a/upload_13206054061776184869.png?expires=1793815200&signature=cbe128ef1477c028270d71335026714268e8efd3b9540b6f1fc60124c83b36d2&req=dicvE8h4lINdUfMW1HO4zeqZhFIZQqXnO5%2FDvaZNDLGQkRvhvdiggAzSrFNb%0AlHYpQXr6lF5DEKWhk68%3D%0A)
 
 # Sort the listings in a shared saved search
 
@@ -56,7 +58,7 @@ Column headers show in List and Expanded view.
 
 To see the newest listings first, click the DOM (days on market) column header once. Listings with the lowest DOM move to the top.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169268/0aca86f7ede99101eb0d4569f51d/upload_1289277865135915358.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169268/0aca86f7ede99101eb0d4569f51d/upload_1289277865135915358.png?expires=1793740500&signature=e0f1a6f4bd533e793a1175ee7ea6f646bacfa894b44676a088540e91ca800795&req=dicvE8h4lINZUfMW1HO4zTFiefBizIw5hfDXH0TmRd92QAEEHcIfB0iqPUzl%0AkVBzeNYeOzIDJpqsWlY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169268/0aca86f7ede99101eb0d4569f51d/upload_1289277865135915358.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785169268/0aca86f7ede99101eb0d4569f51d/upload_1289277865135915358.png?expires=1793815200&signature=d7d33acb72452f7e3d0ad3cc3c0df17cbe997c2f44a3487f0b62b188fde03e63&req=dicvE8h4lINZUfMW1HO4zTFiefBtyYk%2BhfDXH0TmRd9T5PVxVABCCOlozBRk%0AJejRpZ%2BSlewkQxcRRxU%3D%0A)
 
 # Change the filters in a shared saved search
 

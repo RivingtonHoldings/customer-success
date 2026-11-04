@@ -149,13 +149,13 @@ Five articles were re-prepped and pushed later in the day because Notion changed
 
 ## Re-port check
 
-After both waves, each ported article's Notion page was compared with the body that went live. 45 pages were edited after their push; 36 were property-only edits. These 9, plus TRK-114 found later, changed in the body and need a re-port through `/port-to-intercom`, one at a time, with the row set back to Ready to Transfer first:
+After both waves, each ported article's Notion page was compared with the body that went live. 45 pages were edited after their push; 36 were property-only edits. These 9, plus TRK-114 found later, changed in the body. All 10 were re-ported on November 4 through `/port-to-intercom`, one at a time with a diff and Tara's yes for each, and every row is now Live in Intercom:
 
 - TRK-007 [Contacts Page Overview](https://app.notion.com/p/3f08b9e0143881a88e56c522774b0833): two Baldwin screenshots replaced.
 - TRK-019 [View Shared Saved Searches](https://app.notion.com/p/3f98b9e01438810085e3f0a19dc5ff5f): a Loom added where the placeholder was.
-- TRK-053 [Manage Contacts in the Perchwell Mobile App](https://app.notion.com/p/3ff8b9e01438815fba5fc63e648fae41): a Loom added, plus the line "This video can be used for all customers", which should come out first.
+- TRK-053 [Manage Contacts in the Perchwell Mobile App](https://app.notion.com/p/3ff8b9e01438815fba5fc63e648fae41): a Loom added. The line "This video can be used for all customers" was removed from Notion first.
 - TRK-054 [Listing Detail Page in the Perchwell Mobile App](https://app.notion.com/p/3ff8b9e01438810aaa55ddf7c6960be2): a Loom added.
-- TRK-058 [Search in the Perchwell Mobile App](https://app.notion.com/p/3ff8b9e014388159bcbcf00f666677fb): a Loom added at the top.
+- TRK-058 [Search in the Perchwell Mobile App](https://app.notion.com/p/3ff8b9e014388159bcbcf00f666677fb): a Loom added, moved below the opening paragraph in Notion and live by Tara's decision.
 - TRK-096 [Create and Edit a Tag](https://app.notion.com/p/3fb8b9e0143881349fd7ce5e4749fa5a): the Loom the port dropped is back in Notion.
 - TRK-097 [Link a Saved Search to a Tag](https://app.notion.com/p/3fd8b9e0143881499020df4b5b281008): the Loom the port dropped is back in Notion.
 - TRK-101 [Tags Page Overview](https://app.notion.com/p/3ff8b9e0143881b0a4cce4d39512740b): Loom swapped and the Status column screenshot replaced.

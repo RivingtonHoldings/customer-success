@@ -12,17 +12,17 @@ collections: ["Tags"]
 state: published
 author_id: 5472692
 created_at: 2026-04-06T21:07:20Z
-updated_at: 2026-11-03T20:04:52Z
+updated_at: 2026-11-04T17:28:00Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T17:32:36Z
 ---
 
 # Tags Page Overview
 
 Use this article to understand how Tags organize listings, tell My Tags from Client Tags, tag listings, and find Tags across Perchwell. A Tag groups listings in one place and has its own public link. Members who came from a legacy platform may know Tags as Listing Carts.
 
-[Embedded video](https://www.loom.com/embed/819fcb287f63406fb49f775ae5f33e19)
+[Embedded video](https://www.loom.com/embed/b1d66ee4abd64e8da5287f7196faf4f9)
 
 # What a Tag holds and how listings stay in it
 
@@ -41,7 +41,7 @@ The Status column on the Tags page shows whether a Tag has contacts and whether 
 - Not Sent: Contacts have been added, but they have not been invited to the Tag.
 - Sent: The contacts have been invited to the Tag. The status includes the date the invitation was sent, such as Sent 10/19/26.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623118/68668425b481490c2b3a7e9a5ed8/upload_2717569979331721892.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623118/68668425b481490c2b3a7e9a5ed8/upload_2717569979331721892.png?expires=1793740500&signature=dedac96dee7565ec63e18513db70e5b9d418795e1b74cb5e411fb1af253eb760&req=dicvE898noBeUfMW1HO4zbLdRGfiUwq0JI9k9yCl3PL9bcQSR3gs1am%2FK4um%0A2tvVT%2FrNQSJggORE8WU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787700089/0d3a9de71c81d32694e757f5e75b/upload_8834103787070299353.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787700089/0d3a9de71c81d32694e757f5e75b/upload_8834103787070299353.png?expires=1793815200&signature=b92aae6858dd3fb8565f5c7bc26fcb4612fefb033d4f72d42dd17e9e00a2db27&req=dicvEc5%2BnYFXUPMW1HO4za01mFo7LlHAdWx8rRGKhMhATqRRqN6QpwlDYT0P%0AUDxm%0A)
 
 A Tag with one or more contacts is a Client Tag. Adding a contact changes the status from My Tag to Not Sent, and inviting them changes it to Sent. Contacts cannot be removed after they are saved to a Tag, so a Client Tag cannot go back to My Tag.
 
@@ -79,4 +79,4 @@ Outside the Tags page, tag listings and find your Tags in these areas of Perchwe
 
 [How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains each way to add listings to a Tag.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623157/2fe4958786a21e59f110240a8a89/upload_869552901935634398.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623157/2fe4958786a21e59f110240a8a89/upload_869552901935634398.png?expires=1793740500&signature=eb505b1a42c444b92dd31a36bf1d32e515d0e450d8e8834ffbe0199cbd41f7fb&req=dicvE898noBaXvMW1HO4ze0Oc1x6BiPjxb2RVTpIZ0%2FwjzHdMvhBQQOmJt1I%0AmghHPMyzok7jCrh7dpY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623157/2fe4958786a21e59f110240a8a89/upload_869552901935634398.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785623157/2fe4958786a21e59f110240a8a89/upload_869552901935634398.png?expires=1793815200&signature=1460c9070b4a715dcf9c2439a83a1878c3ccbef232929610589fd5d4af957cde&req=dicvE898noBaXvMW1HO4ze0Oc1x1Aybkxb2RTz5ObnUtQ1WTCpieOE2XBhYO%0AyWIX%0A)

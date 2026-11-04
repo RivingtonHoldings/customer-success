@@ -12,21 +12,23 @@ collections: ["Mobile"]
 state: published
 author_id: 5472692
 created_at: 2026-04-27T14:22:48Z
-updated_at: 2026-11-03T18:13:46Z
+updated_at: 2026-11-04T17:21:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T17:32:36Z
 ---
 
 # Listing Detail Page in the Perchwell Mobile App
 
 Use this article to review a listing's details and photos, contact the listing agent, share, tag, or edit the listing from the three-dots menu, and check its location, mortgage estimates, and history on the Listing Detail Page in the Perchwell mobile app.
 
+[Embedded video](https://www.loom.com/embed/ceaeedae5012479a85e32b85ea97bbf6)
+
 # Review listing details, photos, and agent contacts on the Listing Detail Page
 
 Review a listing's photos, asking price, association fee, DOM (days on market), and CDOM (cumulative days on market) at the top of the Listing Detail Page in the mobile app. Tap any photo to open the photo gallery.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793740500&signature=c8b5a5f25f689ec14b3ba127bb87d2f6d197cd729f44043214ac9821ea6397fa&req=diMlEMx4mYNbWfMW1HO4zVZXojgG19nRleWqur8nZSyuMI78OV%2BKwyBsbMCy%0ASWLI%2BJ%2B7XmktRpLlWMo%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793815200&signature=6743d9b734e5dae0ed59ef23f7cfa242ea598be7a1e8b7785f9986c6e036c2d1&req=diMlEMx4mYNbWfMW1HO4zVZXojgJ0tzWleWqur8nZSzWAtnN00V%2Bz%2FkcG5rT%0AdzdVSt%2B60t2sHID6Gx4%3D%0A)
 
 Below the summary, the listing's details are grouped into sections. Tap a section's name to expand or collapse it. The sections are:
 - Description
@@ -61,7 +63,7 @@ The Actions tab of the three-dots menu holds nine options:
 - Create Report: Create a CMA, Extended CMA, Listing Report, Show Sheet, or Media Report for the listing.
 - Auto CMA: Open a search for comparable listings, with this listing as the subject property of a CMA (Comparative Market Analysis).
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793740500&signature=a99cfdcf69a3b2057481682cbbf047dca0ed44db7143871c0be8c8ea64f62e6b&req=diMlEMx4m4FdWvMW1HO4za74%2BkR89PaZV5Ys96knvt7EVzEfZcD0A2%2F82FVa%0AWF9vG%2FzrCioiA2blrmk%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793815200&signature=f0a6ef081921f74f128e26686ff2e5a07e819681f99bf76b721de00596a9ea73&req=diMlEMx4m4FdWvMW1HO4za74%2BkRz8fOeV5Ys96knvt460aYVQCVbBpleE0hS%0AwZHuN5l13UdUjP%2FfhVk%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](http://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how clients receive listings in Messages.
@@ -78,7 +80,7 @@ Tap Integrations in the three-dots menu, then tap a tool to open it for the list
 - InfoSparks: View market statistics and charts.
 - CRS tools: Open CRS Comparables, CRS Demographic, CRS Listing Integrity, CRS Parcel Map, or CRS Property Report.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793740500&signature=bc72727c35a3a45318920dff93e6b523c47f9ac702061f149b02ff051a486b0f&req=diMlEMx4modbWvMW1HO4zTTkULQckIRh976mR%2BXRok5foz0Rk%2BKYYEftyuUS%0AM%2Bd7cBM1s3DMXQMq4KQ%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793815200&signature=510d3b69718dc81ebca344e22a4e2ecb987077d688ba1d17438db4e82880a717&req=diMlEMx4modbWvMW1HO4zTTkULQTlYFm976mR%2BXRok64QEmb%2BqxLM%2BFo0HEa%0AvukZ117bMXPM4MdC0XU%3D%0A)
 
 ## Edit a listing from the Admin tab
 

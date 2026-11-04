@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: published
 author_id: 5472692
 created_at: 2026-03-06T15:46:56Z
-updated_at: 2026-11-03T17:27:46Z
+updated_at: 2026-11-04T16:46:11Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T17:32:36Z
 ---
 
 # Contacts Page Overview
@@ -32,7 +32,7 @@ Click Contacts in the top navigation to open the Contacts page. The page has two
 
 Invited clients do not see the MLS tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203839/fdb1e788f8ba8484ca243cba7a99/upload_15431331433697037292.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203839/fdb1e788f8ba8484ca243cba7a99/upload_15431331433697037292.png?expires=1793740500&signature=e0be9779c5c55f8264995b4a6004d689ff53a57407413f05033f9203ed6f9f9e&req=dicvE8t%2BnolcUPMW1HO4zQ5l6RvnOUXvrkHLMRHXEx%2FPEzn%2BTwNbQHaM%2BNGz%0AXjtj%2BFdLKbKcZdWiuBs%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787596930/26cc65d05936a2a84c39cdcaa991/upload_15951007564057468766.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787596930/26cc65d05936a2a84c39cdcaa991/upload_15951007564057468766.png?expires=1793815200&signature=2bdf2920c36eb90e96069cea364b42b8f54500907dfd8e46d2ea16f9e77c49ba&req=dicvEcx3m4hcWfMW1HO4zUF%2BGUnp4cnms5CV8xB7ahwrjUhbb2OFFm864Bj3%0ARc4ZG%2FBYIn6q4oHHqtc%3D%0A)
 
 # What the Group, Last Shared, and Status columns show
 
@@ -59,7 +59,7 @@ Click Add New in the upper right of the Contacts page to open the Create new con
 
 Click Create to save the contact. To add multiple contacts from a CSV (comma-separated values) file, click Upload in the upper right of the Contacts page. To assign a group or add details such as a job title, company, or address, open the saved contact's profile and edit their information.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203873/6246bd2140abb47c56a76b0643c9/upload_9583587438698497880.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203873/6246bd2140abb47c56a76b0643c9/upload_9583587438698497880.png?expires=1793740500&signature=aa58e20c596bbf3c6847d869f551d59a1ca18ebf97a4492c810cf91ed9c1e3f0&req=dicvE8t%2BnolYWvMW1HO4zSmF7VAARoxxFrMapANrJKUOjWyNo5JAcqi2QvSK%0AJEJcbtoVK8RYBB%2B7wgg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787596948/ea77f0e002ca5ed8cecee0de49d9/upload_5805217021690684456.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787596948/ea77f0e002ca5ed8cecee0de49d9/upload_5805217021690684456.png?expires=1793815200&signature=daf958be047687656d50de13a473e5256b5c4ecc9e565a58ed7cc0411c982bff&req=dicvEcx3m4hbUfMW1HO4zdcdf35%2Fj9Jh%2FmP3pC89fhmDG9x2O7LXEhtD37iT%0A6G%2FAGnPueOvF4V9mle8%3D%0A)
 
 > **Important:** After you invite a contact to Perchwell, the contact's first name, last name, email, and phone number are locked. To change a locked field, contact Perchwell Support.
 
@@ -104,7 +104,7 @@ The Actions menu offers these options for the selected contacts:
 
 > **Important:** Deleting contacts cannot be undone.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203910/d9a4ae20a950346af24365a76016/upload_16256272471743161708.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203910/d9a4ae20a950346af24365a76016/upload_16256272471743161708.png?expires=1793740500&signature=eab2dbbafd1c161a6d085a6d3c36c57954835055c90b9bb5053398610f069f6d&req=dicvE8t%2BnoheWfMW1HO4zc%2BF6w47nVGLWpigaMOxP0XUZCiZK0Jgaw7k4cWc%0An23KC78OBMjaEF0Ymmg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203910/d9a4ae20a950346af24365a76016/upload_16256272471743161708.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203910/d9a4ae20a950346af24365a76016/upload_16256272471743161708.png?expires=1793815200&signature=6e376536d25710f85d764e85a0f25441cfcc108135f489e12a6a70f3123e79b5&req=dicvE8t%2BnoheWfMW1HO4zc%2BF6w40mFSMWpigaMOxP0VRKjSr2LQIbehaodsg%0AFOQQMdxlSfHPELEk8ZE%3D%0A)
 
 To send one client a personal message with their invitation, invite them from their profile instead. [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) walks through it.
 
@@ -120,9 +120,7 @@ The contact profile includes four tabs:
 - Shared Searches: Saved searches the contact is added to.
 - Shared Reports: Reports you emailed to the contact.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203948/cc5c668c67e7c776726f9a470baf/upload_16825612480556985193.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203948/cc5c668c67e7c776726f9a470baf/upload_16825612480556985193.png?expires=1793740500&signature=3d46911917d223056ae4c29fcd2ce7c1334f41a92e1df0963bdc0097575636e9&req=dicvE8t%2BnohbUfMW1HO4zaiEfUz596J6dCSadXZqthvkpKhqdfDol%2FvFXhI9%0AfJzWFKrQHZKJmBi4dOA%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203974/d27ee58f949f346222b4b6b0d264/upload_15981967147030117022.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203974/d27ee58f949f346222b4b6b0d264/upload_15981967147030117022.png?expires=1793740500&signature=1fa73f10cecdf37eadacb15d51eacae5719eb88944b6a4025af905b732da1936&req=dicvE8t%2BnohYXfMW1HO4zYoRWkNiUgIAFmOVshV0S%2BBHKWSRsJO2rewjn7fd%0ATZGkNvu8EGwQGE9%2F6%2BY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203948/cc5c668c67e7c776726f9a470baf/upload_16825612480556985193.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203948/cc5c668c67e7c776726f9a470baf/upload_16825612480556985193.png?expires=1793815200&signature=16a123a153281ff31acb833ad01f642f1ad206db9bd4ad6327456bc1ac5c97a0&req=dicvE8t%2BnohbUfMW1HO4zaiEfUz28qd9dCSadXZqthugfYltt0Jmb%2BV%2BU6J1%0AranxbS7A1BNM92OQHQ8%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203974/d27ee58f949f346222b4b6b0d264/upload_15981967147030117022.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785203974/d27ee58f949f346222b4b6b0d264/upload_15981967147030117022.png?expires=1793815200&signature=5bf3bc965a5231be8c8b26a6535280a6644fce2631366aa3063caf682daf9d14&req=dicvE8t%2BnohYXfMW1HO4zYoRWkNtVwcHFmOVshV0S%2BDrZETYulY5Sp3BR9mN%0Ap7OXk7dea28edtNDUGQ%3D%0A)
 
 The Reverse Prospecting toggle on the Contact Details tab controls whether the contact's Saved Searches are included in Reverse Prospecting. Turn it off to exclude the contact's Saved Searches.
 
@@ -146,4 +144,4 @@ The MLS tab is your MLS roster: it lists members of your MLS and their brokerage
 
 The roster displays members with matching names. The Search field searches by name only.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785204038/7df217619aa762a8444541a2c815/upload_71341010047091179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785204038/7df217619aa762a8444541a2c815/upload_71341010047091179.png?expires=1793740500&signature=49896abe5b394be6d91928cb29c1d91fcf352adcec82196bbebbf92e06d4d0a2&req=dicvE8t%2BmYFcUfMW1HO4zSTg7B0n%2FISVjfwc6bbtStXJmzo%2BXnEFGLf5dNEj%0AXbJYT4gZJCG5JXrRvPQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785204038/7df217619aa762a8444541a2c815/upload_71341010047091179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785204038/7df217619aa762a8444541a2c815/upload_71341010047091179.png?expires=1793815200&signature=b2bf82fe03400ec94a3559d9e36dfdb678d55651a0e290d3551dd7963aea9cdc&req=dicvE8t%2BmYFcUfMW1HO4zSTg7B0o%2BYGSjfwc6bbtStWFVsv8lOW0wEq2nyeS%0AKD%2FdpowpIe%2FWbaD24bM%3D%0A)

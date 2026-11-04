@@ -62,8 +62,3 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Analytics Page Overview**, TRK-002
 - An orange Baldwin placeholder for the Office Ranking Report sits right above the Baldwin screenshot of it, with empty alt text. Likely leftover; delete.
 - Visual Status CRMLS is Not Started, though CRMLS screenshots are in.
-
-## Tags
-
-**Create and Edit a Tag**, TRK-096
-- Video Status is Not Needed, but the page still has a video placeholder.
