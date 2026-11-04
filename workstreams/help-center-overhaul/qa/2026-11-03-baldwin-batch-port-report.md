@@ -97,7 +97,7 @@ The re-sync updated 43 Baldwin files: the 41 ports, plus Tags FAQ and User Setti
 ## Wave 2: shared articles
 
 **Result:**
-- 27 of 28 articles are live and match their Notion draft, all still published in the same collections.
+- All 28 articles are live and match their Notion draft, all still published in the same collections.
 - Every image is on Intercom's CDN, and each Notion row is set to Live in Intercom.
 - The mirror re-sync updated 26 Baldwin and 15 CRMLS files and deleted 11 and 7 stale files; the second run reported zero changes.
 
@@ -105,9 +105,9 @@ These articles also reach CRMLS or the default help center. As decided, every re
 
 Five articles were re-prepped and pushed later in the day because Notion changed after the first prep: TRK-015, 016, 018, 046, and 072. TRK-046 went live on a later retry: the first two tries failed to re-host its header and tabs screenshot ("Image cannot be requested at URL"), and the retry worked with the same file once the signed links were sent without their `#notion_record` ending. TRK-070, 072, 073, and 074 replaced a live Arcade with the Loom in Notion.
 
-### Not ported
+### Dropped by decision
 
-- TRK-049 [Manage Listings Page Overview](https://app.notion.com/p/3f88b9e014388104a17fe50f01c193c8) (13623016). Held: the live article has a "Share draft listings" section that the Notion draft does not. Add it to Notion, or confirm it should go, then port it.
+- TRK-049 Manage Listings Page Overview went live without the live "Share draft listings" section, by Tara's decision: a draft preview feature releasing November 10, 2026 replaces that workaround. The Export sentence also came out of the draft, since the Export button no longer exists.
 
 ### Ported articles
 
@@ -133,6 +133,7 @@ Five articles were re-prepped and pushed later in the day because Notion changed
 | TRK-044 | [Add and Edit Listings](https://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) | 13627189 | same | default | 5 | 2 |
 | TRK-045 | [Write a Listing Description with AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-write-a-listing-description-with-ai-scribe) | 11801815 | AI Scribe | default | 2 | 0 |
 | TRK-046 | [Listing Detail Page Overview](https://support.perchwell.com/baldwin/en/articles/14074994-listing-detail-page-overview) | 14074994 | same | default | 8 | 1 |
+| TRK-049 | [Manage Listings Page Overview](https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview) | 13623016 | same | default | 4 | 0 |
 | TRK-067 | [Create a Listing Report](https://support.perchwell.com/baldwin/en/articles/8955755-create-a-listing-report) | 8955755 | same | CRMLS, default | 5 | 0 |
 | TRK-069 | [Create a Media Report](https://support.perchwell.com/baldwin/en/articles/8955781-create-a-media-report) | 8955781 | same | CRMLS, default | 5 | 0 |
 | TRK-070 | [Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) | 13959293 | same | CRMLS, default | 6 | 1 |

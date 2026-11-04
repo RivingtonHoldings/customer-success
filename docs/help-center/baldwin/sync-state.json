@@ -1,8 +1,16 @@
 {
- "last_run": "2026-11-04T04:01:49Z",
+ "last_run": "2026-11-04T04:22:51Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13623016": {
+   "file": "manage-listings-page-overview.md",
+   "updated_at": 1793765856,
+   "state": "published",
+   "title": "Manage Listings Page Overview",
+   "content_id": "15694685",
+   "body_sha1": "1fef8e9dd82771c2b33df125ea590a3512ff06d9"
+  },
   "14074994": {
    "file": "listing-detail-page-overview.md",
    "updated_at": 1793764575,
@@ -722,14 +730,6 @@
    "title": "Baldwin\u2019s Conversion FAQs",
    "content_id": "15667823",
    "body_sha1": "11b4b8e86aff54512e04f5cdd100943020bcbc14"
-  },
-  "13623016": {
-   "file": "manage-listings-page-overview.md",
-   "updated_at": 1792497827,
-   "state": "published",
-   "title": "Manage Listings Page Overview",
-   "content_id": "15694685",
-   "body_sha1": "3440ca89d770f69c9ab03902f36f4e678d8f541a"
   },
   "15809212": {
    "file": "upcoming-features.md",

@@ -2,7 +2,7 @@
 intercom_id: "13623016"
 content_id: "15694685"
 title: "Manage Listings Page Overview"
-description: "In this article, you will learn how to open Manage Listings, add or update a listing, schedule an open house, and use filters to find the listings you need."
+description: "See the listings you manage in one list on the Manage Listings page, and keep their details, open houses, and drafts up to date."
 url: "http://support.perchwell.com/en/articles/13623016-manage-listings-page-overview"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,88 +10,99 @@ collection: "Listing Maintenance"
 collection_ids: [17797908]
 collections: ["Listing Maintenance"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-02-04T22:50:42Z
-updated_at: 2026-10-20T12:03:47Z
+updated_at: 2026-11-04T04:17:36Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T19:40:37Z
+synced_at: 2026-11-04T04:22:31Z
 ---
 
 # Manage Listings Page Overview
 
-# Manage Listings access (main menu)
+Use this article, as a broker or an agent with permission to manage listings, to open Manage Listings, add, edit, or duplicate a listing, schedule and delete open houses, and filter the list by status, agent, or date to find drafts and other listings.
 
-Go to **Manage Listings** to view and manage your full listing inventory.
-​
+[Embedded video](https://www.loom.com/embed/e518bbac9d8a4dbdb0048c05da6b22c9)
 
-### Steps:
-1. Log in to your Perchwell account
-2. In the main menu, click **Manage Listings**
+# Open the Manage Listings page
 
-## Listings table actions
+Click Manage Listings in the top navigation to open the Manage Listings page. Brokerage admins see every listing in their brokerage. Agents see only their own listings.
 
-Use the listings table to add new inventory and keep existing listings accurate.
-- Listing creation
-  - Click **Add New Listing**
-  - Enter listing details like property type, address, price, and status
-  - Save your changes
-​
-- Listing updates
-  - Find the listing you want to update
-  - Click the **pencil icon**
-  - Update the fields you need, then save
+Click a column heading with an arrow, such as Price or Updated, to sort the list by that column. The list starts sorted by Updated.
 
-> 📖 Learn how the full Add and Edit flow works [in this article.](https://intercom.help/perchwell-help-center-baldwin/en/articles/13627189-add-and-edit-listings)
+Members who came from a legacy platform may know Manage Listings as Maintain Listings, and editing a listing as Listing Maintenance.
 
-# Open house scheduling
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271033/fc9317c9763db7620802aea8925f/upload_4697096319692364744.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271033/fc9317c9763db7620802aea8925f/upload_4697096319692364744.png?expires=1793767500&signature=07ce41847c581656906bf05b6625411b07d04be782f11972795b3d3af8bee2ed&req=dicvEMt5nIFcWvMW1HO4zYYVu9nGRs29dXrqPwvWejGDpZS4QyWkF1ECOnTj%0AwEX%2B%0A)
 
-Add an open house from your listing so it is tied to the correct property. Each open house has its own remarks field for notes to other agents, such as parking or entry instructions.
+# Add, edit, or duplicate a listing in Manage Listings
 
-### Steps:
-1. In **Manage Listings**, locate the listing you want
-2. Click the **calendar icon**
-3. Enter the open house type, date, start time, and end time
-4. *(Optional)* Enter remarks for other agents in the **Open House Remarks** field
-5. Click **Add**
+Add, edit, or duplicate a listing from the list on the Manage Listings page:
+- Click Add New Listing in the upper right to start a new listing in the Add/Edit form.
+- Click the pencil icon at the right of a listing's row to edit it in the Add/Edit form.
+- Select the checkbox next to a listing, then click Duplicate at the bottom of the page. The copy appears in the list as a draft. You can duplicate any Listing, including drafts, Active, Expired, and Canceled listings as well.
 
-> ⚠️ **Note**: Open house remarks are visible to agents only. Other agents see them on the listing detail page. Clients and contacts do not see them, even on a shared listing.
+For more information:
+- [Add and Edit Listings](https://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) covers the Add/Edit form, required fields, and saving a draft or submitting a listing.
+- [Listing Maintenance FAQ](https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq) covers duplicating a listing and adding a virtual tour.
+- [Delete a Draft Listing](https://support.perchwell.com/baldwin/en/articles/16864886-delete-a-draft-listing) explains how to delete a listing that is still a draft.
 
-# Listing filters
+# Schedule an open house from Manage Listings
 
-Use filters to narrow your results so you can focus on the listings you need to update.
-- Filter panel
-  - Click **Filter**
-- Filter selection
-  - Choose filters like status, price, or property type
-  - Update or clear filters as needed
-​
-Filtering for **Draft Listings**
+Schedule an open house for a listing from the Manage Listings page.
 
-You can use the **Filter** section on the right side to filter for certain Listings, and even filter for **Drafts**
-​
+## Steps:
+1. Click the calendar icon at the right of the listing's row to open the Open Houses window
+2. Select Public or Broker Only
+3. Select By Appointment
+4. Enter the date in the Date field
+5. Enter the start time in the Start Time field
+6. Enter the end time in the End Time field
+7. *(Optional)* Enter notes for other agents, such as parking or entry instructions, in the Open House Remarks field
+8. Click Add
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599758025/097f13aebc133e4bc5d9fa301c45/Screenshot+2026-08-10+at+4_40_50%E2%80%AFPM.png?expires=1792786500&signature=e8ed2c5c69919fb5c761e2a3beab9375f29cfffb74d965bd96728884c775bcc9&req=diUuH857lYFdXPMW1HO4zeCS%2Buk0Y84lS9kgcFceEJO81C0pNJjuPZXsvrk7%0A%2B9InncJLpSPTjb7Yh1M%3D%0A)
+The open house is added to the list at the bottom of the Open Houses window. Public is selected by default. Date, Start Time, and End Time are required.
 
-Click on **Drafts **under **Publication Status **to filter for only Drafts.
-​
+> **Note:** Open house remarks are visible to agents only. Other agents see them on the Listing Detail Page. Clients and contacts do not see them, even on a shared listing.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599761925/e64ddafac48a16b78abba0b0bbfc/Screenshot+2026-08-10+at+4_43_02%E2%80%AFPM.png?expires=1792786500&signature=5fbb65cf9f3819d4adfe289844cd19bbcee80c64ef1822599a95e3011d25b1ed&req=diUuH854nIhdXPMW1HO4zXZwDCu4j26Yvg%2F%2FJwp%2FkvR5Vs12%2BjP0NrarITbX%0AGrXh0DgaechnPpprtAE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271038/adf36c7d2e7a5bfe1b74af7e9dc8/upload_874811281128723392.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271038/adf36c7d2e7a5bfe1b74af7e9dc8/upload_874811281128723392.png?expires=1793767500&signature=0984399819f49ecd1653ade6d85939dd7c22fb2e734a60f62936a069fe6e0d3f&req=dicvEMt5nIFcUfMW1HO4zfV9EfFvtQkQCp2RYjZujk9U187%2FmuvjYut8TMDe%0AV2uZ%0A)
 
-​
+# Delete an open house from Manage Listings
 
-## Share draft listings
+Delete an open house for a listing from the Manage Listings page.
 
-You can share a report of your draft/partial listing via the Manage Listings page.
-- Head over to Manage Listings
-- Select the Listing you want to share by clicking on the address link
-- Click on Actions on the top right, then select either the one page or full report:
+## Steps:
+1. Click the calendar icon at the right of the listing's row to open the Open Houses window
+2. Click the trash can icon in the open house's row to delete it
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2753270573/675e8adea59823aa901f3724ff00/Screenshot+2026-10-20+at+8_02_05%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2753270573/675e8adea59823aa901f3724ff00/Screenshot+2026-10-20+at+8_02_05%E2%80%AFAM.png?expires=1792786500&signature=29473407fdcd058eba8a50345ec8294e2b9203a4757d2b78276a5d040b506d35&req=diciFct5nYRYWvMW1HO4zX8hFnQbFY%2Bm1HMhshpLlxNlMH8s%2FZgucEPSi1MU%0AuU%2FDVfyBpBl2cvx8orA%3D%0A)
-- You can download this report then send it to your client via email.
+The open house is removed from the list in the Open Houses window.
 
-## **Tips**
-- Keep listing details current so clients see the right information.
-- Write clear listing descriptions that highlight the most important features.
-- Upload high-quality photos under 15 MB.
-- If you see **Listing Maintenance** in another platform, it refers to editing a listing.
+To change an open house, delete it and add it again with the new details.
+
+# Filter Manage Listings to find listings
+
+Click Filters in the upper right of the Manage Listings page to open the Search filters panel. Filter the list by:
+- MLS ID: Enter a listing's MLS ID.
+- Brokerage Admin and MLS Staff only: Select a listing agent from the dropdown.
+- Brokerage Admin and MLS Staff only: Select an office from the dropdown.
+- Status: Select one or more statuses, or All. Coming soon, Active, Active under contract, and Pending are selected by default. Closed, expired, and other listings stay out of the list until you select their status.
+- Publication status: Select Drafts or Published. Published Listings are live, searchable Listings in the MLS.
+- Visibility (available to all roles): Select Public, suspended, or Public & suspended from the dropdown. Public & suspended is selected by default.
+- Property type: Select one or more property types, such as Residential-Single Family or Lots and Land.
+- Media: Select Floor plans, Videos, or Virtual tours to find listings that include them.
+- Next open house, Expiration Date, and Showing start date: Enter a start date and an end date to find listings with a date in that range.
+
+Click Reset filters at the top of the Search filters panel to return every filter to its default.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271045/2ce7346782e1dd03e3224b598861/upload_8108564010798320365.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271045/2ce7346782e1dd03e3224b598861/upload_8108564010798320365.png?expires=1793767500&signature=a3641b3e010a14fe0be7535c3575238a4e2967d69de05d6f352997b15830f8f1&req=dicvEMt5nIFbXPMW1HO4zRnDRQdxM7QQ%2BRxwuvS8bdXeKuKcV9hbCh%2FhEj2B%0AvLhc%0A)
+
+# Find your draft listings in Manage Listings
+
+Find listings you saved as drafts with the Publication status filter on the Manage Listings page.
+
+## Steps:
+1. Click Filters in the upper right
+2. Select Drafts under Publication status
+
+The list narrows to your draft listings. Each draft carries a Draft label under its status in the list.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271055/064212de802a94ed6563c139fefe/upload_535796835455382470.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786271055/064212de802a94ed6563c139fefe/upload_535796835455382470.png?expires=1793767500&signature=6c6bc4c65c7ca29e29988cc8d1e576197a2725b84f9b92513a73bfa0117f76e2&req=dicvEMt5nIFaXPMW1HO4zTKQx3DVm4ioC0s05R5z4q62Obz8EBA5dQMXn08z%0A%2FH91%0A)

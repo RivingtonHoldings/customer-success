@@ -41,8 +41,8 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Listing Detail Page FAQ**, TRK-048
 - The HOA example in the text ($355, $30/mo) does not match the screenshot ($1,050, $88/mo). Change one.
 
-**Manage Listings Page Overview**, TRK-049
-- The article says to click Export in the upper right; the screenshot shows only Add New Listing and Filters. Check whether Export appears only after a listing is selected.
+**Delete a Draft Listing** (16864886)
+- The live article links to Manage Listings Page Overview with an app.notion.com URL instead of the help center URL. Members who click it land on a Notion page they cannot open. Replace it with https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview and re-port. Found November 4, 2026.
 
 ## Manage People
 

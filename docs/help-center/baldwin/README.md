@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T04:01:49Z. Articles: 128 (120 published, 8 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T04:22:51Z. Articles: 128 (120 published, 8 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -87,7 +87,7 @@ Collection ID 17797908. 5 articles.
 - [Add and Edit Listings](add-and-edit-listings.md), updated 2026-11-04
 - [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-09-08
 - [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-11-04
-- [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-10-20
+- [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-11-04
 - [Write a Listing Description with AI Scribe](write-a-listing-description-with-ai-scribe.md), updated 2026-11-04
 
 ## Manage People
