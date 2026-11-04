@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:59:48Z. Articles: 105 (75 published, 30 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T20:19:10Z. Articles: 113 (75 published, 38 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -115,16 +115,24 @@ Collection ID 19802009. 1 articles.
 
 ## Reports
 
-Collection ID 16867011. 12 articles.
+Collection ID 16867011. 20 articles.
 
 - [Adding a Subject Property to a CMA](adding-a-subject-property-to-a-cma.md) (draft), updated 2026-07-02
+- [Create a CMA with a Subject Property](create-a-cma-with-a-subject-property.md) (draft), updated 2026-11-04
 - [Create a Detailed Report](create-a-detailed-report.md), updated 2026-07-02
+- [Create a Full Report](create-a-full-report-18233152.md) (draft), updated 2026-11-04
 - [Create a Full Report](create-a-full-report.md), updated 2026-11-04
+- [Create a Listing Report](create-a-listing-report-18233087.md) (draft), updated 2026-11-04
 - [Create a Listing Report](create-a-listing-report.md), updated 2026-11-04
+- [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md) (draft), updated 2026-11-04
+- [Create a Media Report](create-a-media-report-18233116.md) (draft), updated 2026-11-04
 - [Create a Media Report](create-a-media-report.md), updated 2026-11-04
+- [Create a One Page Report](create-a-one-page-report-18233159.md) (draft), updated 2026-11-04
 - [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-04
 - [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-04
+- [Create a Show Sheet](create-a-show-sheet-18233133.md) (draft), updated 2026-11-04
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-04
+- [Create an Itinerary Report](create-an-itinerary-report-18233139.md) (draft), updated 2026-11-04
 - [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-04
 - [Export to Excel](export-to-excel.md), updated 2026-07-02
 - [Guide to Creating a Report](guide-to-creating-a-report.md) (draft), updated 2026-07-02
@@ -189,7 +197,7 @@ Collection ID 16866865. 15 articles.
 - [Sharing a Saved Search with Clients](sharing-a-saved-search-with-clients.md) (draft), updated 2026-07-02
 - [Sorting Listings on the Search Page](sorting-listings-on-the-search-page.md), updated 2026-07-02
 - [The Search Page Overview](the-search-page-overview.md), updated 2026-07-02
-- [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
+- [Universal Search Bar](universal-search-bar.md), updated 2026-11-04
 - [Using Searchwell](using-searchwell.md), updated 2026-07-02
 - [Using the Map on the Search Page](using-the-map-on-the-search-page.md), updated 2026-07-02
 

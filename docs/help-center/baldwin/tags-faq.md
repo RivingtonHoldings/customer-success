@@ -12,10 +12,10 @@ collections: ["Tags / FAQs"]
 state: published
 author_id: 5472692
 created_at: 2026-05-21T19:26:21Z
-updated_at: 2026-11-04T04:27:08Z
+updated_at: 2026-11-04T20:10:18Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T04:35:20Z
+synced_at: 2026-11-04T20:19:10Z
 ---
 
 # Tags FAQ
@@ -44,7 +44,7 @@ Perchwell emails you 5 minutes after anyone reacts to listings in a Tag. If a re
 
 No. Only you add or remove listings in a Tag. Clients view the Tag's listings and give feedback by liking or disliking them.
 
-[How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how to add and remove listings.
+[Add Listings to a Tag](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how to add and remove listings.
 
 # Can clients see the Tag's name and description?
 
@@ -54,13 +54,13 @@ Yes. Clients see the Tag's name and description above its listings on the public
 
 Yes. After clients have been invited to the Tag, they get the message you send when adding listings from the Share window. When Tag notifications are on, they also receive emails about later activity on the Tag's listings, such as price or status changes.
 
-[How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how to notify contacts when you add listings.
+[Add Listings to a Tag](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how to notify contacts when you add listings.
 
 # Can I remove a contact from a Tag?
 
 No. A contact cannot be removed from a Tag after you save or send it. To stop a contact from accessing the Tag, delete the Tag, which disables its public link for everyone.
 
-To keep sharing the listings with other clients, duplicate the Tag before deleting the original. The copy has its own public link and no contacts. Send it to the clients who should keep access. [How to Create a Tag](http://support.perchwell.com/baldwin/en/articles/16221240-how-to-create-a-tag) explains how to duplicate and delete a Tag.
+To keep sharing the listings with other clients, duplicate the Tag before deleting the original. The copy has its own public link and no contacts. Send it to the clients who should keep access. [Create and Edit a Tag](http://support.perchwell.com/baldwin/en/articles/16221240-how-to-create-a-tag) explains how to duplicate and delete a Tag.
 
 # What is the difference between sharing a Tag and sharing a public link from Search?
 
@@ -70,4 +70,4 @@ A Tag is an ongoing collection you update over time, while a public link from Se
 
 Clients do not need a Perchwell login to open either one, and listing details such as price and status stay current on both.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) explains how to share a public link from Search.
+[Share Listings with Clients from Search](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) explains how to share a public link from Search.

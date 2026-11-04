@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2025-03-31T14:29:22Z
-updated_at: 2026-10-24T02:45:26Z
+updated_at: 2026-11-04T20:15:49Z
 labels: ["How To: Search"]
 body_source: public-help-center
-synced_at: 2026-10-24T02:46:33Z
+synced_at: 2026-11-04T20:19:10Z
 ---
 
 # Universal Search Bar
@@ -43,19 +43,19 @@ Matches appear as you type, and clicking one opens it.
 
 The Universal Search Bar opens one listing at a time. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](http://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1792811700&signature=ae877dec5590fe319ef1b8403fe292213867194f25ea06209fb290e694dce419&req=diUuH8F6m4JaWPMW1HO4zZA%2Fdt6rnP9xb%2FK0YA%2FyG6JjTKyIPlTJWec8%2FgDg%0AkYFr%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846351/d86b6c27a1db63abe55fd776e834/Screenshot+2026-08-10+at+5_27_26%E2%80%AFPM.png?expires=1793825100&signature=d07aa0e938a6653d33222a0a13afd7aff5e149a29621430313d53a68dc528f43&req=diUuH8F6m4JaWPMW1HO4zZA%2Fdt%2Brn%2Ft3b%2FK0YA%2FyG6KF%2BJE4WG9g19jqAoar%0AJ7UT%0A)
 
 # What you find with the Universal Search Bar
 
 The Universal Search Bar finds listings, agents, and contacts. The search window shows a results count at the top and groups the matches by type.
-- Listings: Found by address or MLS ID, and an exact match on either one pulls up that listing directly. Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
+- Listings: Found by address or MLS ID, and an exact match on either one pulls up that listing directly. Results are not limited to active listings: off-market listings appear, along with statuses such as Pending, Closed, and Expired. [What Each Listing Status Means](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each one.
 - Agents: Found by name, and the result opens the agent's profile.
 - Contacts: Found by name or email address, and the result opens that contact. Results come from your own contacts, not from other agents' contacts in your brokerage.
 
 You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears, and so does a result matching only a number you typed. Keep typing to narrow the list.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1792811700&signature=86fd776d6f3a54516f97f7a31ed406780793eccbd4ab5aad4c1bdaf1f5207784&req=diUuH8F6m4RXXvMW1HO4zZHK2myzNcXk5cHaOOfu3N2JtVcHq5tGKYxHlclX%0A%2F58y%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599846587/ebdcec82993db33f64d867ac4691/Screenshot+2026-08-10+at+5_27_41%E2%80%AFPM.png?expires=1793825100&signature=edf5d2cbafe2f5e5434f1dbd3f4e226e6010ed8812adef6e991f9c3f008c5752&req=diUuH8F6m4RXXvMW1HO4zZHK2m2zNsHi5cHaOOfu3N2ol9Bl%2Bzg7b%2B5KuN%2FN%0AB3NJ%0A)
 
 # Things to Know
-- Members who came from a legacy platform may know the Universal Search Bar as Power Search. [New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
-- In the Perchwell mobile app, the Universal Search Bar appears at the top of the Search tab and is not available on other tabs. The Universal Search Bar works the same way in the mobile app as it does in a browser. [Mobile FAQ](http://support.perchwell.com/baldwin/en/articles/15201164-mobile-faq) covers other features in the mobile app.
+- Members who came from a legacy platform may know the Universal Search Bar as Power Search. [Find Familiar Features by Their Perchwell Names](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
+- In the Perchwell mobile app, the Universal Search Bar appears at the top of the Search tab and is not available on other tabs. The Universal Search Bar works the same way in the mobile app as it does in a browser. [Mobile App FAQ](http://support.perchwell.com/baldwin/en/articles/15201164-mobile-faq) covers other features in the mobile app.

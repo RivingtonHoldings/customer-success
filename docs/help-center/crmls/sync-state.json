@@ -1,8 +1,80 @@
 {
- "last_run": "2026-11-04T19:59:48Z",
+ "last_run": "2026-11-04T20:19:10Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "11002620": {
+   "file": "universal-search-bar.md",
+   "updated_at": 1793823349,
+   "state": "published",
+   "title": "Universal Search Bar",
+   "content_id": "11821319",
+   "body_sha1": "3b241a922417933b3d85aae4969c014298fcc9f4"
+  },
+  "18233152": {
+   "file": "create-a-full-report-18233152.md",
+   "updated_at": 1793823310,
+   "state": "draft",
+   "title": "Create a Full Report",
+   "content_id": "23616644",
+   "body_sha1": "c497814005b6fcf4de75c9a026b0588db59acfc4"
+  },
+  "18233159": {
+   "file": "create-a-one-page-report-18233159.md",
+   "updated_at": 1793823266,
+   "state": "draft",
+   "title": "Create a One Page Report",
+   "content_id": "23616653",
+   "body_sha1": "4c079333d5eb10270b70813727087183ed47dedb"
+  },
+  "18233139": {
+   "file": "create-an-itinerary-report-18233139.md",
+   "updated_at": 1793823069,
+   "state": "draft",
+   "title": "Create an Itinerary Report",
+   "content_id": "23616627",
+   "body_sha1": "b4f7101aa7d64b5a046bdfb24ac7474d9e9c27d6"
+  },
+  "18233133": {
+   "file": "create-a-show-sheet-18233133.md",
+   "updated_at": 1793822954,
+   "state": "draft",
+   "title": "Create a Show Sheet",
+   "content_id": "23616620",
+   "body_sha1": "cbe85793acdc4ec4dab5e0943b0de925f8b84a93"
+  },
+  "18233116": {
+   "file": "create-a-media-report-18233116.md",
+   "updated_at": 1793822771,
+   "state": "draft",
+   "title": "Create a Media Report",
+   "content_id": "23616598",
+   "body_sha1": "dd5488941d58b949cc38d20f66c48b4cccb53340"
+  },
+  "18233102": {
+   "file": "create-a-market-conditions-addendum-report-1004mc.md",
+   "updated_at": 1793822680,
+   "state": "draft",
+   "title": "Create a Market Conditions Addendum Report (1004MC)",
+   "content_id": "23616580",
+   "body_sha1": "e522cc75208522029cd54c8fbe261474a2637134"
+  },
+  "18233087": {
+   "file": "create-a-listing-report-18233087.md",
+   "updated_at": 1793822610,
+   "state": "draft",
+   "title": "Create a Listing Report",
+   "content_id": "23616563",
+   "body_sha1": "1368c1ea7f06cf9d86878f2e831abfd89b5ce406"
+  },
+  "18233073": {
+   "file": "create-a-cma-with-a-subject-property.md",
+   "updated_at": 1793822525,
+   "state": "draft",
+   "title": "Create a CMA with a Subject Property",
+   "content_id": "23616547",
+   "body_sha1": "2177fcae0cdd44eea133ee80245e2a8ead567e24"
+  },
   "18233009": {
    "file": "dashboard-overview.md",
    "updated_at": 1793822238,
@@ -338,14 +410,6 @@
    "title": "Invite Clients to Perchwell and Resend Invitations",
    "content_id": "12304882",
    "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
-  },
-  "11002620": {
-   "file": "universal-search-bar.md",
-   "updated_at": 1792809926,
-   "state": "published",
-   "title": "Universal Search Bar",
-   "content_id": "11821319",
-   "body_sha1": "a37ebd696b045b1b04fa38d40faa5ace74d9ddf2"
   },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",

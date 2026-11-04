@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:59:48Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T20:19:10Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -211,9 +211,9 @@ Collection ID 17797941. 14 articles.
 - [Print or Save Search Results as a PDF](print-or-save-search-results-as-a-pdf.md), updated 2026-10-23
 - [Search Page Overview](search-page-overview.md), updated 2026-11-04
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-04
-- [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-10-23
+- [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-11-04
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-11-04
-- [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
+- [Universal Search Bar](universal-search-bar.md), updated 2026-11-04
 
 ## Listing Maintenance / FAQs (under Listing Maintenance)
 
