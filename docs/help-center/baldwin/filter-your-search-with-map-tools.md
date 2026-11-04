@@ -12,10 +12,10 @@ collections: ["Search / Filters"]
 state: published
 author_id: 5472692
 created_at: 2026-04-23T19:43:17Z
-updated_at: 2026-10-23T21:16:18Z
+updated_at: 2026-11-04T18:33:08Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:16:53Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Filter Your Search with Map Tools
@@ -31,9 +31,9 @@ The map tools are in the upper left of the map on the Search page:
 - Polygon tool (square icon): Draw a boundary by clicking points on the map.
 - Freehand tool (hand icon): Draw a boundary by dragging across the map.
 
-[Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to change the map style and turn on the Flood and Parcels layers.
+[Customize Your Search Results View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to change the map style and turn on the Flood and Parcels layers.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998645/0b3d26537fd7b7781686379a5b6f/upload_15473703725370018501.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998645/0b3d26537fd7b7781686379a5b6f/upload_15473703725370018501.png?expires=1792791900&signature=355a28ee2793d25f9dd7713fbc1fb6ab760893715139f1bb62c971e43250f532&req=dichF8B3lYdbXPMW1HO4zUbw4CM5rl8WwPW6SKy7ruu6Iwrhdcvc311OkIa4%0A6T7T%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998645/0b3d26537fd7b7781686379a5b6f/upload_15473703725370018501.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998645/0b3d26537fd7b7781686379a5b6f/upload_15473703725370018501.png?expires=1793820600&signature=481c96fa7cfc1fdfc458b83c9f4cdae9542d846ef14eea15d8b0d9bc737dfc6f&req=dichF8B3lYdbXPMW1HO4zUbw4CI2pV4ZwPW6Uqi9p9FJQRYI36JvNlcubXnJ%0A%2BwoP07sUfZsEMIRBlFs%3D%0A)
 
 # Search within a radius of a location with map tools
 
@@ -47,9 +47,7 @@ Search within a set distance of an address, city, school, or other location with
 
 Your search results update to show listings within the circle. The radius starts at 1 mile and ranges from 0.25 to 20 miles.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998755/0c6d95c39cd856ed4caf3539def3/upload_16053060461876218508.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998755/0c6d95c39cd856ed4caf3539def3/upload_16053060461876218508.png?expires=1792791900&signature=1a2063d556fe81eccf25ef26657075918412e5345da3167e7adc1d4d9c768797&req=dichF8B3lYZaXPMW1HO4zVVlsHFBcIlD8D3I2bB8GfjS1%2FKjT%2Fq4gR6ER2Vd%0ArXwO%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998799/e4b593571b2709c9846d03ed9886/upload_13472199113732969806.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998799/e4b593571b2709c9846d03ed9886/upload_13472199113732969806.png?expires=1792791900&signature=0b392c9f0a1508a4a49474a4220b32bbf19dc9ff5f4b2fded0bf14cf3294f3e4&req=dichF8B3lYZWUPMW1HO4zby8B00j7BcVdzwoTcWoESazxvJdv3G1CGH3IYIh%0AwXLu%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998755/0c6d95c39cd856ed4caf3539def3/upload_16053060461876218508.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998755/0c6d95c39cd856ed4caf3539def3/upload_16053060461876218508.png?expires=1793820600&signature=42025daac3f4c9141c77c1847c198a87c8d0300638dd6a128f9893debbafee77&req=dichF8B3lYZaXPMW1HO4zVVlsHBOe4hM8D3Iw7R6EMKMHbqlqgQL58%2FaBVSd%0ANZW1BFZCvvj%2B6S4R%2Fw0%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998799/e4b593571b2709c9846d03ed9886/upload_13472199113732969806.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998799/e4b593571b2709c9846d03ed9886/upload_13472199113732969806.png?expires=1793820600&signature=85b07f24f275dd9e04eae5986c531faeb89eaf94cf1551b11c2cf129c6306084&req=dichF8B3lYZWUPMW1HO4zby8B0ws5xYadzwoV8GuGBzU%2FWs%2BmO1kLfGaA4fk%0A3oNL9jOcFFLRcSs%2Bfz4%3D%0A)
 
 # Search by commute time from a location with map tools
 
@@ -69,7 +67,7 @@ The commute panel also includes these options:
 - Day dropdown: Select the day of the week. Mon is selected by default.
 - Time dropdown: Select Rush Hour, Now, or Off-peak. Rush Hour is 8:30 AM and Off-peak is 9:00 PM, both in local time. Rush Hour is selected by default.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998892/6adcb2e80c4976a998cbb21665a3/upload_7028694485386568170.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998892/6adcb2e80c4976a998cbb21665a3/upload_7028694485386568170.png?expires=1792791900&signature=35ae296d97a9141feb8d4c30d158a651c40aff4490cc443b0640899404f70f48&req=dichF8B3lYlWW%2FMW1HO4zRTnpCWaD9nFpMdCsAcCuPoB2HnPDTP3L5DlkCSn%0AkpVZ%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998892/6adcb2e80c4976a998cbb21665a3/upload_7028694485386568170.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998892/6adcb2e80c4976a998cbb21665a3/upload_7028694485386568170.png?expires=1793820600&signature=5a5e58db118023941539592b7586b755daec54b12eb5562d712d279bffa75ac3&req=dichF8B3lYlWW%2FMW1HO4zRTnpCSVBNjKpMdCqgMEscCx2i04QWONyCO8K65j%0A%2BJhV7E6%2BJxCMa8jFc2s%3D%0A)
 
 # Draw a custom boundary with map tools
 
@@ -118,7 +116,7 @@ Listings inside an excluded boundary stay out of your results under either optio
 
 > **Tip:** Click Overlaps only to find listings inside multiple areas at once. For example, draw a polygon around a neighborhood and a 2-mile radius around a school to see only the homes in both.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998993/d6c4d89f5ebcec454dc745696ef4/upload_8121480039472551548.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998993/d6c4d89f5ebcec454dc745696ef4/upload_8121480039472551548.png?expires=1792791900&signature=e3c49d6e55f96d8a2ae2a843986d64aaf5f2b225bdaa01b6035beccf0aca012c&req=dichF8B3lYhWWvMW1HO4zT2a5aLvgN3m5uZeShXCzlEv6L5%2FyPSs%2FB7DYE6i%0AyXF5%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998993/d6c4d89f5ebcec454dc745696ef4/upload_8121480039472551548.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761998993/d6c4d89f5ebcec454dc745696ef4/upload_8121480039472551548.png?expires=1793820600&signature=dc4ecafde41ca39e1eb4d05a0f1c6c6999194c6e9b2818f917bf1ae66e280770&req=dichF8B3lYhWWvMW1HO4zT2a5aPgi9zp5uZeUBHEx2u9IiIz6poagKbOYIm0%0AZu%2FZusFkRpxnFPGIawc%3D%0A)
 
 # Remove map boundaries from your search
 

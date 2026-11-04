@@ -12,10 +12,10 @@ collections: ["Manage People"]
 state: published
 author_id: 5472692
 created_at: 2026-04-23T15:32:06Z
-updated_at: 2026-11-03T17:58:22Z
+updated_at: 2026-11-04T18:11:31Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Create and Manage Teams
@@ -26,7 +26,7 @@ Use this article to see how Perchwell Teams share listing editing access, find a
 
 Perchwell Teams give every agent on a team full editing rights for each listing the team is assigned to. A brokerage admin or MLS staff member assigns a team by selecting it from the Listing team dropdown when they edit the listing. Team contact information appears on the Listing Detail Page.
 
-Team members log in as one another with Assume Identity. [Assume Identity](http://support.perchwell.com/baldwin/en/articles/16053168-assume-identity) explains how an agent gives a teammate access to their account.
+Team members log in as one another with Assume Identity. [Log In as an Agent with Assume Identity](http://support.perchwell.com/baldwin/en/articles/16053168-assume-identity) explains how an agent gives a teammate access to their account.
 
 # Find a team in Manage People
 
@@ -39,7 +39,7 @@ Find a team in Manage People by searching the Teams tab for a team name, Team Le
 
 The Teams list shows the matching teams, with each team's name, brokerage, Team Lead, status, email, and number of members.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png?expires=1793740500&signature=a31c4a34a97b055970742548bec912b0711d84abdbf90be619b03db36a3f525f&req=dicvE8p8m4hWWvMW1HO4zX6W6gXaidrZeMLKmhflT5gtwIaZuQiy9zkN1KLE%0AsDEKAvmyv3bpJ%2BlyaIU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png?expires=1793820600&signature=f780b242e448ac812eb6a75a99f8fe5a30c280766315ccb5828d0dbba18a9751&req=dicvE8p8m4hWWvMW1HO4zX6W6gXVj9raeMLKmhflT5iWxs9OhxtUTnI6wlhz%0AkfT2tPZyE17jWepeNSA%3D%0A)
 
 # Request a change to a team
 
@@ -70,7 +70,7 @@ The team form also includes these optional fields:
 - Contact: Enter the team's email and phone numbers.
 - Address: Enter the team's mailing address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png?expires=1793740500&signature=416c575fd9eed97f02d4325d26f00d56ad6b76e781aac3002570f6f9d8897742&req=dicvE8p8moFdXvMW1HO4zRSg0asMoBoazHu7CAqtarHVkMc8LsrTskWszhu4%0AYe%2BAhzNhPZv9Jv13VcE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png?expires=1793820600&signature=198b433f40ec0b0c0b894f0c64aee3d37f63a39b14c32a149e86c0ec0c1e734c&req=dicvE8p8moFdXvMW1HO4zRSg0asDphoZzHu7CAqtarFcC0MA35GJo2kMR6U5%0Ajd55TohhsAam%2BLnz2%2BI%3D%0A)
 
 # Add agents and choose a Team leader for an existing team
 
@@ -90,4 +90,4 @@ Add agents to an existing team with Edit Team in Manage People, and choose which
 
 The agents join the team and get full editing rights to listings assigned to it. Teams are limited to one brokerage, so the Agents dropdown shows only agents in the team's brokerage.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png?expires=1793740500&signature=6850880544e1d24b8d2c9ee1f20c8c7f811140064e3aa6cbfb12fe499950fd33&req=dicvE8p8moFbX%2FMW1HO4zQLwhm9kRUyiVqm5xMh7%2Flo2%2FnLThLzeEume8Z3n%0A3nDwhZ9LdhbhsPz8ZM4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png?expires=1793820600&signature=c222ae3a2a488daf49c4756bd84dc7b12640974ba1c87909bfbb460a2ed3d087&req=dicvE8p8moFbX%2FMW1HO4zQLwhm9rQ0yhVqm5xMh7%2Flq1%2FTZvSdzzJ9kBQZ14%0AFJ8PZIPyUXC1TwcnnLo%3D%0A)

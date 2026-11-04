@@ -10,12 +10,12 @@ collection: "Integrations"
 collection_ids: [19737537]
 collections: ["Integrations"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-09-01T22:26:55Z
-updated_at: 2026-09-01T23:14:46Z
+updated_at: 2026-11-04T18:43:39Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # ListTrac Integration
@@ -39,7 +39,7 @@ The integration runs in the background:
 
 Perchwell reports these events from a listing's **Listing Detail** page:
 - **View**: an agent opens the listing's **Listing Detail** page. Moving to another listing with the previous and next arrows counts as a view of that listing.
-- **Share**: an agent completes a share from the listing, such as sending it by **Email** or **Text**. [Share Multiple Listings in Perchwell](https://intercom.help/perchwell-help-center-baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers the share options in detail.
+- **Share**: an agent completes a share from the listing, such as sending it by **Email** or **Text**. [Share Listings with Clients from Search](https://intercom.help/perchwell-help-center-baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers the share options in detail.
 - **Inquiry**: an agent reaches out to the listing agent with **Contact Agent**. This event includes the listing agent's ID, which means ListTrac can credit the inquiry to the right agent.
 
 Each event carries the listing's MLS number and ZIP code so ListTrac can match it to the listing.

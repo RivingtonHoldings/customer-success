@@ -12,10 +12,10 @@ collections: ["Client Experience"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T17:58:03Z
-updated_at: 2026-11-04T17:58:03Z
+updated_at: 2026-11-04T19:03:45Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Share Listings with Your Agent
@@ -60,4 +60,4 @@ A separate window opens with a Search contacts field.
 
 The listings appear in Shared properties in your conversation, and your agent receives an email.
 
-[Communicate with Your Agent in Perchwell](http://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) explains how to chat with your agent and react to the listings they share with you.
+[Communicate with Your Agent via Messages in Perchwell](https://support.perchwell.com/crmls/en/articles/18231941-communicate-with-your-agent-via-messages-in-perchwell) explains how to chat with your agent and react to the listings they share with you.

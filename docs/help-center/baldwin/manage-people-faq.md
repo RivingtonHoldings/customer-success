@@ -12,10 +12,10 @@ collections: ["Manage People / FAQs"]
 state: published
 author_id: 5472692
 created_at: 2026-05-21T04:37:19Z
-updated_at: 2026-11-03T17:55:53Z
+updated_at: 2026-11-04T18:47:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Manage People FAQ
@@ -32,7 +32,7 @@ Brokers, office admins, and MLS staff assume an agent's identity from the agent'
 
 An admin for an agent or broker first contacts the MLS at [mls@baldwinrealtors.com](mailto:mls@baldwinrealtors.com), along with their broker, to request permission. The admin then logs in from Log in as in the profile menu, which lists only the agents who added them under Can login as me. Agents add only people in their own office. Agents on the same Perchwell team can also log in as one another to help manage listings.
 
-[Log In as an Agent with Assume Identity](https://support.perchwell.com/baldwin/en/articles/16053168-assume-identity) walks through each route step by step, and [Perchwell Teams](https://support.perchwell.com/baldwin/en/articles/14742099-perchwell-teams) explains how teams share listings.
+[Log In as an Agent with Assume Identity](https://support.perchwell.com/baldwin/en/articles/16053168-assume-identity) walks through each route step by step, and [Create and Manage Teams](https://support.perchwell.com/baldwin/en/articles/14742099-perchwell-teams) explains how teams share listings.
 
 # Will assuming an agent's identity affect them if they're logged in at the same time?
 

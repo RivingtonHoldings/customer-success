@@ -12,10 +12,10 @@ collections: ["Client Experience"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T17:53:30Z
-updated_at: 2026-11-04T17:53:31Z
+updated_at: 2026-11-04T19:03:12Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Accept Your Agent's Perchwell Invitation
@@ -71,6 +71,6 @@ Sign in to the Perchwell mobile app with the same email address and password as 
 Start working with your agent in your client portal, the Perchwell workspace for collaborating on your home search. Saved searches and messages your agent shares with you appear in your client portal.
 
 For more information:
-- [View Shared Saved Searches](https://support.perchwell.com/baldwin/en/articles/14743530-view-shared-saved-searches) explains how to open the saved searches your agent shares with you.
-- [Communicate with Your Agent in Perchwell](https://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) covers messaging your agent and reacting to listings with Like, Maybe, and Reject.
-- [Share Listings with Your Agent](https://support.perchwell.com/baldwin/en/articles/11373849-share-listings-with-your-agent) explains how to send listings to your agent by email or in Messages.
+- [View Shared Saved Searches](https://support.perchwell.com/crmls/en/articles/18232664-view-shared-saved-searches) explains how to open the saved searches your agent shares with you.
+- [Communicate with Your Agent via Messages in Perchwell](https://support.perchwell.com/crmls/en/articles/18231941-communicate-with-your-agent-via-messages-in-perchwell) covers messaging your agent and reacting to listings with Like, Maybe, and Reject.
+- [Share Listings with Your Agent](https://support.perchwell.com/crmls/en/articles/18232061-share-listings-with-your-agent) explains how to send listings to your agent by email or in Messages.

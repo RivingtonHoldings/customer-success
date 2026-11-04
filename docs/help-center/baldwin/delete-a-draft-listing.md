@@ -10,29 +10,29 @@ collection: "Listing Maintenance"
 collection_ids: [17797908]
 collections: ["Listing Maintenance"]
 state: published
-author_id: 5441712
+author_id: 5472692
 created_at: 2026-09-08T18:07:44Z
-updated_at: 2026-09-08T18:19:50Z
+updated_at: 2026-11-04T18:27:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-14T14:26:04Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Delete a Draft Listing
 
-## Delete a Draft Listing
+# Delete a Draft Listing
 
 Use the **Listing Management** form to delete a listing that is still in **Draft** status.
 
-## Steps
+# Steps
 1. Go to **Manage Listings:** [https://www.perchwell.com/listings](https://www.perchwell.com/listings)
 2. Locate the draft listing you want to delete.
-3. Click the **pencil icon** on the right side of the listing row.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png?expires=1789398000&signature=f559fe4b21f76a2d6bcb354cd80cef9041f76da476e62ccc55d0c3343164da02&req=diYiHs13m4ddUPMW1HO4zXv8pAUYrnZwWbBOFvbf715gIBj0uBl0xkzwYhJp%0AWtyO%0A)
-4. In the lower-left corner of the **Listing Management** form, click **Delete**.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png?expires=1789398000&signature=59569901a9381af1da2290d2949fdf92a54167a7f3416eacbc6f46f3f1b585c7&req=diYiHs13moRaXfMW1HO4zfFT%2FeN9iwwq8RhMoKsvb%2FoUyKD8fAGy3GKSwUAP%0Aub9Y%0A)
+3. Click the **pencil icon** on the right side of the listing row.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png?expires=1793820600&signature=9e7fb48806ab7591c79fcb02b1e534757369e3767b6b511a4ca78c3e3d30ac89&req=diYiHs13m4ddUPMW1HO4zXv8pQ8TpX52WbBOFvbf7175SKmUOY0oUtCeAkec%0ATS0x%0A)
+4. In the lower-left corner of the **Listing Management** form, click **Delete**.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png?expires=1793820600&signature=7ac44ebf9de4a9ed21ef5f01076233aec354d49a29d9948bc0491c9b65553d0d&req=diYiHs13moRaXfMW1HO4zfFT%2FOl2gAQs8RhMoKsvb%2FrddjwIQ4GTh6yKjSnM%0A5pI%2F%0A)
 
 > ⚠️ This process applies only to draft listings.
 
-> 📖 Learn more about navigating your listing inventory in [Manage Listings Page Overview](https://app.notion.com/p/Manage-Listings-Page-Overview-30c8b9e0143880058446f3e0fa0f2a53?pvs=21).
+> 📖 Learn more about navigating your listing inventory in [Manage Listings Page Overview](https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview).
 
 > **Connect with our Support Team:**
 >

@@ -12,10 +12,10 @@ collections: ["FAQs & Cheat Sheets"]
 state: published
 author_id: 5472692
 created_at: 2026-04-21T17:21:12Z
-updated_at: 2026-11-03T17:32:13Z
+updated_at: 2026-11-04T18:44:43Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Login and Troubleshooting FAQ
@@ -32,11 +32,11 @@ Log in to Perchwell on a computer from your Baldwin portal, Relevate.
 
 Perchwell opens, already logged in to your account.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png?expires=1793740500&signature=d6ff2b94ddf381a5fa6c09b22deaf82b0b916499e992c737dd6b0cc0cc0a278b&req=dicvE8h4n4hfUPMW1HO4zVmzXeHsYcrKvNsyNbbZ2clRIGFKbxd%2B4aDhiQ9z%0A6mAAK0snYUR3zfxscAU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png?expires=1793820600&signature=2eac4ee2d20eaf3e7e034395babb8438660b7bd8d445cc1ae326808167b84469&req=dicvE8h4n4hfUPMW1HO4zVmzXeHjZ8rJvNsyNbbZ2ckt6syY%2FvlnjLREkcGv%0AFn%2BWhnRz9GAVVAv%2Fpho%3D%0A)
 
 ## How do I log in to the Perchwell mobile app?
 
-Log in to the Perchwell mobile app with the email address in your Baldwin portal. Then sign in with your Baldwin portal username and password. [How to Log in to the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/15280170-how-to-log-in-to-the-perchwell-mobile-app) walks through each screen.
+Log in to the Perchwell mobile app with the email address in your Baldwin portal. Then sign in with your Baldwin portal username and password. [Log In to the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/15280170-how-to-log-in-to-the-perchwell-mobile-app) walks through each screen.
 
 ## Can I log in to Perchwell without the Baldwin portal?
 
@@ -62,7 +62,7 @@ Complete the required Baldwin Realtors training, then log in to Perchwell again.
 
 Log out of Perchwell, then log back in through your Baldwin portal to refresh your session. Check that you logged in with your own Baldwin portal account. If the error continues, contact Baldwin MLS staff to check your account's permissions.
 
-Personal and office assistants who see only the Dashboard need permission from their agent or broker first. [User Settings FAQs](http://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faqs) explains why.
+Personal and office assistants who see only the Dashboard need permission from their agent or broker first. [User Settings FAQ](http://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faqs) explains why.
 
 # Fix loading, display, and browser problems in Perchwell
 

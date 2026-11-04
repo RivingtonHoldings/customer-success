@@ -12,10 +12,10 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-22T18:00:17Z
-updated_at: 2026-11-03T20:30:00Z
+updated_at: 2026-11-04T19:00:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Review Saved Searches Moved from Paragon
@@ -28,7 +28,7 @@ Click Saved Searches, or the name of the open saved search, in the upper left of
 
 Saved searches moved in a one-time transfer the week before your Perchwell access date. A saved search created in Paragon after that date did not move, so recreate it in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png?expires=1793739600&signature=ee348abb258da8b3f35806e455339bb570d24114eb4e5672df117b9b85438144&req=dicvE894lYhaUfMW1HO4zQdLqArbG0uaUtThw5Ip9dfK8JpawojBwGzoXeTW%0AWIIj%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png?expires=1793820600&signature=71e7268422c3ae3d8673479a232c3349b3a09730a3aa5530b9c4079e702f122d&req=dicvE894lYhaUfMW1HO4zQdLqArUGkKaUtThw5Ip9ddQbq8lElwrZuujvd6x%0AKuow%0A)
 
 # Find the contacts linked to saved searches moved from Paragon
 
@@ -38,7 +38,7 @@ Saved searches moved from Paragon stay linked to the contacts they had in Parago
 
 A link moved only when Paragon sent both the contact and the saved search with the link between them. To add a missing contact, click the pencil icon next to the search in the My Searches window. Select the contact from the Contacts dropdown in the Edit Search window, then click Update. [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches) explains sharing a saved search with a contact.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png?expires=1793739600&signature=81536ebf0b9a128e8757e305a2b9e5e6b54563c82a71924a5a59f2e9c119e379&req=dicvE894lYhXWPMW1HO4zYvDc9uMM0IZPot7553X9EOMssCMW7SJyMX50EE8%0AhOK0%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png?expires=1793820600&signature=7b245add4ec5fcd450ab60313d71cd4a88065c0f1f64c514d3c2a313cbc92e9e&req=dicvE894lYhXWPMW1HO4zYvDc9uDMksZPot7553X9EM%2F9JbOaigly%2BZCoBZK%0At%2B04%0A)
 
 # Why saved searches moved from Paragon need review
 
@@ -55,7 +55,7 @@ Baldwin REALTORS® MLS also changed some fields to follow RESO (Real Estate Stan
 | More than 2 Pets Allowed? | The More than 2 pets allowed option in Community Amenities |
 | All Features, with Or between features in different groups | The filter for each feature on the Filters tab, such as Community Amenities or Pool Features |
 
-Paragon's Class is Property Type in Perchwell, and Paragon's Property Type is the subtype. [Field & Data Representation Upgrade](http://support.perchwell.com/baldwin/en/articles/14459773-field-data-representation-upgrade) lists every field that changed.
+Paragon's Class is Property Type in Perchwell, and Paragon's Property Type is the subtype. [Listing Field Changes in Perchwell](http://support.perchwell.com/baldwin/en/articles/14459773-field-data-representation-upgrade) lists every field that changed.
 
 # Review and update a saved search moved from Paragon
 

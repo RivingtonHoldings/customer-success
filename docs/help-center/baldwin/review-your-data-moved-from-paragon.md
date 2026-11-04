@@ -12,10 +12,10 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-22T17:18:25Z
-updated_at: 2026-11-03T20:28:04Z
+updated_at: 2026-11-04T19:04:07Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Review Your Data Moved from Paragon
@@ -38,7 +38,7 @@ These items from Paragon did not move to Perchwell:
 - The history of listings you shared with each contact
 - Contacts' notes and reactions on listings
 - Market Monitor settings. Add a Hot Sheet to your Dashboard to track new and updated listings, as explained in [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/baldwin/en/articles/13893409-add-a-hot-sheet-to-the-dashboard).
-- Listing Carts. Create a Tag to save and share listings with clients, as explained in [How to Create a Tag](http://support.perchwell.com/baldwin/en/articles/16221240-how-to-create-a-tag).
+- Listing Carts. Create a Tag to save and share listings with clients, as explained in [Create and Edit a Tag](http://support.perchwell.com/baldwin/en/articles/16221240-how-to-create-a-tag).
 
 # Review saved searches moved from Paragon
 
@@ -54,9 +54,9 @@ Review each saved search moved from Paragon, because some of its filters may hav
 
 The saved search keeps your changes. Its name still starts with [From Paragon: Unreviewed] until you rename it, and its alerts stay off until you turn them on.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png?expires=1793739600&signature=2ea759637cfeaa67eab2e8de25da28846f3ccb4d2d0dee6fe8664a58f69a0f9e&req=dicvE894mIJdWPMW1HO4zax8w9gwLM7bZRA3Iq%2Bvqje68XaHxE1hadVP13m6%0APY%2Fb%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png?expires=1793820600&signature=b2656b5c64a3c9888c2d75cc2fffa4da67231329ea41031ad556aec99d8ee1aa&req=dicvE894mIJdWPMW1HO4zax8w9g%2FLcfbZRA3Iq%2Bvqjd7QQyeNAs9GZrdcZJX%0AsJ3S%0A)
 
-Check the Contacts column in the My Searches window to confirm each saved search is linked to the right contacts. [Your Data: Saved Searches from Paragon](http://support.perchwell.com/baldwin/en/articles/14725825-your-data-saved-searches-from-paragon) lists the Paragon filters most likely to have changed.
+Check the Contacts column in the My Searches window to confirm each saved search is linked to the right contacts. [Review Saved Searches Moved from Paragon](http://support.perchwell.com/baldwin/en/articles/14725825-your-data-saved-searches-from-paragon) lists the Paragon filters most likely to have changed.
 
 # Rename a reviewed saved search and turn its alerts back on
 
@@ -75,7 +75,7 @@ A green "Your saved search has been updated." message appears in the lower right
 
 Update your contacts moved from Paragon before you share with them. They arrived uninvited, and some have no email address. A contact with no email address is left out when you share listings, saved searches, or reports, or send a message.
 
-[Find and Update Contacts Moved from Paragon](https://support.perchwell.com/baldwin/en/articles/14726035-your-data-contacts-from-paragon) explains how to add a missing email address and invite a contact to Perchwell. To tell your clients about the move, copy an email from [Agent-to-Client Transition Email Templates](http://support.perchwell.com/baldwin/en/articles/15521036-agent-to-client-transition-email-templates).
+[Find and Update Contacts Moved from Paragon](https://support.perchwell.com/baldwin/en/articles/14726035-your-data-contacts-from-paragon) explains how to add a missing email address and invite a contact to Perchwell. To tell your clients about the move, copy an email from [Sample Emails to Tell Clients About Perchwell](http://support.perchwell.com/baldwin/en/articles/15521036-agent-to-client-transition-email-templates).
 
 # Finish draft listings moved from Paragon
 

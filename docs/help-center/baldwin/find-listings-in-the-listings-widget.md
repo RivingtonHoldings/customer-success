@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: published
 author_id: 5472692
 created_at: 2026-03-02T03:44:46Z
-updated_at: 2026-11-03T22:00:10Z
+updated_at: 2026-11-04T18:39:58Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Find Listings in the Listings Widget
@@ -30,7 +30,7 @@ To find the Listings widget, click Dashboard in the top navigation bar from anyw
 
 > **Note:** The Listings widget cannot be removed or moved to a different position on the Dashboard.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png?expires=1793764800&signature=76b5465ff77797d19948f7f34359fa7ead8d254b66a147722a4a9c5efc1d00ac&req=dicvE8F8lINfX%2FMW1HO4zS93bW55nht9JJkB6RZZ4FbCzZVNr1jEoL%2Fm%2BXba%0A207hF%2F1n2kiBJ7Eacqg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png?expires=1793820600&signature=985ff88cf403067fb9049a7e95ea4261e0ac2a61afbbaca535042ab0700dc7c5&req=dicvE8F8lINfX%2FMW1HO4zS93bW52mh9zJJkB6RZZ4FalAxxULjBQdFxTwGCB%0Ai5qMfFdYxUnx3WOXrH8%3D%0A)
 
 # Narrow the listings in the Listings widget
 
@@ -60,7 +60,7 @@ The status and activity filters sit below the Search field in the Listings widge
 - Price Drop
 - Price Increase
 
-Active, Coming Soon, Active Under Contract, Pending, and Closed filter listings by status. See [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) for what each one means.
+Active, Coming Soon, Active Under Contract, Pending, and Closed filter listings by status. See [What Each Listing Status Means](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) for a definition of each one.
 
 Open Houses, Price Drop, and Price Increase filter listings by recent listing activity rather than status.
 
@@ -68,9 +68,7 @@ Listings appear from most recent to least recent. For example, with Active selec
 
 If some status and activity filters are hidden, click the arrow at the end of the row to see the next set.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png?expires=1793764800&signature=35bc6f81fbe1c8826a936f51ad77795ee9acf0e12bd0866c2fb8cceb29c2c2cb&req=dicvE8F8lINcXfMW1HO4zU9IB7YpxI4mtTV1UlXK1VzScb07kvbHim5S%2Bopf%0ATGHt9ce4CN9mkAKoRB8%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png?expires=1793764800&signature=a8e204b0d78a39d0a2cbc222179de2a46d5e5fa711cb7aa97f7da8dba74e580d&req=dicvE8F8lINaXPMW1HO4zTTFyD3L6XZnPBu5Jxq1SwReR3v%2Fp0t2HB6pUPml%0A4Q5m3cRYNhDVKx01Q%2FU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png?expires=1793820600&signature=3836a5297733753036b4425cb9d8bedf76d1706560aeb8a96f09d2720b077125&req=dicvE8F8lINcXfMW1HO4zU9IB7YmwIootTV1UlXK1VzAbdsdatBBTFTTkSjp%0A%2Bf9i1yQCexTMtgnJ8mw%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png?expires=1793820600&signature=c74ba062cb7185ca96504c563d47baeb38b3eddbbb15a10ea4481ac1a47e4d2d&req=dicvE8F8lINaXPMW1HO4zTTFyD3E7XJpPBu5Jxq1SwTCckIBDFHSykjp12v4%0AQdfjKBWbvjlEuNCfzzg%3D%0A)
 
 ## Search within the Listings widget
 

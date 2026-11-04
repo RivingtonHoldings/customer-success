@@ -12,10 +12,10 @@ collections: ["Reports"]
 state: published
 author_id: 5472692
 created_at: 2025-11-12T03:56:45Z
-updated_at: 2026-11-04T02:47:28Z
+updated_at: 2026-11-04T18:06:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:41Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Create a One Page Report
@@ -32,7 +32,7 @@ A One Page Report is a quick, client-ready listing summary. Each One Page Report
 - Send a simple listing overview to a client
 - Print a one-page handout for an in-person meeting
 
-To print the entire Listing Detail Page instead, see [Create and Share Full Reports](http://support.perchwell.com/baldwin/en/articles/12816757-create-and-share-full-reports).
+To print the entire Listing Detail Page instead, see [Create a Full Report](http://support.perchwell.com/baldwin/en/articles/12816757-create-and-share-full-reports).
 
 # Create a One Page Report from a Listing Detail Page
 
@@ -46,9 +46,7 @@ Create a One Page Report for one listing from its Listing Detail Page.
 
 Your browser's print window opens with the One Page Report, so check the page before you print it or save it as a PDF (Portable Document Format) file.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png?expires=1793764800&signature=a6ad81e4021f9950ad9148e8d4346569faa4872420a2e6319ac39a085cb59613&req=dicvEMh2mohdXvMW1HO4zTfapVrxwQUcl3xw9ZPqxbCXz2cdGCPb%2BKMMXPmr%0AGSIDMflmOi%2Fjrrib2vk%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png?expires=1793764800&signature=cf96ac31dabba41f8dc2ac6a6662b49bacfc483452bb8b0c2ed931c38693ae1f&req=dicvEMh2mohcXvMW1HO4zVnMuKLqstDsXNBAJ9MlRcfmEBxe0A%2BQLnkUGnxV%0AiAhmjsxN5pXpDIiNuH4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png?expires=1793820600&signature=e5216aaa7f3049d5cfdf5f21efe692efcd82fffe65499ea455173231e4cbcede&req=dicvEMh2mohdXvMW1HO4zTfapVr%2BxQESl3xw9ZPqxbA8MnxAU98SWlWumLYB%0Aej2ceehmCbAlZwsK6Nk%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png?expires=1793820600&signature=f28ea01b3a045cbd62f356a636154ad7887b74dfb92227c8e1e87c0dfec979d2&req=dicvEMh2mohcXvMW1HO4zVnMuKLlttTiXNBAJ9MlRcds00vyXLePsoFPip6s%0AM4qCDfh9OIKIIA9dM7g%3D%0A)
 
 # Create a One Page Report from your search results
 
@@ -63,7 +61,7 @@ Create a One Page Report for one or more listings from the Search page. The repo
 
 The report window moves to the Customize Report step with your selected listings. To add listings later, create a new One Page Report from the Search page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png?expires=1793764800&signature=c3ff6c7ec3d2acde59b1bb3ba17f5ca9a25c5b5e91bdab4349db1caa15969d8b&req=dicvEMh2mohaWvMW1HO4zboVF25GpM2iGFwGCuSzK7brwe26U0gFLIStg2TO%0ADpVLNDV72Sn%2BD1wHI00%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png?expires=1793820600&signature=5342a859029b58459132c8c0feb95bab1dcf215fdcab9fd9fc038c9092696407&req=dicvEMh2mohaWvMW1HO4zboVF25JoMmsGFwGCuSzK7aEPvT%2FuivndN%2Fz9tzc%0ANotFYsE6Se3YibL7fSc%3D%0A)
 
 # Choose the agent or client version of the One Page Report
 
@@ -113,4 +111,4 @@ Open your Report library to find saved One Page Reports.
 
 Your Report library opens with your saved reports. Search for a report by the recipient's email address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png?expires=1793764800&signature=ab6f831ca908d332f1e3c790ad71e3943a3f6ff8e38374ea15c978bf0a1f66ee&req=dicvEMh2mohZX%2FMW1HO4zWTtIirMh40fkjspOlimH2ECXavQWJR282i9Yr9E%0AT7ZgbDkewGM3zsdUWYw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png?expires=1793820600&signature=22252607da52d2df93647d904e209fdad90e62ce01b667d6b219b9c40bc3603b&req=dicvEMh2mohZX%2FMW1HO4zWTtIirDg4kRkjspOlimH2FlMpYuk7na7ysLfgeI%0AasgobgjA1tu5tr0jGhI%3D%0A)

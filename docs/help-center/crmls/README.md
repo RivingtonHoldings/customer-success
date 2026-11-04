@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:08:00Z. Articles: 92 (75 published, 17 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:06:48Z. Articles: 93 (75 published, 18 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -17,17 +17,18 @@ Collection ID 16867014. 4 articles.
 
 Collection ID 16866981. 1 articles.
 
-- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
+- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-04
 
 ## Client Experience
 
-Collection ID 19802003. 5 articles.
+Collection ID 19802003. 6 articles.
 
 - [Accept Your Agent's Perchwell Invitation](accept-your-agent-s-perchwell-invitation-18231917.md) (draft), updated 2026-11-04
 - [Communicate with Your Agent via Messages in Perchwell](communicate-with-your-agent-via-messages-in-perchwell.md) (draft), updated 2026-11-04
 - [Receive Alerts About New Listings](receive-alerts-about-new-listings.md) (draft), updated 2026-11-04
 - [Share Listings With Your Agent](share-listings-with-your-agent-18231637.md), updated 2026-11-04
 - [Share Listings with Your Agent](share-listings-with-your-agent.md) (draft), updated 2026-11-04
+- [View Shared Saved Searches](view-shared-saved-searches-18232664.md) (draft), updated 2026-11-04
 
 ## Critical Workflows
 
@@ -156,7 +157,7 @@ Collection ID 16866944. 8 articles.
 - [Enhancing Your Search with Filters](enhancing-your-search-with-filters.md), updated 2026-07-02
 - [Filter Your Search by Commute](filter-your-search-by-commute.md), updated 2026-07-02
 - [Filter Your Search by Keywords](filter-your-search-by-keywords.md), updated 2026-07-02
-- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-11-04
 - [Filtering your Search by Property Types](filtering-your-search-by-property-types.md), updated 2026-07-02
 - [Using the Draw Filter](using-the-draw-filter.md) (draft), updated 2026-07-02
 
@@ -165,10 +166,10 @@ Collection ID 16866944. 8 articles.
 Collection ID 16866865. 15 articles.
 
 - [Create a Cloud CMA Presentation from Search](create-a-cloud-cma-presentation-from-search.md), updated 2026-07-02
-- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
+- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-11-04
 - [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
 - [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
-- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-10-23
+- [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-11-04
 - [Multi-Listing Actions on the Search Page](multi-listing-actions-on-the-search-page.md) (draft), updated 2026-07-02
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-10-23
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
@@ -189,7 +190,7 @@ Collection ID 16866993. 7 articles.
 - [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-07-02
 - [Grouping Contacts: Practical Use Cases](grouping-contacts-practical-use-cases.md) (draft), updated 2026-07-02
 - [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md), updated 2026-11-03
-- [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-03
+- [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-04
 - [Sharing Listings](sharing-listings.md) (draft), updated 2026-07-02
 
 ## Client Collaboration / Invited Clients (under Client Collaboration)

@@ -1,8 +1,256 @@
 {
- "last_run": "2026-11-04T18:08:00Z",
+ "last_run": "2026-11-04T19:06:48Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "14725404": {
+   "file": "review-your-data-moved-from-paragon.md",
+   "updated_at": 1793819047,
+   "state": "published",
+   "title": "Review Your Data Moved from Paragon",
+   "content_id": "17292415",
+   "body_sha1": "1d172ad4bc87380fa62bb207de0ed62e7a081852"
+  },
+  "14725825": {
+   "file": "review-saved-searches-moved-from-paragon.md",
+   "updated_at": 1793818806,
+   "state": "published",
+   "title": "Review Saved Searches Moved from Paragon",
+   "content_id": "17292991",
+   "body_sha1": "a58f23d56d61fb23cc8f21efe08e7a13ea578680"
+  },
+  "11373805": {
+   "file": "receive-alerts-about-new-listings.md",
+   "updated_at": 1793818709,
+   "state": "published",
+   "title": "Receive Alerts About New Listings",
+   "content_id": "12304765",
+   "body_sha1": "76ced477bb717dcff0a93e7b1a3e27c27a58489c"
+  },
+  "16777012": {
+   "file": "offer-manager-integration.md",
+   "updated_at": 1793818646,
+   "state": "published",
+   "title": "Offer Manager Integration",
+   "content_id": "20279630",
+   "body_sha1": "a7ef1d4433a15d4fb9c64d388c1233c3d42b6957"
+  },
+  "14786130": {
+   "file": "message-clients-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793818483,
+   "state": "published",
+   "title": "Message Clients in the Perchwell Mobile App",
+   "content_id": "17381504",
+   "body_sha1": "e2d5309a45575ff6d559997586784c7fc37d248f"
+  },
+  "12541968": {
+   "file": "message-clients-in-perchwell.md",
+   "updated_at": 1793818356,
+   "state": "published",
+   "title": "Message Clients in Perchwell",
+   "content_id": "14014573",
+   "body_sha1": "64cde81b2e6b89e20ee2817eadcb6e0f4437c11a"
+  },
+  "8955646": {
+   "file": "manage-your-saved-searches.md",
+   "updated_at": 1793818173,
+   "state": "published",
+   "title": "Manage Your Saved Searches",
+   "content_id": "9098936",
+   "body_sha1": "769c090fa55e1f27623d853049640b8e3811c09a"
+  },
+  "15201140": {
+   "file": "manage-people-faq.md",
+   "updated_at": 1793818025,
+   "state": "published",
+   "title": "Manage People FAQ",
+   "content_id": "17971228",
+   "body_sha1": "f7818c8ac234fb19d60808757e557c7f8a889b7c"
+  },
+  "14785957": {
+   "file": "manage-contacts-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793817960,
+   "state": "published",
+   "title": "Manage Contacts in the Perchwell Mobile App",
+   "content_id": "17381257",
+   "body_sha1": "e929e5573f5b13009ba273b6cfb02d8776b29b27"
+  },
+  "14710265": {
+   "file": "login-and-troubleshooting-faq.md",
+   "updated_at": 1793817883,
+   "state": "published",
+   "title": "Login and Troubleshooting FAQ",
+   "content_id": "17269443",
+   "body_sha1": "e96cfac64b685ebbbdf7b06e9cecae9ddb794657"
+  },
+  "16777050": {
+   "file": "listtrac-integration.md",
+   "updated_at": 1793817819,
+   "state": "published",
+   "title": "ListTrac Integration",
+   "content_id": "20279677",
+   "body_sha1": "fe20415ddbc9e0b78abeb69888a8e23313be7460"
+  },
+  "15199904": {
+   "file": "listing-maintenance-faq.md",
+   "updated_at": 1793817757,
+   "state": "published",
+   "title": "Listing Maintenance FAQ",
+   "content_id": "17969584",
+   "body_sha1": "f80b254356d2e5d994b8f627dcdf654ad511d8c2"
+  },
+  "14784837": {
+   "file": "listing-detail-page-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793817700,
+   "state": "published",
+   "title": "Listing Detail Page in the Perchwell Mobile App",
+   "content_id": "17380040",
+   "body_sha1": "bbeada99f2cb022e6f75398cf8dcb867ae16a528"
+  },
+  "16221382": {
+   "file": "link-a-saved-search-to-a-tag.md",
+   "updated_at": 1793817648,
+   "state": "published",
+   "title": "Link a Saved Search to a Tag",
+   "content_id": "19552161",
+   "body_sha1": "416ba28985fb7ce3e04703885bb03c487fad605d"
+  },
+  "14459773": {
+   "file": "listing-field-changes-in-perchwell.md",
+   "updated_at": 1793817642,
+   "state": "published",
+   "title": "Listing Field Changes in Perchwell",
+   "content_id": "16905918",
+   "body_sha1": "805172d3c553dfd2ba2e29f4ebbbd3eaa9532b9d"
+  },
+  "13903171": {
+   "file": "find-listings-in-the-listings-widget.md",
+   "updated_at": 1793817598,
+   "state": "published",
+   "title": "Find Listings in the Listings Widget",
+   "content_id": "16154426",
+   "body_sha1": "393086f653af2207f8a31acada8306f2fc404909"
+  },
+  "14459704": {
+   "file": "find-familiar-features-by-their-perchwell-names.md",
+   "updated_at": 1793817515,
+   "state": "published",
+   "title": "Find Familiar Features by Their Perchwell Names",
+   "content_id": "16905403",
+   "body_sha1": "614aa1c32a212bd114cd47d8381a05427b21b007"
+  },
+  "14744497": {
+   "file": "filter-your-search-with-map-tools.md",
+   "updated_at": 1793817188,
+   "state": "published",
+   "title": "Filter Your Search with Map Tools",
+   "content_id": "17317672",
+   "body_sha1": "856ce7cc69657ef027277bc04e80afe98f1eedb4"
+  },
+  "13922158": {
+   "file": "filter-your-search-by-property-type-and-subtype.md",
+   "updated_at": 1793817018,
+   "state": "published",
+   "title": "Filter Your Search by Property Type and Subtype",
+   "content_id": "16183571",
+   "body_sha1": "d2f3b7a53091db3b81256f18bbbf8dd1271ebcee"
+  },
+  "11517245": {
+   "file": "filter-your-search-by-open-house-date.md",
+   "updated_at": 1793816934,
+   "state": "published",
+   "title": "Filter Your Search by Open House Date",
+   "content_id": "12507731",
+   "body_sha1": "51b51ef142b1a5f78d71f993b2d94589c0010578"
+  },
+  "12896093": {
+   "file": "export-contacts-to-a-csv-file.md",
+   "updated_at": 1793816895,
+   "state": "published",
+   "title": "Export Contacts to a CSV File",
+   "content_id": "14593607",
+   "body_sha1": "1b412a2c7821ac942354eb878ac5de63836b3b89"
+  },
+  "16864886": {
+   "file": "delete-a-draft-listing.md",
+   "updated_at": 1793816843,
+   "state": "published",
+   "title": "Delete a Draft Listing",
+   "content_id": "20404338",
+   "body_sha1": "5002715c43169712fef38bae579d59b95c25defc"
+  },
+  "13903062": {
+   "file": "dashboard-overview.md",
+   "updated_at": 1793816800,
+   "state": "published",
+   "title": "Dashboard Overview",
+   "content_id": "16154239",
+   "body_sha1": "6d0b9ec0d08c270bb9205b50b185073d516e4d1a"
+  },
+  "15216626": {
+   "file": "dashboard-faq.md",
+   "updated_at": 1793816720,
+   "state": "published",
+   "title": "Dashboard FAQ",
+   "content_id": "17993546",
+   "body_sha1": "6f13308426f3355c9f637a3515cfdb3d18390e87"
+  },
+  "11962073": {
+   "file": "customize-your-search-results-view.md",
+   "updated_at": 1793816656,
+   "state": "published",
+   "title": "Customize Your Search Results View",
+   "content_id": "13190641",
+   "body_sha1": "3520cd25669bc07e8ded8177d598eeaf0f24ded4"
+  },
+  "14790755": {
+   "file": "create-and-manage-your-contacts-in-perchwell.md",
+   "updated_at": 1793815956,
+   "state": "published",
+   "title": "Create and Manage Your Contacts in Perchwell",
+   "content_id": "17388981",
+   "body_sha1": "d644270b69c2f5a1ba53509b6a23c1862e70485e"
+  },
+  "14742099": {
+   "file": "create-and-manage-teams.md",
+   "updated_at": 1793815891,
+   "state": "published",
+   "title": "Create and Manage Teams",
+   "content_id": "17314260",
+   "body_sha1": "2a96588659228f44fa16b5e6a217ff0828130fb4"
+  },
+  "16221240": {
+   "file": "create-and-edit-a-tag.md",
+   "updated_at": 1793815815,
+   "state": "published",
+   "title": "Create and Edit a Tag",
+   "content_id": "19551948",
+   "body_sha1": "08bd3012cd8d0af116883b84cdd25fcfdc00c755"
+  },
+  "13903380": {
+   "file": "create-a-search-with-filters.md",
+   "updated_at": 1793815638,
+   "state": "published",
+   "title": "Create a Search with Filters",
+   "content_id": "16154782",
+   "body_sha1": "91a528db41b3db218358609900c394fcc02b6187"
+  },
+  "12816780": {
+   "file": "create-a-one-page-report.md",
+   "updated_at": 1793815565,
+   "state": "published",
+   "title": "Create a One Page Report",
+   "content_id": "14458010",
+   "body_sha1": "389270548fa86fa0c19fdd0af4411a0f5b747660"
+  },
+  "12816757": {
+   "file": "create-a-full-report.md",
+   "updated_at": 1793815318,
+   "state": "published",
+   "title": "Create a Full Report",
+   "content_id": "14457971",
+   "body_sha1": "56e4b6fac3c89d37b72e5d119f83b582d883d5fe"
+  },
   "13975194": {
    "file": "contacts-page-overview.md",
    "updated_at": 1793815162,
@@ -75,14 +323,6 @@
    "content_id": "18497092",
    "body_sha1": "8174a46160c876be1f77180d5cac5d8976d81a5a"
   },
-  "14459773": {
-   "file": "listing-field-changes-in-perchwell.md",
-   "updated_at": 1793813338,
-   "state": "published",
-   "title": "Listing Field Changes in Perchwell",
-   "content_id": "16905918",
-   "body_sha1": "9f9a1228036e5b87b17e5c299c27a36cbe8c501f"
-  },
   "14465546": {
    "file": "tags-page-overview.md",
    "updated_at": 1793813280,
@@ -90,22 +330,6 @@
    "title": "Tags Page Overview",
    "content_id": "16914937",
    "body_sha1": "de20e0d6af89219e9eae7f0da7944eebf56c318f"
-  },
-  "16221382": {
-   "file": "link-a-saved-search-to-a-tag.md",
-   "updated_at": 1793813204,
-   "state": "published",
-   "title": "Link a Saved Search to a Tag",
-   "content_id": "19552161",
-   "body_sha1": "3c2f0c4415400527025388d85bcfe2c6ffbe4410"
-  },
-  "16221240": {
-   "file": "create-and-edit-a-tag.md",
-   "updated_at": 1793813135,
-   "state": "published",
-   "title": "Create and Edit a Tag",
-   "content_id": "19551948",
-   "body_sha1": "c9fb5c2af4d2e07a6d285f9568f7b19b61830ec8"
   },
   "14786263": {
    "file": "search-in-the-perchwell-mobile-app.md",
@@ -115,22 +339,6 @@
    "content_id": "17381674",
    "body_sha1": "eb4d195b26e02b2d1f7cb00b578b628f086dbe1a"
   },
-  "14784837": {
-   "file": "listing-detail-page-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793812875,
-   "state": "published",
-   "title": "Listing Detail Page in the Perchwell Mobile App",
-   "content_id": "17380040",
-   "body_sha1": "5b53f5267e449cc3d57eae3d7d4c13df48cbc9b1"
-  },
-  "14785957": {
-   "file": "manage-contacts-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793812808,
-   "state": "published",
-   "title": "Manage Contacts in the Perchwell Mobile App",
-   "content_id": "17381257",
-   "body_sha1": "4c09c1e7f949698489ddad53f2acbb113b809d5c"
-  },
   "14743530": {
    "file": "view-shared-saved-searches.md",
    "updated_at": 1793810910,
@@ -138,14 +346,6 @@
    "title": "View Shared Saved Searches",
    "content_id": "17316361",
    "body_sha1": "9c02d43874e03081a431a9799694b2dd2582693d"
-  },
-  "11373805": {
-   "file": "receive-alerts-about-new-listings.md",
-   "updated_at": 1793741945,
-   "state": "published",
-   "title": "Receive Alerts About New Listings",
-   "content_id": "12304765",
-   "body_sha1": "92e3b2d15314ba84321449ed0366887906a57f3f"
   },
   "11373888": {
    "file": "communicate-with-your-agent-via-messages-in-perchwell.md",
@@ -219,22 +419,6 @@
    "content_id": "9099068",
    "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
   },
-  "12816780": {
-   "file": "create-a-one-page-report.md",
-   "updated_at": 1793760448,
-   "state": "published",
-   "title": "Create a One Page Report",
-   "content_id": "14458010",
-   "body_sha1": "bcff58ac0d61d698b366a47a598766cdf764416f"
-  },
-  "12816757": {
-   "file": "create-a-full-report.md",
-   "updated_at": 1793760327,
-   "state": "published",
-   "title": "Create a Full Report",
-   "content_id": "14457971",
-   "body_sha1": "d156e5f046ae19b7bf980076b6298ff3f3bad082"
-  },
   "8955767": {
    "file": "create-a-show-sheet.md",
    "updated_at": 1793760012,
@@ -275,14 +459,6 @@
    "content_id": "12922702",
    "body_sha1": "172fcff863b6bb3dc83db1118f0d2c98e34a9d12"
   },
-  "13903171": {
-   "file": "find-listings-in-the-listings-widget.md",
-   "updated_at": 1793743210,
-   "state": "published",
-   "title": "Find Listings in the Listings Widget",
-   "content_id": "16154426",
-   "body_sha1": "dbdd67f0cf8827cd2a82fdae1925e15c7fab7595"
-  },
   "13903183": {
    "file": "access-integrations-from-the-dashboard-or-a-listing.md",
    "updated_at": 1793742855,
@@ -291,22 +467,6 @@
    "content_id": "16154445",
    "body_sha1": "96038b7fb8c4f8d1e7d3918cbe1a569fa28963bd"
   },
-  "13903062": {
-   "file": "dashboard-overview.md",
-   "updated_at": 1793742729,
-   "state": "published",
-   "title": "Dashboard Overview",
-   "content_id": "16154239",
-   "body_sha1": "67d8cbb81cfd0fa512c058f999d5b933aca6e93a"
-  },
-  "15216626": {
-   "file": "dashboard-faq.md",
-   "updated_at": 1793742377,
-   "state": "published",
-   "title": "Dashboard FAQ",
-   "content_id": "17993546",
-   "body_sha1": "705f2e8cda04af2a86f213c707dfa7e30deb08cd"
-  },
   "13623904": {
    "file": "customize-your-dashboard.md",
    "updated_at": 1793742289,
@@ -314,14 +474,6 @@
    "title": "Customize Your Dashboard",
    "content_id": "15696089",
    "body_sha1": "7f26c669bb6c0e75b07d1297c1f69161960b4b7d"
-  },
-  "14790755": {
-   "file": "create-and-manage-your-contacts-in-perchwell.md",
-   "updated_at": 1793741754,
-   "state": "published",
-   "title": "Create and Manage Your Contacts in Perchwell",
-   "content_id": "17388981",
-   "body_sha1": "eaee8f1666284a6bb6095580e0a7c1913150866d"
   },
   "13602428": {
    "file": "unsubscribe-from-saved-search-alert-emails.md",
@@ -339,14 +491,6 @@
    "content_id": "18497734",
    "body_sha1": "eaa622289273a5d570b94c856f84c528f1d48835"
   },
-  "12541968": {
-   "file": "message-clients-in-perchwell.md",
-   "updated_at": 1793741355,
-   "state": "published",
-   "title": "Message Clients in Perchwell",
-   "content_id": "14014573",
-   "body_sha1": "10389ee687c1d866cb07b5645ec44631e2ed521f"
-  },
   "11373895": {
    "file": "invite-clients-to-perchwell-and-resend-invitations.md",
    "updated_at": 1793740422,
@@ -354,14 +498,6 @@
    "title": "Invite Clients to Perchwell and Resend Invitations",
    "content_id": "12304882",
    "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
-  },
-  "12896093": {
-   "file": "export-contacts-to-a-csv-file.md",
-   "updated_at": 1793740284,
-   "state": "published",
-   "title": "Export Contacts to a CSV File",
-   "content_id": "14593607",
-   "body_sha1": "0583a4e63c142059795134e59c8a097cdbde8adf"
   },
   "15280170": {
    "file": "log-in-to-the-perchwell-mobile-app.md",
@@ -387,22 +523,6 @@
    "content_id": "16369988",
    "body_sha1": "e05a9f58394e1a570eba5d84e5654831f8ff7a04"
   },
-  "14725825": {
-   "file": "review-saved-searches-moved-from-paragon.md",
-   "updated_at": 1793737800,
-   "state": "published",
-   "title": "Review Saved Searches Moved from Paragon",
-   "content_id": "17292991",
-   "body_sha1": "fc079c9a9928ea5cb6b8c9daf1667f6913219340"
-  },
-  "14725404": {
-   "file": "review-your-data-moved-from-paragon.md",
-   "updated_at": 1793737684,
-   "state": "published",
-   "title": "Review Your Data Moved from Paragon",
-   "content_id": "17292415",
-   "body_sha1": "909f2d5679256d1e92dfba6982dcc05bc4391fbd"
-  },
   "14727432": {
    "file": "find-your-partial-listings-in-perchwell.md",
    "updated_at": 1793737560,
@@ -418,14 +538,6 @@
    "title": "Find and Update Contacts Moved from Paragon",
    "content_id": "17293244",
    "body_sha1": "02c5e31935ce3bad743ae3929199967a3026e297"
-  },
-  "14459704": {
-   "file": "find-familiar-features-by-their-perchwell-names.md",
-   "updated_at": 1793737204,
-   "state": "published",
-   "title": "Find Familiar Features by Their Perchwell Names",
-   "content_id": "16905403",
-   "body_sha1": "b0359b72936bd20d3dce0ebe8fbdf54d7b38c146"
   },
   "14459729": {
    "file": "what-changed-when-you-moved-to-perchwell.md",
@@ -491,30 +603,6 @@
    "content_id": "17971267",
    "body_sha1": "fe25eed3a96f564f91678e53baaa5f3bb6124e20"
   },
-  "14786130": {
-   "file": "message-clients-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793729963,
-   "state": "published",
-   "title": "Message Clients in the Perchwell Mobile App",
-   "content_id": "17381504",
-   "body_sha1": "3456af3d6aad1a09ec10777f57ca23fa3c511823"
-  },
-  "14742099": {
-   "file": "create-and-manage-teams.md",
-   "updated_at": 1793728702,
-   "state": "published",
-   "title": "Create and Manage Teams",
-   "content_id": "17314260",
-   "body_sha1": "5a45960e9f72a8946a97033f5e6cd071335e9708"
-  },
-  "15201140": {
-   "file": "manage-people-faq.md",
-   "updated_at": 1793728553,
-   "state": "published",
-   "title": "Manage People FAQ",
-   "content_id": "17971228",
-   "body_sha1": "8ee103de3c03a5c925e1ff0cab2dd854a28e7d4e"
-  },
   "16053168": {
    "file": "log-in-as-an-agent-with-assume-identity.md",
    "updated_at": 1793728482,
@@ -531,14 +619,6 @@
    "content_id": "17970338",
    "body_sha1": "878687a8db2f4340e954da780eb8c545b7770b3d"
   },
-  "15199904": {
-   "file": "listing-maintenance-faq.md",
-   "updated_at": 1793728212,
-   "state": "published",
-   "title": "Listing Maintenance FAQ",
-   "content_id": "17969584",
-   "body_sha1": "a4a84ec736607da0fc3e4a9cb17f47a4fabd4b95"
-  },
   "14709796": {
    "file": "all-about-property-types-and-sub-types.md",
    "updated_at": 1793728088,
@@ -554,14 +634,6 @@
    "title": "MLS Rules and Compliance FAQ",
    "content_id": "17269251",
    "body_sha1": "5b6705519549355a5a911c387319bcd7850b54e4"
-  },
-  "14710265": {
-   "file": "login-and-troubleshooting-faq.md",
-   "updated_at": 1793727133,
-   "state": "published",
-   "title": "Login and Troubleshooting FAQ",
-   "content_id": "17269443",
-   "body_sha1": "3983e69d3945fa4ab4f12466ab92578cfd6a4787"
   },
   "14709241": {
    "file": "what-each-listing-status-means.md",
@@ -627,14 +699,6 @@
    "content_id": "11986197",
    "body_sha1": "63b1fcfda8eea8638b1c04df5567dc88d956d4bb"
   },
-  "8955646": {
-   "file": "manage-your-saved-searches.md",
-   "updated_at": 1792793756,
-   "state": "published",
-   "title": "Manage Your Saved Searches",
-   "content_id": "9098936",
-   "body_sha1": "aff23cd15068f4a424606bc92b5bc3c3636f7220"
-  },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",
    "updated_at": 1792792861,
@@ -643,14 +707,6 @@
    "content_id": "11832103",
    "body_sha1": "df90a7430d1cd0590058e2b3f490aa4e39473a2c"
   },
-  "11517245": {
-   "file": "filter-your-search-by-open-house-date.md",
-   "updated_at": 1792792401,
-   "state": "published",
-   "title": "Filter Your Search by Open House Date",
-   "content_id": "12507731",
-   "body_sha1": "88581401e1e5f4ae5a2837105f82d938c9f21784"
-  },
   "11776740": {
    "file": "export-listings-to-a-csv-file.md",
    "updated_at": 1792791920,
@@ -658,14 +714,6 @@
    "title": "Export Listings to a CSV File",
    "content_id": "12887977",
    "body_sha1": "57bc1c58003195991ecbc1f7800e92daf4c81134"
-  },
-  "11962073": {
-   "file": "customize-your-search-results-view.md",
-   "updated_at": 1792791645,
-   "state": "published",
-   "title": "Customize Your Search Results View",
-   "content_id": "13190641",
-   "body_sha1": "d927b98e85f351ecbac9c2141c632b40087ed80f"
   },
   "13903326": {
    "file": "share-listings-with-clients-from-search.md",
@@ -699,22 +747,6 @@
    "content_id": "19647378",
    "body_sha1": "86019df40e21d197ac35a8ac64f285f427ad3af8"
   },
-  "14744497": {
-   "file": "filter-your-search-with-map-tools.md",
-   "updated_at": 1792790178,
-   "state": "published",
-   "title": "Filter Your Search with Map Tools",
-   "content_id": "17317672",
-   "body_sha1": "aae1db420b17b8cbbb039d9d34868eb14d0279d5"
-  },
-  "13922158": {
-   "file": "filter-your-search-by-property-type-and-subtype.md",
-   "updated_at": 1792789939,
-   "state": "published",
-   "title": "Filter Your Search by Property Type and Subtype",
-   "content_id": "16183571",
-   "body_sha1": "f2a1e33860d78d659376ea8c9f8b248247ae34a4"
-  },
   "16053548": {
    "file": "filter-your-search-by-keyword.md",
    "updated_at": 1792789752,
@@ -730,14 +762,6 @@
    "title": "Create a Template Search",
    "content_id": "16154717",
    "body_sha1": "ccc43d0a8aaa478552b2d3c19e2ae644d07700d5"
-  },
-  "13903380": {
-   "file": "create-a-search-with-filters.md",
-   "updated_at": 1792785605,
-   "state": "published",
-   "title": "Create a Search with Filters",
-   "content_id": "16154782",
-   "body_sha1": "3ebfdb8f3e883b64b4826bcddeadba59c28bdf0b"
   },
   "13604909": {
    "file": "baldwin-s-conversion-faqs.md",
@@ -795,14 +819,6 @@
    "content_id": "22484817",
    "body_sha1": "49ad9def5136c65a02b025d13c2feaffe18a2685"
   },
-  "16864886": {
-   "file": "delete-a-draft-listing.md",
-   "updated_at": 1788891590,
-   "state": "published",
-   "title": "Delete a Draft Listing",
-   "content_id": "20404338",
-   "body_sha1": "0c7a7a32032307c244e9d4ad8bb90d7ef0ab9e6d"
-  },
   "16776673": {
    "file": "dotloop-integration.md",
    "updated_at": 1788304515,
@@ -810,22 +826,6 @@
    "title": "Dotloop Integration",
    "content_id": "20279186",
    "body_sha1": "6c0616b9da1caa930897aa63b2210635f8a87f75"
-  },
-  "16777050": {
-   "file": "listtrac-integration.md",
-   "updated_at": 1788304486,
-   "state": "published",
-   "title": "ListTrac Integration",
-   "content_id": "20279677",
-   "body_sha1": "b1d03fcf48d1add7d249e41b6764bc9df06f9eb7"
-  },
-  "16777012": {
-   "file": "offer-manager-integration.md",
-   "updated_at": 1788303919,
-   "state": "published",
-   "title": "Offer Manager Integration",
-   "content_id": "20279630",
-   "body_sha1": "080929033f1aa830f1aae95e8b41049450f140b9"
   },
   "16634493": {
    "file": "perchwell-video-library.md",

@@ -12,10 +12,10 @@ collections: ["Tags"]
 state: published
 author_id: 5472692
 created_at: 2026-08-05T18:00:48Z
-updated_at: 2026-11-04T17:26:44Z
+updated_at: 2026-11-04T18:40:48Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Link a Saved Search to a Tag
@@ -38,7 +38,7 @@ Save a search first, then link it to a new or existing Tag from the Tags page. T
 5. Click Add again
 6. Click Create for a new Tag, or Save for an existing Tag
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793817000&signature=5d1e0b8fa9ec2560473b390e8f11bd8b1a84b926fdc01a0c348a8953b7a5a424&req=dicvE8x3mYRXXPMW1HO4zecmShOYu%2BjjdszBoAtRmRCyLSWhjxYcmPY4RcAw%0AnbFm2UT70dGrcDAQ%2Br8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793820600&signature=3e0d148c9f863c5c660e955e75720bf46931033b3c1b2cc62ea2cbc41a93c8bb&req=dicvE8x3mYRXXPMW1HO4zecmShOYuO%2FldszBoAtRmRD4J0YvHwIfXpZQZ3Ch%0AZjIkrv1HzcECxR5CHFA%3D%0A)
 
 The Tag includes the listings from each linked saved search right away.
 
@@ -46,7 +46,7 @@ The Tag includes the listings from each linked saved search right away.
 
 Listings from a linked saved search update in a Tag as the search results change. New matching listings are added automatically, and listings that no longer match are removed.
 
-To keep a listing in the Tag after it stops matching the saved search, add it to the Tag individually. [How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how. A listing a contact likes or dislikes also stays in the Tag as long as the reaction remains.
+To keep a listing in the Tag after it stops matching the saved search, add it to the Tag individually. [Add Listings to a Tag](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) explains how. A listing a contact likes or dislikes also stays in the Tag as long as the reaction remains.
 
 When Tag notifications are on, listings added automatically from a linked saved search trigger an email, just like listings added individually.
 
@@ -58,7 +58,7 @@ Check the label under each listing on the Tag's public page to see whether it ca
 
 In the Edit Tag window, click Edit next to Listings and notes. Listings added individually appear under Added by you, and listings from each saved search are grouped under the search's name.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793817000&signature=c9f09aa5468159a8c4ec59d34decf1b1df2f45cca8c18ace5e14ddd1e1a6309a&req=dicvE8x3mYddWfMW1HO4zel9BvSKM9ej6fCFdKqEl0DsI9rJ583NAiXDf4l4%0Akpr9VX%2F6G0R%2F85F3p0E%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793820600&signature=ed4e094eb3e51c9f28be18cf90c52f732e5a956f6cb3f305fd0ef38ced403286&req=dicvE8x3mYddWfMW1HO4zel9BvSKMNCl6fCFdKqEl0BtPksNNFABv3fnu82c%0ARvRv04iL1Lep0tl4tPo%3D%0A)
 
 # Remove one saved search listing from a Tag
 
@@ -75,6 +75,6 @@ Unlink a saved search in the Edit Tag window to remove listings added from that 
 2. Click the x next to the saved search's name under Saved searches
 3. Click Save
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793817000&signature=7be99d54f2039b46e4154a9883102bdd868251e4aedd896ca041a38a99bb6fa8&req=dicvE8x3mYdaWvMW1HO4zRWgnsd9JxKkSn2QLbRrC%2FcIzr0qfjKwRLrOJPyp%0Aml8iQZD%2FEVFpO9mNquc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793820600&signature=c51cff002990da632df66e46eab2dd6e9ac566bb2718d7903ce7b7614e230bb3&req=dicvE8x3mYdaWvMW1HO4zRWgnsd9JBWiSn2QLbRrC%2Ff6lIbUgyBOJvg4kxCd%0A7uy3gVMUDYsgXU%2BzGsQ%3D%0A)
 
 A "Tag updated." message appears, and listings added from the saved search are removed from the Tag. Listings a contact liked or disliked remain.

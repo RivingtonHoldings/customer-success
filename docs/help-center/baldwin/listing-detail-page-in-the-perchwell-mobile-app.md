@@ -12,10 +12,10 @@ collections: ["Mobile"]
 state: published
 author_id: 5472692
 created_at: 2026-04-27T14:22:48Z
-updated_at: 2026-11-04T17:21:15Z
+updated_at: 2026-11-04T18:41:40Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T19:06:48Z
 ---
 
 # Listing Detail Page in the Perchwell Mobile App
@@ -28,7 +28,7 @@ Use this article to review a listing's details and photos, contact the listing a
 
 Review a listing's photos, asking price, association fee, DOM (days on market), and CDOM (cumulative days on market) at the top of the Listing Detail Page in the mobile app. Tap any photo to open the photo gallery.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793817000&signature=ea9444e5c68bd7444f0567aa6ca179cd638805c10386a70b0838f229a2ef50ae&req=diMlEMx4mYNbWfMW1HO4zVZXojgJ0t7UleWqur8nZSxpduzH7xhbzqf5XqI%2B%0ACiHxKZOkByNWRb3liZI%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326564240/03e3630757aca9d2cde92d6f3471/IMG_2332+2+1.png?expires=1793820600&signature=8eeeb3036eb17f54e1ba1007bfe8da74e51aeef77d438c226ed8886dcf70fbea&req=diMlEMx4mYNbWfMW1HO4zVZXojgJ0dnSleWqur8nZSy60hYQ0nFKrFVA%2FFZS%0AqYDSFGXbBUZJ6VlSCvM%3D%0A)
 
 Below the summary, the listing's details are grouped into sections. Tap a section's name to expand or collapse it. The sections are:
 - Description
@@ -63,12 +63,12 @@ The Actions tab of the three-dots menu holds nine options:
 - Create Report: Create a CMA, Extended CMA, Listing Report, Show Sheet, or Media Report for the listing.
 - Auto CMA: Open a search for comparable listings, with this listing as the subject property of a CMA (Comparative Market Analysis).
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793817000&signature=c35ae6b6ca4379bfe174da984907a9c4d2d38effa586eaac9dcfcf545cef0ae4&req=diMlEMx4m4FdWvMW1HO4za74%2BkRz8fGcV5Ys96knvt74Wqmi3EhxgPoBNmeR%0A5In8JMrG3EpFcJKEAQA%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326566023/d927d5dd3f521378d4db7bf18e36/Group+93.png?expires=1793820600&signature=d360d7f61d106b3df73abd04a3e5c1726be642fa6f9b2a0d509dba2da47f97ee&req=diMlEMx4m4FdWvMW1HO4za74%2BkRz8vaaV5Ys96knvt7pFbFotXTEgbdpQJ4u%0A7c6SNbZlySVu8eI0YME%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](http://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how clients receive listings in Messages.
-- [How to Tag Individual Listings](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) covers adding a listing to a Tag.
-- [Create One Page Reports](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers the agent and client versions of a one-page PDF.
+- [Add Listings to a Tag](http://support.perchwell.com/baldwin/en/articles/16221347-how-to-tag-individual-listings) covers adding a listing to a Tag.
+- [Create a One Page Report](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers the agent and client versions of a one-page PDF.
 - [Create a CMA with a Subject Property](http://support.perchwell.com/baldwin/en/articles/15216797-create-a-cma-with-a-subject-property) walks through the comparable listings search.
 
 ## Open an integration tool from the Integrations tab
@@ -80,7 +80,7 @@ Tap Integrations in the three-dots menu, then tap a tool to open it for the list
 - InfoSparks: View market statistics and charts.
 - CRS tools: Open CRS Comparables, CRS Demographic, CRS Listing Integrity, CRS Parcel Map, or CRS Property Report.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793817000&signature=050e5605f1ff6012abd04d1500f2e89ba711e2217f75535808bd55d75db02ecd&req=diMlEMx4modbWvMW1HO4zTTkULQTlYNk976mR%2BXRok5TDk3ERZAgsyAnxXix%0AlRvUPRKSNDaiU5Ji18Y%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2326567643/b63c4db9b700580fa6a5168a9fe0/Group+92.png?expires=1793820600&signature=418fd535783617763742b77b58010dd49d02c506e63c5eb2932e0e739e304319&req=diMlEMx4modbWvMW1HO4zTTkULQTloRi976mR%2BXRok4JAMXNPjp8bh41xyPh%0A3spP9mZFbHPtMxbU7Us%3D%0A)
 
 ## Edit a listing from the Admin tab
 
