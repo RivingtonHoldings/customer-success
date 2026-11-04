@@ -3,19 +3,19 @@ intercom_id: "14710059"
 content_id: "17269193"
 title: "Most Common Questions Asked to MLS Staff"
 description: "In this article, you\u2019ll find answers to frequently asked questions submitted to MLS staff, including guidance on listings, statuses, compliance, and system changes."
-url: "http://support.perchwell.com/baldwin/en/articles/14710059-most-common-questions-asked-to-mls-staff"
+url: ""
 help_center: baldwin
 help_center_id: 4755399
 collection: "FAQs & Cheat Sheets"
 collection_ids: [19547885]
 collections: ["FAQs & Cheat Sheets"]
-state: published
+state: draft
 author_id: 9490228
 created_at: 2026-04-21T17:06:29Z
-updated_at: 2026-08-04T13:55:11Z
+updated_at: 2026-11-04T07:00:14Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+body_source: intercom-api
+synced_at: 2026-11-04T07:03:15Z
 ---
 
 # Most Common Questions Asked to MLS Staff

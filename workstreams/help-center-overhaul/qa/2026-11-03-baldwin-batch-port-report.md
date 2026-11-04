@@ -84,9 +84,10 @@ These went live as Notion had them. Each one is worth a look.
 
 ### Cleanup for Tara in Intercom
 
-- Delete scratch draft **18180010** ("Scratch: Baldwin batch port images wave 1 batch 1"). It only held images for re-hosting.
-- Archive **14710059** Most Common Questions Asked to MLS Staff, now replaced by MLS Rules and Compliance FAQ (TRK-031).
-- Archive **13903157** Set Up Saved Searches for Hot Sheets. Add a Hot Sheet to the Dashboard (TRK-020) is now live and covers it; the old article has no Notion row.
+Done on November 4: Tara deleted scratch draft 18180010 and unpublished 14710059 Most Common Questions Asked to MLS Staff and 13903157 Set Up Saved Searches for Hot Sheets.
+
+Still open:
+
 - Remove the internal-note lines from Notion, then re-port: "Video is applicable to all customers" is live in Create and Manage Your Contacts in Perchwell (TRK-008), and "This video can be used for all customers" is new in the TRK-053 Notion page.
 
 ### Mirror

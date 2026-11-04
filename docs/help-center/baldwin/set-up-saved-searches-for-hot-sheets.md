@@ -3,19 +3,19 @@ intercom_id: "13903157"
 content_id: "16154402"
 title: "Set Up Saved Searches for Hot Sheets"
 description: "In this article, you will learn how to set up a Saved Search and turn it into a Hot Sheet widget on your Dashboard so you can track new and updated listings over time."
-url: "http://support.perchwell.com/en/articles/13903157-set-up-saved-searches-for-hot-sheets"
+url: ""
 help_center: baldwin
 help_center_id: 4755399
 collection: "Dashboard"
 collection_ids: [17797865]
 collections: ["Dashboard"]
-state: published
+state: draft
 author_id: 9490228
 created_at: 2026-03-02T03:38:36Z
-updated_at: 2026-07-21T23:13:55Z
+updated_at: 2026-11-04T07:00:48Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+body_source: intercom-api
+synced_at: 2026-11-04T07:03:15Z
 ---
 
 # Set Up Saved Searches for Hot Sheets

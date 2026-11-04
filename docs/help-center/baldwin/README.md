@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T04:35:53Z. Articles: 128 (120 published, 8 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T07:15:30Z. Articles: 128 (118 published, 10 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -38,7 +38,7 @@ Collection ID 17797865. 6 articles.
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-03
 - [Dashboard Overview](dashboard-overview.md), updated 2026-11-03
 - [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-03
-- [Set Up Saved Searches for Hot Sheets](set-up-saved-searches-for-hot-sheets.md), updated 2026-07-21
+- [Set Up Saved Searches for Hot Sheets](set-up-saved-searches-for-hot-sheets.md) (draft), updated 2026-11-04
 
 ## FAQs & Cheat Sheets
 
@@ -48,7 +48,7 @@ Collection ID 19547885. 7 articles.
 - [Common Perchwell FAQs](common-perchwell-faqs.md) (draft), updated 2026-07-02
 - [Login and Troubleshooting FAQ](login-and-troubleshooting-faq.md), updated 2026-11-03
 - [MLS Rules and Compliance FAQ](mls-rules-and-compliance-faq.md), updated 2026-11-03
-- [Most Common Questions Asked to MLS Staff](most-common-questions-asked-to-mls-staff.md), updated 2026-08-04
+- [Most Common Questions Asked to MLS Staff](most-common-questions-asked-to-mls-staff.md) (draft), updated 2026-11-04
 - [Upcoming Features](upcoming-features.md) (draft), updated 2026-10-16
 - [What Each Listing Status Means](what-each-listing-status-means.md), updated 2026-11-03
 
