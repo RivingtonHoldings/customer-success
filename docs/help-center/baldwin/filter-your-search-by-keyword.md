@@ -12,10 +12,10 @@ collections: ["Search / Filters"]
 state: published
 author_id: 5472692
 created_at: 2026-07-23T14:29:38Z
-updated_at: 2026-10-23T21:09:12Z
+updated_at: 2026-11-04T20:49:56Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:09:47Z
+synced_at: 2026-11-04T20:52:50Z
 ---
 
 # Filter Your Search by Keyword
@@ -29,11 +29,11 @@ The Text Search filter finds keywords in listing descriptions and addresses. It 
 ## Steps:
 1. Click the Filters tab
 2. Enter Text Search in the Search filters and values field
-3. Enter a keyword in the Text Search field under Listing Visibility & Access
+3. Enter a keyword in the Text Search field
 
 Your search results update to show listings that contain the keyword. The keyword appears under Applied Filters as a Text Search filter.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png?expires=1792791900&signature=941b73c92c17f0599b35407bf6f02f09659f8c25794ce21ce0630098e40d6100&req=dichF8B3nYhcWPMW1HO4zUv75ujp9QR2LLISlgjrHZvsJj3GjOyqn%2FKuH%2FZu%0AJFn4%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png?expires=1793826900&signature=82585fc2ce3ea0bfec670dd9658a3c782d314cbcb9b366028b1c102a1061ee7c&req=dichF8B3nYhcWPMW1HO4zUv75unm%2FgN2LLISlgjrHZtmjUH7LmySMkeZJNyY%0AdO9o%0A)
 
 # Search for exact phrases and multiple keywords with Or or And
 
@@ -47,11 +47,11 @@ Or is selected by default. For example, enter "high ceilings", pool and select A
 
 The Text Search filter finds listings that mention your keywords. There is no option to exclude listings that mention specific words.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png?expires=1792791900&signature=99be9d0bf5a92b0e7bfdb9ebf2f17b98dbd6ff058ec85bee006e4323fdddd797&req=dichF8B3nIFfWvMW1HO4zSFJgDowmjehXYvfv7LihUcr40R3HDm1R8scInOE%0AMVHc%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png?expires=1793826900&signature=af46384ee38023ea3c0e3dd5f10ed64ecedcc2319b08936ca14b20c17e246c2d&req=dichF8B3nIFfWvMW1HO4zSFJgDs%2FkTChXYvfv7LihUdlEzej4%2Fl0yy9QSABf%0AvUW%2F%0A)
 
 # Filter by keyword from the Text search column
 
-Add the Text search column to filter by keyword directly from your search results. [Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to add columns. Columns are available in List and Expanded views.
+Add the Text search column to filter by keyword directly from your search results. [Customize Your Search Results View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to add columns. Columns are available in List and Expanded views.
 
 ## Steps:
 1. Click the three-line icon in the Text search column header to open the filter
@@ -59,7 +59,7 @@ Add the Text search column to filter by keyword directly from your search result
 
 Your search results update to show listings that contain the keyword. The same Text Search filter also appears under Applied Filters on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png?expires=1792791900&signature=467e0377ef92765d32e2d85a35d54da605b9219c3ffe70125d53e07144d0447b&req=dichF8B3nIFXWvMW1HO4zW0b7EJrZBbNBCRWmwoBs8ka3v3IpgokPs51IV4U%0ASkoe%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png?expires=1793826900&signature=2e2ee1ffcb6502ba49ecdecf7b5bff6ea509f035137d3bc6d31cbdd66e2a0931&req=dichF8B3nIFXWvMW1HO4zW0b7ENkbxHNBCRWmwoBs8lGkBykNFbpsMwkM9Ws%0AsXxN%0A)
 
 # Remove the keyword filter from your search
 
