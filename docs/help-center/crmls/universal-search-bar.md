@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T22:01:33Z
-updated_at: 2026-11-04T22:01:33Z
+updated_at: 2026-11-04T23:00:24Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T23:04:40Z
 ---
 
 # Universal Search Bar
@@ -56,4 +56,4 @@ You do not have to type the whole thing, which means an address that matches the
 
 # Things to Know
 - Members who came from a legacy platform may know the Universal Search Bar as Power Search. [Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
-- In the Perchwell mobile app, the Universal Search Bar appears at the top of the Search tab and is not available on other tabs. The Universal Search Bar works the same way in the mobile app as it does in a browser. [Mobile App FAQ](https://support.perchwell.com/baldwin/en/articles/15201164-mobile-faq) covers other features in the mobile app.
+- In the Perchwell mobile app, the Universal Search Bar appears at the top of the Search tab and is not available on other tabs. The Universal Search Bar works the same way in the mobile app as it does in a browser. [Mobile App FAQ](https://support.perchwell.com/crmls/en/articles/18234753-mobile-app-faq) covers other features in the mobile app.

@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:54:56Z
-updated_at: 2026-11-04T22:06:17Z
+updated_at: 2026-11-04T23:00:26Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T23:04:40Z
 ---
 
 # Dashboard Overview
@@ -40,7 +40,7 @@ The Hot Sheets widget on the Dashboard tracks new and updated listing activity f
 - A saved search hot sheet monitors activity within one Saved Search, such as one you saved for a client, a city, or another set of criteria
 - A quick hot sheet monitors activity across the MLS by property type and status
 
-[Add a Hot Sheet to the Dashboard](https://support.perchwell.com/crmls/en/articles/18232986-add-a-hot-sheet-to-the-dashboard) walks through creating both types step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what counts as off-market activity, see [Dashboard FAQ](https://support.perchwell.com/baldwin/en/articles/15216626-dashboard-faq).
+[Add a Hot Sheet to the Dashboard](https://support.perchwell.com/crmls/en/articles/18232986-add-a-hot-sheet-to-the-dashboard) walks through creating both types step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what counts as off-market activity, see [Dashboard FAQ](https://support.perchwell.com/crmls/en/articles/18234749-dashboard-faq).
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060573/b01ca59c02e00ec322baf3dffc23/upload_3824598041941332670.png)
 

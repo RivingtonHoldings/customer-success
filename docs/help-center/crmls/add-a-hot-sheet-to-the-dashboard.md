@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:51:14Z
-updated_at: 2026-11-04T22:05:08Z
+updated_at: 2026-11-04T23:00:22Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T23:04:40Z
 ---
 
 # Add a Hot Sheet to the Dashboard
@@ -87,5 +87,5 @@ Hot Sheets count activity that occurred during the selected timeframe. A listing
 
 # Things to Know
 - The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Both open on desktop only
-- For common Hot Sheet questions, such as how many fit on a Dashboard and what counts as off-market activity, see [Dashboard FAQ](https://support.perchwell.com/baldwin/en/articles/15216626-dashboard-faq)
+- For common Hot Sheet questions, such as how many fit on a Dashboard and what counts as off-market activity, see [Dashboard FAQ](https://support.perchwell.com/crmls/en/articles/18234749-dashboard-faq)
 - To change which widgets sit on the Dashboard, see [Customize Your Dashboard](https://support.perchwell.com/crmls/en/articles/18232992-customize-your-dashboard)
