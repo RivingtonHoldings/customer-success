@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-04T22:29:19Z",
+ "last_run": "2026-11-04T22:37:15Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18234509": {
+   "file": "create-and-manage-teams.md",
+   "updated_at": 1793831691,
+   "state": "draft",
+   "title": "Create and Manage Teams",
+   "content_id": "23618260",
+   "body_sha1": "139acb4946e01dc1c5d4ef8bd740c02f49282b08"
+  },
+  "18234508": {
+   "file": "log-in-as-an-agent-with-assume-identity.md",
+   "updated_at": 1793831664,
+   "state": "draft",
+   "title": "Log In as an Agent with Assume Identity",
+   "content_id": "23618259",
+   "body_sha1": "59589ccc830bc7f62dc6012668c3e661a2d0408e"
+  },
   "18232897": {
    "file": "message-clients-in-perchwell.md",
    "updated_at": 1793831182,

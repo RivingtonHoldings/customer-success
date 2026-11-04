@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:29:19Z. Articles: 119 (56 published, 63 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:37:15Z. Articles: 121 (56 published, 65 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -96,8 +96,10 @@ Collection ID 16866957. 5 articles.
 
 ## Manage People
 
-Collection ID 19802005. 1 articles.
+Collection ID 19802005. 3 articles.
 
+- [Create and Manage Teams](create-and-manage-teams.md) (draft), updated 2026-11-04
+- [Log In as an Agent with Assume Identity](log-in-as-an-agent-with-assume-identity.md) (draft), updated 2026-11-04
 - [Masquerade an Agent's Account](masquerade-an-agent-s-account.md), updated 2026-11-04
 
 ## Mobile
