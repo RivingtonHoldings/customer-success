@@ -161,4 +161,4 @@ After both waves, each ported article's Notion page was compared with the body t
 - TRK-101 [Tags Page Overview](https://app.notion.com/p/3ff8b9e0143881b0a4cce4d39512740b): Loom swapped and the Status column screenshot replaced.
 - TRK-103 [Listing Field Changes in Perchwell](https://app.notion.com/p/3fe8b9e01438814691d9f1936d30f4d6): largely rewritten to name Paragon, with a new description and reworked sections.
 
-- TRK-114 [User Settings FAQ](https://app.notion.com/p/3fb8b9e01438818b9eb9cb1f1a70362a): the Click Settings screenshot was replaced after the push. In Notion it now sits between steps 2 and 3, which splits the list so steps 3 to 5 restart at 1; fix that before re-porting. Its row is still Ready to Transfer.
+- TRK-114 [User Settings FAQ](https://app.notion.com/p/3fb8b9e01438818b9eb9cb1f1a70362a): re-ported November 4 with the new Click Settings screenshot, placed inside step 2 so the live steps stay numbered 1 to 5. Row is Live in Intercom. The Notion page still shows the image between steps 2 and 3.

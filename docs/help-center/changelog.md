@@ -2,6 +2,7 @@
 
 One entry per change to a live Intercom article, newest first. Format: date, MLS, article title, what changed, who confirmed.
 
+- 2026-11-04, Baldwin, User Settings FAQ (16180793). Re-port from Notion (TRK-114). Step 2 "Click Settings" screenshot replaced with the new one; uploaded directly in the update, no scratch draft. CRMLS-labeled copy left out. Title, description, and text unchanged; numbering kept 1 to 5 with the image inside step 2. `parent_ids` unchanged at 19361693. State stayed published; byline moved to 5472692. Diff shown and confirmed by Tara.
 - 2026-11-04, Baldwin, Most Common Questions Asked to MLS Staff (14710059). Unpublished by Tara; MLS Rules and Compliance FAQ (TRK-031) replaces it.
 - 2026-11-04, Baldwin, Set Up Saved Searches for Hot Sheets (13903157). Unpublished by Tara; Add a Hot Sheet to the Dashboard (TRK-020) replaces it.
 - 2026-11-04, Baldwin, Tags FAQ (15216706). Batch port from Notion (TRK-100). Description rewritten. Body replaced with the Notion draft. `parent_ids` unchanged at 19644367. The November 3 API update was saved as an unpublished draft; Tara published it in Intercom on November 4. Byline moved to 5472692. Batch port, approved by Tara under the November 3 exception.
