@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:53:50Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T23:29:37Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -149,7 +149,7 @@ Collection ID 19197859. 8 articles.
 
 - [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-04
 - [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md), updated 2026-11-03
-- [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-03
+- [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-04
 - [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-04
 - [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-04
 - [Review Your Data Moved from Paragon](review-your-data-moved-from-paragon.md), updated 2026-11-04
