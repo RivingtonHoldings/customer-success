@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:37:15Z. Articles: 121 (56 published, 65 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:41:54Z. Articles: 123 (56 published, 67 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -159,8 +159,10 @@ Collection ID 19802002. 1 articles.
 
 ## User Settings
 
-Collection ID 19802006. 1 articles.
+Collection ID 19802006. 3 articles.
 
+- [Create Brokerage Email Templates](create-brokerage-email-templates.md) (draft), updated 2026-11-04
+- [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors-18234697.md) (draft), updated 2026-11-04
 - [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-04
 
 ## Webinars

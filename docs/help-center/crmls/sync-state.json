@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-04T22:37:15Z",
+ "last_run": "2026-11-04T22:41:54Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18234697": {
+   "file": "update-your-brokerage-logo-and-colors-18234697.md",
+   "updated_at": 1793832022,
+   "state": "draft",
+   "title": "Update Your Brokerage Logo and Colors",
+   "content_id": "23618466",
+   "body_sha1": "465ba163e4ddf0fb8cc10b979c997d3322a24dd5"
+  },
+  "18234701": {
+   "file": "create-brokerage-email-templates.md",
+   "updated_at": 1793831999,
+   "state": "draft",
+   "title": "Create Brokerage Email Templates",
+   "content_id": "23618470",
+   "body_sha1": "7a083c66479bbea022fb3e185dd13b843290d617"
+  },
   "18234509": {
    "file": "create-and-manage-teams.md",
    "updated_at": 1793831691,
