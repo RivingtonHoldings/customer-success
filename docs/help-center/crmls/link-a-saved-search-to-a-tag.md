@@ -12,10 +12,10 @@ collections: ["Tags"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T20:25:39Z
-updated_at: 2026-11-04T20:30:22Z
+updated_at: 2026-11-04T22:06:58Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T20:34:53Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Link a Saved Search to a Tag
@@ -24,7 +24,7 @@ Use this article to link saved searches to a Tag, keep specific listings in the 
 
 # Link saved searches to a new or existing Tag
 
-Save a search first, then link it to a new or existing Tag from the Tags page. There is no Tag option when you save a search. [Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/8955646-manage-your-saved-searches) explains how to save one. Start from either of these:
+Save a search first, then link it to a new or existing Tag from the Tags page. There is no Tag option when you save a search. [Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/18234059-manage-your-saved-searches) explains how to save one. Start from either of these:
 - New Tag: Click New Tag in the upper right, then enter a name in the Name field.
 - Edit tag: Click the Edit tag pencil icon in the Actions column next to an existing Tag.
 
@@ -60,7 +60,7 @@ In the Edit Tag window, click Edit next to Listings and notes. Listings added in
 
 # Remove one saved search listing from a Tag
 
-Remove one saved search listing from a Tag by hiding it in the saved search and saving the search. The listing stays in the Tag until you save. [Actions Menu Options on the Search Page](https://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) explains how to hide listings.
+Remove one saved search listing from a Tag by hiding it in the saved search and saving the search. The listing stays in the Tag until you save. [Actions Menu Options on the Search Page](https://support.perchwell.com/crmls/en/articles/18234078-actions-menu-options-on-the-search-page) explains how to hide listings.
 
 The trash can icon in the Listings and notes window removes only listings added individually. A listing added from the saved search stays in the Tag if a contact liked or disliked it. It leaves the Tag once you or the contact removes the reaction on the Tag's public page.
 

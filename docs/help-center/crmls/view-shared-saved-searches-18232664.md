@@ -12,10 +12,10 @@ collections: ["Client Experience"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:02:28Z
-updated_at: 2026-11-04T19:03:51Z
+updated_at: 2026-11-04T22:08:21Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # View Shared Saved Searches
@@ -68,7 +68,7 @@ Change the filters in a shared saved search on the Filters tab to narrow or expa
 
 Your results update to match the new filters. Price, Beds, and the other Quick Filters across the upper left of the Search page also change the filters in the shared saved search.
 
-[Create a Search with Filters](https://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell) explains how each type of filter works.
+[Create a Search with Filters](https://support.perchwell.com/crmls/en/articles/18233998-create-a-search-with-filters) explains how each type of filter works.
 
 # Save your changes to a shared saved search
 

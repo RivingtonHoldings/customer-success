@@ -1,34 +1,32 @@
 ---
-intercom_id: "8955682"
-content_id: "9098973"
+intercom_id: "18233932"
+content_id: "23617583"
 title: "Share a Saved Search with a Client"
 description: "Share a saved search with clients so they can open and edit it in their client portal, send them alerts, and remove clients from the search."
-url: "http://support.perchwell.com/en/articles/8955682-share-a-saved-search-with-a-client"
+url: ""
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
-state: published
-author_id: 5472692
-created_at: 2024-02-15T20:58:38Z
-updated_at: 2026-11-04T19:50:45Z
+state: draft
+author_id: 8314814
+created_at: 2026-11-04T21:34:35Z
+updated_at: 2026-11-04T22:04:25Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-11-04T19:59:48Z
+body_source: intercom-api
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Share a Saved Search with a Client
 
 Use this article to share a saved search with clients, manage their access and alerts, and remove them from the search.
 
-[Embedded video](https://demo.arcade.software/2JEF0FWKz8HQbae6kfSR?embed)
-
 # Share a saved search with a client
 
 Share a saved search with one or more clients from the Edit Search window. Clients open shared searches in their client portal, their workspace for collaborating with you.
 
-The Contacts dropdown lists only people already in your contacts. Clients must accept their invitation to Perchwell before they can open a shared saved search. [Invite Clients to Perchwell and Resend Invitations](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite them.
+The Contacts dropdown lists only people already in your contacts. Clients must accept their invitation to Perchwell before they can open a shared saved search. [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) explains how to invite them.
 
 ## Steps:
 1. Click Saved Searches, or the name of the open saved search, in the upper left of the Search page
@@ -39,11 +37,11 @@ The Contacts dropdown lists only people already in your contacts. Clients must a
 6. Turn on the Allow added contacts to see and edit this search toggle
 7. Click Update
 
-The client receives an email that you added them to the saved search. The email has an Open saved search button. [View Shared Saved Searches](http://support.perchwell.com/baldwin/en/articles/14743530-view-shared-saved-searches) explains how clients open shared searches.
+The client receives an email that you added them to the saved search. The email has an Open saved search button. [View Shared Saved Searches](https://support.perchwell.com/crmls/en/articles/18232664-view-shared-saved-searches) explains how clients open shared searches.
 
-To also email the client about new matches, turn on Alerts and choose a Recipient option that includes contacts. [Set Up Email Alerts for Saved Searches](http://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how.
+To also email the client about new matches, turn on Alerts and choose a Recipient option that includes contacts. [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches) explains how.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124696/43621956db665813f2ed1d7247a7/upload_15188440587025961838.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124696/43621956db665813f2ed1d7247a7/upload_15188440587025961838.png?expires=1793823300&signature=e26e79793756ebb7631665dea2aab607de8fc8b1eaac4eafbdfc7ac947df8b03&req=dichFMh8mYdWX%2FMW1HO4ze5ETQ%2FfCeNhmgosoL%2FjkzpsRDfTg4biBPmnmxfz%0AHZrD%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265689/e9bf27d6e1cc29bcd49b4bf9408d/upload_11145218648587203693.png)
 
 # What clients can do in a shared saved search
 
@@ -53,7 +51,7 @@ Turning the toggle off removes the saved search from the client portal. Clients 
 
 In the saved search, clients do not see Tags you have added to listings, whether the Tags are for them or another client. Tags do not show on the listing detail page, and the Tag Search column shows NA.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124709/ed3f4e45578132b29eb360bc75d0/upload_14157794950514849364.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124709/ed3f4e45578132b29eb360bc75d0/upload_14157794950514849364.png?expires=1793823300&signature=4d7bcc032e488a6d733a8c7d7e8b6962c5d6ee736999a2f1190c3c21abf45e19&req=dichFMh8mYZfUPMW1HO4zWoMU69gtTlClxOenYUJsKOP1DwYdzMnbAX2hosX%0AvIXh%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265716/9c0b39a8cf7f70722271b2f0cec6/upload_9041110480700720947.png)
 
 # Remove a client from a saved search
 
@@ -67,4 +65,4 @@ Remove a client from a shared saved search through the Contacts field in the Edi
 
 The saved search is removed from the client portal, and the client no longer receives its alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124719/04d774465de660f72f3bfb88e6ae/upload_10590815292151180566.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762124719/04d774465de660f72f3bfb88e6ae/upload_10590815292151180566.png?expires=1793823300&signature=54cf296d62fe5261071e94d071623d423a932064160c45d1180b1dcc081db82c&req=dichFMh8mYZeUPMW1HO4zRSkc%2F8sK4tSdvPx01tts%2F08%2FHWQT01Pgfk5UAgN%0ACpLp%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265737/fb78ae4b329839e19de7a0ad2670/upload_8996545708158509993.png)

@@ -1,28 +1,26 @@
 ---
-intercom_id: "11112420"
-content_id: "11986197"
+intercom_id: "18234126"
+content_id: "23617814"
 title: "Set Up Email Alerts for Saved Searches"
 description: "Turn on email alerts for a saved search, choose which listing activity you want alerts for, and set who receives alerts and how often."
-url: "http://support.perchwell.com/en/articles/11112420-set-up-email-alerts-for-saved-searches"
+url: ""
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
-state: published
-author_id: 5472692
-created_at: 2025-04-20T17:01:49Z
-updated_at: 2026-11-04T19:41:12Z
+state: draft
+author_id: 8314814
+created_at: 2026-11-04T21:58:20Z
+updated_at: 2026-11-04T21:58:20Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+body_source: intercom-api
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Set Up Email Alerts for Saved Searches
 
 Use this article to turn on email alerts for a saved search, choose which listing activity you want alerts for, set who receives alerts and how often, add a contact to receive them, and understand what each alert email includes.
-
-[Embedded video](https://www.loom.com/embed/e5c96277ed3b4e09b1047fbe4549fc9e)
 
 # Turn on email alerts for a saved search
 
@@ -43,7 +41,7 @@ Perchwell begins sending alerts for new matching activity on the schedule you se
 
 The first time alerts are turned on, New match is selected, Recipient is set to Only me, and Frequency is set to Immediately. If alerts were previously on, Perchwell restores the previous settings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png?expires=1793823300&signature=d37b38efed878f7cf6444da05a6eb45c046b718495e6419a73e27311a4e83ee2&req=dichFMl3nIFZWPMW1HO4zXKHzmEj32hf2WeLtJkrK0xaI%2F5KIyEW85r73z3U%0A3aQV%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313297/7452690b132a6606bd3c170367bf/upload_3270791458970766348.png)
 
 ## Turn on saved search alerts with the bell icon
 
@@ -74,7 +72,7 @@ Select an option from the Recipient dropdown to choose who receives saved search
 
 Add contacts to the saved search before selecting a Recipient option that includes contacts. The Add a contact to receive saved search alerts section covers how.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png?expires=1793823300&signature=766b4aa4484bb0be82e96def025197301f0bfa59b15f875314b994407404cbeb&req=dichFMl3nIFYX%2FMW1HO4zeYW6EY8TaPJRBqwwgX%2BBySD3F6SUXE%2B3htMDfMN%0AxLJG%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313320/ab48ab22ac3a015ac800f3a83bf8/upload_16512052699701253666.png)
 
 # Choose how often saved search alerts send
 
@@ -86,7 +84,7 @@ Select an option from the Frequency dropdown to choose how often saved search al
 
 Morning alerts send around 8:00 AM and Evening alerts around 8:00 PM in your MLS time zone.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png?expires=1793823300&signature=ce2971346b4af3a3491df35fe6cb9a9fd7bb06e85e10d1f67cf5ca412597ebee&req=dichFMl3nIFXX%2FMW1HO4zdJccBiH4irJzNFjF5vcg33hE4NGcFvcyUFr9lh1%0AoEt%2B%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313331/36ba9ba72ff08c1e37a180064348/upload_8483056357904328398.png)
 
 # Add a contact to receive saved search alerts
 
@@ -103,11 +101,11 @@ Add a contact to the saved search from the Contacts dropdown to send them saved 
 
 The contact receives saved search alerts according to the Frequency setting.
 
-The Contacts dropdown lists only people already in your contacts. To send alerts to someone new, create the contact first, then add them to the saved search. [Create and Manage Your Contacts in Perchwell](http://support.perchwell.com/baldwin/en/articles/14790755-create-and-manage-your-contacts-in-perchwell) covers creating a contact.
+The Contacts dropdown lists only people already in your contacts. To send alerts to someone new, create the contact first, then add them to the saved search. [Create and Manage Your Contacts in Perchwell](https://support.perchwell.com/crmls/en/articles/18232928-create-and-manage-your-contacts-in-perchwell) covers creating a contact.
 
 For invited clients, the Allow added contacts to see and edit this search toggle controls whether they can open and edit the saved search. Invited clients can receive alerts whether the toggle is on or off.
 
-[Share a Saved Search with a Client](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) covers giving a client access to the saved search itself.
+[Share a Saved Search with a Client](https://support.perchwell.com/crmls/en/articles/18233932-share-a-saved-search-with-a-client) covers giving a client access to the saved search itself.
 
 # What a saved search alert email includes
 
@@ -119,6 +117,6 @@ Each saved search alert email shows matching listing activity since the last ale
 
 Contacts do not need a Perchwell account to receive alerts or open the listing links in the email. Each listing link opens a listing page with your name, brokerage, brokerage logo, email, and phone number at the top, along with your profile photo if you have added one.
 
-[Unsubscribe from Saved Search Alert Emails](http://support.perchwell.com/baldwin/en/articles/13602428-unsubscribe-from-notifications-for-invited-clients) covers how a client stops receiving alerts.
+[Unsubscribe from Saved Search Alert Emails](https://support.perchwell.com/crmls/en/articles/18232828-unsubscribe-from-saved-search-alert-emails) covers how a client stops receiving alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png?expires=1793823300&signature=bb9cc86b78a3b6fae0e286fce7078e3b3c83b7f741548cdb679d1ef6ddea0222&req=dichFMl3nIFWX%2FMW1HO4zY01GG4fu555azUW3jLAQ8gT4uIxgZ%2BKPNjIfqdf%0ABRXX%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313363/14123df32df273c0376a51963813/upload_3378179541835436267.png)

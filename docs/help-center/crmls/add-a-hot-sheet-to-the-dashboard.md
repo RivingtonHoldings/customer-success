@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:51:14Z
-updated_at: 2026-11-04T19:57:14Z
+updated_at: 2026-11-04T22:05:08Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:59:48Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Add a Hot Sheet to the Dashboard
@@ -61,7 +61,7 @@ The Hot Sheet fills in on the Dashboard with listing activity from that Saved Se
 
 > **Tip:** A more specific Saved Search makes a more useful Hot Sheet.
 
-Learn how to build a search in [Create a Search with Filters](https://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters-in-perchwell), and how to edit and manage it in [Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/8955646-manage-your-saved-searches).
+Learn how to build a search in [Create a Search with Filters](https://support.perchwell.com/crmls/en/articles/18233998-create-a-search-with-filters), and how to edit and manage it in [Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/18234059-manage-your-saved-searches).
 
 # Set up a quick hot sheet
 

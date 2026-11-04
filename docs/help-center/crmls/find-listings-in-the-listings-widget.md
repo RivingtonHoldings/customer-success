@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:56:22Z
-updated_at: 2026-11-04T19:56:22Z
+updated_at: 2026-11-04T22:06:37Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:59:48Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Find Listings in the Listings Widget
@@ -72,7 +72,7 @@ If some status and activity filters are hidden, click the arrow at the end of th
 
 ## Search within the Listings widget
 
-Search for a specific listing by entering an address in the Search field at the top of the Listings widget. Matching listings appear as you type, the same way they do in the [Universal Search Bar](https://support.perchwell.com/crmls/en/articles/11002620-universal-search-bar).
+Search for a specific listing by entering an address in the Search field at the top of the Listings widget. Matching listings appear as you type, the same way they do in the [Universal Search Bar](https://support.perchwell.com/crmls/en/articles/18234136-universal-search-bar).
 
 The search looks only within the listings you chose to see and the selected filter, and it always shows the closest matches.
 

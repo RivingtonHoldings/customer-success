@@ -12,10 +12,10 @@ collections: ["User Settings"]
 state: published
 author_id: 5472692
 created_at: 2026-03-13T07:57:12Z
-updated_at: 2026-11-03T20:31:51Z
+updated_at: 2026-11-04T21:34:38Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Update Your Brokerage Logo and Colors
@@ -26,7 +26,7 @@ Use this article, as a broker admin, to replace your brokerage logo and change y
 
 Replace your brokerage logo from My brokerage in the profile menu. Only broker admins have access to My brokerage.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png?expires=1793739600&signature=ff0afe4af82a1ee2831cea1149d8e69edda0cf6df868bd7c3c0fe8115531a4ca&req=diEiHsF3mYJZXPMW1HO4zVLSrEJv4tAB7d0dv0siteMkhbP2yVz32rXnjQUK%0AZ9Di%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png?expires=1793832300&signature=0b0168dfda259c146e313c72cce3ceb85361e0702dd89dbb5673f46866541613&req=diEiHsF3mYJZXPMW1HO4zVLSrEJg4tsE7d0dpU8kvNknosI19YMA9D0YaDa0%0A2ZFRln%2FjBHVeZ8Zc3NM%3D%0A)
 
 ## Steps:
 1. Hover over your profile icon in the upper right
@@ -37,7 +37,7 @@ Replace your brokerage logo from My brokerage in the profile menu. Only broker a
 
 The new logo replaces your brokerage's previous logo right away.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png?expires=1793739600&signature=9f15bce215d28e599b6ce430be1f367623bbd3f0524ac3b18182e52da024f598&req=dicvE895n4VZXPMW1HO4zVkCo0FrVnYy3EcQ1zdw9fwiW4uDjBZ4qnHsG47S%0AssAN%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png?expires=1793832300&signature=7b5c1f517fdd0491da5e41fd8d0a62e87d4ea551f9b8b7be7171afe5e8c948b5&req=dicvE895n4VZXPMW1HO4zVkCo0FkVn033EcQzTN2%2FMbYI9IUi79XKWkrvF3s%0AKKHZ%2BwA7T%2FiP3cGdHqI%3D%0A)
 
 # Change your brokerage colors for charts and reports
 
@@ -58,10 +58,8 @@ A hex code is the # followed by six letters and numbers that identify a color, s
 
 Your charts, analytics, and new reports show the updated colors. Reports created before the change keep their original colors.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png?expires=1793739600&signature=a8d37589c47ae63384c92a020153573116b333792fb443472a6b44b2554c4e87&req=dicvE895n4deWfMW1HO4zX1SCc0MHkAfSghRFFc9qxSReZa7569JEOo%2FM3ih%0A5eso%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158896165/7cfad07fe154609e5e8180e09a38/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158896165/7cfad07fe154609e5e8180e09a38/image.png?expires=1793739600&signature=10821a692a0e2dda7403868ec2d5a0c51bbe5f5afe0a7244c7ff28ec0055a369&req=diEiHsF3m4BZXPMW1HO4zek5bg%2FvvPVqf2iwCiMQaTTDj1oaQMj2GOOmZEmk%0AqP%2BD%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png?expires=1793832300&signature=d3ff522d2ba26c86790c6e234b0a1b0860a6cf2818d1b4373df2bbb84ae66193&req=dicvE895n4deWfMW1HO4zX1SCc0DHksaSghRDlM7oi7N5QNc5OWMMG7KMjpV%0AVmuusolaBf2PoOLYubw%3D%0A)
 
 # Create brokerage email templates
 
-Create the email templates your agents choose from in Communication templates in My brokerage. [Create Communication Templates for your Brokerage](https://support.perchwell.com/baldwin/en/articles/15653156-create-communication-templates-for-your-brokerage) explains how to create templates for sharing listings, sending reports, and contacting listing agents.
+Create the email templates your agents choose from in Communication templates in My brokerage. [Create Brokerage Email Templates](https://support.perchwell.com/baldwin/en/articles/15653156-create-communication-templates-for-your-brokerage) explains how to create templates for sharing listings, sending reports, and contacting listing agents.

@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:54:56Z
-updated_at: 2026-11-04T20:31:46Z
+updated_at: 2026-11-04T22:06:17Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T20:34:53Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Dashboard Overview
@@ -26,7 +26,7 @@ Use this article to get familiar with the Perchwell Dashboard, understand what e
 
 The Dashboard is the Perchwell page that brings market activity together with your contacts, saved searches, tags, and listings in one view, so you see what has changed. Click Dashboard in the top navigation bar, near the upper left, to open the Dashboard from anywhere in Perchwell.
 
-To go straight to a listing, agent, or contact from the Dashboard, type an address, MLS ID, name, or email into the Search field in the upper right of the top navigation. [Universal Search Bar](https://support.perchwell.com/crmls/en/articles/11002620-universal-search-bar) explains what you find there and how to open it.
+To go straight to a listing, agent, or contact from the Dashboard, type an address, MLS ID, name, or email into the Search field in the upper right of the top navigation. [Universal Search Bar](https://support.perchwell.com/crmls/en/articles/18234136-universal-search-bar) explains what you find there and how to open it.
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060555/d3298581d765a35800dcd43bb2e7/upload_12622827175388725982.png)
 
@@ -56,7 +56,7 @@ Learn how to add, import, and group contacts in [Create and Manage Your Contacts
 
 The Saved Searches widget on the Dashboard lists your Saved Searches, and clicking one runs that search in the same tab. Click your browser's back button to return to the Dashboard. Sort the Saved Searches widget by Name or Recently Updated.
 
-[Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/8955646-manage-your-saved-searches) covers renaming, editing, and deleting a Saved Search, and setting up its email alerts.
+[Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/18234059-manage-your-saved-searches) covers renaming, editing, and deleting a Saved Search, and setting up its email alerts.
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060615/f6eb4c214932732dc15b2a70ce72/upload_262081386461669108.png)
 

@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:41:26Z
-updated_at: 2026-11-04T20:31:10Z
+updated_at: 2026-11-04T22:05:40Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T20:34:53Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Contacts Page Overview
@@ -66,7 +66,7 @@ Click Create to save the contact. To add multiple contacts from a CSV (comma-sep
 For more information:
 - [Create and Manage Your Contacts in Perchwell](https://support.perchwell.com/crmls/en/articles/18232928-create-and-manage-your-contacts-in-perchwell) covers creating and editing contacts.
 - [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/crmls/en/articles/18232805-bulk-upload-contacts-from-a-csv-file) covers CSV requirements and uploading multiple contacts.
-- [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/11112420-set-up-email-alerts-for-saved-searches) covers the Recipient options for saved search alerts.
+- [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches) covers the Recipient options for saved search alerts.
 - [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) covers inviting contacts and what they can access in Perchwell.
 - [Tags Page Overview](https://support.perchwell.com/crmls/en/articles/18233327-tags-page-overview) covers Client Tags.
 

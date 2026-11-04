@@ -1,28 +1,26 @@
 ---
-intercom_id: "11517245"
-content_id: "12507731"
+intercom_id: "18234111"
+content_id: "23617793"
 title: "Filter Your Search by Open House Date"
 description: "Find listings with upcoming open houses by selecting a day or date range in the Open house filter on the Filters tab or in search results."
-url: "http://support.perchwell.com/en/articles/11517245-filter-your-search-by-open-house-date"
+url: ""
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Filters"
 collection_ids: [16866944]
 collections: ["Search / Filters"]
-state: published
-author_id: 5472692
-created_at: 2025-06-05T15:34:35Z
-updated_at: 2026-11-04T18:28:54Z
-labels: ["How To: Open House", "How to: Search (Open House)"]
-body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+state: draft
+author_id: 8314814
+created_at: 2026-11-04T21:54:26Z
+updated_at: 2026-11-04T21:54:26Z
+labels: []
+body_source: intercom-api
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Filter Your Search by Open House Date
 
 Use this article to filter listings by open house date with the Open house filter.
-
-[Embedded video](https://www.loom.com/embed/2a6c0e75b8de4355bc5e55d6ae5d5d4e)
 
 # Find open houses by date on the Filters tab
 
@@ -38,7 +36,7 @@ The Open house filter under Listing Details finds listings with an open house on
 
 Your search results update to show listings with an open house on that date or within that range. To remove a selected date, click it again.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762038974/605b6516c3eb91902fd7a32edef0/upload_1359050406592505713.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762038974/605b6516c3eb91902fd7a32edef0/upload_1359050406592505713.png?expires=1793820600&signature=222833c00a8b3c4aabed525b079ddca283393fba8c99d2fe38dcef6f5752bbee&req=dichFMl9lYhYXfMW1HO4zXA2YRaCplAGLxzaovONlgB%2FId3p1DJOM1SO1ODv%0AloQDkpFSCFPGehi7BKA%3D%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309147/64a859c44e24ccc35d19e73ffc6b/upload_2711289659317349437.png)
 
 # Find upcoming open houses within a set number of days
 
@@ -46,7 +44,7 @@ Click 30, 60, 180, or 365 days on the Open house calendar to select a range star
 
 # Filter by open house date from the Open house column
 
-Add the Open house column to filter by date from your search results and see when each open house is scheduled. [Customize Your Search Results View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to add columns. Columns are available in List and Expanded views.
+Add the Open house column to filter by date from your search results and see when each open house is scheduled. [Customize Your Search Results View](https://support.perchwell.com/crmls/en/articles/18234037-customize-your-search-results-view) explains how to add columns. Columns are available in List and Expanded views.
 
 ## Steps:
 1. Click the three-line icon in the Open house column header to open the filter
@@ -55,7 +53,7 @@ Add the Open house column to filter by date from your search results and see whe
 
 Your search results update as soon as you click a date. The same Open house filter appears under Applied Filters on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762038988/35354124dfe19af0b76b75644390/upload_770516476394658448.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762038988/35354124dfe19af0b76b75644390/upload_770516476394658448.png?expires=1793820600&signature=f29a62c5a6c8527e58cf4f4ebb27895ba3210b366c78cf1a04779826648e7eed&req=dichFMl9lYhXUfMW1HO4zcOl8Ogd%2B16QhdevCtf4%2F2nmW7r93y0JHqvqRLAy%0AYyxKWecdCQRS7PdFREo%3D%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309169/56eb8d7b6b43bd3ff13e7298e160/upload_1575893034741095750.png)
 
 # Remove the Open house filter from your search
 

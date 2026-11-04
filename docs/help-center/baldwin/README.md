@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T20:34:53Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:13:53Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -162,7 +162,7 @@ Collection ID 19361693. 4 articles.
 
 - [Create Brokerage Email Templates](create-brokerage-email-templates.md), updated 2026-11-03
 - [Create Communication Templates](create-communication-templates.md), updated 2026-08-10
-- [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-03
+- [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-04
 - [User Settings FAQ](user-settings-faq.md), updated 2026-11-04
 
 ## What's New in Perchwell
@@ -191,7 +191,7 @@ Collection ID 19642611. 1 articles.
 
 Collection ID 17797942. 4 articles.
 
-- [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
+- [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-11-04
 - [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-11-04
 - [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-11-04
 - [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-11-04

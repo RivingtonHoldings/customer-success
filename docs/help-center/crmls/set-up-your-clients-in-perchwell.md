@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:34:44Z
-updated_at: 2026-11-04T19:44:08Z
+updated_at: 2026-11-04T22:07:42Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T22:13:53Z
 ---
 
 # Set Up Your Clients in Perchwell
@@ -42,16 +42,16 @@ Messages works only with clients you have invited. A client must accept the invi
 
 Share a saved search with a client from the Edit Search window. Clients open shared saved searches in their client portal. Clients can edit the filters in a shared saved search, and the changes they save also update the search in your account.
 
-[Share a Saved Search with a Client](https://support.perchwell.com/crmls/en/articles/8955682-share-a-saved-search-with-a-client) walks through sharing a saved search and controlling what clients can edit.
+[Share a Saved Search with a Client](https://support.perchwell.com/crmls/en/articles/18233932-share-a-saved-search-with-a-client) walks through sharing a saved search and controlling what clients can edit.
 
 # Turn on saved search alerts for clients
 
 Turn on saved search alerts to email clients about listing activity that matches the search. A client receives alerts once they are added to the saved search and the Recipient option includes contacts. The first time you turn on alerts, Recipient is set to Only me. Clients do not need a Perchwell account to receive saved search alerts.
 
-Learn how to choose recipients and how often alerts send in [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/11112420-set-up-email-alerts-for-saved-searches).
+Learn how to choose recipients and how often alerts send in [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches).
 
 # Start conversations and share listings in Messages
 
 Start a conversation with an invited client in Messages, and share listings with them from Search or a Listing Detail Page. Clients react to each listing you share with Like, Maybe, or Reject. Review their reactions in Shared properties in your conversation.
 
-[Message Clients in Perchwell](https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell) explains how to start a conversation, share listings, and review reactions. To share listings with someone you have not invited, see [Share Listings with Clients from Search](https://support.perchwell.com/baldwin/en/articles/13903326-share-listings-with-clients-from-search) for email, text message, and public link options.
+[Message Clients in Perchwell](https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell) explains how to start a conversation, share listings, and review reactions. To share listings with someone you have not invited, see [Share Listings with Clients from Search](https://support.perchwell.com/crmls/en/articles/18234131-share-listings-with-clients-from-search) for email, text message, and public link options.
