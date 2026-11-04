@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:06:48Z. Articles: 93 (75 published, 18 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:48:56Z. Articles: 101 (75 published, 26 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -15,9 +15,17 @@ Collection ID 16867014. 4 articles.
 
 ## Client Collaboration
 
-Collection ID 16866981. 1 articles.
+Collection ID 16866981. 9 articles.
 
+- [Bulk Upload Contacts from a CSV File](bulk-upload-contacts-from-a-csv-file-18232805.md) (draft), updated 2026-11-04
+- [Contacts Page Overview](contacts-page-overview.md) (draft), updated 2026-11-04
+- [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell-18232928.md) (draft), updated 2026-11-04
+- [Export Contacts to a CSV File](export-contacts-to-a-csv-file-18232812.md) (draft), updated 2026-11-04
 - [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-04
+- [Find and Contact Buyer's Agents with Reverse Prospecting](find-and-contact-buyer-s-agents-with-reverse-prospecting.md) (draft), updated 2026-11-04
+- [Message Clients in Perchwell](message-clients-in-perchwell-18232897.md) (draft), updated 2026-11-04
+- [Set Up Your Clients in Perchwell](set-up-your-clients-in-perchwell.md) (draft), updated 2026-11-04
+- [Unsubscribe from Saved Search Alert Emails](unsubscribe-from-saved-search-alert-emails-18232828.md) (draft), updated 2026-11-04
 
 ## Client Experience
 
@@ -171,7 +179,7 @@ Collection ID 16866865. 15 articles.
 - [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-11-04
 - [Multi-Listing Actions on the Search Page](multi-listing-actions-on-the-search-page.md) (draft), updated 2026-07-02
-- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-10-23
+- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-04
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
 - [Sharing Multiple Listings via Email or with a Public Link](sharing-multiple-listings-via-email-or-with-a-public-link.md), updated 2026-07-02
 - [Sharing a Saved Search with Clients](sharing-a-saved-search-with-clients.md) (draft), updated 2026-07-02

@@ -1,8 +1,88 @@
 {
- "last_run": "2026-11-04T19:06:48Z",
+ "last_run": "2026-11-04T19:48:56Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18232916": {
+   "file": "contacts-page-overview.md",
+   "updated_at": 1793821486,
+   "state": "draft",
+   "title": "Contacts Page Overview",
+   "content_id": "23616344",
+   "body_sha1": "3207a6ee3459cf440d724a9ed6b9c926dcb6ecbb"
+  },
+  "18231970": {
+   "file": "receive-alerts-about-new-listings.md",
+   "updated_at": 1793821452,
+   "state": "draft",
+   "title": "Receive Alerts About New Listings",
+   "content_id": "23615116",
+   "body_sha1": "66f6f1664a586ca9825a383e11425ce68dd598eb"
+  },
+  "18232897": {
+   "file": "message-clients-in-perchwell-18232897.md",
+   "updated_at": 1793821450,
+   "state": "draft",
+   "title": "Message Clients in Perchwell",
+   "content_id": "23616320",
+   "body_sha1": "01bd2d6a8aca854cdbbd6f685ab0debdffc002e8"
+  },
+  "18232867": {
+   "file": "set-up-your-clients-in-perchwell.md",
+   "updated_at": 1793821448,
+   "state": "draft",
+   "title": "Set Up Your Clients in Perchwell",
+   "content_id": "23616285",
+   "body_sha1": "75fc1b46ee8d351fe634feae70d6822973d6fa24"
+  },
+  "18232908": {
+   "file": "find-and-contact-buyer-s-agents-with-reverse-prospecting.md",
+   "updated_at": 1793821446,
+   "state": "draft",
+   "title": "Find and Contact Buyer's Agents with Reverse Prospecting",
+   "content_id": "23616332",
+   "body_sha1": "276e7cbcffeeeaf9888c5e36868a3e11552cfc2e"
+  },
+  "18232928": {
+   "file": "create-and-manage-your-contacts-in-perchwell-18232928.md",
+   "updated_at": 1793821387,
+   "state": "draft",
+   "title": "Create and Manage Your Contacts in Perchwell",
+   "content_id": "23616359",
+   "body_sha1": "1286e23ee3f52108e0db774c32786eb790e2d638"
+  },
+  "11112420": {
+   "file": "set-up-email-alerts-for-saved-searches.md",
+   "updated_at": 1793821272,
+   "state": "published",
+   "title": "Set Up Email Alerts for Saved Searches",
+   "content_id": "11986197",
+   "body_sha1": "8da8f69ead596d3fd736f6f281e2419510dcd4bf"
+  },
+  "18232828": {
+   "file": "unsubscribe-from-saved-search-alert-emails-18232828.md",
+   "updated_at": 1793820717,
+   "state": "draft",
+   "title": "Unsubscribe from Saved Search Alert Emails",
+   "content_id": "23616242",
+   "body_sha1": "2332d4fa088aa55625878e424378a8fcb5dd6a3d"
+  },
+  "18232812": {
+   "file": "export-contacts-to-a-csv-file-18232812.md",
+   "updated_at": 1793820499,
+   "state": "draft",
+   "title": "Export Contacts to a CSV File",
+   "content_id": "23616222",
+   "body_sha1": "ce2c7d83306ab726b03d964c351591bc30a071df"
+  },
+  "18232805": {
+   "file": "bulk-upload-contacts-from-a-csv-file-18232805.md",
+   "updated_at": 1793820408,
+   "state": "draft",
+   "title": "Bulk Upload Contacts from a CSV File",
+   "content_id": "23616210",
+   "body_sha1": "1e23c7e0022347f36c105f66551ae33b291e3d61"
+  },
   "18232664": {
    "file": "view-shared-saved-searches-18232664.md",
    "updated_at": 1793819031,
@@ -18,14 +98,6 @@
    "title": "Share Listings with Your Agent",
    "content_id": "23615213",
    "body_sha1": "cc8dfdbbb004c897224c9ea314182ab311119499"
-  },
-  "18231970": {
-   "file": "receive-alerts-about-new-listings.md",
-   "updated_at": 1793819020,
-   "state": "draft",
-   "title": "Receive Alerts About New Listings",
-   "content_id": "23615116",
-   "body_sha1": "332d9d5a90506ccfc46b0f8613524cfae774e50a"
   },
   "18231941": {
    "file": "communicate-with-your-agent-via-messages-in-perchwell.md",
@@ -242,14 +314,6 @@
    "title": "Share a Saved Search with a Client",
    "content_id": "9098973",
    "body_sha1": "0afd0cad9f99470e3e27844e9b1184be7ca3fb64"
-  },
-  "11112420": {
-   "file": "set-up-email-alerts-for-saved-searches.md",
-   "updated_at": 1792795291,
-   "state": "published",
-   "title": "Set Up Email Alerts for Saved Searches",
-   "content_id": "11986197",
-   "body_sha1": "63b1fcfda8eea8638b1c04df5567dc88d956d4bb"
   },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",

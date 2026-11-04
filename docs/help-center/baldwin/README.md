@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:06:48Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:48:56Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -15,7 +15,7 @@ Collection ID 17797961. 9 articles.
 - [Find and Contact Buyer's Agents with Reverse Prospecting](find-and-contact-buyer-s-agents-with-reverse-prospecting.md), updated 2026-11-03
 - [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md), updated 2026-11-03
 - [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-04
-- [Set Up Your Clients in Perchwell](set-up-your-clients-in-perchwell.md), updated 2026-11-03
+- [Set Up Your Clients in Perchwell](set-up-your-clients-in-perchwell.md), updated 2026-11-04
 - [Unsubscribe from Saved Search Alert Emails](unsubscribe-from-saved-search-alert-emails.md), updated 2026-11-03
 
 ## Client Experience
@@ -185,7 +185,7 @@ Collection ID 19644346. 1 articles.
 
 Collection ID 19642611. 1 articles.
 
-- [Search FAQ](search-faq.md), updated 2026-11-02
+- [Search FAQ](search-faq.md), updated 2026-11-04
 
 ## Search / Filters (under Search)
 
@@ -194,7 +194,7 @@ Collection ID 17797942. 4 articles.
 - [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
 - [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-11-04
 - [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-11-04
-- [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-10-23
+- [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-11-04
 
 ## Search / Search (under Search)
 
@@ -209,8 +209,8 @@ Collection ID 17797941. 14 articles.
 - [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-11-04
 - [Print or Save Search Results as a PDF](print-or-save-search-results-as-a-pdf.md), updated 2026-10-23
-- [Search Page Overview](search-page-overview.md), updated 2026-10-23
-- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-10-23
+- [Search Page Overview](search-page-overview.md), updated 2026-11-04
+- [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-04
 - [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-10-23
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
 - [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
