@@ -13,7 +13,7 @@ Notion and Intercom are provided by claude.ai connectors, not by anything in thi
 - **Product:** Perchwell is the MLS platform members use to search listings, enter and manage listings, run reports, and collaborate with clients. One codebase, web and mobile at full parity.
 - **Members:** Real estate agents, brokers, brokerage admins, MLS staff, and invited clients. "Member" is the word for a person using Perchwell through their MLS.
 - **In scope for this project:** Baldwin (cut over from Paragon on August 3, 2026) and CRMLS (cutover upcoming, migration source being confirmed).
-- **Features members ask about most:** Search and SearchWell (natural language search), Add/Edit (listing entry), Saved Searches and alerts, Hotsheets, Tags, Client collaboration, Reports and CMAs, Print and Export CSV, Dashboard widgets, Contacts and the My MLS roster, Mobile.
+- **Features members ask about most:** Search and SearchWell (natural language search), Add/Edit (listing entry), Saved Searches and alerts, Hotsheets, Tags, Client collaboration, Reports and CMAs, Print and Export CSV, Dashboard widgets, Contacts and the MLS roster, Mobile.
 - **Support surfaces:** Help centers on support.perchwell.com (one per MLS), Intercom chat and email, and Fin, the Intercom AI agent that answers from help center articles.
 
 Full support-writing reference, glossary, and terminology rules: `docs/product-context.md`.
