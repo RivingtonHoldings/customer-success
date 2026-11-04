@@ -12,10 +12,10 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-06T05:19:02Z
-updated_at: 2026-11-04T22:52:35Z
+updated_at: 2026-11-04T23:52:53Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T22:53:50Z
+synced_at: 2026-11-04T23:55:19Z
 ---
 
 # Find Familiar Features by Their Perchwell Names
@@ -55,7 +55,7 @@ This table matches listing entry and maintenance tools from Paragon to their Per
 For more information:
 - [Manage Listings Page Overview](https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview) covers finding and updating your listings.
 - [Listing Maintenance FAQ](https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq) explains how to duplicate a listing and where Autofill gets its information.
-- [Find Your Partial Listings in Perchwell](https://support.perchwell.com/baldwin/en/articles/14727432-find-your-partial-listings-in-perchwell) explains how partial listings moved to Perchwell as draft listings.
+- [Review Your Data Moved from Paragon](https://support.perchwell.com/baldwin/en/articles/14725404-review-your-data-moved-from-paragon) explains how partial listings moved to Perchwell as draft listings.
 
 # Perchwell names for Dashboard, Hot Sheet, and Analytics features
 
