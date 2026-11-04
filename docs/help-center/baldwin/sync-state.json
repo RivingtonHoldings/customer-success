@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-04T20:19:10Z",
+ "last_run": "2026-11-04T20:34:53Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "11801815": {
+   "file": "write-a-listing-description-with-ai-scribe.md",
+   "updated_at": 1793824020,
+   "state": "published",
+   "title": "Write a Listing Description with AI Scribe",
+   "content_id": "12922702",
+   "body_sha1": "c003a987de1dc866a400c2d8959da7d5213499b6"
+  },
+  "14459729": {
+   "file": "what-changed-when-you-moved-to-perchwell.md",
+   "updated_at": 1793823955,
+   "state": "published",
+   "title": "What Changed When You Moved to Perchwell",
+   "content_id": "16905641",
+   "body_sha1": "a60b81c893d280de5ef59a65a8154606cb24fdb8"
+  },
   "11002620": {
    "file": "universal-search-bar.md",
    "updated_at": 1793823349,
@@ -523,14 +539,6 @@
    "content_id": "9099049",
    "body_sha1": "eed6bf01ea2dc104a745291803d12d413504442a"
   },
-  "11801815": {
-   "file": "write-a-listing-description-with-ai-scribe.md",
-   "updated_at": 1793759266,
-   "state": "published",
-   "title": "Write a Listing Description with AI Scribe",
-   "content_id": "12922702",
-   "body_sha1": "172fcff863b6bb3dc83db1118f0d2c98e34a9d12"
-  },
   "13903183": {
    "file": "access-integrations-from-the-dashboard-or-a-listing.md",
    "updated_at": 1793742855,
@@ -602,14 +610,6 @@
    "title": "Find and Update Contacts Moved from Paragon",
    "content_id": "17293244",
    "body_sha1": "02c5e31935ce3bad743ae3929199967a3026e297"
-  },
-  "14459729": {
-   "file": "what-changed-when-you-moved-to-perchwell.md",
-   "updated_at": 1793736881,
-   "state": "published",
-   "title": "What Changed When You Moved to Perchwell",
-   "content_id": "16905641",
-   "body_sha1": "e6b49111ee33e6682762c48053ccc314ff68179d"
   },
   "15521036": {
    "file": "sample-emails-to-tell-clients-about-perchwell.md",

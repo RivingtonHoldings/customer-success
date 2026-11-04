@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:54:56Z
-updated_at: 2026-11-04T19:57:18Z
+updated_at: 2026-11-04T20:31:46Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:59:48Z
+synced_at: 2026-11-04T20:34:53Z
 ---
 
 # Dashboard Overview
@@ -66,7 +66,7 @@ The Tags widget on the Dashboard lists your Tags, the folders of listings you or
 
 Members who came from a legacy platform may know Tags as listing carts. [Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
 
-[Tags Page Overview](https://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview) explains how Tags hold listings, how My Tags and Client Tags differ, and how to work with Tags on the Tags page.
+[Tags Page Overview](https://support.perchwell.com/crmls/en/articles/18233327-tags-page-overview) explains how Tags hold listings, how My Tags and Client Tags differ, and how to work with Tags on the Tags page.
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060632/3f543a4a2f604921a6456ea2e158/upload_6704687711702029881.png)
 

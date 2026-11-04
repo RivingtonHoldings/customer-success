@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T20:19:10Z. Articles: 113 (75 published, 38 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T20:34:53Z. Articles: 118 (75 published, 43 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -140,12 +140,17 @@ Collection ID 16867011. 20 articles.
 
 ## Tags
 
-Collection ID 16866962. 5 articles.
+Collection ID 16866962. 10 articles.
 
 - [10 Ways to Use Tags](10-ways-to-use-tags.md) (draft), updated 2026-07-02
+- [Add Listings to a Tag](add-listings-to-a-tag.md) (draft), updated 2026-11-04
+- [Create and Edit a Tag](create-and-edit-a-tag.md) (draft), updated 2026-11-04
 - [Creating and Editing Tags](creating-and-editing-tags.md), updated 2026-07-02
+- [Link a Saved Search to a Tag](link-a-saved-search-to-a-tag.md) (draft), updated 2026-11-04
 - [Managing Tag Alerts](managing-tag-alerts.md) (draft), updated 2026-07-02
+- [Share a Tag with Clients](share-a-tag-with-clients.md) (draft), updated 2026-11-04
 - [Sharing and Viewing Tags](sharing-and-viewing-tags.md) (draft), updated 2026-07-02
+- [Tags Page Overview](tags-page-overview-18233327.md) (draft), updated 2026-11-04
 - [Tags Page Overview](tags-page-overview.md) (draft), updated 2026-07-02
 
 ## Then vs. Now

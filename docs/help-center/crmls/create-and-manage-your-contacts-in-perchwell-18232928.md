@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:43:06Z
-updated_at: 2026-11-04T19:43:07Z
+updated_at: 2026-11-04T20:31:12Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:34:53Z
 ---
 
 # Create and Manage Your Contacts in Perchwell
@@ -49,7 +49,7 @@ To create a contact while you share a listing, click Listing Actions on the list
 
 For more information:
 - [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) explains what invited clients can access and how to invite a contact later.
-- [Tags Page Overview](https://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview) covers Client Tags.
+- [Tags Page Overview](https://support.perchwell.com/crmls/en/articles/18233327-tags-page-overview) covers Client Tags.
 - [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/crmls/en/articles/18232805-bulk-upload-contacts-from-a-csv-file) explains how to add multiple contacts at once from a CSV (comma-separated values) file.
 
 # Add, rename, reorder, or delete contact groups

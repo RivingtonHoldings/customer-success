@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:41:26Z
-updated_at: 2026-11-04T19:44:46Z
+updated_at: 2026-11-04T20:31:10Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:34:53Z
 ---
 
 # Contacts Page Overview
@@ -68,7 +68,7 @@ For more information:
 - [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/crmls/en/articles/18232805-bulk-upload-contacts-from-a-csv-file) covers CSV requirements and uploading multiple contacts.
 - [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/11112420-set-up-email-alerts-for-saved-searches) covers the Recipient options for saved search alerts.
 - [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) covers inviting contacts and what they can access in Perchwell.
-- [Tags Page Overview](https://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview) covers Client Tags.
+- [Tags Page Overview](https://support.perchwell.com/crmls/en/articles/18233327-tags-page-overview) covers Client Tags.
 
 ## Add a contact while sharing listings
 
