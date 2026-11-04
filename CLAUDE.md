@@ -50,7 +50,7 @@ Friendly and competent. The member may be brand new to Perchwell and not technic
 - Translate system terms into what the member sees with a "which means" clause. "Fin reads from published articles only, which means a draft article will not change Fin's answers."
 - Hedge predictions about member behavior. "Members may ask" beats "members will ask."
 - Pair every "don't say X" with "say Y instead."
-- Articles never name a legacy platform. Members came from different systems depending on their MLS, and one article serves several, so write "a legacy platform" and keep the legacy feature name the member would recognize: "Members who came from a legacy platform may know the Universal Search Bar as Power Search." Conversation replies and macros are the exception; you know which MLS you are talking to, so name their platform. Never "old system," "retired," or "sunsetted."
+- Articles never name a legacy platform. Members came from different systems depending on their MLS, and one article serves several, so write "a legacy platform" and keep the legacy feature name the member would recognize: "Members who came from a legacy platform may know the Universal Search Bar as Power Search." Conversation replies and macros are one exception; you know which MLS you are talking to, so name their platform. Then vs. Now articles are the other: each MLS has its own Then vs. Now collection, so a Baldwin Then vs. Now article names Paragon, as in "In Paragon, this was called Power Search." Never "old system," "retired," or "sunsetted."
 
 ## Operational doc conventions
 
