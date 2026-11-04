@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T04:22:51Z. Articles: 128 (120 published, 8 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T04:35:53Z. Articles: 128 (120 published, 8 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -164,7 +164,7 @@ Collection ID 19361693. 4 articles.
 - [Create Brokerage Email Templates](create-brokerage-email-templates.md), updated 2026-11-03
 - [Create Communication Templates](create-communication-templates.md), updated 2026-08-10
 - [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-03
-- [User Settings FAQs](user-settings-faqs.md), updated 2026-11-03
+- [User Settings FAQ](user-settings-faq.md), updated 2026-11-04
 
 ## What's New in Perchwell
 
@@ -227,7 +227,7 @@ Collection ID 19642616. 2 articles.
 
 Collection ID 19644367. 1 articles.
 
-- [Tags FAQ](tags-faq.md), updated 2026-11-03
+- [Tags FAQ](tags-faq.md), updated 2026-11-04
 
 ## Client Collaboration / FAQs (under Client Collaboration)
 

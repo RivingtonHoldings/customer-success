@@ -5,17 +5,14 @@ The record of the November 3, 2026 batch port. It moved the Baldwin rows of the 
 ## Wave 1: Baldwin-only articles
 
 **Result:**
-- 41 of 43 articles are live and match their Notion draft. Every one stayed published in the same collections.
+- All 43 articles are live and match their Notion draft. Every one stayed published in the same collections.
 - Every image is on Intercom's CDN, and no Notion URL went out.
 - Each Notion row is set to Live in Intercom, with its Intercom URL filled in.
 - After the mirror re-sync, the second run reported zero changes. All 41 rebuilt files carry their new title and opening sentence.
 
-### Not ported: Intercom kept the old text
+### Published by hand: Intercom saved the update as a draft
 
-The update returned success, but the stored article kept its old body, description, and author; only the edit time moved. This happened twice for Tags FAQ and once for User Settings FAQ. A likely cause is an unsaved draft version open in the Intercom editor. Check each article in Intercom, then re-port it once through `/port-to-intercom`. Both Notion rows are still Ready to Transfer.
-
-- TRK-100 [Tags FAQ](https://support.perchwell.com/baldwin/en/articles/15216706-tags-faq) (15216706)
-- TRK-114 [User Settings FAQs](https://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faqs) (16180793)
+For Tags FAQ (TRK-100) and User Settings FAQ (TRK-114), the update returned success but Intercom stored it as an unpublished draft version, so the live article kept its old text. The draft held the ported body word for word. Tara published both in Intercom on November 4, and both now match their Notion draft. If an update ever looks like it did nothing, open the article in Intercom and check for a Draft status before porting again.
 
 ### Ported articles
 
@@ -64,6 +61,8 @@ The update returned success, but the stored article kept its old body, descripti
 | 110 | [Update Your Brokerage Logo and Colors](https://support.perchwell.com/baldwin/en/articles/14057465-update-your-brokerage-logo-and-colors) | 14057465 | Add Branding to a Brokerage | 2 | 0 | none |
 | 112 | [Create Brokerage Email Templates](https://support.perchwell.com/baldwin/en/articles/15653156-create-brokerage-email-templates) | 15653156 | Create Communication Templates for your Brokerage | 1 | 0 | none |
 | 113 | [Log In to the Perchwell Mobile App](https://support.perchwell.com/baldwin/en/articles/15280170-log-in-to-the-perchwell-mobile-app) | 15280170 | How to Log in to the Perchwell Mobile App | 1 | 0 | none |
+| 100 | [Tags FAQ](https://support.perchwell.com/baldwin/en/articles/15216706-tags-faq) | 15216706 | same | 0 | 0 | none |
+| 114 | [User Settings FAQ](https://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faq) | 16180793 | User Settings FAQs | 3 | 0 | none |
 
 ### Check in Intercom
 
@@ -149,7 +148,7 @@ Five articles were re-prepped and pushed later in the day because Notion changed
 
 ## Re-port check
 
-After both waves, each ported article's Notion page was compared with the body that went live. 45 pages were edited after their push; 36 were property-only edits. These 9 changed in the body and need a re-port through `/port-to-intercom`, one at a time, with the row set back to Ready to Transfer first:
+After both waves, each ported article's Notion page was compared with the body that went live. 45 pages were edited after their push; 36 were property-only edits. These 9, plus TRK-114 found later, changed in the body and need a re-port through `/port-to-intercom`, one at a time, with the row set back to Ready to Transfer first:
 
 - TRK-007 [Contacts Page Overview](https://app.notion.com/p/3f08b9e0143881a88e56c522774b0833): two Baldwin screenshots replaced.
 - TRK-019 [View Shared Saved Searches](https://app.notion.com/p/3f98b9e01438810085e3f0a19dc5ff5f): a Loom added where the placeholder was.
@@ -161,4 +160,4 @@ After both waves, each ported article's Notion page was compared with the body t
 - TRK-101 [Tags Page Overview](https://app.notion.com/p/3ff8b9e0143881b0a4cce4d39512740b): Loom swapped and the Status column screenshot replaced.
 - TRK-103 [Listing Field Changes in Perchwell](https://app.notion.com/p/3fe8b9e01438814691d9f1936d30f4d6): largely rewritten to name Paragon, with a new description and reworked sections.
 
-TRK-100 and TRK-114 from wave 1 also still need their port.
+- TRK-114 [User Settings FAQ](https://app.notion.com/p/3fb8b9e01438818b9eb9cb1f1a70362a): the Click Settings screenshot was replaced after the push. In Notion it now sits between steps 2 and 3, which splits the list so steps 3 to 5 restart at 1; fix that before re-porting. Its row is still Ready to Transfer.
