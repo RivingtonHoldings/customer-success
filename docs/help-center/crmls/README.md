@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:14:54Z. Articles: 115 (56 published, 59 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:29:19Z. Articles: 119 (56 published, 63 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -102,9 +102,13 @@ Collection ID 19802005. 1 articles.
 
 ## Mobile
 
-Collection ID 19802008. 1 articles.
+Collection ID 19802008. 5 articles.
 
+- [Manage Contacts in the Perchwell Mobile App](manage-contacts-in-the-perchwell-mobile-app.md) (draft), updated 2026-11-04
+- [Message Clients in the Perchwell Mobile App](message-clients-in-the-perchwell-mobile-app.md) (draft), updated 2026-11-04
+- [Search in the Perchwell Mobile App](search-in-the-perchwell-mobile-app-18234422.md) (draft), updated 2026-11-04
 - [Search in the Perchwell Mobile App](search-in-the-perchwell-mobile-app.md), updated 2026-11-04
+- [Tags in the Perchwell Mobile App](tags-in-the-perchwell-mobile-app.md) (draft), updated 2026-11-04
 
 ## Perchwell Training Sessions
 

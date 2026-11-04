@@ -1,8 +1,56 @@
 {
- "last_run": "2026-11-04T22:14:54Z",
+ "last_run": "2026-11-04T22:29:19Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18232897": {
+   "file": "message-clients-in-perchwell.md",
+   "updated_at": 1793831182,
+   "state": "draft",
+   "title": "Message Clients in Perchwell",
+   "content_id": "23616320",
+   "body_sha1": "c6b5a95f1db62bb293d4d52e3184cd4fb92eae4c"
+  },
+  "18234364": {
+   "file": "message-clients-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793831131,
+   "state": "draft",
+   "title": "Message Clients in the Perchwell Mobile App",
+   "content_id": "23618099",
+   "body_sha1": "02eb38560f47d7991ce15e98f0f1f8bdd1946719"
+  },
+  "18234456": {
+   "file": "tags-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793831111,
+   "state": "draft",
+   "title": "Tags in the Perchwell Mobile App",
+   "content_id": "23618192",
+   "body_sha1": "1219d557cd7366864e05e159a1deaa3810033c96"
+  },
+  "18234422": {
+   "file": "search-in-the-perchwell-mobile-app-18234422.md",
+   "updated_at": 1793831055,
+   "state": "draft",
+   "title": "Search in the Perchwell Mobile App",
+   "content_id": "23618157",
+   "body_sha1": "cdce19d0fb0a94d8d9fbdb279c52031c10b27f3a"
+  },
+  "18234327": {
+   "file": "manage-contacts-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793830900,
+   "state": "draft",
+   "title": "Manage Contacts in the Perchwell Mobile App",
+   "content_id": "23618059",
+   "body_sha1": "8293e73e909dfbf2da24a6125bb85cccbaa77bcd"
+  },
+  "18234015": {
+   "file": "create-a-template-search.md",
+   "updated_at": 1793830482,
+   "state": "draft",
+   "title": "Create a Template Search",
+   "content_id": "23617672",
+   "body_sha1": "66a46e5af34240ce692dea80a1f9605d143046d0"
+  },
   "18234118": {
    "file": "search-page-overview.md",
    "updated_at": 1793830103,
@@ -26,14 +74,6 @@
    "title": "Set Up Your Clients in Perchwell",
    "content_id": "23616285",
    "body_sha1": "8a4c389646b28f2222368ef311182a051f4d2257"
-  },
-  "18232897": {
-   "file": "message-clients-in-perchwell.md",
-   "updated_at": 1793830039,
-   "state": "draft",
-   "title": "Message Clients in Perchwell",
-   "content_id": "23616320",
-   "body_sha1": "d4feaaa45da0e3916ccbba1bc25d053eb2a481f4"
   },
   "18233314": {
    "file": "link-a-saved-search-to-a-tag.md",
@@ -186,14 +226,6 @@
    "title": "Export Listings to a CSV File",
    "content_id": "23617710",
    "body_sha1": "9a4057131416ac7c230ba98319e39865be6b4d88"
-  },
-  "18234015": {
-   "file": "create-a-template-search.md",
-   "updated_at": 1793830482,
-   "state": "draft",
-   "title": "Create a Template Search",
-   "content_id": "23617672",
-   "body_sha1": "66a46e5af34240ce692dea80a1f9605d143046d0"
   },
   "18232928": {
    "file": "create-and-manage-your-contacts-in-perchwell-18232928.md",

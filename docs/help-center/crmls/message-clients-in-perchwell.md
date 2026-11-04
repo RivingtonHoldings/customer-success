@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T19:38:05Z
-updated_at: 2026-11-04T22:07:19Z
+updated_at: 2026-11-04T22:26:22Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T22:29:19Z
 ---
 
 # Message Clients in Perchwell
@@ -91,7 +91,7 @@ Perchwell notifies you when an invited client sends a new message:
 - Email: Perchwell sends you an email.
 - Green dot: A green dot appears on Messages in the top navigation.
 
-Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](https://support.perchwell.com/baldwin/en/articles/14786130-message-clients-in-the-perchwell-mobile-app) covers Messages on your phone.
+Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](https://support.perchwell.com/crmls/en/articles/18234364-message-clients-in-the-perchwell-mobile-app) covers Messages on your phone.
 
 ## Steps:
 1. Hover over the left edge of the page to open the Messages panel
