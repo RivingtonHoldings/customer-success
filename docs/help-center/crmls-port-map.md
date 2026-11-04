@@ -71,3 +71,4 @@ Columns:
 | TRK-056 | Mobile App FAQ | 15201164 | 18234753 | Frequently Asked Questions (16867037) | none | none | Log In to the Perchwell Mobile App 15280170 and Listing Detail Page in the Perchwell Mobile App 14784837 stay on Baldwin (TRK-054 is Baldwin only) | pending publish |
 | TRK-075 | Reports FAQ | 15201097 | 18234756 | Frequently Asked Questions (16867037) | none | none | Create a Quick CMA Report 13959293 stays on Baldwin (no CRMLS Quick CMA record) | pending publish |
 | TRK-100 | Tags FAQ | 15216706 | 18234758 | Frequently Asked Questions (16867037) | none | none | none | pending publish |
+| TRK-048 | Listing Detail Page FAQ | 15200541 | 18234791 | Frequently Asked Questions (16867037) | none | none | Manage Listings Page Overview 13623016 stays on Baldwin (Baldwin only; TRK-049 not ported) | pending publish |

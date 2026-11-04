@@ -1,8 +1,16 @@
 {
- "last_run": "2026-11-04T23:04:40Z",
+ "last_run": "2026-11-04T23:08:16Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18234791": {
+   "file": "listing-detail-page-faq.md",
+   "updated_at": 1793833658,
+   "state": "draft",
+   "title": "Listing Detail Page FAQ",
+   "content_id": "23618617",
+   "body_sha1": "5aa3461143fa13c514d438ed42605329c0ac42aa"
+  },
   "18233009": {
    "file": "dashboard-overview.md",
    "updated_at": 1793833226,
