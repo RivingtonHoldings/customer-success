@@ -12,15 +12,15 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-06T05:19:02Z
-updated_at: 2026-11-03T20:20:04Z
+updated_at: 2026-11-04T18:38:35Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Find Familiar Features by Their Perchwell Names
 
-Use this article to find what the search filters, listing tools, Dashboard features, client tools, and account settings you knew in a legacy platform are called in Perchwell. [Key Workflow Changes](http://support.perchwell.com/baldwin/en/articles/14459729-key-workflow-changes) explains how those workflows have changed.
+Use this article to find what the search filters, listing tools, Dashboard features, client tools, and account settings you knew in a legacy platform are called in Perchwell. [What Changed When You Moved to Perchwell](http://support.perchwell.com/baldwin/en/articles/14459729-key-workflow-changes) explains how those workflows have changed.
 
 # Perchwell names for search filters and tools
 
@@ -36,9 +36,9 @@ This table matches search filters and tools from a legacy platform to their Perc
 | Financial Amortizer | Mortgage & Tax, on the Listing Detail Page |
 
 For more information:
-- [Filter Your Search by Property Types](http://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-types) covers selecting property types and subtypes.
-- [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each listing status, including new construction.
-- [Customize Your Search View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to create and apply column templates.
+- [Filter Your Search by Property Type and Subtype](http://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-types) covers selecting property types and subtypes.
+- [What Each Listing Status Means](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell) defines each listing status, including new construction.
+- [Customize Your Search Results View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) explains how to create and apply column templates.
 - [Universal Search Bar](http://support.perchwell.com/baldwin/en/articles/11002620-universal-search-bar) explains how to find a listing, agent, or contact from any page.
 
 # Perchwell names for listing tools
@@ -55,7 +55,7 @@ This table matches listing entry and maintenance tools from a legacy platform to
 For more information:
 - [Manage Listings Page Overview](http://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview) covers finding and updating your listings.
 - [Listing Maintenance FAQ](http://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq) explains how to duplicate a listing and where Autofill gets its information.
-- [Your Data: Listings & Partials](http://support.perchwell.com/baldwin/en/articles/14727432-your-data-listings-partials) explains how partial listings moved to Perchwell as draft listings.
+- [Find Your Partial Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/14727432-your-data-listings-partials) explains how partial listings moved to Perchwell as draft listings.
 
 # Perchwell names for Dashboard, Hot Sheet, and Analytics features
 
@@ -70,7 +70,7 @@ This table matches the home page, market activity, and reporting features from a
 For more information:
 - [Dashboard Overview](http://support.perchwell.com/baldwin/en/articles/13903062-dashboard-overview) covers the widgets on the Dashboard.
 - [Add a Hot Sheet to the Dashboard](http://support.perchwell.com/baldwin/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) explains how to create a Hot Sheet.
-- [Analytics Tab Overview](http://support.perchwell.com/baldwin/en/articles/13623210-analytics-tab-overview) covers the Analytics reports for agents and offices.
+- [Analytics Page Overview](http://support.perchwell.com/baldwin/en/articles/13623210-analytics-tab-overview) covers the Analytics reports for agents and offices.
 
 # Perchwell names for client, contact, and roster tools
 
@@ -84,8 +84,8 @@ This table matches client collaboration and roster tools from a legacy platform 
 
 For more information:
 - [Contacts Page Overview](http://support.perchwell.com/baldwin/en/articles/13975194-contacts-page-overview) covers your contacts and the My MLS tab.
-- [Messages Overview](http://support.perchwell.com/baldwin/en/articles/14786130-messages-overview) explains how to message invited clients.
-- [Tags Overview](http://support.perchwell.com/baldwin/en/articles/14786075-tags-overview) explains how to save and share listings with Tags.
+- [Message Clients in Perchwell](https://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how to message invited clients.
+- [Tags Page Overview](https://support.perchwell.com/baldwin/en/articles/14465546-tags-page-overview) explains how to save and share listings with Tags.
 - [Manage People FAQ](http://support.perchwell.com/baldwin/en/articles/15201140-manage-people-faq) answers common questions about Manage People.
 
 # Perchwell names for account settings, help, and the mobile app
@@ -98,4 +98,4 @@ This table matches account, help, and mobile features from a legacy platform to 
 | Help | Help, at the far right of the top navigation, or the Help Center chat icon |
 | Connect mobile app | Perchwell app, for iOS and Android |
 
-[User Settings FAQs](http://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faqs) explains how to update your profile picture. To sign in on your phone, see [How to Log in to the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/15280170-how-to-log-in-to-the-perchwell-mobile-app).
+[User Settings FAQ](http://support.perchwell.com/baldwin/en/articles/16180793-user-settings-faqs) explains how to update your profile picture. To sign in on your phone, see [Log In to the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/15280170-how-to-log-in-to-the-perchwell-mobile-app).

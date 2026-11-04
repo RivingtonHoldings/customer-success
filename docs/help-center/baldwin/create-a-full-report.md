@@ -12,10 +12,10 @@ collections: ["Reports"]
 state: published
 author_id: 5472692
 created_at: 2025-11-12T03:48:00Z
-updated_at: 2026-11-04T02:45:27Z
+updated_at: 2026-11-04T18:01:58Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Create a Full Report
@@ -32,16 +32,12 @@ A Full Report prints the entire Listing Detail Page for one or more listings. Be
 - Send a full property packet to an agent or colleague
 - Print property documentation for an in-person meeting
 
-For a one-page summary with a QR code, see [Create One Page Reports](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports). The Full Report omits the property images besides the primary image, as well as the Mortgage and Tax calculators. The Full Report is capped at 50 listings per report. If a Full report has more than 50 listings, it will automatically be sent to your email as a report.
+For a one-page summary with a QR code, see [Create a One Page Report](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports). The Full Report omits the property images besides the primary image, as well as the Mortgage and Tax calculators. The Full Report is capped at 50 listings per report. If a Full report has more than 50 listings, it will automatically be sent to your email as a report.
 ​
 ​
 Sample Full Report:
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184932/c339862f4e2586b30f287109ddf3/upload_16599639083568326267.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184932/c339862f4e2586b30f287109ddf3/upload_16599639083568326267.png?expires=1793764800&signature=b17d2fc5296527fc4c13fdf1ee255c8989f296d5aaa2df0da909ce507aa664f7&req=dicvEMh2mYhcW%2FMW1HO4zUy7tKfh2ojJJkVDE2n0MSGbFWRWb2xUoc2mt0mQ%0AV1KfKOM7evKK%2BdhJe4o%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184957/a4c838cbea6b9732c7ed5cac8615/upload_9459903367789582905.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184957/a4c838cbea6b9732c7ed5cac8615/upload_9459903367789582905.png?expires=1793764800&signature=4d62576121b67c72f2de23242b3a64a39cb8bfc502c1759fd3321955165e930e&req=dicvEMh2mYhaXvMW1HO4zQ6%2FKyCyFPJNpL5fYKMN8QcHqIDySi1VPWRtvm%2Br%0ABL28o%2F5psEasdvlgcJ4%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184979/cc4cc6b84e4544356d707f96c2c3/upload_17215759072197666630.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184979/cc4cc6b84e4544356d707f96c2c3/upload_17215759072197666630.png?expires=1793764800&signature=3b8c9fed0e28941756ad1532b2e9c4a721bc2749b40ab21d294b4bde54d484c1&req=dicvEMh2mYhYUPMW1HO4zRvJPK%2BVShli%2Bp6o391iqcFUlelCnyR5CWztNxQw%0AzK6RsYBCx8xgrJgGbqg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184932/c339862f4e2586b30f287109ddf3/upload_16599639083568326267.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184932/c339862f4e2586b30f287109ddf3/upload_16599639083568326267.png?expires=1793819700&signature=2596745235b47e062735c3cf64fd15dbd5aa73d765cada69ac12338f0e554dfc&req=dicvEMh2mYhcW%2FMW1HO4zUy7tKfu3YXGJkVDE2n0MSGYJ9f30u%2F2HlxRoOEu%0AQbZwefw7MBA1TJhdHhg%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184957/a4c838cbea6b9732c7ed5cac8615/upload_9459903367789582905.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184957/a4c838cbea6b9732c7ed5cac8615/upload_9459903367789582905.png?expires=1793819700&signature=81216035f4a8323db54375df0a4164d7740421a28dad847f4a16a6291be89b71&req=dicvEMh2mYhaXvMW1HO4zQ6%2FKyC9E%2F9CpL5fYKMN8QdwlPF9S2IFRIblJlnl%0Ax4WrLanPwxYKtsI74RI%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184979/cc4cc6b84e4544356d707f96c2c3/upload_17215759072197666630.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786184979/cc4cc6b84e4544356d707f96c2c3/upload_17215759072197666630.png?expires=1793819700&signature=8aab0c677a5f0d25fd5dcf9f97b3c5eba7cfb80eb8db4d8ddc2152b984d5aaab&req=dicvEMh2mYhYUPMW1HO4zRvJPK%2BaTRRt%2Bp6o391iqcEICWBZ3AneX6%2FK9Z9N%0A0KE2Av79H43%2FwNHiiBk%3D%0A)
 
 # Print a Full Report from a Listing Detail Page
 
@@ -57,7 +53,7 @@ Print a Full Report for one listing from its Listing Detail Page.
 
 The Full Report opens in a print preview window, where you print it or save it as a PDF (Portable Document Format) file. Any section you collapsed on the Listing Detail Page is also collapsed in the Full Report.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185001/880fef9cd737e325dbb1ffc80955/upload_7937491893603415272.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185001/880fef9cd737e325dbb1ffc80955/upload_7937491893603415272.png?expires=1793764800&signature=468eb4f18ff15397635fc63144fcb42fa3ea6276bbf55a745974e1d178040a82&req=dicvEMh2mIFfWPMW1HO4zd7Rj%2Beg%2BtCGa7VTqhhcbX8gkXVCqgNP%2FEKMMfOX%0AJWLso5wDLUz3XYsbW%2FA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185001/880fef9cd737e325dbb1ffc80955/upload_7937491893603415272.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185001/880fef9cd737e325dbb1ffc80955/upload_7937491893603415272.png?expires=1793819700&signature=501403e773cb5f85e26d07a214910c51a9998d2bcc169c9a8651076998be72ac&req=dicvEMh2mIFfWPMW1HO4zd7Rj%2Bev%2Fd2Ja7VTqhhcbX%2Bh7XWY1IdCTaTS1Mx2%0Apie9ttP1wV0RbTAT6CU%3D%0A)
 
 # Create a Full Report from your search results
 
@@ -72,7 +68,7 @@ Create a Full Report for one or more listings from the Search page.
 
 The report window moves to the Customize Report step with your selected listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185027/0a412023c88a42ee40eeed4424e8/upload_12083026521108955742.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185027/0a412023c88a42ee40eeed4424e8/upload_12083026521108955742.png?expires=1793764800&signature=805c7ce26c6804f0a9f4a241a75cd7f44ebec5f40e1661ac4afab473a7fe77fd&req=dicvEMh2mIFdXvMW1HO4zRDiFp9Kb0s4wYNj56nbaSGLTA%2BAp9RVHCdtJ7RW%0ARHNwO51h1nsrRmThrKQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185027/0a412023c88a42ee40eeed4424e8/upload_12083026521108955742.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185027/0a412023c88a42ee40eeed4424e8/upload_12083026521108955742.png?expires=1793819700&signature=f70953e6dd73a913f0c53a32cce82aa518031a005c2a4491b02f5e3336dd674e&req=dicvEMh2mIFdXvMW1HO4zRDiFp9FaEY3wYNj56nbaSHY9ZOLTNVAGybAwqOm%0A0989olB6fmkKVIWbj7c%3D%0A)
 
 # Choose the agent or client version of the Full Report
 
@@ -83,7 +79,7 @@ Choose who the Full Report is for in the Print report window or on the Customize
 
 Include Listing History adds the listing's History section to the Full Report, which means status and price changes print with the listing. Include Listing History is selected by default.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185047/6600d8d5b9b67f5da17b0341ea8b/upload_1433753377522353348.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185047/6600d8d5b9b67f5da17b0341ea8b/upload_1433753377522353348.png?expires=1793764800&signature=f03f4c5b45924ee63f4eb84bb9aac781c7fb149048b4d1e2b76a57ecd03a200b&req=dicvEMh2mIFbXvMW1HO4zX%2BSPbpXvoZzAGcAcnEqV1mzpLO57Fjmso%2FvaFx4%0AwoiyOIpAJqPoYff3Oe4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185047/6600d8d5b9b67f5da17b0341ea8b/upload_1433753377522353348.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185047/6600d8d5b9b67f5da17b0341ea8b/upload_1433753377522353348.png?expires=1793819700&signature=638fb4af8229381e815f81cc97b2ac77923bc8063dede7057ae3191215cbdd40&req=dicvEMh2mIFbXvMW1HO4zX%2BSPbpYuYt8AGcAcnEqV1kN5SkIuamhg8ZBUODi%0Asawg43LQrlblV5TfpWo%3D%0A)
 
 # Reorder or remove listings in the Full Report
 
@@ -135,4 +131,4 @@ Open your Report library to find saved Full Reports.
 
 Your Report library opens with your saved reports, including Full Reports printed from a Listing Detail Page. Search for a report by the recipient's email address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185075/d8d53610b928d65d2b57e1666c72/upload_7866291879402032807.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185075/d8d53610b928d65d2b57e1666c72/upload_7866291879402032807.png?expires=1793764800&signature=9e7d2fbbd9bab7a6cfe903894a1197a0fbc6deb8730686eab898b3e12ac7e796&req=dicvEMh2mIFYXPMW1HO4zeq7sstSt6Pm%2FsR%2FqLXyVdZ8HioiX%2BihxC6Lrs3Q%0Al41vm%2BdzT%2B3i6Ldxnd4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185075/d8d53610b928d65d2b57e1666c72/upload_7866291879402032807.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786185075/d8d53610b928d65d2b57e1666c72/upload_7866291879402032807.png?expires=1793819700&signature=ce7f18700d5f846122f36bb5c0449191ce7f29b8c09d3b2cbdababbc09550bcf&req=dicvEMh2mIFYXPMW1HO4zeq7sstdsK7p%2FsR%2FqLXyVdai9a3xB5u7HOk%2BiM%2F6%0ASbrZVDzECabmYZYQYA0%3D%0A)

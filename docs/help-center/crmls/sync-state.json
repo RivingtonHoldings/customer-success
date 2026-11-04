@@ -1,8 +1,48 @@
 {
- "last_run": "2026-11-04T18:08:00Z",
+ "last_run": "2026-11-04T18:42:27Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "11517245": {
+   "file": "filter-your-search-by-open-house-date.md",
+   "updated_at": 1793816934,
+   "state": "published",
+   "title": "Filter Your Search by Open House Date",
+   "content_id": "12507731",
+   "body_sha1": "3a26f75764be4fb3b45c4f7eb4de6aaaff0a2df9"
+  },
+  "12896093": {
+   "file": "export-contacts-to-a-csv-file.md",
+   "updated_at": 1793816895,
+   "state": "published",
+   "title": "Export Contacts to a CSV File",
+   "content_id": "14593607",
+   "body_sha1": "4ba1a8ac58ffee555fcabd29b4cf7afd30ac1341"
+  },
+  "11962073": {
+   "file": "customize-your-search-results-view.md",
+   "updated_at": 1793816656,
+   "state": "published",
+   "title": "Customize Your Search Results View",
+   "content_id": "13190641",
+   "body_sha1": "966b6faad7b6a1692222baaca60b3318552994a7"
+  },
+  "12816780": {
+   "file": "create-a-one-page-report.md",
+   "updated_at": 1793815565,
+   "state": "published",
+   "title": "Create a One Page Report",
+   "content_id": "14458010",
+   "body_sha1": "9eeb83c9df72ca117339e09a59bba96fa7310e56"
+  },
+  "12816757": {
+   "file": "create-a-full-report.md",
+   "updated_at": 1793815318,
+   "state": "published",
+   "title": "Create a Full Report",
+   "content_id": "14457971",
+   "body_sha1": "1de0ba365b28a2078d5155a855f502ef97d8aea2"
+  },
   "18232061": {
    "file": "share-listings-with-your-agent.md",
    "updated_at": 1793815083,
@@ -115,22 +155,6 @@
    "content_id": "9099068",
    "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
   },
-  "12816780": {
-   "file": "create-a-one-page-report.md",
-   "updated_at": 1793760448,
-   "state": "published",
-   "title": "Create a One Page Report",
-   "content_id": "14458010",
-   "body_sha1": "bcff58ac0d61d698b366a47a598766cdf764416f"
-  },
-  "12816757": {
-   "file": "create-a-full-report.md",
-   "updated_at": 1793760327,
-   "state": "published",
-   "title": "Create a Full Report",
-   "content_id": "14457971",
-   "body_sha1": "d156e5f046ae19b7bf980076b6298ff3f3bad082"
-  },
   "8955767": {
    "file": "create-a-show-sheet.md",
    "updated_at": 1793760012,
@@ -187,14 +211,6 @@
    "content_id": "12304882",
    "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
   },
-  "12896093": {
-   "file": "export-contacts-to-a-csv-file.md",
-   "updated_at": 1793740284,
-   "state": "published",
-   "title": "Export Contacts to a CSV File",
-   "content_id": "14593607",
-   "body_sha1": "0583a4e63c142059795134e59c8a097cdbde8adf"
-  },
   "11002620": {
    "file": "universal-search-bar.md",
    "updated_at": 1792809926,
@@ -235,14 +251,6 @@
    "content_id": "11832103",
    "body_sha1": "df90a7430d1cd0590058e2b3f490aa4e39473a2c"
   },
-  "11517245": {
-   "file": "filter-your-search-by-open-house-date.md",
-   "updated_at": 1792792401,
-   "state": "published",
-   "title": "Filter Your Search by Open House Date",
-   "content_id": "12507731",
-   "body_sha1": "88581401e1e5f4ae5a2837105f82d938c9f21784"
-  },
   "11776740": {
    "file": "export-listings-to-a-csv-file.md",
    "updated_at": 1792791920,
@@ -250,14 +258,6 @@
    "title": "Export Listings to a CSV File",
    "content_id": "12887977",
    "body_sha1": "57bc1c58003195991ecbc1f7800e92daf4c81134"
-  },
-  "11962073": {
-   "file": "customize-your-search-results-view.md",
-   "updated_at": 1792791645,
-   "state": "published",
-   "title": "Customize Your Search Results View",
-   "content_id": "13190641",
-   "body_sha1": "d927b98e85f351ecbac9c2141c632b40087ed80f"
   },
   "8955876": {
    "file": "share-and-export-analytics-charts.md",

@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2025-08-07T16:04:49Z
-updated_at: 2026-10-23T21:40:45Z
+updated_at: 2026-11-04T18:24:16Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:42:21Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Customize Your Search Results View
@@ -35,15 +35,7 @@ Choose how listings display on the Results tab of the Search page by clicking an
 
 Preview also opens when you click a listing in your search results. Click Exit to return to your search results.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599901544/a36e5b68c00bee104714d020520e/Screenshot+2026-07-04+at+10_31_51%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599901544/a36e5b68c00bee104714d020520e/Screenshot+2026-07-04+at+10_31_51%E2%80%AFAM.png?expires=1792793700&signature=40356e81a9037a07273db84b5cdf74f106b35f9941e6b042a9fec9d4e61b7156&req=diUuH8B%2BnIRbXfMW1HO4zT9Q7zBsde%2BpjB3V9jj31d8RiWjcEDx5mK5dUYQZ%0A%2FjMB%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902036/adbd3623c73778e03c7c6b74cbfb/Screenshot+2026-07-04+at+10_31_24%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902036/adbd3623c73778e03c7c6b74cbfb/Screenshot+2026-07-04+at+10_31_24%E2%80%AFAM.png?expires=1792793700&signature=b3efefee86a6d7ce5935282bb4873226318fa124709f026916db99423c8ee9e4&req=diUuH8B%2Bn4FcX%2FMW1HO4zWb2H98pycK1%2Bquvqw2aDvzW5YSYEhxSBpWaJLXl%0AI6RD%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902287/2f8cf2eb65472442ff02683485c0/Screenshot+2026-07-04+at+10_31_41%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902287/2f8cf2eb65472442ff02683485c0/Screenshot+2026-07-04+at+10_31_41%E2%80%AFAM.png?expires=1792793700&signature=ffc87163da0641833792cfafefa202dad660503b4cf183b8ba61f5285aa67273&req=diUuH8B%2Bn4NXXvMW1HO4zWFUf%2B8CgBJsgE0wvif1hbFKxbo5HyyjPL2%2Fwm3%2F%0AgaPi%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902715/55e3ec7473fd72e8b7de388e5043/Screenshot+2026-07-04+at+10_32_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902715/55e3ec7473fd72e8b7de388e5043/Screenshot+2026-07-04+at+10_32_15%E2%80%AFAM.png?expires=1792793700&signature=94402cdc13a2c95b23a06a8fec1286b1d9697b71734837859d33fb14426fca63&req=diUuH8B%2Bn4ZeXPMW1HO4zQIHHqvAD3rEc0%2B4EEGyH0p08NMEw806JC%2F3DkDW%0AlGLx%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902919/60599ede09cf93c6e14934802f9f/Screenshot+2026-07-04+at+10_31_34%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902919/60599ede09cf93c6e14934802f9f/Screenshot+2026-07-04+at+10_31_34%E2%80%AFAM.png?expires=1792793700&signature=083bca7f85aceff58f599c4acbb49ce0f09265fdf92b3cd9fb3588bb00e6f7e1&req=diUuH8B%2Bn4heUPMW1HO4zbTavwYvLL8mg%2F7eTsKDlbDpoHUAxP7ZaXDr%2FiMT%0AvbRE%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599901544/a36e5b68c00bee104714d020520e/Screenshot+2026-07-04+at+10_31_51%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599901544/a36e5b68c00bee104714d020520e/Screenshot+2026-07-04+at+10_31_51%E2%80%AFAM.png?expires=1793818800&signature=91e632c9a23778c21edf69ddebe9dc67e5f0a7b4e5b9a3d115d24651d60c9453&req=diUuH8B%2BnIRbXfMW1HO4zT9Q7zFjfeSmjB3V9jj31d%2BK2vnuTohMFRJCsP92%0ARJ14%0A)[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902036/adbd3623c73778e03c7c6b74cbfb/Screenshot+2026-07-04+at+10_31_24%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902036/adbd3623c73778e03c7c6b74cbfb/Screenshot+2026-07-04+at+10_31_24%E2%80%AFAM.png?expires=1793818800&signature=3fc8984a87691197d71461a473b9f2b82e357ce3de7704ecf7266d9408a19ef4&req=diUuH8B%2Bn4FcX%2FMW1HO4zWb2H94mwcm6%2Bquvqw2aDvwyf9HMoOyk1SpMDp6x%0Akc7v%0A)[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902287/2f8cf2eb65472442ff02683485c0/Screenshot+2026-07-04+at+10_31_41%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902287/2f8cf2eb65472442ff02683485c0/Screenshot+2026-07-04+at+10_31_41%E2%80%AFAM.png?expires=1793818800&signature=5e95ef8de981adb800a93708e96342b66261d171d50e943868ea022821c1a520&req=diUuH8B%2Bn4NXXvMW1HO4zWFUf%2B4NiBljgE0wvif1hbFCQ76Pe0LVWfh4lJGi%0AK745%0A)[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902715/55e3ec7473fd72e8b7de388e5043/Screenshot+2026-07-04+at+10_32_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902715/55e3ec7473fd72e8b7de388e5043/Screenshot+2026-07-04+at+10_32_15%E2%80%AFAM.png?expires=1793818800&signature=99b147e62efd4488888ff5e42e42a61f48d8bfa981e7128fe533e4b4ed8f731d&req=diUuH8B%2Bn4ZeXPMW1HO4zQIHHqrPB3HLc0%2B4EEGyH0rsD%2BKQBgTqf%2FU9TSnL%0AA6Pq%0A)[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902919/60599ede09cf93c6e14934802f9f/Screenshot+2026-07-04+at+10_31_34%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599902919/60599ede09cf93c6e14934802f9f/Screenshot+2026-07-04+at+10_31_34%E2%80%AFAM.png?expires=1793818800&signature=fd630d607f547b603521611ab855732cd6fd5ddce444e902869d613111be3675&req=diUuH8B%2Bn4heUPMW1HO4zbTavwcgJLQpg%2F7eTsKDlbD3I%2FoFvm4u5wL0BG36%0AREMS%0A)
 
 [Search Page Overview](http://support.perchwell.com/baldwin/en/articles/13903243-search-page-overview) covers adding and arranging charts in Search Analytics, which is separate from the Analytics page in the top navigation bar.
 
@@ -63,11 +55,11 @@ Columns are available in List and Expanded views. If you are in Tiles, Preview, 
 
 Your search results update with the columns you selected. Location and Status can be reordered but cannot be removed, so they remain in your results regardless of the column template you apply.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png?expires=1792793700&signature=cf76e8d4fe8f4d67620214e31aa79e714e905037a496ac3643258139a5b273fb&req=diUuH8B%2BmYdYXfMW1HO4zU0nkxxc0di5eatUwc3sbZ%2FxL1u4bVOUU7G%2FhQYo%0AqSuo%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904674/6ec1bd50fea07d314b8244f945be/Screenshot+2026-07-04+at+9_55_21%E2%80%AFAM.png?expires=1793818800&signature=6ffa787b4e73d5885637579687400a040332a43188d778b68d11fc74e8f6a135&req=diUuH8B%2BmYdYXfMW1HO4zU0nkx1T2dO2eatUwc3sbZ%2FNpfaKWf5p6yjwo7Ls%0A%2FN%2Fe%0A)
 
 To reorder columns without opening the Columns menu, click and hold a column header in your search results, then drag it to its new position.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904860/b8f94473261ca5a6ddba5dc6cea2/Screenshot+2026-07-04+at+9_55_41%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904860/b8f94473261ca5a6ddba5dc6cea2/Screenshot+2026-07-04+at+9_55_41%E2%80%AFAM.png?expires=1792793700&signature=e0729d2f6cca3ab175f3ac01d0014cba8a2faa3d34beaaedcef6fc5005cd7616&req=diUuH8B%2BmYlZWfMW1HO4zcnygNF%2FgyLDCcMqk0j3sPMfbxO%2BbpSINT1ZV%2FrM%0AUiGB%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904860/b8f94473261ca5a6ddba5dc6cea2/Screenshot+2026-07-04+at+9_55_41%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599904860/b8f94473261ca5a6ddba5dc6cea2/Screenshot+2026-07-04+at+9_55_41%E2%80%AFAM.png?expires=1793818800&signature=329ddc2a69c90e826ef4ac7a1fee946afb2079724497ce33c6f84f6e33688f06&req=diUuH8B%2BmYlZWfMW1HO4zcnygNBwiynMCcMqk0j3sPMfqqFkhKckmuxx9Rkd%0AUirm%0A)
 
 # Save your columns as a column template
 
@@ -89,7 +81,7 @@ The saved template appears under the Templates tab, and its name appears in the 
 
 To apply a template you saved earlier, open the Columns menu, click the Templates tab, then select the template.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026453/a6dd354e3bb6e87a1eee39586576/upload_8406989727279293958.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026453/a6dd354e3bb6e87a1eee39586576/upload_8406989727279293958.png?expires=1792793700&signature=739fbe0b13ae782b987bea43f32c551edde60058609e9089235f1ff8db6e5a17&req=dichFMl8m4VaWvMW1HO4zY3YR9tMk%2FjlVlPvFBF8bGV1sbT5beeUwWYJPbJI%0ANqv5%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026453/a6dd354e3bb6e87a1eee39586576/upload_8406989727279293958.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026453/a6dd354e3bb6e87a1eee39586576/upload_8406989727279293958.png?expires=1793818800&signature=79657937592d60628e2f6dba3e297f86e95bfe01bc03ad37b0e414a14fb35219&req=dichFMl8m4VaWvMW1HO4zY3YR9pDm%2FPqVlPvFBF8bGUmfaFFi0Xn7%2Fck6Cl9%0AZuEs%0A)
 
 # Set a default column template for new searches
 
@@ -103,7 +95,7 @@ When you start a new search, Perchwell applies your default column template unle
 
 See [Create a Template Search](http://support.perchwell.com/baldwin/en/articles/13903342-create-a-template-search) to learn how to create a Template Search and set it for new searches.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026479/3d7fa2ce4e8d4d2e0aae080c44d7/upload_1879812110116552680.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026479/3d7fa2ce4e8d4d2e0aae080c44d7/upload_1879812110116552680.png?expires=1792793700&signature=7cf5c807677ed41059347181d7208027a1ff80470787911ee7788fa0f3322515&req=dichFMl8m4VYUPMW1HO4zRDv379qqWZ3QMHQ4K4bNuUbNlFNVHPwK7RHjAAp%0AxLDZ%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026479/3d7fa2ce4e8d4d2e0aae080c44d7/upload_1879812110116552680.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026479/3d7fa2ce4e8d4d2e0aae080c44d7/upload_1879812110116552680.png?expires=1793818800&signature=4e12e66b9cc7fae871899b2898032a540034b411b93bda7392de12c2f9d9272f&req=dichFMl8m4VYUPMW1HO4zRDv375loW14QMHQ4K4bNuWuVfuFq%2BXkIuH94z5V%0A5Vhe%0A)
 
 # Resize, hide, and change layers on the search map
 
@@ -112,18 +104,16 @@ Adjust the search map from either the Filters or Results tab of the Search page.
 - Hide the map: Click the panel icon at the top left of the Filters or Results panel, next to the map. Click the icon again to show the map.
 - Change map layers: Click the layers icon in the lower right corner of the map.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599899020/d78f67cd644da9be857420cf9480/Screenshot+2026-07-04+at+10_35_59%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599899020/d78f67cd644da9be857420cf9480/Screenshot+2026-07-04+at+10_35_59%E2%80%AFAM.png?expires=1792793700&signature=4eb9c7204b4d9b8f08104dd12001d92f91b2107684d288daac5823bfd8476d9a&req=diUuH8F3lIFdWfMW1HO4zXyUijB3i8lfsYf2sww9I1r4lRjpd08PW9%2BCHSm2%0AqCnO%0A)
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png?expires=1792793700&signature=d2260a5ed14fbb6ea5b6556a8ae07b6534cb80341c8a03b6f02a89e3f0b77171&req=diUuH8B%2BnYJbX%2FMW1HO4zQuXgN6BJKdgShOy%2BCW%2FMeaSh9gVFmAEi6mGh5NZ%0A1%2FIj%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599899020/d78f67cd644da9be857420cf9480/Screenshot+2026-07-04+at+10_35_59%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599899020/d78f67cd644da9be857420cf9480/Screenshot+2026-07-04+at+10_35_59%E2%80%AFAM.png?expires=1793818800&signature=070160e95a07d430deb4668b11312923c4a2d275dd2e8a0092fbb2d1e972d382&req=diUuH8F3lIFdWfMW1HO4zXyUijF4g8JQsYf2sww9I1oRqAEbWLj8EI2gzGX4%0A6%2Fit%0A)[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2599900346/96b0aed91400c0cc87bbe2e3f8e6/Screenshot+2026-07-04+at+10_36_15%E2%80%AFAM.png?expires=1793818800&signature=f2783f95967c6c7e3acdda1d7aa5d63269461a8f78aaa3b81074a83eb9d3ae06&req=diUuH8B%2BnYJbX%2FMW1HO4zQuXgN%2BOLKxvShOy%2BCW%2FMea6U7bz8eFiMqieB99o%0AC5e%2F%0A)
 
 The layers panel includes map styles and overlays:
 - Roads, Terrain, and Satellite: Select one to change the map style.
 - Flood: Turn on to show Federal Emergency Management Agency (FEMA) flood risk areas, color-coded by risk level on the map.
 - Parcels: Turn on to show property boundaries on the map. The toggle is disabled at wider zoom levels, so zoom in until it becomes active.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026524/4d0f98334f843d6845b6bc5b87e6/upload_17395520351830946546.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026524/4d0f98334f843d6845b6bc5b87e6/upload_17395520351830946546.png?expires=1792793700&signature=186cdd349d9c2dd7b9db0929591a8fccc6fc57731658b8bc54d5ccaede3f3218&req=dichFMl8m4RdXfMW1HO4zd6O0sENaDJH3TFoGLjPsbFZTQKpXlHhBTFecuPV%0A89i1%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026524/4d0f98334f843d6845b6bc5b87e6/upload_17395520351830946546.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026524/4d0f98334f843d6845b6bc5b87e6/upload_17395520351830946546.png?expires=1793818800&signature=da35a47c229c55722b4ea0e1c07e50a0567b42cc3388ae2c47eec1be918878e8&req=dichFMl8m4RdXfMW1HO4zd6O0sACYDlI3TFoGLjPsbF3zqVY6BzClsxmDSXd%0AVjgX%0A)
 
-To search within a specific area instead, see [Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) for steps on the radius, polygon, freehand, and commute tools.
+To search within a specific area instead, see [Filter Your Search with Map Tools](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) for steps on the radius, polygon, freehand, and commute tools.
 
 ## Read the flood risk areas on the search map
 
@@ -135,4 +125,4 @@ The Flood overlay colors the search map by FEMA flood risk area. Click View floo
 
 Flood risk areas come from FEMA's National Flood Hazard Layer.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026550/5fbe82c15ce3b6f1d590241be70f/upload_7036173732561605961.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026550/5fbe82c15ce3b6f1d590241be70f/upload_7036173732561605961.png?expires=1792793700&signature=3289aa952fb1f752382f9cff83057557ea4cbb7b220f9fb4839d365ece0bfd07&req=dichFMl8m4RaWfMW1HO4zRfSCVI%2FrLK9SuxuxSMZnEoviVyPU3N1YOk6fnx3%0AvUsM%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026550/5fbe82c15ce3b6f1d590241be70f/upload_7036173732561605961.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762026550/5fbe82c15ce3b6f1d590241be70f/upload_7036173732561605961.png?expires=1793818800&signature=2efb6e042b81763ba5df2110a5c54a6d63244c61110928833c5ec51cc2b5f763&req=dichFMl8m4RaWfMW1HO4zRfSCVMwpLmySuxuxSMZnEo0R5z9P8WEgHXQtDbG%0Axge1%0A)

@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:08:00Z. Articles: 92 (75 published, 17 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:42:27Z. Articles: 92 (75 published, 17 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -17,7 +17,7 @@ Collection ID 16867014. 4 articles.
 
 Collection ID 16866981. 1 articles.
 
-- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
+- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-04
 
 ## Client Experience
 
@@ -156,7 +156,7 @@ Collection ID 16866944. 8 articles.
 - [Enhancing Your Search with Filters](enhancing-your-search-with-filters.md), updated 2026-07-02
 - [Filter Your Search by Commute](filter-your-search-by-commute.md), updated 2026-07-02
 - [Filter Your Search by Keywords](filter-your-search-by-keywords.md), updated 2026-07-02
-- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-11-04
 - [Filtering your Search by Property Types](filtering-your-search-by-property-types.md), updated 2026-07-02
 - [Using the Draw Filter](using-the-draw-filter.md) (draft), updated 2026-07-02
 
@@ -165,7 +165,7 @@ Collection ID 16866944. 8 articles.
 Collection ID 16866865. 15 articles.
 
 - [Create a Cloud CMA Presentation from Search](create-a-cloud-cma-presentation-from-search.md), updated 2026-07-02
-- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
+- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-11-04
 - [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
 - [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-10-23

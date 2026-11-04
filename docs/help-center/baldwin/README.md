@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:08:00Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T18:42:27Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -10,8 +10,8 @@ Collection ID 17797961. 9 articles.
 
 - [Bulk Upload Contacts from a CSV File](bulk-upload-contacts-from-a-csv-file.md), updated 2026-11-04
 - [Contacts Page Overview](contacts-page-overview.md), updated 2026-11-04
-- [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-11-03
-- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
+- [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-11-04
+- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-04
 - [Find and Contact Buyer's Agents with Reverse Prospecting](find-and-contact-buyer-s-agents-with-reverse-prospecting.md), updated 2026-11-03
 - [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md), updated 2026-11-03
 - [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-03
@@ -35,8 +35,8 @@ Collection ID 17797865. 6 articles.
 - [Access Integrations from the Dashboard or a Listing](access-integrations-from-the-dashboard-or-a-listing.md), updated 2026-11-03
 - [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-04
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-03
-- [Dashboard Overview](dashboard-overview.md), updated 2026-11-03
-- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-03
+- [Dashboard Overview](dashboard-overview.md), updated 2026-11-04
+- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-04
 - [Set Up Saved Searches for Hot Sheets](set-up-saved-searches-for-hot-sheets.md) (draft), updated 2026-11-04
 
 ## FAQs & Cheat Sheets
@@ -84,7 +84,7 @@ Collection ID 19737537. 3 articles.
 Collection ID 17797908. 5 articles.
 
 - [Add and Edit Listings](add-and-edit-listings.md), updated 2026-11-04
-- [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-09-08
+- [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-11-04
 - [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-11-04
 - [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-11-04
 - [Write a Listing Description with AI Scribe](write-a-listing-description-with-ai-scribe.md), updated 2026-11-04
@@ -93,7 +93,7 @@ Collection ID 17797908. 5 articles.
 
 Collection ID 18306004. 3 articles.
 
-- [Create and Manage Teams](create-and-manage-teams.md), updated 2026-11-03
+- [Create and Manage Teams](create-and-manage-teams.md), updated 2026-11-04
 - [Log In as an Agent with Assume Identity](log-in-as-an-agent-with-assume-identity.md), updated 2026-11-03
 - [Masquerade an Agent's Account](masquerade-an-agent-s-account.md) (draft), updated 2026-07-02
 
@@ -147,7 +147,7 @@ Collection ID 17797953. 5 articles.
 
 Collection ID 19197859. 8 articles.
 
-- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-03
+- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-04
 - [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md), updated 2026-11-03
 - [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-03
 - [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-04
@@ -179,7 +179,7 @@ Collection ID 19652175. 5 articles.
 
 Collection ID 19644346. 1 articles.
 
-- [Dashboard FAQ](dashboard-faq.md), updated 2026-11-03
+- [Dashboard FAQ](dashboard-faq.md), updated 2026-11-04
 
 ## Search / FAQs (under Search)
 
@@ -192,8 +192,8 @@ Collection ID 19642611. 1 articles.
 Collection ID 17797942. 4 articles.
 
 - [Filter Your Search by Keyword](filter-your-search-by-keyword.md), updated 2026-10-23
-- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-10-23
-- [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-10-23
+- [Filter Your Search by Open House Date](filter-your-search-by-open-house-date.md), updated 2026-11-04
+- [Filter Your Search with Map Tools](filter-your-search-with-map-tools.md), updated 2026-11-04
 - [Search for Condos, Subdivisions, and Communities](search-for-condos-subdivisions-and-communities.md), updated 2026-10-23
 
 ## Search / Search (under Search)
@@ -201,11 +201,11 @@ Collection ID 17797942. 4 articles.
 Collection ID 17797941. 14 articles.
 
 - [Actions Menu Options on the Search Page](actions-menu-options-on-the-search-page.md), updated 2026-11-04
-- [Create a Search with Filters](create-a-search-with-filters.md), updated 2026-10-23
+- [Create a Search with Filters](create-a-search-with-filters.md), updated 2026-11-04
 - [Create a Template Search](create-a-template-search.md), updated 2026-10-23
-- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-10-23
+- [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-11-04
 - [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
-- [Filter Your Search by Property Type and Subtype](filter-your-search-by-property-type-and-subtype.md), updated 2026-10-23
+- [Filter Your Search by Property Type and Subtype](filter-your-search-by-property-type-and-subtype.md), updated 2026-11-04
 - [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-10-23
 - [Print or Save Search Results as a PDF](print-or-save-search-results-as-a-pdf.md), updated 2026-10-23

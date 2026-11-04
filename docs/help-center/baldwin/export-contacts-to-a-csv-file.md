@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: published
 author_id: 5472692
 created_at: 2025-11-21T00:55:02Z
-updated_at: 2026-11-03T21:11:24Z
+updated_at: 2026-11-04T18:28:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Export Contacts to a CSV File
@@ -38,7 +38,7 @@ Export contacts to a CSV file from Export on the Contacts page. Contact export w
 
 The CSV file downloads to your browser's default download location, such as your Downloads folder or desktop.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711164/64a2b9f439df1030108edb76a00f/upload_1911124055764137404.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711164/64a2b9f439df1030108edb76a00f/upload_1911124055764137404.png?expires=1793764800&signature=1b3167c59361226cac4cdaeff8d6b5b517b5f2a9b4cd7fdec0030e06c82055fc&req=dicvE85%2FnIBZXfMW1HO4zeqJec9GDYSMixRSWjfeHAMyxhYGc9Vde4p8WtYd%0AIDDHunDdKcLZFy%2F2fpQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711164/64a2b9f439df1030108edb76a00f/upload_1911124055764137404.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711164/64a2b9f439df1030108edb76a00f/upload_1911124055764137404.png?expires=1793818800&signature=739ba3fa44c41d3754547a08a4f0c3753ebede657686ea427311acc5a0fba616&req=dicvE85%2FnIBZXfMW1HO4zeqJec9JCoiMixRSQDPYFTm4e9LSGdHTDkYeBJP%2B%0AB0HT%0A)
 
 # What the contacts CSV file includes
 
@@ -52,6 +52,6 @@ Each contact in the CSV file has these fields:
 - Group
 - Status
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711177/eb175fe3f07620badf0da17a7de1/upload_5406280843794403613.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711177/eb175fe3f07620badf0da17a7de1/upload_5406280843794403613.png?expires=1793764800&signature=6586bed4ca59cfa21d44898855bcf395f19f2405aaf083e5965f8423c3c08feb&req=dicvE85%2FnIBYXvMW1HO4zSH4R79cga65S7dRRO8IMe7u0CACFniBihxHwxi0%0Ai0Sgk2nmmpXoOjVkeU8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711177/eb175fe3f07620badf0da17a7de1/upload_5406280843794403613.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785711177/eb175fe3f07620badf0da17a7de1/upload_5406280843794403613.png?expires=1793818800&signature=f00bd6276bc3349e14d3571f13990ab0f3cbd810c1522206da33f482f136a3c2&req=dicvE85%2FnIBYXvMW1HO4zSH4R79ThqK5S7dRXusOONTjYw59JEQtFrIIhg71%0AVcHo%0A)
 
-[Bulk Upload Contacts](http://support.perchwell.com/baldwinhttps://support.perchwell.com/en/articles/10732227-bulk-upload-contacts) explains how to add multiple contacts to Perchwell from a CSV file.
+[Bulk Upload Contacts from a CSV File](http://support.perchwell.com/baldwinhttps://support.perchwell.com/en/articles/10732227-bulk-upload-contacts) explains how to add multiple contacts to Perchwell from a CSV file.
