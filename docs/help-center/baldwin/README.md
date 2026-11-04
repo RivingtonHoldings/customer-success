@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:48:56Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:59:48Z. Articles: 127 (118 published, 9 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -140,7 +140,7 @@ Collection ID 17797953. 5 articles.
 - [Add Listings to a Tag](add-listings-to-a-tag.md), updated 2026-11-04
 - [Create and Edit a Tag](create-and-edit-a-tag.md), updated 2026-11-04
 - [Link a Saved Search to a Tag](link-a-saved-search-to-a-tag.md), updated 2026-11-04
-- [Share a Tag with Clients](share-a-tag-with-clients.md), updated 2026-11-03
+- [Share a Tag with Clients](share-a-tag-with-clients.md), updated 2026-11-04
 - [Tags Page Overview](tags-page-overview.md), updated 2026-11-04
 
 ## Then vs. Now
@@ -212,7 +212,7 @@ Collection ID 17797941. 14 articles.
 - [Search Page Overview](search-page-overview.md), updated 2026-11-04
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-04
 - [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-10-23
-- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
+- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-11-04
 - [Universal Search Bar](universal-search-bar.md), updated 2026-10-24
 
 ## Listing Maintenance / FAQs (under Listing Maintenance)

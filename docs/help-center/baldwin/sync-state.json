@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-04T19:48:56Z",
+ "last_run": "2026-11-04T19:59:48Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "16221617": {
+   "file": "share-a-tag-with-clients.md",
+   "updated_at": 1793822147,
+   "state": "published",
+   "title": "Share a Tag with Clients",
+   "content_id": "19552537",
+   "body_sha1": "5f4b2342be065eda1717587af7b4bcde65bae08f"
+  },
+  "8955682": {
+   "file": "share-a-saved-search-with-a-client.md",
+   "updated_at": 1793821845,
+   "state": "published",
+   "title": "Share a Saved Search with a Client",
+   "content_id": "9098973",
+   "body_sha1": "49b88d6ab22abb0166330d825e9ac33ee9b70d66"
+  },
   "15521779": {
    "file": "set-up-your-clients-in-perchwell.md",
    "updated_at": 1793821522,
@@ -587,14 +603,6 @@
    "content_id": "18496654",
    "body_sha1": "74ae0f3fa04e8b5d741300383c042a92078f924f"
   },
-  "16221617": {
-   "file": "share-a-tag-with-clients.md",
-   "updated_at": 1793735607,
-   "state": "published",
-   "title": "Share a Tag with Clients",
-   "content_id": "19552537",
-   "body_sha1": "a358fd40e93935d698aa40cfed9016021919e35f"
-  },
   "15201097": {
    "file": "reports-faq.md",
    "updated_at": 1793735109,
@@ -706,14 +714,6 @@
    "title": "Universal Search Bar",
    "content_id": "11821319",
    "body_sha1": "a37ebd696b045b1b04fa38d40faa5ace74d9ddf2"
-  },
-  "8955682": {
-   "file": "share-a-saved-search-with-a-client.md",
-   "updated_at": 1792796852,
-   "state": "published",
-   "title": "Share a Saved Search with a Client",
-   "content_id": "9098973",
-   "body_sha1": "0afd0cad9f99470e3e27844e9b1184be7ca3fb64"
   },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",

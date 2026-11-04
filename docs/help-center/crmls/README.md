@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:48:56Z. Articles: 101 (75 published, 26 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T19:59:48Z. Articles: 105 (75 published, 30 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -52,11 +52,15 @@ Collection ID 17037737. 7 articles.
 
 ## Dashboard
 
-Collection ID 16866828. 7 articles.
+Collection ID 16866828. 11 articles.
 
+- [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md) (draft), updated 2026-11-04
 - [Adding a Hot Sheet to the Dashboard](adding-a-hot-sheet-to-the-dashboard.md), updated 2026-07-02
+- [Customize Your Dashboard](customize-your-dashboard.md) (draft), updated 2026-11-04
 - [Customizing your Dashboard](customizing-your-dashboard.md), updated 2026-07-02
+- [Dashboard Overview](dashboard-overview.md) (draft), updated 2026-11-04
 - [Filtering Listing by Office, MLS, or Your Listings on the Dashboard](filtering-listing-by-office-mls-or-your-listings-on-the-dashboard.md), updated 2026-07-02
+- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md) (draft), updated 2026-11-04
 - [Integration Tools on the Dashboard](integration-tools-on-the-dashboard.md), updated 2026-07-02
 - [The Dashboard Page Overview](the-dashboard-page-overview.md), updated 2026-07-02
 - [The Days Active in the MLS Widget](the-days-active-in-the-mls-widget.md), updated 2026-07-02
@@ -180,7 +184,7 @@ Collection ID 16866865. 15 articles.
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-11-04
 - [Multi-Listing Actions on the Search Page](multi-listing-actions-on-the-search-page.md) (draft), updated 2026-07-02
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-04
-- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-10-23
+- [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-11-04
 - [Sharing Multiple Listings via Email or with a Public Link](sharing-multiple-listings-via-email-or-with-a-public-link.md), updated 2026-07-02
 - [Sharing a Saved Search with Clients](sharing-a-saved-search-with-clients.md) (draft), updated 2026-07-02
 - [Sorting Listings on the Search Page](sorting-listings-on-the-search-page.md), updated 2026-07-02
