@@ -2,7 +2,7 @@
 intercom_id: "16414760"
 content_id: "19805100"
 title: "Create a Market Conditions Addendum Report (1004MC)"
-description: "In this article, you will learn how to generate a 1004MC Market Conditions Addendum Report from your search results and export it to PDF for your appraisal workfile."
+description: "Create a 1004MC Market Conditions Addendum Report from your search results, set its stable range, and email, print, or download it."
 url: "http://support.perchwell.com/baldwin/en/articles/16414760-create-a-market-conditions-addendum-report-1004mc"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,81 +10,120 @@ collection: "Reports"
 collection_ids: [17797980]
 collections: ["Reports"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-08-14T14:39:21Z
-updated_at: 2026-08-14T14:46:01Z
+updated_at: 2026-11-03T19:42:17Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-03T20:41:26Z
 ---
 
 # Create a Market Conditions Addendum Report (1004MC)
 
+Use this article to create a Market Conditions Addendum Report (1004MC) from your search results, set its orientation, Max List Date, and stable range, email, print, or download it, and read the trends it calculates. The 1004MC is the market conditions addendum to an appraisal, Fannie Mae Form 1004MC and Freddie Mac Form 71. The 1004MC is capped at 500 listings per report to ensure quick generation. If a 1004MC Report has more than 500 listings, it will automatically be sent to your email as a report.
+
 # When to use a Market Conditions Addendum Report
 
-Use this report when you need 1004MC market metrics calculated from the exact comparable listings you researched.
-- Complete the market conditions sections of the Fannie Mae Form 1004MC / Freddie Mac Form 71
-- Keep defensible supporting calculations in your appraisal workfile
+Create a Market Conditions Addendum Report when you need 1004MC market metrics calculated from the exact comparable listings you researched.
+- Complete the market conditions section of Fannie Mae Form 1004MC or Freddie Mac Form 71
+- Keep the supporting calculations in your appraisal workfile
 
-# Report creation
+Sample 1004MC Report:
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785571713/822ce9eb58c3039d97368e355717/upload_17184188245041476213.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785571713/822ce9eb58c3039d97368e355717/upload_17184188245041476213.png?expires=1793740500&signature=f47e25c5dea6046be6ad255578c5b669e2860b72a0ba429ec6c86f8079be7d6e&req=dicvE8x5nIZeWvMW1HO4zesDdmhhVNqzX2Px2aq9%2BMcbJuzY%2F8X9od8SpTOK%0Ae%2FO6hBslepb1jrFGOLw%3D%0A)
+
+# Create a 1004MC report from your search results
+
+Create a Market Conditions Addendum Report from the listings you select on the Search page. Search results are the only starting point for this report, and you need at least one selected listing.
 
 ## Steps:
-1. Open **Search** and run a search for your comparable listings
-2. To use specific listings, select the checkboxes next to them. To use every listing in your results, leave them unselected.
-3. Click **Actions**, then **Create a Report**
-4. Select **Market Conditions Addendum Report**
+1. Click the Results tab
+2. Select the comparable listings you want to include
+3. Click Actions
+4. Select Create a Report
+5. Select 1004MC Market Conditions Addendum
+6. Click Next
 
-The report supports up to 500 listings. If your search returns more than 500, refine your search filters or reduce your selection before generating the report.
+The report window moves to the Customize Report step with your selected listings.
 
-# Report configuration
+The Market Conditions Addendum Report supports up to 500 listings. If your search finds more than 500, narrow your search filters or your selection first.
 
-Before you generate the report, confirm your listings, report date, and stable range.
+# Set up the 1004MC report
 
-## Choose your listings
-- **All listings** (default) includes every listing in your search results
-- **Selected listings** appears when you selected specific listings before opening the report
+Set up the Market Conditions Addendum Report on the Customize Report step of the report window. Selected Listings at the top shows how many listings the report includes.
 
-## Set the report max date
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785571750/508b6f677551b17ff81b344542c8/upload_3637764378982514932.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785571750/508b6f677551b17ff81b344542c8/upload_3637764378982514932.png?expires=1793740500&signature=9ee39283a41f259fdffd2ed2db255325eae47a8ff2aca30ae8e2d87eda637d13&req=dicvE8x5nIZaWfMW1HO4zThvVucuU8W0BZuzOtZzhdIqIQFA12KWV5Q2VpxP%0AGEmcWL5TsKlGNHHaQcw%3D%0A)
 
-The report max date defaults to today and acts as the anchor date for every reporting period, which means each 1004MC time window counts backward from this date.
-- Current: 3 Months
-- Prior: 4-6 Months
-- Prior: 7-12 Months
+## Choose the 1004MC report orientation
 
-Confirm this date matches the effective date you want for your analysis before generating the report.
+Select a page orientation for the Market Conditions Addendum Report under Orientation:
+- Landscape: Lays out the pages horizontally.
+- Portrait: Lays out the pages vertically.
 
-## Set the stable range
+## Set the Max List Date for the 1004MC report
 
-The stable range controls when a market change is classified as **Stable** instead of **Increasing** or **Decreasing**.
-- Enter a **High Limit %** and a **Low Limit %** (both default to 0%)
-- Changes above the high limit are classified as Increasing
-- Changes below the low limit are classified as Decreasing
-- Changes within the range are classified as Stable
-- Check **Use this overall stable range next time** to save your range for future reports
+The Max List Date anchors every reporting period in the 1004MC report, which means each time window counts back from this date. The field is required and starts at today's date.
 
-For example, a stable range of -5% to +5% treats minor market movement as Stable.
+Click the calendar icon in the Max List Date field to select the effective date you want for your analysis.
 
-## Add optional sections
-- Check **Include search criteria and listing summary** to document how you built your comp set. This can help you preserve support for the appraisal workfile.
+## Set the stable range for the 1004MC report
 
-When your settings are confirmed, generate the report.
+The stable range decides when a change in the 1004MC report counts as Stable rather than Increasing or Decreasing. Enter a percentage in each field:
+- Stable Range High (%): A change above this percentage counts as Increasing. Starts at 5 and must be 0 or greater.
+- Stable Range Low (%): A change below this percentage counts as Decreasing. Starts at -5 and must be 0 or less.
 
-# Reading the report
+A change between the two percentages counts as Stable. Leave a field blank to set it to 0%.
 
-The generated report includes Year 1 1004MC tables and an Explanation of Results.
+# Email, print, or download the 1004MC report
 
-## Overall trend
+Click Next on the Customize Report step to open the Generate Report step of the report window. Click Previous to change a setting.
 
-Each metric receives an overall trend of **Increasing**, **Stable**, or **Decreasing**. The trend compares the earliest reported period with the most current reported period, using your stable range to decide when a change counts as Stable.
+## Email the 1004MC report
 
-Where the 1004MC form uses the label **Declining**, use the report's **Decreasing** value.
+Email the Market Conditions Addendum Report to one or more recipients from the Generate Report step.
 
-## Explanation of Results
+## Steps:
+1. Enter one or more email addresses in the Emails field
+2. Click Email Report
 
-The report includes an Explanation of Results by default. It documents your report date, your stable range, how trends were calculated, and how missing values were handled, which means you can review, validate, and retain the calculation logic with your appraisal file.
+Each recipient receives the 1004MC report, and Perchwell copies you on the email.
 
-# Tips
-- The report is calculated from the exact listings in your result set or selection. Adjust your search or selection first if the comp set is not right.
-- Missing data does not block report generation. If a listing is missing a field required for one metric, it is excluded from that metric only.
-- Median Sale Price as % of List Price is calculated per sold listing first, and the report shows the median of those percentages. This means you cannot recreate it by dividing the displayed median sale price by the displayed median list price.
-- Active listing counts come from a snapshot date for each period, not from every listing that was active at any point during the period.
+## Print the 1004MC report
+
+Print the Market Conditions Addendum Report from the Generate Report step.
+
+## Steps:
+1. Click Print
+2. Choose your printer and settings in your browser's print dialog
+3. Click Print in the print dialog
+
+Your browser sends the 1004MC report to your printer.
+
+## Download the 1004MC report as a PDF
+
+Click Download on the Generate Report step to save the 1004MC report as a PDF (Portable Document Format) file.
+
+# Read the 1004MC report
+
+The Market Conditions Addendum Report includes Year 1 1004MC tables, your search criteria and a listing summary, and an Explanation of Results.
+
+## Overall trend in the 1004MC report
+
+Each metric in the 1004MC report gets an overall trend of Increasing, Stable, or Decreasing. The trend compares the earliest reported period with the most current one, and your stable range decides when a change counts as Stable.
+
+> **Note:** Where Form 1004MC uses the label Declining, it matches the report's Decreasing value.
+
+## Search criteria and listing summary in the 1004MC report
+
+Every 1004MC report includes your search criteria and a summary of the listings, which documents how you chose your comparable listings.
+
+## Explanation of Results in the 1004MC report
+
+The Explanation of Results documents your report date, your stable range, how trends were calculated, and how missing values were handled. It keeps the calculation logic with your appraisal file, ready to review and validate.
+
+## How the 1004MC report calculates its metrics
+
+The 1004MC report handles missing data, the sale-to-list ratio, and active listing counts in specific ways:
+- Missing data does not stop the report. A listing missing a field for one metric is left out of that metric only.
+- Median Sale Price as % of List Price is calculated for each sold listing first, then the report shows the median of those percentages. Dividing the median sale price by the median list price gives a different number.
+- Active listing counts come from a snapshot date for each period, not from every listing active at any point during the period.

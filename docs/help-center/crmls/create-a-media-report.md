@@ -2,7 +2,7 @@
 intercom_id: "8955781"
 content_id: "9099077"
 title: "Create a Media Report"
-description: "In this article, you will learn how to create a Media Report from Search, choose the images and listing details to include, and share the report by Email, Download, or Print."
+description: "Create a Media Report of listing photos and floor plans from your search results or a listing, then email, print, or download it."
 url: "http://support.perchwell.com/en/articles/8955781-create-a-media-report"
 help_center: crmls
 help_center_id: 4767477
@@ -10,112 +10,87 @@ collection: "Reports"
 collection_ids: [16867011]
 collections: ["Reports"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2024-02-15T21:36:03Z
-updated_at: 2026-07-02T02:37:35Z
+updated_at: 2026-11-04T02:35:19Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:41Z
 ---
 
 # Create a Media Report
 
-# What a Media Report includes
+Use this article to create a Media Report from your search results or a listing, reorder its listings, email, print, or download it, and find it later in your Report library.
 
-Use a Media Report when you want a visual, presentation-ready packet.
-- Show listing photos and floor plans with one image per page
+# When to use a Media Report
+
+Create a Media Report when you want a visual, presentation-ready packet of listing photos and floor plans. A Media Report includes the first 15 images from each listing's Listing Detail Page. The Media Report is capped at 15 listings per report to ensure quick generation. If a Media report has more than 15 listings, it will automatically be sent to your email as a report.
 - Share a visual walkthrough with a client
-- Prep marketing or presentation materials
+- Prepare marketing or presentation materials
 
-## Media Report creation (Search)
+Sample Media Report:
 
-### Steps:
-1. Open **Search page**
-2. View search results by clicking **Search**
-3. Select the checkboxes next to the listings you want to include
-4. Click **Actions**
-5. In the drop down, click **Create a Report**
-6. Select **Media Report**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176298/8dbbaac5f1e6d692129f630fff0c/upload_15046147623958179889.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176298/8dbbaac5f1e6d692129f630fff0c/upload_15046147623958179889.png?expires=1793764800&signature=bae78a96047efda0fcbfd605def80fcf45be1f316dfef4551cbfe3b82d595196&req=dicvEMh5m4NWUfMW1HO4zcsWz3L093HZQdUMDYw8PJ6M8brDOrHFOHq2TsZv%0AufvALTZ8RcoYK%2BZSits%3D%0A)
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158685154/c558a643077d6b153e12a65b2253/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158685154/c558a643077d6b153e12a65b2253/image.png?expires=1788542100&signature=95c4e18b8882b54e2076feee7808f69527cd5f5e91c23a3d83ec17753dae6acb&req=diEiHs92mIBaXfMW1HO4zUmYzQRzQhSmVZymv2X8Xm71MHEMzvF1YrBQCIBg%0Aiq%2BON%2BnDyv0IBtEpVXM%3D%0A)
+# Create a Media Report from your search results or a listing
 
-# Media Report customization
+Create a Media Report from the Search page or from a Listing Detail Page. Both open the report window:
+- Search page: Click the Results tab, select the listings you want, click Actions, then select Create a Report.
+- Listing Detail Page: Click Actions in the upper right, then select Report under Create.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158686238/e428391cfa8d93dd077622db1b64/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158686238/e428391cfa8d93dd077622db1b64/image.png?expires=1788542100&signature=08e1a10ad88cceb55fb3891bce71ef85bbf162ef73ab3f239bd3ea402604001c&req=diEiHs92m4NcUfMW1HO4zauu9e%2Bm4kclVhyqbF3po0Ki2GsKmbDFn%2BvcPJBn%0AkcCXd9a4aPpfdojDSuI%3D%0A)
+## Steps:
+1. Select Media Report
+2. Click Next
 
-## Add a report label
+The report window moves to the Customize Report step with your listings.
 
-Add a label so the report is easy to identify.
-- Enter a report title in **Report Label**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176306/450e56973516fd81733410cecd04/upload_17466318282389849800.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176306/450e56973516fd81733410cecd04/upload_17466318282389849800.png?expires=1793764800&signature=465891d2eba15acc0e4f6ac2a3ad6e99cf93076cf7976d8526a5165f778a756a&req=dicvEMh5m4JfX%2FMW1HO4zWYfaxpisyQB%2BkH5eYVV3cf5BL9qz%2FD%2FBQKLyHvc%0AUUQaqtUWJF%2FEtbi1EgM%3D%0A)
 
-## Choose how listing links open
+# Reorder listings in the Media Report
 
-Set what happens when someone clicks a listing link in the report.
-- Select **Open Links in Perchwell** (clients must log in)
-- Select **Open Links Externally with Your Branding**
+Reorder listings in the Media Report by dragging each one up or down on the Customize Report step. To add or remove listings, create a new Media Report from the Search page or a Listing Detail Page.
 
-## Select the listing fields to display
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176318/220a187db160175df68f3eb3d99f/upload_12980807962158973530.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176318/220a187db160175df68f3eb3d99f/upload_12980807962158973530.png?expires=1793764800&signature=6945f4b402f5063eafcba6b9f4861b07080f8e3ab65a27f64c3a1d4dc4b3dde3&req=dicvEMh5m4JeUfMW1HO4zdK3SASMn99yNT9wzhDvThHMnsd7KrlaC1%2BLRsqL%0AiMyMGro27pqrbU%2BoVbo%3D%0A)
 
-Choose which listing details appear in the report.
-- Include exact address
-- Include open house information
-- Include cross streets
-- Include neighborhood
-- Include status
+# Email, print, or download the Media Report
 
-## Select which contact information appears
+Click Next on the Customize Report step to open the Generate Report step of the report window. Click Previous to change the listing order.
 
-Choose the contact details that show on the report.
-- Select **Listing agent information**
-- Select **My contact information**
-- Select **None**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176337/856e86faf2235dae87ca40339dc8/upload_4908060381611686667.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176337/856e86faf2235dae87ca40339dc8/upload_4908060381611686667.png?expires=1793764800&signature=f87620d7c2ebdf71acf3c9e09f1b4b20eb71327082db27a3771c927ed2bb47db&req=dicvEMh5m4JcXvMW1HO4zTx8G5OnnS6uCX3qRn%2BB25l8%2FN%2B138vyTg6oct8B%0AHYw1FZhX86%2BMtwkAsP4%3D%0A)
 
-## Choose which images to include
+## Email the Media Report
 
-Select the media type for each listing.
-- Select **Both photos and floor plans**
-- Select **Photos only**
-- Select **Floor plans only**
+Email the Media Report to one or more recipients from the Generate Report step.
 
-## Choose the page layout
+## Steps:
+1. Enter one or more email addresses in the Emails field
+2. Click Email Report
 
-Select how the report is formatted.
-- Select **Portrait**
-- Select **Landscape**
+Each recipient receives the Media Report, and Perchwell copies you on the email. The Email Subject field is set to Media Report by default, and the Message field holds a short default message.
 
-## Reorder and customize listings display
+## Print the Media Report
 
-Adjust the listing order before you generate the report.
-- Drag and drop listings to reorder them
-- Toggle on or off multiple photos per page
+Print the Media Report from the Generate Report step.
 
-When finished, click **Next**.
+## Steps:
+1. Click Print
+2. Choose your printer and settings in your browser's print dialog
+3. Click Print in the print dialog
 
-# Media Report sharing
+Your browser sends the Media Report to your printer.
 
-After finalizing your settings, choose how to distribute the report.
+## Download the Media Report as a PDF
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158687345/cababb14e4bd017c1fac90cbe647/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158687345/cababb14e4bd017c1fac90cbe647/image.png?expires=1788542100&signature=9464ce8aa560d344018ca147ddf45c473e4c97625ff396947858e2103b7f709b&req=diEiHs92moJbXPMW1HO4zbxU87Ty8QjTz69q9Q6Lurfwd0RJtsR71Oy4Oxka%0ASkKrhOcSVRXSJjmTErM%3D%0A)
+Click Download on the Generate Report step to save the Media Report to your computer as a PDF (Portable Document Format) file.
 
-## Email the Report
+# Find a past Media Report in your Report library
 
-### Steps:
-1. Select **Email**
-2. Enter the recipient email address
-3. Update the subject line
-4. Review the message body and make edits as needed
-5. Click **Email Report**
+Open your Report library to find Media Reports you created earlier.
 
-## Download the Report
+## Steps:
+1. Hover over your profile icon in the upper right corner
+2. Click Report library
 
-### Steps:
-1. Select **Download**
-2. Wait for the PDF to generate
-3. Save the file to your device
+Your Report library opens with your saved reports. Search for a report by the recipient's email address.
 
-## Print the Report
-
-### Steps:
-1. Select **Print**
-2. In your browser’s print dialog, choose your printer and settings
-3. Click **Print**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176347/edf2133368b095b53907137e057e/upload_17205402669695240486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786176347/edf2133368b095b53907137e057e/upload_17205402669695240486.png?expires=1793764800&signature=4b6d057270ffe8bc5f4f3317bccfcc13ef3ede2fa8e41cc1a953ab45a5763b8c&req=dicvEMh5m4JbXvMW1HO4zXaC7kS2XHhSkixTNW1fPq7Ffw33H4vfs0UOYGS%2F%0Acspi3luE0vwEwu3cn2E%3D%0A)

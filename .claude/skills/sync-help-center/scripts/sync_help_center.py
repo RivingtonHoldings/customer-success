@@ -427,10 +427,15 @@ def cmd_build(args):
         summary[item['action']].append(aid)
     for aid in plan['removed']:
         prev = state['articles'].get(aid)
-        if prev:
+        # skip the delete when another article now writes to the same filename
+        if prev and used.get(prev['file']) in (None, aid):
             p = os.path.join(folder, prev['file'])
             if os.path.exists(p): os.remove(p)
         summary['removed'].append(aid)
+    # a renamed article writes a new file; delete any file no article points to any more
+    kept = {st['file'] for st in new_state['articles'].values()} | {'README.md'}
+    summary['stale'] = sorted(f for f in os.listdir(folder) if f.endswith('.md') and f not in kept)
+    for f in summary['stale']: os.remove(os.path.join(folder, f))
     # README index grouped by collection
     groups = {}
     for aid, st in new_state['articles'].items():
@@ -452,7 +457,7 @@ def cmd_build(args):
         lines.append('')
     open(os.path.join(folder, 'README.md'), 'w').write('\n'.join(lines))
     json.dump(new_state, open(state_path(mls), 'w'), indent=1)
-    print(f"{HC[mls]['label']}: added {len(summary['added'])}, updated {len(summary['updated'])}, removed {len(summary['removed'])}, unchanged {len(summary['unchanged'])}, missing body {len(summary['missing_body'])}; total {len(new_state['articles'])}")
+    print(f"{HC[mls]['label']}: added {len(summary['added'])}, updated {len(summary['updated'])}, removed {len(summary['removed'])}, stale files deleted {len(summary['stale'])}, unchanged {len(summary['unchanged'])}, missing body {len(summary['missing_body'])}; total {len(new_state['articles'])}")
     if summary['missing_body']:
         print('  missing bodies (not written): ' + ' '.join(summary['missing_body']))
     json.dump(summary, open(os.path.join(args.work, f'summary-{mls}.json'), 'w'), indent=1)

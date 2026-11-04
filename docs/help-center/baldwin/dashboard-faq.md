@@ -2,7 +2,7 @@
 intercom_id: "15216626"
 content_id: "17993546"
 title: "Dashboard FAQ"
-description: "Questions about Hot Sheets, the Market Monitor, and what you see on your Perchwell home screen."
+description: "Answers to common Perchwell Dashboard questions: how many Hot Sheets fit, how far a timeframe reaches, off-market activity, and mobile."
 url: "http://support.perchwell.com/en/articles/15216626-dashboard-faq"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,32 +10,50 @@ collection: "Dashboard / FAQs"
 collection_ids: [19644346]
 collections: ["Dashboard / FAQs"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2026-05-21T19:11:58Z
-updated_at: 2026-07-20T20:01:54Z
+updated_at: 2026-11-03T21:46:17Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:35Z
 ---
 
 # Dashboard FAQ
 
-## How do I see the market activity for my specific brokerage on the home screen?
+Use this article to answer common questions about the Perchwell Dashboard and its Hot Sheets, including how to monitor brokerage or office activity, how many Hot Sheets fit on the Dashboard, how far back a timeframe reaches, why a listing in a 0-day Hot Sheet shows days on market, what counts as off-market activity, and whether Hot Sheets work on mobile.
 
-You can create a Hot Sheet from a Saved Search. Search by agents and select the agents in your office. Save the search, and then use it as your Hot Sheet. Visit our article on how to create a hot sheet with a saved search to learn more.
+# How do I see market activity for my brokerage or office on the Dashboard?
 
-## How many Hot Sheets can I add?
+Build a saved search hot sheet from a Saved Search filtered by brokerage or by office. The Hot Sheet shows that market activity on the Dashboard and updates automatically.
 
-There is no limit. You can add as many as you'd like.
+[Add a Hot Sheet to the Dashboard](http://support.perchwell.com/baldwin/en/articles/13893409-add-a-hot-sheet-to-the-dashboard) covers the setup steps.
 
-## What does "off-market" include in a Hot Sheet?
+# How many Hot Sheets can I add to the Dashboard?
 
-Off-market includes listings that are withdrawn and cancelled.
+Add as many Hot Sheets to the Perchwell Dashboard as you need. There is no limit, and each Hot Sheet appears as its own widget.
 
-## What is the maximum timeframe for a hot sheet?
+# What is the maximum timeframe for a Hot Sheet?
 
-You can set a hot sheet for up to 998 days.
+Set a Hot Sheet timeframe anywhere from 0 to 998 days. A 0-day timeframe shows listings entered into the MLS today. Each Hot Sheet holds up to five timeframes, which appear as tabs across the top of the widget. Click a tab to switch the view without rebuilding the Hot Sheet.
 
-## Can I view Hot Sheets in the Perchwell mobile app?
+# Why does a listing in a 0-day Hot Sheet show days on market?
 
-Dashboard and Hot Sheets are not available on the Perchwell mobile app. You can only view and access these areas on desktop.
+A listing in a 0-day Hot Sheet can have days on market (DOM) above zero because DOM is calculated from the listing's Authorized MLS Entry date, which may be earlier than the date the listing was entered into the MLS.
+
+# What counts as off-market activity in a Hot Sheet?
+
+Off-market activity in a Hot Sheet counts listings that moved to an off-market status, such as Cancelled or Withdrawn, during the selected timeframe, even if the listing has since changed status. Expired is counted separately in its own Hot Sheet bar.
+
+For status definitions, see [Listing Statuses in Perchwell](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell).
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png?expires=1793764800&signature=33c15ab0c33da839fde0dbfbcdf0581ad5dfe419992c5d4da9eb5369127e0345&req=dicvE8F%2FnIFdXvMW1HO4zQusIqoK%2B38MGFsXMMjb%2BN%2BefeOqHjelk%2FAFw5E%2F%0AqRiR9w8B5esebWgU0Z8%3D%0A)
+
+# Can I view the Dashboard and Hot Sheets in the Perchwell mobile app?
+
+The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Open Perchwell in a desktop browser to access the Dashboard and your Hot Sheets.
+
+# Where is the Market Monitor on the Perchwell Dashboard?
+
+Members who came from a legacy platform may know Hot Sheets as the Market Monitor. In Perchwell, a Hot Sheet is the equivalent Dashboard widget for tracking new and updated listing activity.
+
+[New Terminology](http://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.

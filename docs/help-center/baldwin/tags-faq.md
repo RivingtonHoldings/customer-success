@@ -12,10 +12,10 @@ collections: ["Tags / FAQs"]
 state: published
 author_id: 9490228
 created_at: 2026-05-21T19:26:21Z
-updated_at: 2026-08-05T19:01:55Z
+updated_at: 2026-11-03T20:38:43Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-03T20:41:26Z
 ---
 
 # Tags FAQ

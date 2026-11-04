@@ -4,9 +4,6 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 
 ## Reports
 
-**Create a Market Conditions Addendum Report (1004MC)**, TRK-068
-- The Customize Report screenshot placeholder has no image yet.
-
 **Create a Media Report**, TRK-069
 - The description and opening section say the report has photos and floor plans; the sample shows photos only. Confirm, or reword.
 
@@ -26,18 +23,13 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 ## Contacts and client collaboration
 
 **Export Contacts to a CSV File**, TRK-009
-- Open drafting note: "[confirm: which contacts on the My Contacts tab the export leaves out, such as contacts carried over from a legacy platform]".
 - The Export contacts arrow icon placeholder has no image yet.
 
 **Find and Contact Buyer's Agents with Reverse Prospecting**, TRK-013
 - The last table column reads "Last Outre…" on screen (likely Last Outreach); the article calls it Last Contacted twice. Match the screen.
-- Open drafting note: "[confirm: Tagged counts what the live article called Tag Adds]". The screen says Tagged, so the note can likely go.
 
 **Communicate with Your Agent via Messages in Perchwell**, TRK-016
 - "You can also sort Listings based on client reactions" is vague and speaks of "client reactions" to a client. Name the filter tabs at the top of Shared properties instead.
-
-**Share Listings with Your Agent**, TRK-018
-- Open drafting note: "[confirm: Share via email opens the same Share window, on the Email tab]".
 
 ## Search
 

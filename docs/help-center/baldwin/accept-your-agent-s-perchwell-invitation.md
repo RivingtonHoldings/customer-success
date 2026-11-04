@@ -1,8 +1,8 @@
 ---
 intercom_id: "15521326"
 content_id: "18497092"
-title: "Accept Your Agent\u2019s Perchwell Invitation"
-description: "In this article: You will learn how to accept your agent\u2019s Perchwell invitation from your email, create your password in a web browser, and log in to start   viewing listings."
+title: "Accept Your Agent's Perchwell Invitation"
+description: "Accept your agent's Perchwell invitation to view the listings and saved searches they share and message them about your home search."
 url: "http://support.perchwell.com/en/articles/15521326-accept-your-agent-s-perchwell-invitation"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,70 +10,69 @@ collection: "Client Experience"
 collection_ids: [19361684]
 collections: ["Client Experience"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2026-06-16T18:48:52Z
-updated_at: 2026-07-02T02:40:09Z
+updated_at: 2026-11-04T02:53:00Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:35Z
 ---
 
-# Accept Your Agent’s Perchwell Invitation
+# Accept Your Agent's Perchwell Invitation
 
-## How to use your Perchwell client account
-
-Perchwell is the platform your agent uses to share listings and keep your home search organized. You can:
-- Collaborate and view listings your agent shares with you via **Messages**
-- Save and organize listings you like
-- Track listing updates with shared or personally created saved searches
-
-Before you get started in Perchwell, you need to accept your agent’s invitation.
-
-## Preparation
-
-Make sure you have:
-- Log into the account where your agent sent your Perchwell invitation
-- A desktop or mobile web browser to create your password
-
-**💡If you do not see the invitation email, check your Promotions, Spam, or Junk folders**
-
-## Invitation acceptance
+Use this article to find your Perchwell invitation email, create your password, sign in on a computer or in the mobile app, and start working with your agent.
 
 [Embedded video](https://demo.arcade.software/QjmmTn8WzjQSUbRzuMcx?embed)
 
-## Invitation email access
+# Find your Perchwell invitation email
 
-Look for an email from **Perchwell** with the subject line ***You’ve been invited to join Perchwell*.**
+Look in your inbox for your Perchwell invitation email, with the subject Start your home search on Perchwell. The invitation shows your agent's name as the sender and comes from [no-reply@perchwell.com](mailto:no-reply@perchwell.com).
 
-## Accept Invitation
+If the Perchwell invitation is not in your inbox, check your Promotions, Spam, or Junk folders. If you still cannot find it, ask your agent to resend it.
 
-In the email, click **Accept Invitation**.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786192524/e974d6e01ba3820f86c1e1bb9dde/upload_8103226022666770762.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786192524/e974d6e01ba3820f86c1e1bb9dde/upload_8103226022666770762.png?expires=1793764800&signature=a9b5a57287b3422a65571f5f7e6a02f3ac933b11ee726fb59aad10df426eddc7&req=dicvEMh3n4RdXfMW1HO4zRpkF%2BOktZdKZcVw1iIfPBcWe1wVHrvjxjFSiLOM%0A19GPe2HmQoOBqGR7a9g%3D%0A)
 
-**⚠️ Complete this step in a web browser.**
+# Accept the invitation and create your Perchwell password
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2481210784/6c678ae15b039e63e18dbadc4b39/Group+25.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2481210784/6c678ae15b039e63e18dbadc4b39/Group+25.png?expires=1788542100&signature=fd51181a9cb599236da6564176bd45e51b7deaec488c68fa5c3121b2e0101b16&req=diQvF8t%2FnYZXXfMW1HO4zad7ynAWNB5vFTQ2HhKxHN52RYoAiJPVoyLSoEDe%0A2mPu8jj0b%2Fku6IQN%2B%2FU%3D%0A)
+Accept your agent's invitation and create your Perchwell password from the email, on a computer or a phone. Your password needs:
+- At least 8 characters
+- One capital letter
+- One number
+- One special character
 
-## Password creation
+## Steps:
+1. Open the invitation email from your agent
+2. Click Accept Invitation
+3. On the Welcome to Perchwell page, enter a password in the Password field
+4. Enter the same password in the Confirm password field
+5. Click Create Account
 
-A new webpage will open where you can create your password to activate your account.
+Your Perchwell client account is active.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2481210097/3b5fc14321483cdc8713a6c16bfc/Group+27.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2481210097/3b5fc14321483cdc8713a6c16bfc/Group+27.png?expires=1788542100&signature=2c04deb3c2e00147608031a5cda391eb89c9e166f4b21e7bf93de3264f195efd&req=diQvF8t%2FnYFWXvMW1HO4zRAQ9GBvbg4NuO86oO3TLuTNx47afLaLqqMsidDV%0AQRY4mCh4H874xIU%2Fgs0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786192537/fa13c4b263dd65b454cd8b171c7f/upload_5910873216468090999.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786192537/fa13c4b263dd65b454cd8b171c7f/upload_5910873216468090999.png?expires=1793764800&signature=98a765597d651adad9837c5df2e30b8c31b0562790b52283963113a9a109a108&req=dicvEMh3n4RcXvMW1HO4zbaTiwlnM27HAOHaeqxct%2BnH%2B6TUt4KFAiNJN%2F6N%0At%2FlqZGcpUHS40Qn6RMA%3D%0A)
 
-## Getting started
+# Sign in to Perchwell on a computer
 
-After you activate your account:
-- Log in on your desktop browser
-- Download and log in to the Perchwell mobile app available on iOS and Andriod
-  - **iOS**: Download Perchwell in the [App Store](https://apps.apple.com/us/app/real-estate-by-perchwell/id1090535139)
-  - **Andriod**: Download Perchwell in [Google Play](https://play.google.com/store/apps/details?id=com.perchwell.re&hl=en_US)
+Sign in to Perchwell on a computer from the Perchwell login page at [www.perchwell.com/accounts/sign_in](https://www.perchwell.com/accounts/sign_in). If you forget your password, click Forgot your password? below the Password field.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2481209504/1893f442ee6980a665d9c6ccaae5/Group+26.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2481209504/1893f442ee6980a665d9c6ccaae5/Group+26.png?expires=1788542100&signature=807c3c9f799b8191fdbbe51caf37eff3574b7f7ac35879ce8bff0a741cbc561b&req=diQvF8t%2BlIRfXfMW1HO4zW3cNTB24XvkUXMHzDLhyhO%2BgN%2FxmWLVoGcfLOTL%0ATtQQGSKLlYfNNUEaddU%3D%0A)
+## Steps:
+1. Enter the email address where you received the invitation in the Email field
+2. Enter the password you created in the Password field
+3. Click Sign in
 
-## Next Steps:
-- [View any saved searches your client has shard with you](https://intercom.help/perchwell-help-center-baldwin/en/articles/14743530-view-shared-saved-searches)
-- [View and share listings with your agent](https://intercom.help/perchwell-help-center-baldwin/en/articles/11373849-share-listings-with-your-agent)
-- [Leave feedback on shared listings](https://intercom.help/perchwell-help-center-baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell)
+You are signed in to Perchwell.
 
-## Tips
-- If you still cannot find the invitation email, ask your agent to resend it.
-- If you already activated your account, click **Forgot Password** on the login page.
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2481209504/1893f442ee6980a665d9c6ccaae5/Group+26.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2481209504/1893f442ee6980a665d9c6ccaae5/Group+26.png?expires=1793764800&signature=562d35b24d21df89013ac3c127daad4a044d509ca78bbec9dbc7b7eeb11ac8ab&req=diQvF8t%2BlIRfXfMW1HO4zW3cNDt0433tUXMHzDLhyhNtopJ2Tq%2BF2XqD6JLH%0ABClIBhRc4qBnue5%2BN9c%3D%0A)
+
+# Sign in to the Perchwell mobile app
+
+Sign in to the Perchwell mobile app with the same email address and password as on a computer. Download the app from the [App Store](https://apps.apple.com/us/app/real-estate-by-perchwell/id1090535139) on an Apple device, or from [Google Play](https://play.google.com/store/apps/details?id=com.perchwell.re&hl=en_US) on an Android device.
+
+# Start working with your agent in Perchwell
+
+Start working with your agent in your client portal, the Perchwell workspace for collaborating on your home search. Saved searches and messages your agent shares with you appear in your client portal.
+
+For more information:
+- [View Shared Saved Searches](https://support.perchwell.com/baldwin/en/articles/14743530-view-shared-saved-searches) explains how to open the saved searches your agent shares with you.
+- [Communicate with Your Agent in Perchwell](https://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) covers messaging your agent and reacting to listings with Like, Maybe, and Reject.
+- [Share Listings with Your Agent](https://support.perchwell.com/baldwin/en/articles/11373849-share-listings-with-your-agent) explains how to send listings to your agent by email or in Messages.

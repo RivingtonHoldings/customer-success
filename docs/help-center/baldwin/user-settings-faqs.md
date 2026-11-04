@@ -12,10 +12,10 @@ collections: ["User Settings"]
 state: published
 author_id: 10644865
 created_at: 2026-08-02T14:49:46Z
-updated_at: 2026-08-06T19:11:43Z
+updated_at: 2026-11-03T20:37:30Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-03T20:41:26Z
 ---
 
 # User Settings FAQs
@@ -29,17 +29,17 @@ For all name, email address, phone number changes, please update these via the B
 Go to your **Settings** by hovering over your profile picture on the top right corner:
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581504680/0234bcaaa3a0af9e84813110115e/Screenshot+2026-08-02+at+10_58_16%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581504680/0234bcaaa3a0af9e84813110115e/Screenshot+2026-08-02+at+10_58_16%E2%80%AFAM.png?expires=1788542100&signature=41a152572bc7a2b9c0704fac62ff4b99707788c6015791787b52023fa8708610&req=diUvF8x%2BmYdXWfMW1HO4zf7py1TM9bd0phudnIvcJeALo8YWQjdoDWzaMrw7%0Ap6hS7gqvzoCyzaTI32A%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581504680/0234bcaaa3a0af9e84813110115e/Screenshot+2026-08-02+at+10_58_16%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581504680/0234bcaaa3a0af9e84813110115e/Screenshot+2026-08-02+at+10_58_16%E2%80%AFAM.png?expires=1793740500&signature=47761e0d189fc92f162d5cc0ffcbe471dcc714d2fc530758b44d9a10801353ab&req=diUvF8x%2BmYdXWfMW1HO4zf7pyl%2FO9bVwphudnIvcJeDV6b9lTILjH8Bt2ooi%0ACwdOr%2BXLyeHDtotKEXA%3D%0A)
 
 Click on **Settings:**
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581505408/e82dbe0dfe9fbe178f906f626c49/Screenshot+2026-08-02+at+10_59_21%E2%80%AFAM+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581505408/e82dbe0dfe9fbe178f906f626c49/Screenshot+2026-08-02+at+10_59_21%E2%80%AFAM+1.png?expires=1788542100&signature=d2cc9e771fe3ba1c7384108e5cdbe0fbd08ea9b48a986d289f7421530a75dfd2&req=diUvF8x%2BmIVfUfMW1HO4zTY5bnF4WqRNTLW0nZkmGKIr9SQ%2BS01Jdtc%2BjNbh%0A8Q8d9f7eyyfJmrG0qCU%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581505408/e82dbe0dfe9fbe178f906f626c49/Screenshot+2026-08-02+at+10_59_21%E2%80%AFAM+1.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581505408/e82dbe0dfe9fbe178f906f626c49/Screenshot+2026-08-02+at+10_59_21%E2%80%AFAM+1.png?expires=1793740500&signature=b4b0408a3e7d73146c79b8c925f30decd4e22a3cea8884174f14eddd44a39293&req=diUvF8x%2BmIVfUfMW1HO4zTY5b3p6WqZJTLW0nZkmGKIYfeux9GKGPFzj1TDg%0Ajzrny4mmNEoJglrUGOo%3D%0A)
 
 Click your image on the top left corner:
 ​
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581506626/07fbbb30e0b051f1f8946f7218c1/Screenshot+2026-08-02+at+11_00_39%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581506626/07fbbb30e0b051f1f8946f7218c1/Screenshot+2026-08-02+at+11_00_39%E2%80%AFAM.png?expires=1788542100&signature=b720819e2d928dfa2a573ce05b38b62547b13987fd393b2d85726d00e9f9f415&req=diUvF8x%2Bm4ddX%2FMW1HO4zQp8iSlZOdUl8%2B6gcBTsZxlKv9wVf8MYpMqTnb9w%0A69PkprJUusx4MdNzV3k%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2581506626/07fbbb30e0b051f1f8946f7218c1/Screenshot+2026-08-02+at+11_00_39%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2581506626/07fbbb30e0b051f1f8946f7218c1/Screenshot+2026-08-02+at+11_00_39%E2%80%AFAM.png?expires=1793740500&signature=053c30a16f6d1f2065cd624763d7ac79dfc122ba73bf3e09f1e95e9ad2b70a3b&req=diUvF8x%2Bm4ddX%2FMW1HO4zQp8iCJbOdch8%2B6gcBTsZxmQOtN29aAjC%2FiYig8q%0A9ZEDCqIw11ZQhA9DJTE%3D%0A)
 
 A pop-up will appear to select a new image for your profile. Upload the image from your computer to add it to your profile.
 

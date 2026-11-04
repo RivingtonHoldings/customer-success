@@ -2,7 +2,7 @@
 intercom_id: "8955755"
 content_id: "9099049"
 title: "Create a Listing Report"
-description: "In this article, you will learn how to create a Listing Report, customize what it shows, and share it by Email, Download, or Print."
+description: "Create a Listing Report from listings in your search results, choose its details and layout, and email, print, or download it."
 url: "http://support.perchwell.com/en/articles/8955755-create-a-listing-report"
 help_center: crmls
 help_center_id: 4767477
@@ -10,130 +10,131 @@ collection: "Reports"
 collection_ids: [16867011]
 collections: ["Reports"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2024-02-15T21:23:12Z
-updated_at: 2026-08-12T00:37:44Z
+updated_at: 2026-11-04T02:33:22Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:41Z
 ---
 
 # Create a Listing Report
 
+Use this article to create a Listing Report from your search results, choose the details and layout it shows, email, print, or download it, and find it later in your Report library.
+
 # When to use a Listing Report
 
-Use a Listing Report when you need a clean, shareable summary of listings.
-- Share a short list of listings with a client
-- Review comparable listings with your team
-- Present key property details without building a full CMA
+A Listing Report is a shareable summary of the listings you select on the Search page.
+- Share a short list of listings with a client Listing Report Sample:
 
-## Create a listing Report from Search or Tags
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173877/2c7c4cbb140da31ec576a3cd105f/upload_208563665381134340.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173877/2c7c4cbb140da31ec576a3cd105f/upload_208563665381134340.png?expires=1793764800&signature=024dd614bfda35ca3fad5bddf0264f6d59a83a74c0fb07cfcf5ff7399a4968ef&req=dicvEMh5nolYXvMW1HO4zdiDCFW9FAxEYv1xoD0VCGqNykv%2Bxp7cunQJ03vk%0A7yIijvm%2FfeNlgf6CGlk%3D%0A)
 
-Start your report from **Search** or **Tags**, depending on where you selected your listings.
+# Create a Listing Report from your search results
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2312947439/c46dd279d56518f06aadc7816a11/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2312947439/c46dd279d56518f06aadc7816a11/image.png?expires=1788542100&signature=1749f68e00e75c0b432f226886691d4df3a513b41ea027cb6133b4e54defcfff&req=diMmFMB6moVcUPMW1HO4zUt4xtNXi%2B0MsozfWe7HlCO5UbJ4BVnwSMouD9%2BZ%0AR86suc9pbLH87NpUjv8%3D%0A)
-
-## Start from Search
-
-Use this option when you are selecting listings directly from search results.
+Create a Listing Report from the listings you select on the Search page.
 
 ## Steps:
-1. Open **Search page**
-2. Switch to the results view by clicking Search
-3. Select the checkboxes next to the listings you want to include
-4. Click **Actions**
-5. Select **Create a Report**
-6. Select **Listing Report**
+1. Click the Results tab
+2. Select the checkboxes next to the listings you want
+3. Click Actions
+4. Select Create a Report
+5. Select Listing Report
 
-# Listing Report customization
+The report window moves to the Customize Report step with your selected listings.
 
-After you select **Listing Report**, review the report settings and choose what recipients will see.
-​
+> **Note:** A Listing Report with more than 500 listings is emailed to you rather than built in the report window.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158678426/311c0f52d3604d38224f8abdfc2f/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158678426/311c0f52d3604d38224f8abdfc2f/image.png?expires=1788542100&signature=cd56099453307ab90968c0c57a6357edc4540b83156e4ac1b60030b8b17f11c8&req=diEiHs95lYVdX%2FMW1HO4zUSE3xPwwBmQ8GAMemZDoBZXS3GTfQ%2BtdRVmlA9d%0A%2F0CNhEew7fbSwsnhZ6k%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173899/0cb6c3d5544300b8d139a34ea67e/upload_1916148733064796780.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173899/0cb6c3d5544300b8d139a34ea67e/upload_1916148733064796780.png?expires=1793764800&signature=c72d6e694b8c725558917af685ebcb786269f7eb88187a983ee6497a45379f2b&req=dicvEMh5nolWUPMW1HO4zdmLvFuCwi%2FI%2Blp9iJ7hlY3EDOQ3DS9T9SL7Aw3E%0AN8kVZ019kYv7VZsSICM%3D%0A)
 
-## Set the report header (optional)
+# Customize the Listing Report
 
-Add a header to help recipients understand what they are viewing.
-- Enter a report title
-- Enter a report subtitle
+Customize the Listing Report on the Customize Report step of the report window.
 
-## Choose how listing links open
+## Add a label and subtitle to the Listing Report
 
-Set what happens when someone clicks a listing link in the report.
-- Select **Open in Perchwell**
-- Select **Open externally with your branding**
+Enter a label and subtitle at the top of the Customize Report step to tell recipients what the Listing Report covers. Both fields are optional.
+- Report Label: Enter a title for the report.
+- Report Subtitle: Edit the summary of your search filters, up to 70 characters.
 
-## Select the fields to display
+## Choose how listing links open in the Listing Report
 
-Choose which listing details appear on each listing page in the report:
-- Include listing agent information
-- Include your contact information
-- Include the exact address
-- Include Days on Market (DOM)
-- Include open house information
-- Include list date
-- Include cross streets
-- Include neighborhood
-- Include a large map
+Choose what happens when a recipient clicks a listing in the Listing Report:
+- Open links in Perchwell (clients must log in): Opens the listing in Perchwell, which means the client needs a Perchwell login to view it.
+- Open links externally with your branding: Opens the listing on a page with your branding.
 
-**💡 Click Include Exact Address to let recipients open the client-facing Listing Detail Page directly from the report.**
+Open links externally with your branding is selected by default.
 
-Unit numbers are included when applicable.
+## Choose the listing details in the Listing Report
 
-## Choose the page orientation
+Select the details each listing shows in the Listing Report:
+- Include listing agent info: The listing agent's information.
+- Include my contact information: Your contact information.
+- Include exact address: The full street address, with the unit number where one applies. Also lets recipients open the client-facing Listing Detail Page from the report.
+- DOM: Days on Market (DOM).
+- Open house: Open house information.
+- List date: The list date.
+- Cross streets: The listing's cross streets.
+- Neighborhood: The listing's neighborhood.
+- Large map: A large map.
 
-Select how the report is formatted.
-- Select **Portrait**
-- Select **Landscape**
+Include exact address, DOM, and List date are selected by default.
 
-## Reorder or remove listings
+## Choose the Listing Report layout
 
-Adjust the listings included in the report before you share it.
-- Drag and drop listings to reorder them
-- Click the **X** to remove a listing
+Select a page orientation for the Listing Report under Layout:
+- Landscape: Lays out the pages horizontally. Selected by default.
+- Portrait: Lays out the pages vertically.
 
-When finished, click **Next**.
+## Reorder or remove listings in the Listing Report
 
-# Listing Report sharing
+Reorder or remove listings in the Listings section, below the Listing Report settings.
+- Drag a listing up or down to change its place in the report
+- Click the X to the right of a listing to remove it from the report
+- Click View Listing to open the listing
 
-After you review your settings, choose how you want to share your report.
+To add listings, create a new Listing Report from the Search page.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158679235/b57995f8f0f67836a3f06fe19b0f/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158679235/b57995f8f0f67836a3f06fe19b0f/image.png?expires=1788542100&signature=ec3953daf2a13c944b5fd16158385ba0cce17c04e1b7f19baf979a584ae260a5&req=diEiHs95lINcXPMW1HO4zdMGAgsStolk87L3qjnZ2tr%2FIyNiz88AMWInEwh4%0AWOecf65m7l13qT43QlI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173913/0a9f4146f8b2b982437df5a55895/upload_14213966699901829961.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173913/0a9f4146f8b2b982437df5a55895/upload_14213966699901829961.png?expires=1793764800&signature=b895985e3ee2707ffa16380bd6352eeea8c08e7096b5636e25f2d488ba41ea2e&req=dicvEMh5noheWvMW1HO4zf8F0uBiN0tF3dPTHQNgnS1g3f0eSgrjkq80YNP0%0AIuwyMFlySznXyny%2FrKA%3D%0A)
 
-## Email the Report
+# Email, print, or download the Listing Report
 
-Send the report directly to an email address.
+Click Next on the Customize Report step to open the Generate Report step of the report window. Click Previous to change a setting.
 
-### Steps:
-1. Select **Email**
-2. Enter the recipient’s email address
-3. Update the subject line
-4. Review the message body and make edits as needed
-5. Click **Email Report**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173930/d7b823834a817e790284b0da4954/upload_17473391024440199815.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173930/d7b823834a817e790284b0da4954/upload_17473391024440199815.png?expires=1793764800&signature=3db88f5f9edbd5255972e61fcce89b974e8d977adbd0e8d35310c90a63b88284&req=dicvEMh5nohcWfMW1HO4zVImFXHW99YcOupIyDwLuRyZ%2FIaBBmRxP2xfcC8I%0A7yOkZIfwDey0twhE48M%3D%0A)
 
-You and the recipient both receive a copy.
+## Email the Listing Report
 
-## Download the Report
+Email the Listing Report to one or more recipients from the Generate Report step.
 
-Generate a PDF you can save or share.
+## Steps:
+1. Enter one or more email addresses in the Emails field
+2. Click Email Report
 
-### Steps:
-1. Select **Download**.
-2. A **PDF** will be generated.
-3. Save the file to your device.
+Each recipient receives the Listing Report, and Perchwell copies you on the email. The Email Subject field is set to Listing Report by default, and the Message field holds a short default message.
 
-## Print the Report
+## Print the Listing Report
 
-Print a paper copy or save as a PDF from your browser.
+Print the Listing Report from the Generate Report step. The limit for the Listing report is 500 Listings. If a Listing report has over 500 Listings, it will be automatically be sent to your email.
 
-### Steps:
-1. Select **Print**
-2. In your browser’s print dialog, choose your printer and settings
-3. Click **Print**
+## Steps:
+1. Click Print
+2. Choose your printer and settings in your browser's print dialog
+3. Click Print in the print dialog
 
-## Tips
-- Click **Previous** to return to earlier steps and adjust settings.
-- Add more listings by creating a new report.
-- Find saved reports in your **Report Library**.
-- Search for a report using the recipient’s email address.
+Your browser sends the Listing Report to your printer.
+
+## Download the Listing Report as a PDF
+
+Click Download on the Generate Report step to save the Listing Report to your computer as a PDF (Portable Document Format) file.
+
+# Find a past Listing Report in your Report library
+
+Open your Report library to find Listing Reports you created earlier.
+
+## Steps:
+1. Hover over your profile icon in the upper right corner
+2. Click Report library
+
+Your Report library opens with your saved reports. Search for a report by the recipient's email address.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173949/0bf317635c947911ec2d78d09dff/upload_4313197805783968440.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786173949/0bf317635c947911ec2d78d09dff/upload_4313197805783968440.png?expires=1793764800&signature=57dc6ed699485504fba86463ca6a508011b53d6aa21f6fadf0cc90ec293fa4d3&req=dicvEMh5nohbUPMW1HO4zS4JiV3u6z21%2FgdJa689C94lcP5ZqorkLor96kA4%0AUv6817xTA%2BEXIQFzLho%3D%0A)

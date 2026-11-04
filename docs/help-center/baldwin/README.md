@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-02T21:08:07Z. Articles: 128 (120 published, 8 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T03:27:21Z. Articles: 128 (120 published, 8 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -8,49 +8,49 @@ Each file carries frontmatter with the Intercom article ID, the content ID Fin c
 
 Collection ID 17797961. 9 articles.
 
-- [Bulk Upload Contacts](bulk-upload-contacts.md), updated 2026-07-02
-- [Contacts Page Overview](contacts-page-overview.md), updated 2026-07-28
-- [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-07-02
-- [Export Your Contact List](export-your-contact-list.md), updated 2026-07-02
-- [Invite Clients to Perchwell](invite-clients-to-perchwell.md), updated 2026-07-02
-- [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-07-02
-- [Quick Guide: Getting Clients Started in Perchwell](quick-guide-getting-clients-started-in-perchwell.md), updated 2026-07-02
-- [Reverse Prospecting](reverse-prospecting.md), updated 2026-08-06
-- [Unsubscribe from Notifications (For Invited Clients)](unsubscribe-from-notifications-for-invited-clients.md), updated 2026-07-02
+- [Bulk Upload Contacts from a CSV File](bulk-upload-contacts-from-a-csv-file.md), updated 2026-11-03
+- [Contacts Page Overview](contacts-page-overview.md), updated 2026-11-03
+- [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-11-03
+- [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-03
+- [Find and Contact Buyer's Agents with Reverse Prospecting](find-and-contact-buyer-s-agents-with-reverse-prospecting.md), updated 2026-11-03
+- [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md), updated 2026-11-03
+- [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-03
+- [Set Up Your Clients in Perchwell](set-up-your-clients-in-perchwell.md), updated 2026-11-03
+- [Unsubscribe from Saved Search Alert Emails](unsubscribe-from-saved-search-alert-emails.md), updated 2026-11-03
 
 ## Client Experience
 
 Collection ID 19361684. 6 articles.
 
-- [Accept Your Agent’s Perchwell Invitation](accept-your-agent-s-perchwell-invitation.md), updated 2026-07-02
-- [Communicate with Your Agent in Perchwell](communicate-with-your-agent-in-perchwell.md), updated 2026-07-02
+- [Accept Your Agent's Perchwell Invitation](accept-your-agent-s-perchwell-invitation.md), updated 2026-11-04
+- [Communicate with Your Agent via Messages in Perchwell](communicate-with-your-agent-via-messages-in-perchwell.md), updated 2026-11-04
 - [Create Email Templates](create-email-templates.md) (draft), updated 2026-07-02
-- [Receive Alerts About New Listings](receive-alerts-about-new-listings.md), updated 2026-07-02
-- [Share Listings with Your Agent](share-listings-with-your-agent.md), updated 2026-08-25
-- [View Shared Saved Searches](view-shared-saved-searches.md), updated 2026-07-02
+- [Receive Alerts About New Listings](receive-alerts-about-new-listings.md), updated 2026-11-03
+- [Share Listings with Your Agent](share-listings-with-your-agent.md), updated 2026-11-04
+- [View Shared Saved Searches](view-shared-saved-searches.md), updated 2026-11-03
 
 ## Dashboard
 
 Collection ID 17797865. 6 articles.
 
-- [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-07-20
-- [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-07-02
-- [Dashboard Overview](dashboard-overview.md), updated 2026-09-29
-- [Integration Tools on the Dashboard](integration-tools-on-the-dashboard.md), updated 2026-07-02
-- [Listings Widget Overview](listings-widget-overview.md), updated 2026-07-02
+- [Access Integrations from the Dashboard or a Listing](access-integrations-from-the-dashboard-or-a-listing.md), updated 2026-11-03
+- [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-03
+- [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-03
+- [Dashboard Overview](dashboard-overview.md), updated 2026-11-03
+- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-03
 - [Set Up Saved Searches for Hot Sheets](set-up-saved-searches-for-hot-sheets.md), updated 2026-07-21
 
 ## FAQs & Cheat Sheets
 
 Collection ID 19547885. 7 articles.
 
+- [All About Property Types and Sub-Types](all-about-property-types-and-sub-types.md), updated 2026-11-03
 - [Common Perchwell FAQs](common-perchwell-faqs.md) (draft), updated 2026-07-02
-- [Listing Statuses in Perchwell](listing-statuses-in-perchwell.md), updated 2026-09-03
-- [Login, Access & Troubleshooting Guide and FAQ](login-access-troubleshooting-guide-and-faq.md), updated 2026-07-02
+- [Login and Troubleshooting FAQ](login-and-troubleshooting-faq.md), updated 2026-11-03
+- [MLS Rules and Compliance FAQ](mls-rules-and-compliance-faq.md), updated 2026-11-03
 - [Most Common Questions Asked to MLS Staff](most-common-questions-asked-to-mls-staff.md), updated 2026-08-04
-- [Property Types in Perchwell](property-types-in-perchwell.md), updated 2026-07-02
-- [Top Compliance Questions](top-compliance-questions.md), updated 2026-07-02
 - [Upcoming Features](upcoming-features.md) (draft), updated 2026-10-16
+- [What Each Listing Status Means](what-each-listing-status-means.md), updated 2026-11-03
 
 ## Getting Started Guide
 
@@ -84,30 +84,30 @@ Collection ID 19737537. 3 articles.
 
 Collection ID 17797908. 5 articles.
 
-- [AI Scribe](ai-scribe.md), updated 2026-08-04
-- [Add and Edit Listings](add-and-edit-listings.md), updated 2026-08-04
+- [Add and Edit Listings](add-and-edit-listings.md), updated 2026-11-04
 - [Delete a Draft Listing](delete-a-draft-listing.md), updated 2026-09-08
 - [Listing Detail Page Overview](listing-detail-page-overview.md), updated 2026-09-10
 - [Manage Listings Page Overview](manage-listings-page-overview.md), updated 2026-10-20
+- [Write a Listing Description with AI Scribe](write-a-listing-description-with-ai-scribe.md), updated 2026-11-04
 
 ## Manage People
 
 Collection ID 18306004. 3 articles.
 
-- [Assume Identity](assume-identity.md), updated 2026-07-30
+- [Create and Manage Teams](create-and-manage-teams.md), updated 2026-11-03
+- [Log In as an Agent with Assume Identity](log-in-as-an-agent-with-assume-identity.md), updated 2026-11-03
 - [Masquerade an Agent's Account](masquerade-an-agent-s-account.md) (draft), updated 2026-07-02
-- [Perchwell Teams](perchwell-teams.md), updated 2026-07-02
 
 ## Mobile
 
 Collection ID 19615962. 6 articles.
 
-- [Contacts Page Overview- Mobile](contacts-page-overview-mobile.md), updated 2026-07-29
-- [Listing Detail Page Overview](listing-detail-page-overview-14784837.md), updated 2026-07-26
-- [Messages Overview](messages-overview.md), updated 2026-07-02
-- [My Listings Overview](my-listings-overview.md), updated 2026-08-06
-- [Search Page Overview](search-page-overview-14786263.md), updated 2026-07-02
-- [Tags Overview](tags-overview.md), updated 2026-07-02
+- [Add and Edit Listings in the Perchwell Mobile App](add-and-edit-listings-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Listing Detail Page in the Perchwell Mobile App](listing-detail-page-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Manage Contacts in the Perchwell Mobile App](manage-contacts-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Message Clients in the Perchwell Mobile App](message-clients-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Search in the Perchwell Mobile App](search-in-the-perchwell-mobile-app.md), updated 2026-11-03
+- [Tags in the Perchwell Mobile App](tags-in-the-perchwell-mobile-app.md), updated 2026-11-03
 
 ## Perchwell Training Sessions
 
@@ -124,47 +124,47 @@ Collection ID 19693999. 6 articles.
 
 Collection ID 17797980. 9 articles.
 
-- [Create One Page Reports](create-one-page-reports.md), updated 2026-08-31
-- [Create a CMA with a Subject Property](create-a-cma-with-a-subject-property.md), updated 2026-08-12
-- [Create a Listing Report](create-a-listing-report.md), updated 2026-08-12
-- [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md), updated 2026-08-14
-- [Create a Media Report](create-a-media-report.md), updated 2026-07-02
-- [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-08-12
-- [Create a Show Sheet](create-a-show-sheet.md), updated 2026-08-12
-- [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-08-12
-- [Create and Share Full Reports](create-and-share-full-reports.md), updated 2026-09-17
+- [Create a CMA with a Subject Property](create-a-cma-with-a-subject-property.md), updated 2026-11-03
+- [Create a Full Report](create-a-full-report.md), updated 2026-11-04
+- [Create a Listing Report](create-a-listing-report.md), updated 2026-11-04
+- [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md), updated 2026-11-03
+- [Create a Media Report](create-a-media-report.md), updated 2026-11-04
+- [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-04
+- [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-04
+- [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-04
+- [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-04
 
 ## Tags
 
 Collection ID 17797953. 5 articles.
 
-- [How to Create a Tag](how-to-create-a-tag.md), updated 2026-08-19
-- [How to Link a Saved Search to a Tag](how-to-link-a-saved-search-to-a-tag.md), updated 2026-08-06
-- [How to Share a Tag](how-to-share-a-tag.md), updated 2026-08-06
-- [How to Tag Individual Listings](how-to-tag-individual-listings.md), updated 2026-08-06
-- [Tags Page Overview](tags-page-overview.md), updated 2026-08-06
+- [Add Listings to a Tag](add-listings-to-a-tag.md), updated 2026-11-03
+- [Create and Edit a Tag](create-and-edit-a-tag.md), updated 2026-11-03
+- [Link a Saved Search to a Tag](link-a-saved-search-to-a-tag.md), updated 2026-11-03
+- [Share a Tag with Clients](share-a-tag-with-clients.md), updated 2026-11-03
+- [Tags Page Overview](tags-page-overview.md), updated 2026-11-03
 
 ## Then vs. Now
 
 Collection ID 19197859. 8 articles.
 
-- [Agent-to-Client Transition Email Templates](agent-to-client-transition-email-templates.md), updated 2026-07-02
-- [Field & Data Representation Upgrade](field-data-representation-upgrade.md), updated 2026-07-02
-- [Key Workflow Changes](key-workflow-changes.md), updated 2026-07-22
-- [New Terminology](new-terminology.md), updated 2026-07-02
-- [Your Data: Contacts from Paragon](your-data-contacts-from-paragon.md), updated 2026-07-02
-- [Your Data: Listings & Partials](your-data-listings-partials.md), updated 2026-08-04
-- [Your Data: Perchwell Best Practices](your-data-perchwell-best-practices.md), updated 2026-08-04
-- [Your Data: Saved Searches from Paragon](your-data-saved-searches-from-paragon.md), updated 2026-07-30
+- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-03
+- [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md), updated 2026-11-03
+- [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-03
+- [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-03
+- [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-03
+- [Review Your Data Moved from Paragon](review-your-data-moved-from-paragon.md), updated 2026-11-03
+- [Sample Emails to Tell Clients About Perchwell](sample-emails-to-tell-clients-about-perchwell.md), updated 2026-11-03
+- [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md), updated 2026-11-03
 
 ## User Settings
 
 Collection ID 19361693. 4 articles.
 
-- [Add Branding to a Brokerage](add-branding-to-a-brokerage.md), updated 2026-07-02
+- [Create Brokerage Email Templates](create-brokerage-email-templates.md), updated 2026-11-03
 - [Create Communication Templates](create-communication-templates.md), updated 2026-08-10
-- [Create Communication Templates for your Brokerage](create-communication-templates-for-your-brokerage.md), updated 2026-07-02
-- [User Settings FAQs](user-settings-faqs.md), updated 2026-08-06
+- [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-03
+- [User Settings FAQs](user-settings-faqs.md), updated 2026-11-03
 
 ## What's New in Perchwell
 
@@ -180,7 +180,7 @@ Collection ID 19652175. 5 articles.
 
 Collection ID 19644346. 1 articles.
 
-- [Dashboard FAQ](dashboard-faq.md), updated 2026-07-20
+- [Dashboard FAQ](dashboard-faq.md), updated 2026-11-03
 
 ## Search / FAQs (under Search)
 
@@ -220,54 +220,54 @@ Collection ID 17797941. 14 articles.
 
 Collection ID 19642616. 2 articles.
 
-- [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-10-06
-- [Listings FAQ](listings-faq.md), updated 2026-09-01
+- [Listing Detail Page FAQ](listing-detail-page-faq.md), updated 2026-11-03
+- [Listing Maintenance FAQ](listing-maintenance-faq.md), updated 2026-11-03
 
 ## Tags / FAQs (under Tags)
 
 Collection ID 19644367. 1 articles.
 
-- [Tags FAQ](tags-faq.md), updated 2026-08-05
+- [Tags FAQ](tags-faq.md), updated 2026-11-03
 
 ## Client Collaboration / FAQs (under Client Collaboration)
 
 Collection ID 19642645. 1 articles.
 
-- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-10-06
+- [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-11-03
 
 ## Reports / FAQ (under Reports)
 
 Collection ID 19642643. 1 articles.
 
-- [Reports FAQ](reports-faq.md), updated 2026-08-31
+- [Reports FAQ](reports-faq.md), updated 2026-11-03
 
 ## Analytics / Analytics Tools (under Analytics)
 
 Collection ID 19585615. 2 articles.
 
-- [Analytics Tab Overview](analytics-tab-overview.md), updated 2026-09-17
+- [Analytics Page Overview](analytics-page-overview.md), updated 2026-11-03
 - [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-10-08
 
 ## Analytics / FAQs (under Analytics)
 
 Collection ID 19642621. 1 articles.
 
-- [Analytics FAQ](analytics-faq.md), updated 2026-07-02
+- [Analytics FAQ](analytics-faq.md), updated 2026-11-03
 
 ## Manage People / FAQs (under Manage People)
 
 Collection ID 19642626. 1 articles.
 
-- [Manage People FAQ](manage-people-faq.md), updated 2026-07-02
+- [Manage People FAQ](manage-people-faq.md), updated 2026-11-03
 
 ## User Settings / Log In to Perchwell (under User Settings)
 
 Collection ID 19648857. 1 articles.
 
-- [How to Log in to the Perchwell Mobile App](how-to-log-in-to-the-perchwell-mobile-app.md), updated 2026-07-02
+- [Log In to the Perchwell Mobile App](log-in-to-the-perchwell-mobile-app.md), updated 2026-11-03
 
 ## Mobile / FAQs (under Mobile)
 
 Collection ID 19642648. 1 articles.
 
-- [Mobile FAQ](mobile-faq.md), updated 2026-07-02
+- [Mobile App FAQ](mobile-app-faq.md), updated 2026-11-03

@@ -1,0 +1,116 @@
+---
+intercom_id: "12816780"
+content_id: "14458010"
+title: "Create a One Page Report"
+description: "Create a One Page Report in Perchwell, which includes key details of one or more listings with a QR code, for agents, clients, or both."
+url: "http://support.perchwell.com/en/articles/12816780-create-a-one-page-report"
+help_center: baldwin
+help_center_id: 4755399
+collection: "Reports"
+collection_ids: [17797980]
+collections: ["Reports"]
+state: published
+author_id: 5472692
+created_at: 2025-11-12T03:56:45Z
+updated_at: 2026-11-04T02:47:28Z
+labels: []
+body_source: public-help-center
+synced_at: 2026-11-04T03:25:35Z
+---
+
+# Create a One Page Report
+
+Use this article to create a One Page Report from a Listing Detail Page or your search results, choose the agent version, client version, or both, email, print, or download the report, and find it later in your Report library.
+
+[Embedded video](https://www.loom.com/embed/9968ca922b1d4521bc6de5ac5862f8bd)
+
+# When to use a One Page Report
+
+A One Page Report is a quick, client-ready listing summary. Each One Page Report includes a QR code that opens the client-facing Listing Detail Page when scanned with a mobile device. The One-page Report is capped at 50 listings per report to ensure quick generation. If a One-pager has more than 15 listings, it will automatically be sent to your email as a report.
+- Share a visual walkthrough with a client
+- Share key property details during a showing or open house
+- Send a simple listing overview to a client
+- Print a one-page handout for an in-person meeting
+
+To print the entire Listing Detail Page instead, see [Create and Share Full Reports](http://support.perchwell.com/baldwin/en/articles/12816757-create-and-share-full-reports).
+
+# Create a One Page Report from a Listing Detail Page
+
+Create a One Page Report for one listing from its Listing Detail Page.
+
+## Steps:
+1. Click Actions in the upper right
+2. Select Print one page report
+3. Select For agent, For client, or For both in the Create report window
+4. Click Create
+
+Your browser's print window opens with the One Page Report, so check the page before you print it or save it as a PDF (Portable Document Format) file.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png?expires=1793764800&signature=a6ad81e4021f9950ad9148e8d4346569faa4872420a2e6319ac39a085cb59613&req=dicvEMh2mohdXvMW1HO4zTfapVrxwQUcl3xw9ZPqxbCXz2cdGCPb%2BKMMXPmr%0AGSIDMflmOi%2Fjrrib2vk%3D%0A)
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png?expires=1793764800&signature=cf96ac31dabba41f8dc2ac6a6662b49bacfc483452bb8b0c2ed931c38693ae1f&req=dicvEMh2mohcXvMW1HO4zVnMuKLqstDsXNBAJ9MlRcfmEBxe0A%2BQLnkUGnxV%0AiAhmjsxN5pXpDIiNuH4%3D%0A)
+
+# Create a One Page Report from your search results
+
+Create a One Page Report for one or more listings from the Search page. The report window lists the One Page Report as One Pager.
+
+## Steps:
+1. Click the Results tab
+2. Select the checkboxes next to the listings you want
+3. Click Actions
+4. Select Create a Report
+5. Select One Pager
+
+The report window moves to the Customize Report step with your selected listings. To add listings later, create a new One Page Report from the Search page.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png?expires=1793764800&signature=c3ff6c7ec3d2acde59b1bb3ba17f5ca9a25c5b5e91bdab4349db1caa15969d8b&req=dicvEMh2mohaWvMW1HO4zboVF25GpM2iGFwGCuSzK7brwe26U0gFLIStg2TO%0ADpVLNDV72Sn%2BD1wHI00%3D%0A)
+
+# Choose the agent or client version of the One Page Report
+
+Choose who the One Page Report is for in the Create report window or on the Customize Report step:
+- For agent: Includes agent-only information, such as showing instructions, and includes listing agent logo.
+- For client: Includes your contact information and space for client notes, and logo of whoever is generating the report.
+- For both: Creates the agent and client versions at once.
+
+For agent is selected by default.
+
+# Email, print, or download the One Page Report
+
+Email, print, or download the One Page Report from the Generate Report step of the report window. Click Next on the Customize Report step to open it, or click Previous to adjust the listings.
+
+## Email the One Page Report
+
+Email the One Page Report to one or more recipients from the Generate Report step.
+
+## Steps:
+1. Enter one or more email addresses in the Emails field
+2. Click Email Report
+
+Each recipient receives the One Page Report by email.
+
+## Print the One Page Report
+
+Print the One Page Report from the Generate Report step.
+
+## Steps:
+1. Click Print
+2. Choose your printer and settings in your browser's print dialog
+3. Click Print in the print dialog
+
+Your browser sends the One Page Report to your printer.
+
+## Download the One Page Report as a PDF
+
+Click Download on the Generate Report step to save the One Page Report to your computer as a PDF (Portable Document Format) file.
+
+# Find a past One Page Report in your Report library
+
+Open your Report library to find saved One Page Reports.
+
+## Steps:
+1. Hover over your profile icon in the upper right corner
+2. Click Report library
+
+Your Report library opens with your saved reports. Search for a report by the recipient's email address.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png?expires=1793764800&signature=ab6f831ca908d332f1e3c790ad71e3943a3f6ff8e38374ea15c978bf0a1f66ee&req=dicvEMh2mohZX%2FMW1HO4zWTtIirMh40fkjspOlimH2ECXavQWJR282i9Yr9E%0AT7ZgbDkewGM3zsdUWYw%3D%0A)

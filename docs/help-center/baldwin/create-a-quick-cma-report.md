@@ -2,7 +2,7 @@
 intercom_id: "13959293"
 content_id: "16237971"
 title: "Create a Quick CMA Report"
-description: "In this article, you will learn how to create a Quick CMA, review your comparable listings, customize the layout, and share the final report.ui"
+description: "Create a Quick CMA report from your search results or a listing, choose its layout and fields, and email, print, or download it."
 url: "http://support.perchwell.com/en/articles/13959293-create-a-quick-cma-report"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,172 +10,162 @@ collection: "Reports"
 collection_ids: [17797980]
 collections: ["Reports"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2026-03-06T04:07:02Z
-updated_at: 2026-08-12T00:40:46Z
+updated_at: 2026-11-04T02:38:12Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:35Z
 ---
 
 # Create a Quick CMA Report
 
+Use this article to create a Quick CMA (Comparative Market Analysis) report from your search results or a listing, add a subject property and choose the layout and fields it shows, email, print, or download it, and find it later in your Report library.
+
+[Embedded video](https://www.loom.com/embed/7e87732ecd8b4fef84c8b7a8714277e8)
+
 # When to use a Quick CMA
 
-Use a Quick CMA when you need pricing insights based on comparable listings.
+Create a Quick CMA when you need pricing insight from comparable listings you choose. A CMA compares similar properties to estimate a property's value.
 - Advise a seller on pricing strategy
 - Help a buyer understand local market value
 - Compare similar listings in a neighborhood
 
-[Embedded video](https://demo.arcade.software/nbB5nnBrlab5j5Ez0mXt?embed)
+To start from a subject property's address and let Perchwell find the comparable listings, see [Create a CMA with a Subject Property](https://support.perchwell.com/baldwin/en/articles/15216797-create-a-cma-with-a-subject-property).
 
-# Quick CMA Creation
+# Create a Quick CMA from your search results or a listing
 
-Choose the starting point that matches how you selected your listings.
+Create a Quick CMA from the Search page or from a Listing Detail Page. Both open the report window:
+- Search page: Click the Results tab, select the listings you want, click Actions, then select Create a Report.
+- Listing Detail Page: Click Actions in the upper right, then select Report under Create.
 
-## Start from Search (most common)
+In a listing preview on the Search page, Actions creates the Quick CMA from all selected listings, not only the previewed one.
 
-Use this option when you are building a CMA from multiple search results.
+## Steps:
+1. Select Quick CMA
 
-### Steps:
-1. Open **Search**
-2. Select the checkboxes next to the listings you want to include
-3. Open the Actions Tab on the right, and select **Create a Report**[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2598509522/912de9b3d8b45852faad2d00ef65/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2598509522/912de9b3d8b45852faad2d00ef65/image.png?expires=1788542100&signature=400a44a8782c056c43c4e52071f3aa60320d363ffee2e579bc284ca7692bf25b&req=diUuHsx%2BlIRdW%2FMW1HO4zcJxNkC9p6OOjqIF6%2BMe%2BWpioU%2BtOh3EBLikBnYg%0ADtTY%0A)
-4. Select **Quick CMA**
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2598511199/bb9018e9c95340057fc91cd86518/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2598511199/bb9018e9c95340057fc91cd86518/image.png?expires=1788542100&signature=609cf56f3c78e89c387a9faa154524b7b061cb8c7f9eb3c6e61733dc23bee112&req=diUuHsx%2FnIBWUPMW1HO4zTh8lhRtbmeyG%2FrCUfU0z4gy%2FHZEdfSt20ye74pn%0AdQ6X%0A)
-5. To get clickable links in the PDF, choose **Include exact address** and **share externally**. Also, any selection or changes you make on this page will remain the same for next time you create a CMA report.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2598514297/8d81aba3628dd823f0fee1ef30d4/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2598514297/8d81aba3628dd823f0fee1ef30d4/image.png?expires=1788542100&signature=7796af4e02316e1a841b04d7ac1ba41f158c7fe86f21deeecea5ee4e079cf678&req=diUuHsx%2FmYNWXvMW1HO4zf0hmPndTwkefMtd36L3aFXHa%2F%2FpnqwLljY%2Bia3R%0AoU3k%0A)
+The report window moves to the Customize Report step with your listings.
 
-> NOTE: Remember to Select "Include Exact Address" so that the address will include the unit number if it has one.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178334/bfd910403da60aee2767476509a3/upload_15208203981577966473.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178334/bfd910403da60aee2767476509a3/upload_15208203981577966473.png?expires=1793764800&signature=12a837f0b8ea2f73745787a9f71e751d2074101fb4da524019a08f8834104f8f&req=dicvEMh5lYJcXfMW1HO4zZTwgm4Zhdiit7zUTClVfJDhfCyTRCP9BRF7SeSx%0AM0il%2B%2BAuk2xkNnuHpQE%3D%0A)
 
-## Start from Listing Detail Page
+# Customize the Quick CMA
 
-Use this option when you are starting with a single subject property.
+Customize the Quick CMA on the Customize Report step of the report window. The step shows your listings first, then the layout, fields, and options.
 
-### Steps:
-1. Open a listing from **Search** or **Universal Search**
-2. Open the actions panel on the right
-  - Hover near the right edge of the page, or
-  - Click the **actions button** in the top right
-3. Click **Add to Report**
-4. Select **Quick CMA**
+## Add a subject property to the Quick CMA
 
-## Start From Tags
+Click Add Subject Property above your listings on the Customize Report step to add the property you are pricing to the Quick CMA. When the subject property is not listed in the MLS, enter its details by hand.
 
-Use this option when your listings are already grouped in a tag.
+## Add listings from a Tag to the Quick CMA
 
-### Steps:
-1. Open **Tags**
-2. Open the tag that contains your listings
-3. Click **Create Report**
-4. Select **Quick CMA**
+Click the Click to view and filter tags field under Select tags to include in the Quick CMA. Select a Tag to add its listings to the Quick CMA. Selecting a Tag adds all of its listings, and more than one Tag can be selected.
 
-By default, the CMA includes all listings in the tag. Narrow the list before you start, or remove listings in the editor.
-- To narrow the list before you start, select specific listings, then click **Create Report**.
-- To remove listings later, click the **X** next to a listing in the CMA editor.
+## Reorder or remove listings in the Quick CMA
 
-# CMA Editor Review
+Reorder or remove listings on the Customize Report step, where the Quick CMA groups them by status, such as Active.
+- Drag a listing up or down to change its place in the Quick CMA
+- Click the X to the right of a listing to remove it from the Quick CMA
+- Click View Listing to open the listing
 
-After the CMA editor opens, confirm the subject property and your comparable listings.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178341/c779cb99a3da0e3d7cb6d419ea17/upload_1311226435301546359.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178341/c779cb99a3da0e3d7cb6d419ea17/upload_1311226435301546359.png?expires=1793764800&signature=1db22444ef3f7be39489ec36c8d82ff0600b8a53b7f7f86e121a5604693af93d&req=dicvEMh5lYJbWPMW1HO4zWshRspqwkZHlidY56t4gA%2B7XHDUQtr7XtsLST6k%0AgTEy1VISbcLVMXmIDiI%3D%0A)
 
-## Add or update the subject property
+## Choose the Quick CMA layout
 
-If the subject property is not listed in the MLS, add it manually.
-- Click **Add Subject Property**
-- Enter the property details
+Click Next below your listings, then select a page orientation for the Quick CMA under Layout. The layout sets how many fields each listing shows.
+- Landscape: Lays out the pages horizontally, with up to 12 fields per listing.
+- Portrait: Lays out the pages vertically, with up to 9 fields per listing.
 
-## Remove or reorder listings
+Select Larger Font under Styles to print the Quick CMA in a larger font. Larger Font fits 3 fewer fields per listing.
 
-Clean up your comp set before you generate the report.
-- Click the **X** next to a listing to remove it
-- Drag and drop listings to reorder them
+## Choose the fields in the Quick CMA
 
-When finished, click **Next**.
+Select the fields each listing shows under Select fields to show in the Quick CMA. The count beside the heading shows how many you selected against your layout's cap. Once you reach the cap, clear a field to choose a different one.
+- OLP (original list price)
+- Beds
+- Baths
+- SQ FT
+- $/SQ FT
+- DOM (Days on Market)
+- CDOM (Cumulative Days on Market)
+- List Date
+- Sold Date
+- Property Tax
+- Property Type
+- Lot Size
+- Acreage
+- Year Built
+- HOA/YR
+- City
+- Subdivision/Condo
+- Price Per Acre
+- MLS ID
 
-# Quick CMA Customization
+If a listing is missing a detail in the Quick CMA, the listing agent may not have entered it.
 
-Set up the report before you generate the final version.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178350/eded839ed57d5b80b70c7d325e5e/upload_11699617935510930802.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178350/eded839ed57d5b80b70c7d325e5e/upload_11699617935510930802.png?expires=1793764800&signature=b465844400085bf76af636c5669ff08372758def434d9eeaa97c49d6b8f0d514&req=dicvEMh5lYJaWfMW1HO4zb1AZNucoFESH1BCTTgAzwJC1Ly9hRez9xce82S%2B%0A4cCqvGI87BnyHYPAgV8%3D%0A)
 
-## Add a report title and subtitle (optional)
+## Choose how listing links open in the Quick CMA
 
-Add a header to help the recipient understand the CMA.
-- Enter a report title
-- Enter a report subtitle
+Choose what happens when a recipient clicks a listing in the Quick CMA, under Select where links should open:
+- Open links in Perchwell (clients must log in): Opens the listing in Perchwell, which means the client needs a Perchwell login to view it.
+- Open links externally with your branding: Opens the listing on a page with your branding.
 
-## Choose the page orientation
+## Add contact information, exact addresses, or a summary to the Quick CMA
 
-Pick the layout that matches how much information you want to show.
-- Select **Portrait** to show up to **8 fields** per listing
-- Select **Landscape** to show up to **10 fields** per listing
+Add your contact information, exact addresses, or a summary section to the Quick CMA under Additional Options:
+- Include my contact information: Adds your contact information.
+- Include exact address: Shows each listing's full street address, with the unit number where one applies.
+- Include summary section: Adds a summary section.
 
-## Select the fields to display
+Perchwell remembers your selections on the Customize Report step, which means your next Quick CMA starts with the same layout, fields, and options.
 
-Choose what data appears for each listing.
-- Select the data points you want to include for each listing. You can include data pulled directly from the listing detail page such as:
-  - Beds
-  - $/SQ FT
-  - Property Tax
-  - Lot Size
-  - HOA/YR
-  - Baths
-  - Days on Market
-  - Property Type
-  - Acreage
-  - City
-  - SQ FT
-  - Status Date
-  - List/Sold
-  - Year Built
-  - MLS ID
+> **Tip:** For clickable listing links in the PDF, select both Include exact address and Open links externally with your branding.
 
- **💡 To add these fields like Acreage to your Quick CMA you will need to click the check box next to the field when customizing the report. If the details are not available, it may have not been entered by the Listing Agent or does not appear on the Listing Detail Page. **
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178356/9764ce054e806aa9a4d582b02567/upload_5968284161359898144.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178356/9764ce054e806aa9a4d582b02567/upload_5968284161359898144.png?expires=1793764800&signature=70fe01c06470801d2e4d98dcb1b43c89b7464692b4b8fb1978142b20d6904aae&req=dicvEMh5lYJaX%2FMW1HO4zXUCWxL5bPmge8J%2Bi1CHFZUxTT80yUhJpy17ixIc%0Ag2Ut3Ae79fi8mU64dIY%3D%0A)
 
-## Choose how listing links open
+# Email, print, or download the Quick CMA
 
-Set what happens when someone clicks a listing link in the report.
-- Select **Open in Perchwell**
-- Select **Open externally with your brokerage branding**
+Email, print, or download the Quick CMA from the Generate Report step of the report window. Click Next on the Customize Report step to open it, and click Previous to change a setting.
 
-## Add optional sections
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178365/4b048f1837468ca1b5a7ec899512/upload_15922172971265643495.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178365/4b048f1837468ca1b5a7ec899512/upload_15922172971265643495.png?expires=1793764800&signature=a158c4ac79899443efabf55122acecb1e4fa3780490c888000e7405691892551&req=dicvEMh5lYJZXPMW1HO4zZgKHK8refcnxpMsgPOtySr2Z4MjJy%2B9I4pBMwCJ%0AWEc4YX0xEpCLscsLr08%3D%0A)
 
-Include additional content when you need it.
-- Include agent contact information
-- Include exact listing addresses
-- Include a summary section
+## Email the Quick CMA
 
-After you finish your layout updates, click **Next**.
+Email the Quick CMA to one or more recipients from the Generate Report step.
 
-# Quick CMA Sharing
+## Steps:
+1. Enter the recipient's email address in the To field
+2. *(Optional)* Enter more addresses in the CC field or the BCC field
+3. *(Optional)* Edit the subject in the Email Subject field
+4. *(Optional)* Edit the text in the Message field
+5. *(Optional)* Clear Include signature on shared report to leave your signature off
+6. Click Email Report
 
-#### After you review your report, choose how you want to distribute it.
+Each recipient receives the Quick CMA, and Perchwell copies you on the email. The Email Subject field is required and reads Comparative Market Analysis by default.
 
-## Email
+## Print the Quick CMA
 
-### Steps:
-1. Select **Email**
-2. Enter the recipient’s email address
-3. Update the subject line
-4. Review the message body and make edits as needed
-5. Click **Email Report**
+Print the Quick CMA from the Generate Report step.
 
-You and the recipient both receive a copy.
+## Steps:
+1. Click Print
+2. Choose your printer and settings in your browser's print dialog
+3. Click Print in the print dialog
 
-## Download
+Your browser sends the Quick CMA to your printer.
 
-### Steps:
-1. Select **Download**
-2. Wait for the PDF to generate
-3. Save the file to your device
+## Download the Quick CMA as a PDF
 
-## Print
+Click Download on the Generate Report step to save the Quick CMA to your computer as a PDF (Portable Document Format) file.
 
-### Steps:
-1. Select **Print**
-2. In your browser’s print dialog, choose your printer and settings
-3. Click **Print**
+# Find a past Quick CMA in your Report library
 
-## Tips
-- Click **Previous** to return to earlier steps and adjust settings.
-- Add more listings by creating a new report.
-- Find saved reports in your **Report Library**.
-- Search for a report using the recipient’s email address.
+Open your Report library to find a Quick CMA you created earlier.
+
+## Steps:
+1. Hover over your profile icon in the upper right corner
+2. Click Report library
+
+Your Report library opens with your saved reports. Search for a report by the recipient's email address.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178377/bbd1169f51bd9d789d22f16de9ef/upload_15709015428222440375.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786178377/bbd1169f51bd9d789d22f16de9ef/upload_15709015428222440375.png?expires=1793764800&signature=30b1b00ad5c088a79e34fafe7a320f93f7ffd12c3ea9459cae566ae7b70d5997&req=dicvEMh5lYJYXvMW1HO4zZ59%2BGlJpm0Nhpry54MY73p5WF3CaOhcCC2O5x2v%0AXUj7CNdxofquHtilcKc%3D%0A)

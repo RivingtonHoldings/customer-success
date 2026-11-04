@@ -2,7 +2,7 @@
 intercom_id: "12541968"
 content_id: "14014573"
 title: "Message Clients in Perchwell"
-description: "In this article, you will learn how to message invited clients in Perchwell, start a conversation from different areas of the platform, review client reactions, and stay on top of notifications."
+description: "Message invited clients in Perchwell, share listings in Messages from Search or a listing, and review how clients react to them."
 url: "http://support.perchwell.com/en/articles/12541968-message-clients-in-perchwell"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,123 +10,98 @@ collection: "Client Collaboration"
 collection_ids: [17797961]
 collections: ["Client Collaboration"]
 state: published
-author_id: 9490228
+author_id: 5472692
 created_at: 2025-10-08T15:16:51Z
-updated_at: 2026-07-02T02:38:42Z
+updated_at: 2026-11-03T21:29:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T03:25:35Z
 ---
 
 # Message Clients in Perchwell
 
-# What Messaging lets you do
-
-Use **Messages** to keep client conversations tied to the listings you share.
-- Send messages to an invited client
-- Share listings in a message
-- Review client feedback in one place
+Use this article to start conversations with invited clients in Messages, share listings from Search or a Listing Detail Page, review reactions in Shared properties, and find new messages.
 
 [Embedded video](https://demo.arcade.software/lg7AYrZuU0oHjQSW5AKv?embed)
 
-# Before you start: clients must be invited
+# Share listings in Messages
 
-Messaging is available only after you invite a client to Perchwell.
+Share one or more listings with a contact in Messages. Each time you share, enter a message of up to 1,000 characters.
 
-# New message creation
+Start from where you are viewing the listing:
+- Search results: Select the checkbox next to each listing you want to share. Click Actions, then select Share via Message. Actions shares all selected listings, even in Preview.
+- Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
+- Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
 
-Create a conversation from **Messages**.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png?expires=1793764800&signature=d3e5e7ff617ebb2a7fd9068e5b62976c3b6680a6b5f94e0a8183f71f04c6a089&req=dicvE854n4FaW%2FMW1HO4zZjEfMJfeb4cxbc2avTNnGl%2FDuHsONgniWlYhLcD%0ATzybb4K4oimxQhwcFwE%3D%0A)
 
-### Steps:
-1. Click **Messages** in the top navigation
-2. In the left panel, hover over **Contacts**
-3. Click the **pencil icon**
-4. Select the contact you want to message
-5. Type your message
-6. Click the **Send** icon
+## Steps:
+1. Select a contact
+2. Click Share
+3. Enter a message in the Include a message field
+4. *(Optional)* If the contact has not been invited to Perchwell, select Invite this contact to Perchwell
+5. Click Send
 
-The conversation appears in **Messages**
+The listings are sent to the client in Messages, or by email to a contact you have not invited. If you selected Invite this contact to Perchwell, the contact also receives an invitation.
 
-# Create a message from other areas in Perchwell
+# Invite a client before messaging them
 
-Use the option that best matches where you are working.
+Conversations in Messages are available only for clients you have invited to Perchwell. [Invite Clients to Perchwell](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite a client from the Contacts page.
 
-## From Contacts
+[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with someone you have not invited by email, text message, or public link.
 
-### Steps:
-1. Open **Contacts**
-2. Click the **message icon** next to the contact
+# Start a conversation in Messages
 
-## From Search
+Start a conversation with an invited client from the Messages page.
 
-### Steps:
-1. Open **Search page**
-2. Switch to the results view by clicking **Search**
-3. Select the checkboxes next to the listings you want to share
-4. Click **Actions**
-5. Select **Share via Messages**
-6. Choose a Contact
-7. Enter a Message
-8. Click **Send**
+## Steps:
+1. Hover over the left edge of the page to open the Messages panel
+2. Click the pencil icon labeled New message
+3. Select the contact you want to message
+4. Enter your message in the Send a message field
+5. Click the paper-plane icon to send
 
-## From the Listing Detail Page
+The conversation opens with your message.
 
-### Steps:
-1. Open a **Listing Detail Page**
-2. Click **Share**
-3. Select Send in Messages
-4. Click the **Send in Messages** button ****to start a new conversation
-5. Select the contact
-6. Click **Share**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png?expires=1793764800&signature=b492849b5b01fc10698e20d99ecb62f1cfad601c556a3f8646fb05f9585d2fa8&req=dicvE854n4BfW%2FMW1HO4zdHzEEPbHBc8gsQPKREiAju6L%2FVgf%2Fe6KyxKirzv%0AwUraqygWCFSfL7THD%2FA%3D%0A)
 
-## From Tags
+[Contacts Page Overview](http://support.perchwell.com/baldwin/en/articles/13975194-contacts-page-overview) covers starting a conversation from the Contacts page.
 
-### Steps:
-1. Open **Tags**
-2. Open a tag to view its listings
-3. Select the checkboxes next to the listings you want to share
-4. In the footer action bar, click **Share**
-5. Select the contact
-6. Click **Share**
+# Review client reactions in Shared properties
 
-All conversations appear in **Messages**
+Review how a client reacted to listings you shared in Messages from Shared properties in your conversation. Clients can react to each listing with the Reject (X), Maybe (question mark), or Like (heart) icon.
 
-# Review reactions and shared properties
+Filter the listings by reaction:
+- All: Every listing you shared with the client.
+- Undecided: Listings the client has not reacted to.
+- Maybe: Listings the client marked Maybe.
+- Liked: Listings the client liked.
+- Rejected: Listings the client rejected.
 
-Client reactions help you understand interest at a glance.
+## Steps:
+1. Hover over the left edge of the page to open the Messages panel
+2. Select the client's name to open your conversation
+3. Select a filter at the top of Shared properties
 
-## Reactions clients can use
-- **Like**
-- **Maybe**
-- **Reject**
+Shared properties shows the listings that match the selected filter. Select a listing to open a chat thread about it.
 
-## Filter listings by reaction
-1. Open a conversation in **Messages**.
-2. Click **Shared Properties**.
-3. Select a filter.
-  - **All**
-  - **Undecided**
-  - **Maybe**
-  - **Liked**
-  - **Rejected**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png?expires=1793764800&signature=3d3ae306a47ee49a5050c0d1f39e5bf8de4af43f55938c6f7f61296ff8e58270&req=dicvE854n4BcUfMW1HO4zVrGFR9e%2BNtE8paSeSv8HWpH3snzFcQuhMI4bPxN%0AiD5IX4mjQv4DkCDz7SM%3D%0A)
 
-# Manage alerts and notifications
+# Get notified of new messages and find them
 
-Use notifications to respond quickly when a client messages you.
-- Get an email notification when a client sends a new message
-- Look for a green dot on the **Messages** tab on desktop
-- Receive a push notification on mobile
+Perchwell notifies you when an invited client sends a new message:
+- Email: Perchwell sends you an email.
+- Green dot: A green dot appears on Messages in the top navigation.
 
-## New message identification
+Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/14786130-messages-overview) covers Messages on your phone.
 
-### Steps:
-1. Click **Messages**
-2. Look for conversations with a notification badge
-3. Click a contact name to open the conversation
+## Steps:
+1. Hover over the left edge of the page to open the Messages panel
+2. Select the client's name with a notification badge on the right
 
-## Tips
-- Message only invited clients.
-- Messaging looks similar for clients in their client portal.
-- Messages stay linked to the listings you reference.
-- Delete is not available. Conversations cannot be deleted.
-- Emails are sent from [no-reply@perchwell.com](mailto:no-reply@perchwell.com), but your name appears as the sender and all replies are directed to you.
+The conversation opens to the client's new message.
+
+# Things to Know
+- Conversations in Messages cannot be deleted.
+- When you message a client, Perchwell sends them an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name as the sender. Replies to the email appear in your conversation with the client in Messages and in your email inbox.
+- Invited clients can send and receive messages through their Perchwell client portal, their workspace for collaborating with you.

@@ -2,7 +2,7 @@
 intercom_id: "15199904"
 content_id: "17969584"
 title: "Listing Maintenance FAQ"
-description: "Questions about adding, editing, and managing listing data in Perchwell."
+description: "Find answers about entering listing details in the Add/Edit form, duplicating listings, and managing listings in the mobile app."
 url: "http://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,89 +10,115 @@ collection: "Listing Maintenance / FAQs"
 collection_ids: [19642616]
 collections: ["Listing Maintenance / FAQs"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-05-21T02:07:42Z
-updated_at: 2026-10-06T12:58:25Z
+updated_at: 2026-11-03T17:50:12Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T19:40:37Z
+synced_at: 2026-11-03T20:41:26Z
 ---
 
 # Listing Maintenance FAQ
 
-# What should I enter if the year built is unknown?
-
-If documentation is unavailable (for example, due to storm damage), use your best estimate:
-- If the foundation was completely removed, treat it as a new build
-- If the slab remains, use the original construction year of the slab
-- Include any updates or rebuild details in the property description
+Use this article, as a broker or an agent with full access, to answer common questions about listing maintenance in Perchwell.
 
 # Where does Autofill get its information in the Add/Edit form?
 
-Autofill pulls from tax records, CRS data, and other public records.
+Autofill in the Add/Edit form pulls listing details from tax records and other public records. [Add and Edit Listings](https://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) explains how to run Autofill and review what it fills in.
 
-# How do I add videos or Matterport tours?
+Members who came from a legacy platform may know Autofill as CRS Tax Autofill.
 
-You don’t upload videos directly. Instead, add the link in the Add/Edit form under:
-- Virtual Tour #1
-- Virtual Tour #2
-- Branded Virtual Tour
+# What should I enter in the Add/Edit form if the year built is unknown?
 
-If you would like to add a **Virtual Tour** to an existing Listing, please follow these steps:
-1. Go to **Manage Listings** and find your Listing.
+Enter your best estimate of the year built when documentation is unavailable, for example after storm damage:
+- If the foundation was completely removed, treat the property as a new build.
+- If the slab remains, enter the original construction year of the slab.
+- Add any updates or rebuild details to the Public remarks field.
 
-2. Click into the Listing and scroll down to the **Property Details** section.
+# What information should I put in the Add/Edit form if I am not sure what to enter?
 
-3. The Virtual Tour sections will be in the last 3 fields:
-​
+The MLS Team is your best resource to help you enter listing information that is as accurate as possible.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2609673118/0da17d98cb3bd5805915d5a1fe28/Screenshot+2026-08-14+at+1_28_54%E2%80%AFPM.png?expires=1792786500&signature=a37046b73737f975adde5afae61be8ad27758ad45aae3466e7f98c795c47f0ba&req=diYnH895noBeUfMW1HO4zULtR07VnP1%2FKuK2d2NlaKdBrZ6bCbp5fQ8yQdI4%0AxztfllfPxFiqjqgouV0%3D%0A)
-
-# Where does Autofill get its information in the Add/Edit form?
-
-Autofill pulls from tax records, CRS data, and other public records.
-
-# Can an owner put a listing directly in the MLS as a For Sale By Owner (FSBO)?
-
-Instead of entering a listing directly as an FSBO, those listings are typically entered as "Limited Service." For any further questions, contact the Baldwin MLS staff. You'll generally find the homeowner's information in the agent notes field.
-
-# What are the options to duplicate a listing?
-
-Click the checkbox next to the listing you want to duplicate. In the action panel, select Duplicate. The listing will appear as a draft in your list. From there, click the pen icon to update the appropriate fields as needed.
+Please reach out to the MLS support number at 251-270-0328 or email [mls@baldwinrealtors.com](mailto:mls@baldwinrealtors.com).
 
 # What is the character limit for public remarks?
 
-2,000 characters.
+Public remarks in the Add/Edit form hold up to 2,000 characters. To write a first draft of your public remarks from the listing details, see [AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe).
 
-# Where did the remarks on my open house come from?
+# How do I add a video or Matterport tour to a listing?
 
-Open houses that were scheduled in Paragon keep their Paragon comments as open house remarks, which means nothing needs to be re-entered. To edit or clear them, go to **Manage Listings** and click the **calendar icon** on the listing.
+Add a video or Matterport tour to a listing by entering its link, not a video file, in the Add/Edit form. The Property Details section has three virtual tour fields:
+- Virtual tour #1 (Unbranded): Enter a tour link with no branding.
+- Virtual tour #2 (Unbranded): Enter a second tour link with no branding.
+- Branded virtual tour: Enter a tour link that includes your branding.
 
-# Are the rules around Coming Soon listings changing in Perchwell?
+## Steps:
+1. Click the pencil icon at the right of the listing's row on the Manage Listings page
+2. Click Property Details in the section list on the right side of the form
+3. Enter the link in a virtual tour field, at the end of the Property Details section
+4. Click Submit updates, or Save draft if the listing is still a draft
 
-Baldwin MLS Coming Soon rules remain the same. Listings can remain in Coming Soon status for up to 30 days, may still be marketed during that period, and will continue to be syndicated through the normal channels.
+Submit updates sends your changes to the MLS, and the tour link goes live right away.
 
-# Where can I manage my listings and access the add/edit form in the mobile app?
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png?expires=1793740500&signature=a26de98b6fc73423a78da0bfbf27994257e78af1600fda67696eb9560d143570&req=dicvE8p%2Bm4NYX%2FMW1HO4zZihOY0%2Flbplrc4%2Fc94dBJyYOChbc3k2fSte%2B8li%0A%2BXeptohCj4Ikme93%2BME%3D%0A)
 
-You can manage your listings and access the add/edit form directly in the Perchwell mobile app by tapping **My Listings**. From there, you'll be able to view, add, and edit your listings. The Perchwell app is available on both iOS and Android.
-​
+# Can an owner list a property in the MLS as For Sale By Owner (FSBO)?
 
-# Can I clone or duplicate a Listing?
+A property an owner wants to sell is typically entered as a Limited Service listing rather than directly as For Sale By Owner (FSBO). The homeowner's information is generally in the listing's Agent remarks field. For other questions about FSBO listings, contact Baldwin MLS staff.
 
-Yes, you can actually clone, or **Duplicate**, a Listing.
-​
-On your Manage Listings Page, Check the Listing you want to **Duplicate **by clicking on the check box on the left:
-​
+# How do I duplicate or clone a listing?
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604975568/be87d46d1e3b191fadfcad2490c4/Screenshot+2026-08-12+at+3_51_52%E2%80%AFPM.png?expires=1792786500&signature=7ba6b03cac046507244a306cc56189c83ad2ec545d3dedfaa920260655d794f8&req=diYnEsB5mIRZUfMW1HO4zYMKCpbGm8ebyDpVirZX19bndurMCN6GxZfd%2FfF9%0AdCO0naIVzkZKXFJp668%3D%0A)
+Duplicate one or more listings from the Manage Listings page, including Expired listings.
 
-​At the bottom there will be option to **Duplicate**.
-​
+## Steps:
+1. Select the checkbox to the left of each listing you want to duplicate
+2. Click Duplicate in the bar at the bottom of the page
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2585259399/76e94c32eca578460c860595b669/Screenshot%2B2026-08-04%2Bat%2B10_12_32-E2-80-AFAM.png?expires=1792786500&signature=8331977dc03e377e614719a40afb85e8d4e2905ce70c628325c50487dba61f07&req=diUvE8t7lIJWUPMW1HO4zZCLTszhlBK33k5YU%2B6Xcg1nJ7rnV%2FOi5GQDYbg%2F%0A%2B%2F4Ozdd%2BZtF0%2B5EuOpk%3D%0A)
+Each copy appears as a draft on the Manage Listings page. Click the pencil icon at the right of a draft's row to update its fields.
 
-# ​Do we have the same ability to share listings with Mobile Alabama MLS when we create a new listing?
+Members who came from a legacy platform may know Duplicate as Copy or Clone.
 
-Listing maintenance is now available in Perchwell, but please note that **the push to MAAR is temporarily suspended. **Mobile recently switched to a new vendor, Ocusell, for this integration, and as a result of this switch, the existing push mechanism from Paragon will no longer be functional.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png?expires=1793740500&signature=0cba3481a5b47046ba6f5035c4dd6536648fb5e84017313e57d2c5e43cf25696&req=dicvE8p%2Bm4JeX%2FMW1HO4zWdsnMDoTkXOVhNFBAlC4A8%2Fa%2FcDfUlIVJFZmrjB%0AYnXv5bMDIusMsCGc5Fs%3D%0A)
 
-We are actively supporting MAAR’s new vendor in reestablishing this integration to streamline listing submission for all dual members as quickly as possible. ** While this integration is unavailable,** **dual members who want their listings in the MAAR MLS will need to enter and maintain listings manually in both the Perchwell and Matrix systems**.** **When this integration is complete, you will be able to resume entering listings once (in Perchwell) and pushing to both systems.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png?expires=1793740500&signature=94701f6ebb01af4aaeb0c1517cfc2759bce64414ae4695b21b95ebc44317367a&req=dicvE8p%2Bm4JaXfMW1HO4zdTqGxEmYydb7gZGOr1rfo7eIbo6lZHBhRnrX9vV%0AvqROpr3emiVCRF15tI8%3D%0A)
+
+# Where did my open house remarks come from, and how do I edit them?
+
+Open house remarks carried over from the legacy platform for open houses scheduled there before the move to Perchwell, which means nothing needs to be re-entered. Edit or clear open house remarks from the Manage Listings page.
+
+## Steps:
+1. Click the calendar icon in the listing's row to open the Open Houses window
+2. Update or delete the text in the Open House Remarks field
+3. Click Add
+
+Add saves the open house with the updated remarks.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png?expires=1793740500&signature=9910a768410acacc729574d059cb78739bfcddacae32983d8572fedbf7b54483&req=dicvE8p%2Bm4JYUfMW1HO4zRuJhU7fKa4fEHGtZQptxmeA301lp9PFhwWhJwgI%0AO7HbEw5Vjs5funXm0Rk%3D%0A)
+
+Open house remarks are visible to agents only. The [Listings FAQ](https://support.perchwell.com/baldwin/en/articles/15200541-listings-faq) explains who sees them.
+
+# Are the rules for Coming Soon listings different in Perchwell?
+
+Coming Soon rules for Baldwin MLS are the same in Perchwell:
+- A listing stays in Coming Soon status for up to 30 days.
+- A Coming Soon listing may still be marketed during those 30 days.
+- A Coming Soon listing continues to syndicate through the same channels as before the move to Perchwell.
+- A Coming Soon addendum will be added soon, and the MLS Team will be happy to answer any questions you have. Please reach out at: [mls@baldwinrealtors.com](mailto:mls@baldwinrealtors.com)
+
+# How do I manage my listings in the Perchwell mobile app?
+
+Manage your listings and open the Add/Edit form from Manage Listings in the Perchwell mobile app, available on iOS and Android.
+
+## Steps:
+1. Tap the More icon
+2. Tap Manage Listings
+
+Manage Listings opens. View, add, and edit your listings from there.
+
+# Can I push my listing to the Mobile Alabama MLS (MAAR) from Perchwell?
+
+The push from Perchwell to the Mobile Alabama MLS (MAAR) is temporarily suspended, while awaiting updates from MAAR. MAAR moved to a new integration vendor, and the push that ran from the legacy platform no longer works.
+
+If you belong to both Baldwin MLS and MAAR, enter and maintain each listing in both Perchwell and Matrix, MAAR's listing system. Do this until the integration is restored. Perchwell is working with MAAR's new vendor to restore the integration.
+
+When the integration is restored, enter each listing once in Perchwell, and it pushes to both MLSs.

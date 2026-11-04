@@ -2,6 +2,20 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-11-03: The Baldwin batch port skips per-article confirmation, once
+
+Decided by Tara. The 71 Baldwin rows that were Ready to Transfer on November 3 (all collections except Search; the list is in `qa/2026-11-03-baldwin-port-preflight.md`) go live in one batch. Tara reviews them in Intercom afterward. One article at a time, each with a diff and a yes in chat, was too slow for 71 articles that had already passed Notion review. This is a one-time exception to rung 3 of the write rules in the root `CLAUDE.md`. The rule is unchanged for everyone else and for every later port, including re-ports of these articles.
+
+Kept from rung 3:
+- one changelog line per article
+- a copy of every live body saved before it is replaced, in `qa/port-backups/2026-11/`
+- a mirror re-sync with a clean second run after each wave
+- a batch port report
+
+Replaced: the diff and confirmation in chat. Instead, Tara clicks the Intercom permission prompt for each update, and the report lists every article for her review.
+
+The batch ran in two waves. The 43 Baldwin-only articles went first, then the 28 shared with CRMLS or the default help center. The shared articles follow the October 23 Search rule: Baldwin screenshots stay and their labels are stripped.
+
 ## 2026-10-14: The legacy-platform sentence stays when a reviewer reads it as migration-only
 
 Decided by Tara on Create a Search with Filters. A reviewer proposed cutting "Members who came from a legacy platform may know a single Features field ..." as migration material. It stays: the standard keeps the legacy feature name because it is the word a member searches for, Baldwin members still think in legacy terms, and the sentence explains why separate feature filters do not combine as Or. It goes in its own short paragraph after the point it explains, so it does not interrupt that point.
