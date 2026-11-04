@@ -1,8 +1,176 @@
 {
- "last_run": "2026-11-04T21:35:23Z",
+ "last_run": "2026-11-04T21:58:54Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13903380": {
+   "file": "create-a-search-with-filters.md",
+   "updated_at": 1793829421,
+   "state": "published",
+   "title": "Create a Search with Filters",
+   "content_id": "16154782",
+   "body_sha1": "bb24b97fad5394b07fe0844eb1b2d9857e1ba981"
+  },
+  "13959293": {
+   "file": "create-a-quick-cma-report.md",
+   "updated_at": 1793759892,
+   "state": "published",
+   "title": "Create a Quick CMA Report",
+   "content_id": "16237971",
+   "body_sha1": "019bd57e84113a1a5e89c07a0d7d8ee740ae75fc"
+  },
+  "12816780": {
+   "file": "create-a-one-page-report.md",
+   "updated_at": 1793815565,
+   "state": "published",
+   "title": "Create a One Page Report",
+   "content_id": "14458010",
+   "body_sha1": "9eeb83c9df72ca117339e09a59bba96fa7310e56"
+  },
+  "12816757": {
+   "file": "create-a-full-report.md",
+   "updated_at": 1793815318,
+   "state": "published",
+   "title": "Create a Full Report",
+   "content_id": "14457971",
+   "body_sha1": "1de0ba365b28a2078d5155a855f502ef97d8aea2"
+  },
+  "14459729": {
+   "file": "what-changed-when-you-moved-to-perchwell.md",
+   "updated_at": 1793829056,
+   "state": "published",
+   "title": "What Changed When You Moved to Perchwell",
+   "content_id": "16905641",
+   "body_sha1": "35858afe18738ab08e111530d2c630f4095a5ddb"
+  },
+  "8955772": {
+   "file": "create-an-itinerary-report.md",
+   "updated_at": 1793762515,
+   "state": "published",
+   "title": "Create an Itinerary Report",
+   "content_id": "9099068",
+   "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
+  },
+  "8955781": {
+   "file": "create-a-media-report.md",
+   "updated_at": 1793759719,
+   "state": "published",
+   "title": "Create a Media Report",
+   "content_id": "9099077",
+   "body_sha1": "9b2f8057e615d29f5f0b8ecfd7307316aebc3c73"
+  },
+  "8955767": {
+   "file": "create-a-show-sheet.md",
+   "updated_at": 1793760012,
+   "state": "published",
+   "title": "Create a Show Sheet",
+   "content_id": "9099063",
+   "body_sha1": "3cd0a3c3a1859f0026168444331d972a9e2b3653"
+  },
+  "12896093": {
+   "file": "export-contacts-to-a-csv-file.md",
+   "updated_at": 1793816895,
+   "state": "published",
+   "title": "Export Contacts to a CSV File",
+   "content_id": "14593607",
+   "body_sha1": "4ba1a8ac58ffee555fcabd29b4cf7afd30ac1341"
+  },
+  "13602428": {
+   "file": "unsubscribe-from-saved-search-alert-emails.md",
+   "updated_at": 1793741505,
+   "state": "published",
+   "title": "Unsubscribe from Saved Search Alert Emails",
+   "content_id": "15664447",
+   "body_sha1": "6ff610fcd06efdd04e846f6ea28e5ea4c91aeb2d"
+  },
+  "11373895": {
+   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
+   "updated_at": 1793740422,
+   "state": "published",
+   "title": "Invite Clients to Perchwell and Resend Invitations",
+   "content_id": "12304882",
+   "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
+  },
+  "10732227": {
+   "file": "bulk-upload-contacts-from-a-csv-file.md",
+   "updated_at": 1793814969,
+   "state": "published",
+   "title": "Bulk Upload Contacts from a CSV File",
+   "content_id": "11478300",
+   "body_sha1": "4b0b124a2f184a320924c84d31d9f1919504d62f"
+  },
+  "12541968": {
+   "file": "message-clients-in-perchwell.md",
+   "updated_at": 1793818356,
+   "state": "published",
+   "title": "Message Clients in Perchwell",
+   "content_id": "14014573",
+   "body_sha1": "a297c34d62dbd6eb8c8efbddd16c536b5fd85bb1"
+  },
+  "11517245": {
+   "file": "filter-your-search-by-open-house-date.md",
+   "updated_at": 1793816934,
+   "state": "published",
+   "title": "Filter Your Search by Open House Date",
+   "content_id": "12507731",
+   "body_sha1": "3a26f75764be4fb3b45c4f7eb4de6aaaff0a2df9"
+  },
+  "8955646": {
+   "file": "manage-your-saved-searches.md",
+   "updated_at": 1793818173,
+   "state": "published",
+   "title": "Manage Your Saved Searches",
+   "content_id": "9098936",
+   "body_sha1": "401e231514ce527e41390f5096dcbc483ea9d9f1"
+  },
+  "11776740": {
+   "file": "export-listings-to-a-csv-file.md",
+   "updated_at": 1792791920,
+   "state": "published",
+   "title": "Export Listings to a CSV File",
+   "content_id": "12887977",
+   "body_sha1": "57bc1c58003195991ecbc1f7800e92daf4c81134"
+  },
+  "8955682": {
+   "file": "share-a-saved-search-with-a-client.md",
+   "updated_at": 1793821845,
+   "state": "published",
+   "title": "Share a Saved Search with a Client",
+   "content_id": "9098973",
+   "body_sha1": "040f972909919265a023a6b60d2e419689abe5c2"
+  },
+  "11112420": {
+   "file": "set-up-email-alerts-for-saved-searches.md",
+   "updated_at": 1793821272,
+   "state": "published",
+   "title": "Set Up Email Alerts for Saved Searches",
+   "content_id": "11986197",
+   "body_sha1": "18f0039c7dd82fdb83e2c62f0e7e93d835a24903"
+  },
+  "11002620": {
+   "file": "universal-search-bar.md",
+   "updated_at": 1793823349,
+   "state": "published",
+   "title": "Universal Search Bar",
+   "content_id": "11821319",
+   "body_sha1": "3b241a922417933b3d85aae4969c014298fcc9f4"
+  },
+  "11962073": {
+   "file": "customize-your-search-results-view.md",
+   "updated_at": 1793816656,
+   "state": "published",
+   "title": "Customize Your Search Results View",
+   "content_id": "13190641",
+   "body_sha1": "966b6faad7b6a1692222baaca60b3318552994a7"
+  },
+  "8955755": {
+   "file": "create-a-listing-report.md",
+   "updated_at": 1793759602,
+   "state": "published",
+   "title": "Create a Listing Report",
+   "content_id": "9099049",
+   "body_sha1": "eed6bf01ea2dc104a745291803d12d413504442a"
+  },
   "14057465": {
    "file": "update-your-brokerage-logo-and-colors.md",
    "updated_at": 1793828078,
@@ -26,22 +194,6 @@
    "title": "Write a Listing Description with AI Scribe",
    "content_id": "12922702",
    "body_sha1": "c003a987de1dc866a400c2d8959da7d5213499b6"
-  },
-  "14459729": {
-   "file": "what-changed-when-you-moved-to-perchwell.md",
-   "updated_at": 1793823955,
-   "state": "published",
-   "title": "What Changed When You Moved to Perchwell",
-   "content_id": "16905641",
-   "body_sha1": "a60b81c893d280de5ef59a65a8154606cb24fdb8"
-  },
-  "11002620": {
-   "file": "universal-search-bar.md",
-   "updated_at": 1793823349,
-   "state": "published",
-   "title": "Universal Search Bar",
-   "content_id": "11821319",
-   "body_sha1": "3b241a922417933b3d85aae4969c014298fcc9f4"
   },
   "14465546": {
    "file": "tags-page-overview.md",
@@ -83,14 +235,6 @@
    "content_id": "19552537",
    "body_sha1": "900a93cbfcf12b2ea61f2bd0d2411d1efb4770c0"
   },
-  "8955682": {
-   "file": "share-a-saved-search-with-a-client.md",
-   "updated_at": 1793821845,
-   "state": "published",
-   "title": "Share a Saved Search with a Client",
-   "content_id": "9098973",
-   "body_sha1": "040f972909919265a023a6b60d2e419689abe5c2"
-  },
   "15521779": {
    "file": "set-up-your-clients-in-perchwell.md",
    "updated_at": 1793821522,
@@ -98,14 +242,6 @@
    "title": "Set Up Your Clients in Perchwell",
    "content_id": "18497734",
    "body_sha1": "b5fcd672ae95d301b05183e00f46735df5b2f48a"
-  },
-  "11112420": {
-   "file": "set-up-email-alerts-for-saved-searches.md",
-   "updated_at": 1793821272,
-   "state": "published",
-   "title": "Set Up Email Alerts for Saved Searches",
-   "content_id": "11986197",
-   "body_sha1": "18f0039c7dd82fdb83e2c62f0e7e93d835a24903"
   },
   "13903243": {
    "file": "search-page-overview.md",
@@ -178,22 +314,6 @@
    "title": "Message Clients in the Perchwell Mobile App",
    "content_id": "17381504",
    "body_sha1": "83bd8f8ff7f89a44b7123756eeacb59732817359"
-  },
-  "12541968": {
-   "file": "message-clients-in-perchwell.md",
-   "updated_at": 1793818356,
-   "state": "published",
-   "title": "Message Clients in Perchwell",
-   "content_id": "14014573",
-   "body_sha1": "a297c34d62dbd6eb8c8efbddd16c536b5fd85bb1"
-  },
-  "8955646": {
-   "file": "manage-your-saved-searches.md",
-   "updated_at": 1793818173,
-   "state": "published",
-   "title": "Manage Your Saved Searches",
-   "content_id": "9098936",
-   "body_sha1": "401e231514ce527e41390f5096dcbc483ea9d9f1"
   },
   "15201140": {
    "file": "manage-people-faq.md",
@@ -291,22 +411,6 @@
    "content_id": "16183571",
    "body_sha1": "f128d8d000987278e34f93bf113a7653cbb77356"
   },
-  "11517245": {
-   "file": "filter-your-search-by-open-house-date.md",
-   "updated_at": 1793816934,
-   "state": "published",
-   "title": "Filter Your Search by Open House Date",
-   "content_id": "12507731",
-   "body_sha1": "3a26f75764be4fb3b45c4f7eb4de6aaaff0a2df9"
-  },
-  "12896093": {
-   "file": "export-contacts-to-a-csv-file.md",
-   "updated_at": 1793816895,
-   "state": "published",
-   "title": "Export Contacts to a CSV File",
-   "content_id": "14593607",
-   "body_sha1": "4ba1a8ac58ffee555fcabd29b4cf7afd30ac1341"
-  },
   "16864886": {
    "file": "delete-a-draft-listing.md",
    "updated_at": 1793816843,
@@ -330,14 +434,6 @@
    "title": "Dashboard FAQ",
    "content_id": "17993546",
    "body_sha1": "5a07939f367a0ea90f82094555381dbcf1b85164"
-  },
-  "11962073": {
-   "file": "customize-your-search-results-view.md",
-   "updated_at": 1793816656,
-   "state": "published",
-   "title": "Customize Your Search Results View",
-   "content_id": "13190641",
-   "body_sha1": "966b6faad7b6a1692222baaca60b3318552994a7"
   },
   "14790755": {
    "file": "create-and-manage-your-contacts-in-perchwell.md",
@@ -363,30 +459,6 @@
    "content_id": "19551948",
    "body_sha1": "6a514be7dcf50b4495dbba78a94ed3b3904375d7"
   },
-  "13903380": {
-   "file": "create-a-search-with-filters.md",
-   "updated_at": 1793815638,
-   "state": "published",
-   "title": "Create a Search with Filters",
-   "content_id": "16154782",
-   "body_sha1": "872c76995118961951088ec1f2b9793c65f8daaf"
-  },
-  "12816780": {
-   "file": "create-a-one-page-report.md",
-   "updated_at": 1793815565,
-   "state": "published",
-   "title": "Create a One Page Report",
-   "content_id": "14458010",
-   "body_sha1": "9eeb83c9df72ca117339e09a59bba96fa7310e56"
-  },
-  "12816757": {
-   "file": "create-a-full-report.md",
-   "updated_at": 1793815318,
-   "state": "published",
-   "title": "Create a Full Report",
-   "content_id": "14457971",
-   "body_sha1": "1de0ba365b28a2078d5155a855f502ef97d8aea2"
-  },
   "13975194": {
    "file": "contacts-page-overview.md",
    "updated_at": 1793815162,
@@ -402,14 +474,6 @@
    "title": "Client Collaboration FAQ",
    "content_id": "17971183",
    "body_sha1": "d3e4c94a4ee48e1a530b5ec2869b614a7100f62e"
-  },
-  "10732227": {
-   "file": "bulk-upload-contacts-from-a-csv-file.md",
-   "updated_at": 1793814969,
-   "state": "published",
-   "title": "Bulk Upload Contacts from a CSV File",
-   "content_id": "11478300",
-   "body_sha1": "4b0b124a2f184a320924c84d31d9f1919504d62f"
   },
   "16221347": {
    "file": "add-listings-to-a-tag.md",
@@ -515,46 +579,6 @@
    "content_id": "16398662",
    "body_sha1": "fadc7cb61a23718a1f810163df784e0ff1f786d8"
   },
-  "8955772": {
-   "file": "create-an-itinerary-report.md",
-   "updated_at": 1793762515,
-   "state": "published",
-   "title": "Create an Itinerary Report",
-   "content_id": "9099068",
-   "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
-  },
-  "8955767": {
-   "file": "create-a-show-sheet.md",
-   "updated_at": 1793760012,
-   "state": "published",
-   "title": "Create a Show Sheet",
-   "content_id": "9099063",
-   "body_sha1": "3cd0a3c3a1859f0026168444331d972a9e2b3653"
-  },
-  "13959293": {
-   "file": "create-a-quick-cma-report.md",
-   "updated_at": 1793759892,
-   "state": "published",
-   "title": "Create a Quick CMA Report",
-   "content_id": "16237971",
-   "body_sha1": "019bd57e84113a1a5e89c07a0d7d8ee740ae75fc"
-  },
-  "8955781": {
-   "file": "create-a-media-report.md",
-   "updated_at": 1793759719,
-   "state": "published",
-   "title": "Create a Media Report",
-   "content_id": "9099077",
-   "body_sha1": "9b2f8057e615d29f5f0b8ecfd7307316aebc3c73"
-  },
-  "8955755": {
-   "file": "create-a-listing-report.md",
-   "updated_at": 1793759602,
-   "state": "published",
-   "title": "Create a Listing Report",
-   "content_id": "9099049",
-   "body_sha1": "eed6bf01ea2dc104a745291803d12d413504442a"
-  },
   "13903183": {
    "file": "access-integrations-from-the-dashboard-or-a-listing.md",
    "updated_at": 1793742855,
@@ -570,22 +594,6 @@
    "title": "Customize Your Dashboard",
    "content_id": "15696089",
    "body_sha1": "7f26c669bb6c0e75b07d1297c1f69161960b4b7d"
-  },
-  "13602428": {
-   "file": "unsubscribe-from-saved-search-alert-emails.md",
-   "updated_at": 1793741505,
-   "state": "published",
-   "title": "Unsubscribe from Saved Search Alert Emails",
-   "content_id": "15664447",
-   "body_sha1": "6ff610fcd06efdd04e846f6ea28e5ea4c91aeb2d"
-  },
-  "11373895": {
-   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
-   "updated_at": 1793740422,
-   "state": "published",
-   "title": "Invite Clients to Perchwell and Resend Invitations",
-   "content_id": "12304882",
-   "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
   },
   "15280170": {
    "file": "log-in-to-the-perchwell-mobile-app.md",
@@ -738,14 +746,6 @@
    "title": "Filter Your Search by Status and Price Changes",
    "content_id": "11832103",
    "body_sha1": "df90a7430d1cd0590058e2b3f490aa4e39473a2c"
-  },
-  "11776740": {
-   "file": "export-listings-to-a-csv-file.md",
-   "updated_at": 1792791920,
-   "state": "published",
-   "title": "Export Listings to a CSV File",
-   "content_id": "12887977",
-   "body_sha1": "57bc1c58003195991ecbc1f7800e92daf4c81134"
   },
   "16302253": {
    "file": "print-or-save-search-results-as-a-pdf.md",

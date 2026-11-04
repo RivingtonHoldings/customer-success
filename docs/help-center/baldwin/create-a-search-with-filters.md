@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2026-03-02T04:56:55Z
-updated_at: 2026-11-04T18:07:18Z
+updated_at: 2026-11-04T21:57:01Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T18:42:27Z
+synced_at: 2026-11-04T21:58:54Z
 ---
 
 # Create a Search with Filters
@@ -32,7 +32,7 @@ If you have a Template Search, Start New applies its saved filters, columns, and
 
 You do not need to name a search until you save it. [Manage Your Saved Searches](http://support.perchwell.com/baldwin/en/articles/8955646-manage-your-saved-searches) explains how to reopen, rename, and update your searches.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880232/ed26b826e50422bcbeb3138d14db/upload_2366083213396914665.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880232/ed26b826e50422bcbeb3138d14db/upload_2366083213396914665.png?expires=1793819700&signature=630e8c9f776f2bade57521b001e7a45c4afa8a89ba62623cd0cb95a3c2d4a39a&req=dichF8F2nYNcW%2FMW1HO4zbvXQ7Q8gobOep2CD%2F8jaOmQ7Mh9KlHWiTxngu2W%0AcKXZuEK5YlsV%2BD0IiBU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880232/ed26b826e50422bcbeb3138d14db/upload_2366083213396914665.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880232/ed26b826e50422bcbeb3138d14db/upload_2366083213396914665.png?expires=1793831400&signature=975c626eac0953c4ad3aeb74090c31885be88790836e2b295cc4f87a1bf1af1e&req=dichF8F2nYNcW%2FMW1HO4zbvXQ7Q8gI7Nep2CFfslYdMddkcEQx%2FHqXywGgdH%0A8dxV%0A)
 
 # Filter by beds, baths, price, and more with the Quick Filters
 
@@ -57,7 +57,7 @@ Baths opens on Type for a new search. When you reopen a saved search, Baths open
 
 Your search results update to show listings with at least that number of bedrooms or bathrooms. To clear the filter, click the selected number again or click the circular arrows icon.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png?expires=1793819700&signature=bdd29b555f507eef5c7ff4bb0e788cd11ed3950bcdc5aeae3b0dadbcb383b8bd&req=dichF8F2nYNbUPMW1HO4zQwtR1E%2BiDtFnFF0vzlsZkO8Vrxvk1rJgDDN5ynj%0AHbtg21XEcNCdJHyq8CU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png?expires=1793831400&signature=27eb38c82a399a3ff98017db14c1c2ce14a3d2b23a30affafd23d1bcd2eedc25&req=dichF8F2nYNbUPMW1HO4zQwtR1E%2BijNGnFF0pT1qb3lSUq%2Fpx%2BOrB6tioN1A%0AOThV%0A)
 
 ## Match an exact number of bedrooms or bathrooms
 
@@ -70,7 +70,7 @@ Match an exact number of bedrooms or bathrooms, rather than a minimum, with Exac
 
 Your search results update to show listings with the exact numbers you selected. For example, select 2 and 3 under Beds to show listings with two or three bedrooms. To remove one number, click it again. To clear them all, click the circular arrows icon.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png?expires=1793819700&signature=bdd29b555f507eef5c7ff4bb0e788cd11ed3950bcdc5aeae3b0dadbcb383b8bd&req=dichF8F2nYNbUPMW1HO4zQwtR1E%2BiDtFnFF0vzlsZkO8Vrxvk1rJgDDN5ynj%0AHbtg21XEcNCdJHyq8CU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880249/8ce5d957fbca2758765fc76c4063/upload_5554315256904235031.png?expires=1793831400&signature=27eb38c82a399a3ff98017db14c1c2ce14a3d2b23a30affafd23d1bcd2eedc25&req=dichF8F2nYNbUPMW1HO4zQwtR1E%2BijNGnFF0pT1qb3lSUq%2Fpx%2BOrB6tioN1A%0AOThV%0A)
 
 ## Set a price, square footage, or year built range
 
@@ -85,7 +85,7 @@ Your search results update to show listings within the range. To clear both fiel
 
 > **Tip:** In the Price fields, enter k for thousand or m for million, such as 450k or 2m. Both uppercase and lowercase letters work.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880266/6073c82afbfb06b8f1860736032f/upload_5650106900844120775.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880266/6073c82afbfb06b8f1860736032f/upload_5650106900844120775.png?expires=1793819700&signature=767d1930c94901e818d991e99772177c5bc38e06d4aeaa76293d35bdc5700624&req=dichF8F2nYNZX%2FMW1HO4zU1HJli93OEmoy1jnLoWPfi1tPkj3NMgoilYZyB7%0AUngxiouADopUpnKRBy4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880266/6073c82afbfb06b8f1860736032f/upload_5650106900844120775.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880266/6073c82afbfb06b8f1860736032f/upload_5650106900844120775.png?expires=1793831400&signature=56e66e66df3c577e48b706e3b7f4e3e8db76f54cdfb0df3bd293cfc28b63861f&req=dichF8F2nYNZX%2FMW1HO4zU1HJli93ukloy1jhr4QNMISnqOmFPmRt2qduiHT%0AieDQ%0A)
 
 # Find more filters on the Filters tab
 
@@ -98,11 +98,9 @@ Find filters beyond the Quick Filters on the Filters tab of the Search page. Fil
 
 Your search results update to match the filter, and the filter appears under Applied Filters at the top of the Filters tab.
 
-[Filter Your Search by Status and Price Changes](http://support.perchwell.com/baldwin/en/articles/11010696-understand-status-and-activity-filter) explains how to search by listing status or activity within a timeframe. [Filter Your Search by Keyword](http://support.perchwell.com/baldwin/en/articles/16053548-filter-your-search-with-keywords) covers finding
+[Filter Your Search by Status and Price Changes](http://support.perchwell.com/baldwin/en/articles/11010696-understand-status-and-activity-filter) explains how to search by listing status or activity within a timeframe. [Filter Your Search by Keyword](http://support.perchwell.com/baldwin/en/articles/16053548-filter-your-search-with-keywords) covers finding words or phrases in listing descriptions and addresses.
 
-words or phrases in listing descriptions and addresses.
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880467/41193c6fe4ef01e3a69f9a734b89/upload_10580899289530550215.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880467/41193c6fe4ef01e3a69f9a734b89/upload_10580899289530550215.png?expires=1793819700&signature=b5db0838e355749d72b3aa24a2da1482cf356d8330cc9d8f42e7e444f477eff6&req=dichF8F2nYVZXvMW1HO4zaX4mZNXxY6eXiFFHZkj11%2BIxPszh%2BgYIsMcUTvQ%0Al3SY%2Fx0FvLJrD28UlI4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880467/41193c6fe4ef01e3a69f9a734b89/upload_10580899289530550215.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880467/41193c6fe4ef01e3a69f9a734b89/upload_10580899289530550215.png?expires=1793831400&signature=97076c1d40bb12f732bfb21620b4d1e1333ee4cc4efa7db08b4f534d2b678bfe&req=dichF8F2nYVZXvMW1HO4zaX4mZNXx4adXiFFB50l3mUmXnATwlN3Y%2F7qBLon%0Ayxma%0A)
 
 # Include or exclude filter values with Or, And, or Not
 
@@ -117,7 +115,7 @@ Or, And, and Not apply only to values within the same filter. When you set multi
 
 Members who came from a legacy platform may know a single Features field that matched any selected feature. In Perchwell, each feature category, such as Lot Description, has its own filter and its own dropdown.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880495/a605159ddb65dacebfd1d3aa8364/upload_13240834878562363301.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880495/a605159ddb65dacebfd1d3aa8364/upload_13240834878562363301.png?expires=1793819700&signature=e2bd2519c45af35ede773124e57ace8882622173a308c824483436824f50c2d8&req=dichF8F2nYVWXPMW1HO4zb6foE6fSvkdmV%2BLmlpwQsdHOr0FZMFcLX65jqZk%0AReHSWKzBN%2B0CSPS7%2Fag%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880495/a605159ddb65dacebfd1d3aa8364/upload_13240834878562363301.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880495/a605159ddb65dacebfd1d3aa8364/upload_13240834878562363301.png?expires=1793831400&signature=2c3ce16399bd9a2dbeb7a595a1b4121bb006d3580fb14dd12e13606264127149&req=dichF8F2nYVWXPMW1HO4zb6foE6fSPEemV%2BLgF52S%2F0q0P1%2Bs0Bmm5Cy3q7y%0Asaq8%0A)
 
 # Draw an area on the search map
 
@@ -131,7 +129,7 @@ Click a column header, such as Price, to sort in ascending order. Click it again
 
 A green numbered badge shows each column's place in the sort order, with an up arrow for ascending or a down arrow for descending. The sort order is saved with the search when you click Save.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880525/00f95cd41938d827caf256b74c13/upload_9697602424772342634.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880525/00f95cd41938d827caf256b74c13/upload_9697602424772342634.png?expires=1793819700&signature=fb7c8d0c105a86c7f550e2cddcfd61c667c1fa4bed436a7d868c392e6edc0046&req=dichF8F2nYRdXPMW1HO4zaoegB5mgySmMkXerWDekuWc0Bccx41jINnQS3yM%0AyoWjfqx0tBKCVcxlrw8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880525/00f95cd41938d827caf256b74c13/upload_9697602424772342634.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761880525/00f95cd41938d827caf256b74c13/upload_9697602424772342634.png?expires=1793831400&signature=cd96b503d947e6119eb1046b308c82c6ae9ef77ec54b1533b20a9a4fab4d4437&req=dichF8F2nYRdXPMW1HO4zaoegB5mgSylMkXet2TYm9%2F%2By%2FrFE3o6sW3uj8%2Br%0AegIF%0A)
 
 ## Change the priority of sorted columns
 
