@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T21:56:18Z
-updated_at: 2026-11-04T22:08:23Z
+updated_at: 2026-11-04T22:47:25Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T22:49:35Z
 ---
 
 # Search Page Overview
@@ -109,7 +109,7 @@ From the Results tab, click the Analytics icon next to View. Add charts to Searc
 
 Drag the handle on the left side of a chart card to move it to a different position.
 
-> **Note:** Search Analytics is different from the Analytics page in the top navigation. Search Analytics creates charts from the listings in your current search results. The Analytics page runs standalone reports on agents, offices, and market activity. [Analytics Page Overview](https://support.perchwell.com/baldwin/en/articles/13623210-analytics-page-overview) covers the Analytics page.
+> **Note:** Search Analytics is different from the Analytics page in the top navigation. Search Analytics creates charts from the listings in your current search results. The Analytics page runs standalone reports on agents, offices, and market activity. [Analytics Page Overview](https://support.perchwell.com/crmls/en/articles/18234722-analytics-page-overview) covers the Analytics page.
 
 [Analytics FAQ](https://support.perchwell.com/baldwin/en/articles/15200594-analytics-faq) covers how many charts can be added to one search and whether Search Analytics charts are kept when you save a search. [Share and Export Analytics Charts](https://support.perchwell.com/crmls/en/articles/8955876-share-and-export-analytics-charts) covers emailing charts and exporting them to PDF.
 

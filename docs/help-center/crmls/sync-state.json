@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-04T22:41:54Z",
+ "last_run": "2026-11-04T22:49:35Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18234118": {
+   "file": "search-page-overview.md",
+   "updated_at": 1793832445,
+   "state": "draft",
+   "title": "Search Page Overview",
+   "content_id": "23617801",
+   "body_sha1": "7a9b2125d2df8926affe169bf96c8bc764a4e37b"
+  },
+  "18234722": {
+   "file": "analytics-page-overview.md",
+   "updated_at": 1793832414,
+   "state": "draft",
+   "title": "Analytics Page Overview",
+   "content_id": "23618507",
+   "body_sha1": "1f1c38c2a6253bc94fd5691a2b1f84ab21a608c7"
+  },
   "18234697": {
    "file": "update-your-brokerage-logo-and-colors-18234697.md",
    "updated_at": 1793832022,
@@ -82,14 +98,6 @@
    "title": "Create a Template Search",
    "content_id": "23617672",
    "body_sha1": "66a46e5af34240ce692dea80a1f9605d143046d0"
-  },
-  "18234118": {
-   "file": "search-page-overview.md",
-   "updated_at": 1793830103,
-   "state": "draft",
-   "title": "Search Page Overview",
-   "content_id": "23617801",
-   "body_sha1": "5a28f39bbe97f0ee048975a3319950849fc21249"
   },
   "18232664": {
    "file": "view-shared-saved-searches-18232664.md",

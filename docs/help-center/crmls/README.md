@@ -1,15 +1,16 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:41:54Z. Articles: 123 (56 published, 67 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T22:49:35Z. Articles: 124 (56 published, 68 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
 ## Analytics
 
-Collection ID 16867014. 4 articles.
+Collection ID 16867014. 5 articles.
 
 - [Adding a New Chart in Analytics](adding-a-new-chart-in-analytics.md) (draft), updated 2026-07-02
 - [Analytics Overview](analytics-overview.md), updated 2026-07-02
+- [Analytics Page Overview](analytics-page-overview.md) (draft), updated 2026-11-04
 - [Analytics Tab Walkthrough](analytics-tab-walkthrough.md), updated 2026-10-06
 - [Share and Export Analytics Charts](share-and-export-analytics-charts.md), updated 2026-07-02
 
