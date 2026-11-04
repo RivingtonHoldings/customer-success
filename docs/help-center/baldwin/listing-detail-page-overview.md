@@ -2,7 +2,7 @@
 intercom_id: "14074994"
 content_id: "16398662"
 title: "Listing Detail Page Overview"
-description: "In this article, you will learn how to navigate the Listing Detail page, use the Listing Summary and Actions button, and find key listing information like photos, location tools, and price history."
+description: "Open listing photos, documents, price history, and mortgage estimates on the Listing Detail Page, and share or edit a listing from Actions."
 url: "http://support.perchwell.com/en/articles/14074994-listing-detail-page-overview"
 help_center: baldwin
 help_center_id: 4755399
@@ -10,176 +10,142 @@ collection: "Listing Maintenance"
 collection_ids: [17797908]
 collections: ["Listing Maintenance"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-03-16T04:27:47Z
-updated_at: 2026-09-10T22:56:01Z
+updated_at: 2026-11-04T03:56:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-14T14:26:04Z
+synced_at: 2026-11-04T04:00:52Z
 ---
 
 # Listing Detail Page Overview
 
-# Listing Detail page overview
+Use this article to understand the different sections of the Listing Detail Page, share, create a report for, or edit a listing from the Actions menu, open the photo gallery, contact the listing agent, report incorrect listing information, and review agent-only details, sale data, property details, the map, documents, price history, and mortgage estimates.
 
-Use the **Listing Detail** page to review a listing, share it with clients, and create reports.
-- Review MLS listing data (price, beds, baths, and open house details)
-- Browse photos, floor plans, and videos
-- Generate client-ready PDFs and shareable links
-- Use tools like **Auto CMA**, **Add Tag**, and **Similar Listings**
-- Launch integrated tools like **RPR**, **ShowingTime**, and **Down Payment Resource**
+[Embedded video](https://www.loom.com/embed/c91e7b30d5204748bf0e96868380cba3)
 
-[Embedded video](https://demo.arcade.software/Qxza2lPVECHzhJvVNxPz?embed)
+# Jump between sections with the Listing Detail Page tabs
 
-## Listing Header
+Click a tab below the header to jump to that section of the Listing Detail Page. The header above the tabs shows the listing's price, address, and key facts such as beds, baths, square footage, and acreage.
 
-The **Listing Header** at the top of the page highlights essential property details.
-- Full listing address
-- Bedrooms
-- Bathrooms
-- Square footage and price per square foot
-- Acreage
-
-## Listing Tabs Navigation
-
-Use the Listing Tabs underneath the **Listing Header **to quickly navigate to certain categories of the property.
-​
-
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567186463/1b389452bcb0764e360f5aa16c79/Screenshot+2026-07-26+at+5_03_48%E2%80%AFPM.png?expires=1789398000&signature=d274ca7a7ec446c512c497403471455d4bbbbd87174db8c2b8303d17f7a8cd90&req=diUhEch2m4VZWvMW1HO4zUsj1kjO38%2B1HHgXmG%2BZD3ugThs1XWkuxj6SVsTC%0A1PTbAZfu0rzJU39ecjI%3D%0A)
-
-You can quickly navigate to these following Listing categories:
-- ​Overview
-- ​Listing Details
-- ​Property Details
-- ​Features
-- ​Map
+The tabs run in this order:
+- Overview
+- Listing Details
+- Property Details
 - Rooms
-- Documents
+- Features
+- Map
 - Auction Information
+- Documents
 - History
 - Mortgage & Tax
 
-The Documents Section hosts any associated documents tied to a Listing. Please note that if a Listing does not have any associated documents, there will be no Documents section.
-1. The Documents are located under the “Documents” section of a Listing. Click a Listing to Open up the full Listing Details Page.
-2. Then, scroll down to the Documents section of the Listing, or simply click “Documents” right under the address near the top of the screen.
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2567188652/e944cc973d2cb024602fecdcbd73/Screenshot+2026-07-26+at+5_05_36%E2%80%AFPM.png?expires=1789398000&signature=64f7093ca1d172c09f53cef1054801905a1f7b8759956a8a88bde4d79a67aac1&req=diUhEch2lYdaW%2FMW1HO4zeqx7fBISixQm9JycjkU8Gv7qoQKqAarwnUCoR%2Fh%0Ae9Xe%0A) You will be able to add Documents to your Listing by editing the Listing. There will be a section for you to upload any relevant documents associated with the Listing.
-​
+Auction Information and Documents appear only when the listing has auction details or attached documents.
 
-## Listing Summary navigation
+Click the arrow next to a section's name to collapse or expand that section. A section you collapse is also hidden in a Full Report printed from the Listing Detail Page.
 
-The Listing Summary on the right side helps you move through the page faster.
-- Jump to sections like **Listing Information**, **Location**, and **History**
-- Open tools in the **Action Panel**
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251051/d5176e8d8600a1e3297692a4740c/upload_8681842070712672800.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251051/d5176e8d8600a1e3297692a4740c/upload_8681842070712672800.png?expires=1793766600&signature=637ffe4eca82e38e5b0782e8659301c25d391f4a31444c371e41a57fe3520e31&req=dicvEMt7nIFaWPMW1HO4zdMUcDvh1qBw8WVc8UZppbbBljFK3VS95%2FHc2My3%0A4uBD%0A)
 
-# Action Panel tools
+# Share, create a report for, or edit a listing from the Actions menu
 
-Use the **Actions button **on the right side to share listings, create outputs, and open integrations.
+Click Actions in the upper right of the Listing Detail Page to share, create a report for, or edit the listing. The Actions menu groups its options under Share, Create, and Edit:
+- Contact agent: Contact the Listing Agent from the “Contact agent” option under Actions.
+- Share: Open the Share window to add the listing to a Tag or share a public link by email, text message, or social media.
+- Send as in-app message: Send the listing to an invited client in Messages.
+- Share via Text: Text the listing to a contact.
+- Report: Choose a report type, such as a Quick CMA or a Show Sheet, in the report window.
+- Print one page report: Create a One Page Report for this listing.
+- Print full report: Print the entire Listing Detail Page as a Full Report.
+- CMA Subject Property: Search for comparable listings to build a CMA (Comparative Market Analysis) with this listing as the subject property.
+- Edit this listing: Open the listing in Add/Edit. This option appears on your own listings only.
+- Integrations: Open an integration tool for this listing, such as ShowingTime or RPR.
 
-## Sharing, tags, and reports
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251057/158eace1e5df7919e87abc88a4fc/upload_1743880167674725811.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251057/158eace1e5df7919e87abc88a4fc/upload_1743880167674725811.png?expires=1793766600&signature=0b8b80b96902d9341d34ca7ebcd0630e4ba762250caaeba5d013a4dde94b3a0c&req=dicvEMt7nIFaXvMW1HO4zTyDWqMS9cqN9lwHC%2B%2F8S5tWC9%2FjGa3Mpj%2BLuQcN%0Awahe%0A)
 
-Use these tools from the **Actions button**:
-- **Contact Agent: **Contact the listing agent
-- **Share:**
-  - Click **Share**, then **Email** to share the Listing with a client via an Email.
-  - Click **Share**, then **Text** to text the listing to a contact. Edit the message before you send it. The listing link is added for you.
-  - Click **Share**, then **Tags** to add the Listing to an existing **Tag **or create a new **Tag **and add the Listing to the new** Tag.**
-  - Click **Share**, then **Public Link **to send the Listing to your contact via a Public link that does not require a Perchwell account to access.
-- **Print: **Print the listing detail page
-- **One Pager: **Add the listing to a one-page report
-- **Add to Report:**Start a report from this listing​
-- **Auto CMA: **Generate a CMA using this listing as the subject
-- **Edit Listing: **Open the listing form to edit (listing agent only)
+For more information:
+- [Share Listings with Clients from Search](https://support.perchwell.com/baldwin/en/articles/13903326-share-listings-with-clients-from-search) covers the Share window, public links, email, and text messages.
+- [Message Clients in Perchwell](http://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how to send listings to invited clients in Messages.
+- [Create a One Page Report](http://support.perchwell.com/baldwin/en/articles/12816780-create-one-page-reports) covers the agent and client versions of a One Page Report.
+- [Create a Full Report](http://support.perchwell.com/baldwin/en/articles/12816757-create-and-share-full-reports) covers printing and sharing a Full Report.
+- [Create a CMA with a Subject Property](http://support.perchwell.com/baldwin/en/articles/15216797-create-a-cma-with-a-subject-property) walks through a comps search for a subject property.
+- [Add and Edit Listings](http://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) covers editing a listing in Add/Edit.
+- [Access Integrations from the Dashboard or a Listing](https://support.perchwell.com/baldwin/en/articles/13903183-access-integrations-from-the-dashboard-or-a-listing) lists the integration tools available to your MLS.
 
-## Integrations
+# Open the photo gallery on the Listing Detail Page
 
-Use **Integrations** to open connected tools.
-- **RPR**
-- **ShowingTime**
-- **Sentrilock**
-- **InfoSparks**
-- **CRS integrations**
-- **Down Payment Resource**
+Click the grid icon in the lower right of the main photo to open the listing's photo gallery. The number on the icon is how many photos the listing has. The Listing Detail Page also shows floor plans and virtual tours when the listing has them.
 
-# Listing detail tiles
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251064/52f03372922176fa57c1860f2b13/upload_14603525177312928723.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251064/52f03372922176fa57c1860f2b13/upload_14603525177312928723.png?expires=1793766600&signature=9869c2b06eba2090bdb45642d551b380049f7e697b43963aa0308405bbfc46e5&req=dicvEMt7nIFZXfMW1HO4zSkrKXOxRDhLQeNLhVGVkjHRq1qIe3d2E7bWJpUD%0AHrHd%0A)
 
-Listing data appears in collapsible tiles. Expand a tile to review details, or collapse it to keep the page focused.
+# Contact the listing agent from the Listing Agent card
 
-## Agent-only details
+Email or call the listing agent, or open their profile, from the Listing Agent card, below the Listing Description on the Listing Detail Page:
+- Email: Email the listing agent.
+- Preferred, Cell, or Office: Call the listing agent at that number.
+- Agent or Office: Open the listing agent's profile or their office's profile.
 
-This section is available to registered agents only and can include:
-- Private remarks
-- Listing price and key dates
-- Concessions (when available)
-- Showing details
-- Open house remarks (see Showings below)
-- Listing agent contact information
+# Report incorrect listing information from Agent Tools
 
-## Showings and open house remarks
+Report incorrect listing information to the MLS from Agent Tools on the Listing Detail Page. Agent Tools sits below the Listing Description and the Listing Agent card. Click CRS Listing Integrity to open the Baldwin County Association of REALTORS (BCAR) website, where you report the listing.
 
-The **Showings** card, under **Listing Agent**, lists the listing's upcoming open houses with the date, time, and type (**Public** or **Agent Only**).
-- Click **See All** to open the **Upcoming Showings** dialog with every scheduled open house
-- Each open house with remarks shows a **Private Remarks** block. Click **Read more** to expand a long remark
+Agent Tools also holds integration tools for the listing, such as ShowingTime, CRS reports, InfoSparks, and RPR.
 
-> ⚠️ **Note**: Private remarks on an open house are visible to agents only. Clients and contacts do not see them on a shared or public listing page.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251072/99bbc11bfeaf2dc27f820c784a1a/upload_12228286267152856253.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251072/99bbc11bfeaf2dc27f820c784a1a/upload_12228286267152856253.png?expires=1793766600&signature=0c2534a28152407116e8874f442991533b20c980c0686ffc9cc0e41c8738ae6e&req=dicvEMt7nIFYW%2FMW1HO4zTyyUyTv0E5g7W7NU6%2BarfthJxShfzSt0cvGGJbA%0Axpex%0A)
 
-# Sale Data
+# Review agent-only details and sale data in Listing Details
 
-For Closed Listings, you will be able to find details on the Seller Agent, as well as any additional Closing information. You will be able to find the following information under the **Sale Data:**
-- **Selling Team**
-- **Contract Date**
-- **Pending date**
-- **Close date**
-- **Seller contributions/concessions**
-​[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2613255033/853124bfe46a7d2917c31b835eb3/Screenshot%2B2026-08-17%2Bat%2B9_01_29-E2-80-AFAM.png?expires=1789398000&signature=9e56989637aba8f393874ba9b0d9f42aebff56fd1410708ddafa65da84ca04ec&req=diYmFct7mIFcWvMW1HO4ze2xlwYYBVDeQUpoiXs339G7b7G9ZLojS%2BUcbKGh%0AujEx%0A)
-- **Closed financing**
+Click Listing Details in the Listing Detail Page tabs to review agent-facing details, such as Agent remarks and Showing requirements. Listing Details carries an Agent Only label, which means clients and anyone viewing the listing from a public link do not see it.
 
-## Property details (interior, exterior, lot)
+## Sale Data for closed listings
 
-Use these tiles to review the property layout and site details.
-- **Interior**
-  - Review levels, rooms, appliances, and living area information
-- **Exterior**
-  - Review structure type, pool features, fencing, parking, and architectural details
-- **Land & Lot**
-  - Review MLS area, county, tax ID, year built, lot features, zoning, and more
-- **Tax** **Information**
-  - Find information about a property's tax information, such as Tax PPIN #, Tax legal description, and Property taxes.
+Review the closing details of a closed listing in the Sale Data section of Listing Details:
+- Selling team
+- Contract date
+- Pending date
+- Close date
+- Seller contributions
+- Closed financing
 
-# Location tools
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251084/1d6f4eb0bdd503c1daf0dd35bd1a/upload_14678134225301148716.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251084/1d6f4eb0bdd503c1daf0dd35bd1a/upload_14678134225301148716.png?expires=1793766600&signature=2e19765de57ac6793d2febac36df3ac27e85b42cd07733212bc2c9a724e526dc&req=dicvEMt7nIFXXfMW1HO4zT8%2Bum2arZ7nv3CRHKh%2FSiprphapc1MDx420ysao%0A6zTV%0A)
 
-Use **Location** to explore the map and nearby context.
-- Click **Map Layers** to switch views (default, satellite, terrain)
-- Click **Street View** to view street-level imagery
-- Click **Directions** to open Google Maps directions
+# Review tax, HOA, school, and lot details in Property Details
 
-# History (price and status changes)
+Click Property Details in the Listing Detail Page tabs to review the property's facts in one section. Property Details covers details such as structure style, rental rules, the parcel ID and property taxes, homeowners association (HOA) fees and management contacts, schools, flood zone, and lot size.
 
-Use **History** to track updates made while the listing is on the market.
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251097/c46fc1e3d8da2d6b1614968c4088/upload_15730774993978759504.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251097/c46fc1e3d8da2d6b1614968c4088/upload_15730774993978759504.png?expires=1793766600&signature=7b121ef08da6a3d2f00cde8d781594766de2706a345774c4c318e6139f5f2ff0&req=dicvEMt7nIFWXvMW1HO4zapfBHFiw7vheHg5OkKyvFhW4xwFLZc9alVH5bdN%0Al5OH%0A)
 
-## History views
-- **Listing History Details**
-  - Review major status and price changes
-- **Change Log Details**
-  - Review a detailed log of changes
-  - Each entry includes:
-    1. **Date**
-    2. **Type**
-    3. **Price**
-    4. **DOM** (Days on Market)
-    5. **Changed By**
+# Check the listing's location on the Map
 
-# Mortgage and Taxes
+Click Map in the Listing Detail Page tabs to view the listing's location on a map:
+- Map layers: Select Roadmap, Satellite, or Terrain to change the map type.
+- Street View: View street-level imagery around the listing.
+- Directions: Open Google Maps directions to the listing in a new browser tab.
+- Click on the pin in Maps to access the website link to CRS Tax information.
 
-Use **Mortgage & Taxes** to estimate affordability.
-- Review **Monthly** and **Lifetime** payment calculations
-- Adjust inputs like down payment, interest rate, sale price, and loan term
+# View documents attached to a listing
 
-# Reporting a Listing
+Click Documents in the Listing Detail Page tabs to view the documents the listing agent attached to the listing. To attach documents to your own listing, edit it in Add/Edit; [Add and Edit Listings](http://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) explains how.
 
-If you notice a Listing contains incorrect information, and would like to report it to the MLS Staff, please use the **CRS Listing Integrity button**, which is located in the **Agent Tools** section on the **Listing Details Page:**
-​
+# Review a listing's price, status history, and listing frequency
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2604049635/0e6894514fba23579e336e9209f7/Screenshot+2026-08-12+at+9_29_23%E2%80%AFAM.png?expires=1789398000&signature=c7f37075a8a533e94b838f526d0618cae78e2c208736d4a606577d0d2b049646&req=diYnEsl6lIdcXPMW1HO4zRcmtlU%2Bigv7nwsHMXGDMgoYNIt5lIWZzsB7wAi2%0Ao7O%2BtIfjeNFky7dydfI%3D%0A)
+Click History in the Listing Detail Page tabs to review the listing's price and status changes over time. Each change shows its date and time, what changed, such as a price decrease, and the price. A price change also shows the percent change. History also shows the listing's current status and the office it is listed with.
 
-Clicking this will bring you directly to a form you can complete and submit to the MLS Staff.
-​
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251102/d8150ce504f8b9d59756a25cb9d8/upload_13909312811053288822.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251102/d8150ce504f8b9d59756a25cb9d8/upload_13909312811053288822.png?expires=1793766600&signature=e11957264f51941108499d623c77fe36e012169ebd96fe8653c2225e209a3e42&req=dicvEMt7nIBfW%2FMW1HO4zYR0%2BsS4EMNG1Dt5fCFLIYuUHe05vM4wpBs3bPd1%0AFOV2%0A)
+
+# Estimate monthly and lifetime payments in Mortgage & Tax
+
+Click Mortgage & Tax in the Listing Detail Page tabs to estimate the monthly and lifetime cost of buying the listing. Mortgage & Tax shows two estimates:
+- Monthly payment: The estimated monthly cost, split into Mortgage and Common, the listing's monthly association fee.
+- Lifetime mortgage payment: The total paid over the loan term, split into Principal and Interest. It is marked Visible only to you, which means it does not print on a report.
+
+Enter a value or drag the slider in each field to change the estimates:
+- Interest rate: Enter the annual interest rate as a percentage.
+- Sale price: Enter the purchase price.
+- Down payment: Enter the down payment as a percentage. The dollar amount shows beside it.
+- Term: Enter the loan length in years.
+
+Interest rate starts at 7% and Down payment at 20%.
+
+Members who came from a legacy platform may know Mortgage & Tax as the Financial Amortizer.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251110/7d1b1331fab8dbc95ed710171059/upload_8364287957618648023.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786251110/7d1b1331fab8dbc95ed710171059/upload_8364287957618648023.png?expires=1793766600&signature=06f6df46756748cffc1ac8af9727ee084e018424d63054524bfc5adf335ea9f9&req=dicvEMt7nIBeWfMW1HO4zfA1MYg%2BK7AFQZLl9yRCO5rIHZP0rEFzbd%2FSU5B%2B%0AEde0%0A)
