@@ -12,10 +12,10 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-06T05:26:30Z
-updated_at: 2026-11-03T20:14:41Z
+updated_at: 2026-11-04T20:25:55Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # What Changed When You Moved to Perchwell
@@ -112,7 +112,7 @@ Members who came from a legacy platform may know Hot Sheets as the Market Monito
 
 Open BR Announcements, the Baldwin REALTORS® updates site, from the Integrations panel on the right side of the Dashboard. Members who came from a legacy platform may know BR Announcements as part of the Home screen, alongside the Message Center bulletin board.
 
-Baldwin REALTORS® keeps its announcements and bulletin board on its own site, outside the MLS platform, and BR Announcements opens it in one click. The Dashboard stays focused on activity inside Perchwell. [Open Your MLS Integrations from the Dashboard](http://support.perchwell.com/baldwin/en/articles/13903183-integration-tools-on-the-dashboard) lists every integration.
+Baldwin REALTORS® keeps its announcements and bulletin board on its own site, outside the MLS platform, and BR Announcements opens it in one click. The Dashboard stays focused on activity inside Perchwell. [Access Integrations from the Dashboard or a Listing](http://support.perchwell.com/baldwin/en/articles/13903183-integration-tools-on-the-dashboard) lists every integration.
 
 # Reports follow set layouts in Perchwell
 

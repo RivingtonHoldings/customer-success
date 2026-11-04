@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: published
 author_id: 5472692
 created_at: 2025-10-08T15:16:51Z
-updated_at: 2026-11-03T21:29:15Z
+updated_at: 2026-11-04T18:52:36Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Message Clients in Perchwell
@@ -33,7 +33,7 @@ Start from where you are viewing the listing:
 - Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
 - Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png?expires=1793764800&signature=d3e5e7ff617ebb2a7fd9068e5b62976c3b6680a6b5f94e0a8183f71f04c6a089&req=dicvE854n4FaW%2FMW1HO4zZjEfMJfeb4cxbc2avTNnGl%2FDuHsONgniWlYhLcD%0ATzybb4K4oimxQhwcFwE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png?expires=1793826000&signature=ca3eeb199c6261157d4127d0c02699bd2e5adf729b261178148964360f19ffa1&req=dicvE854n4FaW%2FMW1HO4zZjEfMJQfbwUxbc2avTNnGmY80Gg3rqZPGSJSFBf%0AAVuG7J63%2BQXhq429WpE%3D%0A)
 
 ## Steps:
 1. Select a contact
@@ -46,9 +46,9 @@ The listings are sent to the client in Messages, or by email to a contact you ha
 
 # Invite a client before messaging them
 
-Conversations in Messages are available only for clients you have invited to Perchwell. [Invite Clients to Perchwell](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite a client from the Contacts page.
+Conversations in Messages are available only for clients you have invited to Perchwell. [Invite Clients to Perchwell and Resend Invitations](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite a client from the Contacts page.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with someone you have not invited by email, text message, or public link.
+[Share Listings with Clients from Search](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with someone you have not invited by email, text message, or public link.
 
 # Start a conversation in Messages
 
@@ -63,7 +63,7 @@ Start a conversation with an invited client from the Messages page.
 
 The conversation opens with your message.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png?expires=1793764800&signature=b492849b5b01fc10698e20d99ecb62f1cfad601c556a3f8646fb05f9585d2fa8&req=dicvE854n4BfW%2FMW1HO4zdHzEEPbHBc8gsQPKREiAju6L%2FVgf%2Fe6KyxKirzv%0AwUraqygWCFSfL7THD%2FA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png?expires=1793826000&signature=ad16f91db0b015e75c1eabdbc83a93c4b9c7473a97011b3c0e6a7cb0d2c7cc3f&req=dicvE854n4BfW%2FMW1HO4zdHzEEPUGBU0gsQPKREiAjvWEGv1ZaSmLFQhbXSt%0Aq0F0N3wdh1iLBV0SmKo%3D%0A)
 
 [Contacts Page Overview](http://support.perchwell.com/baldwin/en/articles/13975194-contacts-page-overview) covers starting a conversation from the Contacts page.
 
@@ -85,7 +85,7 @@ Filter the listings by reaction:
 
 Shared properties shows the listings that match the selected filter. Select a listing to open a chat thread about it.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png?expires=1793764800&signature=3d3ae306a47ee49a5050c0d1f39e5bf8de4af43f55938c6f7f61296ff8e58270&req=dicvE854n4BcUfMW1HO4zVrGFR9e%2BNtE8paSeSv8HWpH3snzFcQuhMI4bPxN%0AiD5IX4mjQv4DkCDz7SM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png?expires=1793826000&signature=1214daaabd0a147c55818071e16d52331aa107570d2ac8a8faff6dc010e8baba&req=dicvE854n4BcUfMW1HO4zVrGFR9R%2FNlM8paSeSv8HWrTOIGMTgRaMPFqA6kT%0A4ANsGYyK9fP%2FypNmv%2F0%3D%0A)
 
 # Get notified of new messages and find them
 

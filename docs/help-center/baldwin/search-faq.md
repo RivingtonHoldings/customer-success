@@ -12,10 +12,10 @@ collections: ["Search / FAQs"]
 state: published
 author_id: 5472692
 created_at: 2026-05-21T02:36:19Z
-updated_at: 2026-11-02T21:06:40Z
+updated_at: 2026-11-04T19:07:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-02T21:08:07Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Search FAQ
@@ -28,7 +28,7 @@ Use this article to find quick answers to common questions about the Search page
 
 Yes. Search by school zone with the Elementary School, Intermediate School, Middle School, and High School filters under Location on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png?expires=1793655000&signature=1504deb4063c70cd64f9edee600d16eb33ee94a703d033c929d6c139dfa74262&req=dichFMl%2Bm4RWUfMW1HO4zRGIg0vOqhbaubsPkgGvwm8krLWkDj1%2B6bpkCO40%0A1JJJ%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png?expires=1793826000&signature=c053567ef7f95cfc057792485ea82169dd701a76ccf1e7d45e35c84f4ba9cbae&req=dichFMl%2Bm4RWUfMW1HO4zRGIg0vArRXaubsPiAWpy1U7PtjFHZeDBckmwgth%0A%2BB4iI9ueLZkRD3hNZm8%3D%0A)
 
 ## How do I search for a specific street name?
 
@@ -38,11 +38,11 @@ Enter part of the street name in the Street name field under Location on the Fil
 
 Search by agent with the Agent filter under Listing Details on the Filters tab. To find the filter, enter Agent in the Search filters and values field.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png?expires=1793655000&signature=29351c93d95d1bfac7d5224eaccfe2cd3b078718d5fd39819d73c01926a336ba&req=dicvFM1%2BnoBcW%2FMW1HO4zZ4K9pYsI0enlh5L23okYv2h%2B33GzdkxYeg35k1C%0A1zD5%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png?expires=1793826000&signature=1adeda304d1af682f9edecb3d6a921ba5f3782d5958cc043b764ac8f6ca8111d&req=dicvFM1%2BnoBcW%2FMW1HO4zZ4K9pYiJESnlh5LwX4ia8eOwBpUKkF319e0LEVX%0APv99b3NIuJ9nqVLpDr4%3D%0A)
 
 Enter the agent's name, then select Listing, Buy-side, or both to choose which side of the transaction the agent represented.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png?expires=1793655000&signature=8b192fcd01cbdb9c7d84f131f73aa00c91df0465e7782c4cfb3caa61f2563779&req=dicvFM1%2Bm4VfWPMW1HO4zYDlIAd%2BzlADcx4B6wSpW3ix2ySOotTw1Kob9uxP%0Ao5kV%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png?expires=1793826000&signature=ae143df7be986b21cef8faab792e51db682c038f272f2eff748dc19fb80fdb90&req=dicvFM1%2Bm4VfWPMW1HO4zYDlIAdwyVMDcx4B8QCvUkJYSXRjq1Dwo2RlKERr%0AA5kqaft2pC9fVL1YpnI%3D%0A)
 
 ## How do I search for acreage?
 
@@ -52,7 +52,7 @@ Search with the Apx Acreage (approximate acreage) filter under Location & Site C
 
 Yes. Enter the neighborhood or subdivision name in the Subdivision/Condo filter on the Filters tab, then select it from the list of matches. To find the filter, enter Subdivision in the Search filters and values field.
 
-[Search for a Condo](http://support.perchwell.com/baldwin/en/articles/15363551-search-for-a-condo) explains how to find listings in a specific condo complex.
+[Search for Condos, Subdivisions, and Communities](http://support.perchwell.com/baldwin/en/articles/15363551-search-for-a-condo) explains how to find listings in a specific condo complex.
 
 ## How do I search for waterfront properties?
 
@@ -65,13 +65,13 @@ Search for waterfront properties with the waterfront filters on the Filters tab.
 
 Lot Description and Water Property Type are set to Or by default, which shows listings that match at least one selected value. Change Or to Not to exclude listings with the selected values.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png?expires=1793655000&signature=b34192c2f5e25e5759aa21fca123415c1f46400f387cec5bab07361f89c3c9c5&req=dichFMl%2Bm4ddUfMW1HO4zdQpHBxEajyYSuZhOoCdUbrSsHBlMslRy9xUaw5G%0AO27d%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png?expires=1793826000&signature=d77af7b591c15401fc446586393cc60b1252db4cbff752cbd85c6a5dcf6fd529&req=dichFMl%2Bm4ddUfMW1HO4zdQpHBxKbT%2BYSuZhIISbWIBeo%2BbNT174nAD%2FvNQp%0A3Wfmj25e4%2Bcei1sBlUw%3D%0A)
 
 ## How do I search for listings with an open house?
 
 Select a date range in the Open house filter under Listing Details on the Filters tab. Your results show listings with an open house on those dates.
 
-To find open houses from the Dashboard, click the Open Houses tab in the Listings widget. It shows listings with an open house and the date and time of each. [Listings Widget Overview](http://support.perchwell.com/baldwin/en/articles/13903171-listings-widget-overview) covers the other tabs in the Listings widget.
+To find open houses from the Dashboard, click the Open Houses tab in the Listings widget. It shows listings with an open house and the date and time of each. [Find Listings in the Listings Widget](http://support.perchwell.com/baldwin/en/articles/13903171-listings-widget-overview) covers the other tabs in the Listings widget.
 
 ## How do I search for one or more listings by MLS ID?
 
@@ -99,7 +99,7 @@ No. Draw on the map before or after you set your search filters.
 
 To find the Radius and Commute tools, click the Address search pin icon in the upper left of the map. Enter a location or drag the pin to a spot on the map, then click Radius or Commute below the pin.
 
-[Map Tools in Search](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) explains how to set a radius or commute time.
+[Filter Your Search with Map Tools](http://support.perchwell.com/baldwin/en/articles/14744497-map-tools-in-search) explains how to set a radius or commute time.
 
 ## Can I select a school and then draw a shape on the map?
 
@@ -130,7 +130,7 @@ Hidden listings stay hidden after you leave the search only if you save the sear
 
 [Search Page Overview](http://support.perchwell.com/baldwin/en/articles/13903243-search-page-overview) explains how Keep and Hide work.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png?expires=1793655000&signature=8be1311b73d925dcfa208c149ed5ca6d4abe48a1b171a53ed0583a27edaf057f&req=dichFMl%2Bm4ZcX%2FMW1HO4zTGNGPJal2sRV7fAe8tvGBIZ8D8yzhKpMFxkthGT%0An5zL%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png?expires=1793826000&signature=c0452f81c45ff4b95e4b448fb5c8307c49507f89116c4f50a8fec8a7b1673aa5&req=dichFMl%2Bm4ZcX%2FMW1HO4zTGNGPJUkGgRV7fAYc9pESibkIl%2Fp%2F7LwIqewOk1%0A4UbVp30v2ssJbeaLCto%3D%0A)
 
 ## Can I run multiple searches at the same time?
 
@@ -142,9 +142,9 @@ To return to a search later, save it. [Manage Your Saved Searches](http://suppor
 
 Driving Directions in the Actions menu is greyed out when your browser is not sharing your location with Perchwell. Turn on location access for Perchwell in your browser settings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png?expires=1793655000&signature=439521da56f1e1496c4ab85e19c49aa7174566e5f674ed598c88f9eba58c0ce1&req=dichFMl%2Bm4ZWWvMW1HO4zSdQXvp7iiNCr0sMoPn6k%2BH650vJMGcjACkjkUqp%0AbSWN%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png?expires=1793826000&signature=128c2a13776d0908889ba825fc93fe559bf0144483d43cc83dcc575625ea81a0&req=dichFMl%2Bm4ZWWvMW1HO4zSdQXvp1jSBCr0sMuv38mtsM2Zw3T54d4%2FXfBVrM%0AtCWT%2FdHChQ5T%2FrJI6RE%3D%0A)
 
-[Multi-Listing Actions on the Search Page](http://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) covers Driving Directions and the other options in the Actions menu.
+[Actions Menu Options on the Search Page](http://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) covers Driving Directions and the other options in the Actions menu.
 
 # Sharing and exporting questions
 
@@ -155,13 +155,13 @@ No. Select the listings in your search results, click Actions, then select one o
 - Share via Message: Send the listings to a contact. Invited clients receive them in Messages and by email. Contacts who have not been invited receive them by email only.
 - Share via Text: Text the listings to a contact directly.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) explains each sharing option step by step.
+[Share Listings with Clients from Search](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) explains each sharing option step by step.
 
 ## What listing fields can I export to a CSV file?
 
 Every field entered when adding a listing is available to export to a CSV (comma-separated values) file. Select Export CSV from the Actions menu, then create an export template to choose which fields to include and their order.
 
-[Export Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/11776740-export-listings-in-perchwell) explains how to export listings and save export templates.
+[Export Listings to a CSV File](http://support.perchwell.com/baldwin/en/articles/11776740-export-listings-in-perchwell) explains how to export listings and save export templates.
 
 ## How do I send listing data to my CRM?
 
@@ -193,7 +193,7 @@ Yes. Clients can hide listings in saved searches they create and searches you sh
 
 If Allow added contacts to see and edit this search is turned on, clients can also change the search filters. Changes they save update your saved search.
 
-[Add an Invited Client to a Saved Search](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) explains how to control what clients can edit.
+[Share a Saved Search with a Client](http://support.perchwell.com/baldwin/en/articles/8955682-add-an-invited-client-to-a-saved-search) explains how to control what clients can edit.
 
 ## Why are alerts off on saved searches from a legacy platform?
 

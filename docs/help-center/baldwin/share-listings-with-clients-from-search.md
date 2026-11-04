@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2026-03-02T04:39:35Z
-updated_at: 2026-10-23T21:35:34Z
+updated_at: 2026-11-04T20:08:37Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:36:12Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Share Listings with Clients from Search
@@ -33,13 +33,13 @@ Select the listings you want to share from the Search page. After you select at 
 2. Click Actions
 3. Select Share
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021531/4aa3028fee77cd3fee168c69029e/upload_3349509457672905100.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021531/4aa3028fee77cd3fee168c69029e/upload_3349509457672905100.png?expires=1792792800&signature=bad48f90a256154b42d4e2e8bb75a60aa8ac90c5094767c33b0691e542aa0dce&req=dichFMl8nIRcWPMW1HO4zZ9TaIb%2FAGm9pcn4XqVEmZ6wkvFpVSRwOUUW5bEK%0AgR9D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021531/4aa3028fee77cd3fee168c69029e/upload_3349509457672905100.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021531/4aa3028fee77cd3fee168c69029e/upload_3349509457672905100.png?expires=1793825100&signature=9a0ec64904a35f8820bdb1fdcf8b18c4878e68f6959a9f1b5701e6e09268a953&req=dichFMl8nIRcWPMW1HO4zZ9TaIfwC260pcn4XqVEmZ7Ez41Q9TR7rd%2BOEWZT%0AbFkY%0A)
 
 The Share window opens with two options:
-- via Tag: Add the listings to a Tag to collect your client's reactions. [How to Share a Tag](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) covers sharing a Tag with your client.
+- via Tag: Add the listings to a Tag to collect your client's reactions. [Share a Tag with Clients](http://support.perchwell.com/baldwin/en/articles/16221617-how-to-share-a-tag) covers the rest.
 - via Public Link: Share a branded public link by copying it or sending it by email or text message, or posting it to social media.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021539/4be63fe15ae912b12494c3a39d13/upload_15347080560552580818.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021539/4be63fe15ae912b12494c3a39d13/upload_15347080560552580818.png?expires=1792792800&signature=2b9f0f975ca2348a3931e3970660aa9a3bea494e21055164e4cb1cbddc8e02d0&req=dichFMl8nIRcUPMW1HO4zWB9kvuB5NaCaByIGs7f3MzDifCoGsGQsInQB5gi%0AB%2FSn%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021539/4be63fe15ae912b12494c3a39d13/upload_15347080560552580818.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021539/4be63fe15ae912b12494c3a39d13/upload_15347080560552580818.png?expires=1793825100&signature=59edac1a44eda718bd199f056a0e31e11caa16fa07ec67f8ffe62823b2a5a2ce&req=dichFMl8nIRcUPMW1HO4zWB9kvqO79GLaByIGs7f3MzphdeZKWBUjhKGFjrS%0AJeag%0A)
 
 To share listings with an invited client in Messages, Perchwell's message center, select Share via Message in the Actions menu. [Message Clients in Perchwell](http://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) covers sharing listings in Messages.
 
@@ -61,7 +61,7 @@ To email the listings, click the Email or Text button in the via Public Link sec
 5. *(Optional)* Enter a message
 6. Click Email
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021551/9686906cc89ce51e0a575da5064a/upload_3745074980305878833.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021551/9686906cc89ce51e0a575da5064a/upload_3745074980305878833.png?expires=1792792800&signature=802ecb99c02a47c89c71995b69e2351e25e0ffcadefa967bc238639f136780dd&req=dichFMl8nIRaWPMW1HO4zWS5hVdXuuc9aZnQ6oKQUT5TbcYO9ZczW7picMxi%0A16Kz%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021551/9686906cc89ce51e0a575da5064a/upload_3745074980305878833.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021551/9686906cc89ce51e0a575da5064a/upload_3745074980305878833.png?expires=1793825100&signature=57c8794994a00faf78e5b1624156459ac7fc7e0ff1379c4168ae06de50b8b446&req=dichFMl8nIRaWPMW1HO4zWS5hVZYseA0aZnQ6oKQUT7Nnl0oWcgXuF4dOOiC%0Ai2gM%0A)
 
 A Listings Shared Successfully message appears, and each recipient receives an email with a link to the listings.
 
@@ -78,11 +78,11 @@ To text listings, select them on the Search page, click Actions, then select Sha
 2. *(Optional)* Edit the message
 3. Click Send Text
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021558/f97231f30d8fd2b37a701af964a3/upload_16151132035348243418.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021558/f97231f30d8fd2b37a701af964a3/upload_16151132035348243418.png?expires=1792792800&signature=84de8d10f8943ef9484c4b8d2f4fe6f57a00e23f37035a80fc5575e429a8db68&req=dichFMl8nIRaUfMW1HO4zVngkogyKrT4PXldzjm%2BQUj4r8JYLTCY8QZa4gz0%0Ar%2BiX%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021558/f97231f30d8fd2b37a701af964a3/upload_16151132035348243418.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021558/f97231f30d8fd2b37a701af964a3/upload_16151132035348243418.png?expires=1793825100&signature=f5def0930cad2f32a26db11728719579fdbd1af78678b851dad4fb28a92c8858&req=dichFMl8nIRaUfMW1HO4zVngkok9IbPxPXldzjm%2BQUi6pjnO410t4XKf0XyS%0AAi5R%0A)
 
 Your contact receives a text with a link to the listings. When a phone number receives a text from Perchwell for the first time, a consent message is sent before the listings. Once the contact replies YES, the listings send automatically. Consent is tied to the phone number and only needs to be provided once.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021577/91aec26c4a5e4f18ff7bac926ccd/upload_4136616491571563024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021577/91aec26c4a5e4f18ff7bac926ccd/upload_4136616491571563024.png?expires=1792792800&signature=60844b0204d2d8125b59e7ebb174f9a5ad8589cf24e51b0c324de1aab46e5a77&req=dichFMl8nIRYXvMW1HO4zW9rTh3TTHrGyY8%2F9npAaF7liyE5h8VNEb%2Bp5dtM%0Ad20q%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021577/91aec26c4a5e4f18ff7bac926ccd/upload_4136616491571563024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021577/91aec26c4a5e4f18ff7bac926ccd/upload_4136616491571563024.png?expires=1793825100&signature=78ae61eeb6d08d57de85b82d220257d540b2f3f86e56f7eee43aa7e857602a79&req=dichFMl8nIRYXvMW1HO4zW9rThzcR33PyY8%2F9npAaF4AqlKlvUoBvAuFGruB%0AWOkZ%0A)
 
 Contacts without a phone number are greyed out and cannot be selected. Add a phone number to the contact first, then return to the Text tab. Click Create Contact to add someone who is not already in your contacts.
 
@@ -101,4 +101,4 @@ Clients do not need a Perchwell account or login to view shared listings. Whethe
 
 The page shows only the listings you selected. Clients can move between listings and view their details. Listing agent information, private documents, and listing history are not shown.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021604/c721385192702e6e10183cbf2114/upload_1235189333842019740.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021604/c721385192702e6e10183cbf2114/upload_1235189333842019740.png?expires=1792792800&signature=fbf7a19751efdc1ae6e08a00c52a5ae030147cd5904a5c2f968339d39cdeb4d6&req=dichFMl8nIdfXfMW1HO4zQ%2BqlNQhLaFtFDZwyqMXSRzdEhjMUQzuV2oXL9fT%0AMfk%2B%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021604/c721385192702e6e10183cbf2114/upload_1235189333842019740.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762021604/c721385192702e6e10183cbf2114/upload_1235189333842019740.png?expires=1793825100&signature=6424141f2db775eda4189e753f91f7f24e3cf57efcac66204960a4f97ab0d282&req=dichFMl8nIdfXfMW1HO4zQ%2BqlNUuJqZkFDZwyqMXSRxC5QqF4zIepn5vXZ44%0AJvdn%0A)

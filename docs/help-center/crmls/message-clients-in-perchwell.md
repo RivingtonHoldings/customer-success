@@ -1,28 +1,26 @@
 ---
-intercom_id: "12541968"
-content_id: "14014573"
+intercom_id: "18232897"
+content_id: "23616320"
 title: "Message Clients in Perchwell"
 description: "Message invited clients in Perchwell, share listings in Messages from Search or a listing, and review how clients react to them."
-url: "http://support.perchwell.com/en/articles/12541968-message-clients-in-perchwell"
+url: ""
 help_center: crmls
 help_center_id: 4767477
-collection: "Client Collaboration / Agents"
-collection_ids: [16866993]
-collections: ["Client Collaboration / Agents"]
-state: published
-author_id: 5472692
-created_at: 2025-10-08T15:16:51Z
-updated_at: 2026-11-03T21:29:15Z
+collection: "Client Collaboration"
+collection_ids: [16866981]
+collections: ["Client Collaboration"]
+state: draft
+author_id: 8314814
+created_at: 2026-11-04T19:38:05Z
+updated_at: 2026-11-04T19:44:10Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-11-04T03:25:41Z
+body_source: intercom-api
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Message Clients in Perchwell
 
 Use this article to start conversations with invited clients in Messages, share listings from Search or a Listing Detail Page, review reactions in Shared properties, and find new messages.
-
-[Embedded video](https://demo.arcade.software/lg7AYrZuU0oHjQSW5AKv?embed)
 
 # Share listings in Messages
 
@@ -33,7 +31,7 @@ Start from where you are viewing the listing:
 - Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
 - Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762052/b18600cf013024795cf52650bb96/upload_15391334559055002282.png?expires=1793764800&signature=d3e5e7ff617ebb2a7fd9068e5b62976c3b6680a6b5f94e0a8183f71f04c6a089&req=dicvE854n4FaW%2FMW1HO4zZjEfMJfeb4cxbc2avTNnGl%2FDuHsONgniWlYhLcD%0ATzybb4K4oimxQhwcFwE%3D%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014713/b7d2a0c6656156265f2dbefccded/upload_8165791152614248668.png)
 
 ## Steps:
 1. Select a contact
@@ -46,9 +44,9 @@ The listings are sent to the client in Messages, or by email to a contact you ha
 
 # Invite a client before messaging them
 
-Conversations in Messages are available only for clients you have invited to Perchwell. [Invite Clients to Perchwell](http://support.perchwell.com/baldwin/en/articles/11373895-invite-clients-to-perchwell) explains how to invite a client from the Contacts page.
+Conversations in Messages are available only for clients you have invited to Perchwell. [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) explains how to invite a client from the Contacts page.
 
-[Share Multiple Listings in Perchwell](http://support.perchwell.com/baldwin/en/articles/13903326-share-multiple-listings-in-perchwell) covers sharing listings with someone you have not invited by email, text message, or public link.
+[Share Listings with Clients from Search](https://support.perchwell.com/baldwin/en/articles/13903326-share-listings-with-clients-from-search) covers sharing listings with someone you have not invited by email, text message, or public link.
 
 # Start a conversation in Messages
 
@@ -63,9 +61,9 @@ Start a conversation with an invited client from the Messages page.
 
 The conversation opens with your message.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762102/b6f8c1def8c9cc033c7cdd354b60/upload_9245926946791375567.png?expires=1793764800&signature=b492849b5b01fc10698e20d99ecb62f1cfad601c556a3f8646fb05f9585d2fa8&req=dicvE854n4BfW%2FMW1HO4zdHzEEPbHBc8gsQPKREiAju6L%2FVgf%2Fe6KyxKirzv%0AwUraqygWCFSfL7THD%2FA%3D%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014780/7f5026daac001dd5114567099b32/upload_5638573262971500552.png)
 
-[Contacts Page Overview](http://support.perchwell.com/baldwin/en/articles/13975194-contacts-page-overview) covers starting a conversation from the Contacts page.
+[Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) covers starting a conversation from the Contacts page.
 
 # Review client reactions in Shared properties
 
@@ -85,7 +83,7 @@ Filter the listings by reaction:
 
 Shared properties shows the listings that match the selected filter. Select a listing to open a chat thread about it.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785762138/60eff4182c46d20a41724caca437/upload_1656757045522842515.png?expires=1793764800&signature=3d3ae306a47ee49a5050c0d1f39e5bf8de4af43f55938c6f7f61296ff8e58270&req=dicvE854n4BcUfMW1HO4zVrGFR9e%2BNtE8paSeSv8HWpH3snzFcQuhMI4bPxN%0AiD5IX4mjQv4DkCDz7SM%3D%0A)
+![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014810/a97cb203e055f46bb4353a321749/upload_16883834051060169399.png)
 
 # Get notified of new messages and find them
 
@@ -93,7 +91,7 @@ Perchwell notifies you when an invited client sends a new message:
 - Email: Perchwell sends you an email.
 - Green dot: A green dot appears on Messages in the top navigation.
 
-Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/14786130-messages-overview) covers Messages on your phone.
+Push notifications for new messages are not available in the Perchwell mobile app. [Message Clients in the Perchwell Mobile App](https://support.perchwell.com/baldwin/en/articles/14786130-message-clients-in-the-perchwell-mobile-app) covers Messages on your phone.
 
 ## Steps:
 1. Hover over the left edge of the page to open the Messages panel

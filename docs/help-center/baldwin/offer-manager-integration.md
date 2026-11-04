@@ -10,12 +10,12 @@ collection: "Integrations"
 collection_ids: [19737537]
 collections: ["Integrations"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-09-01T22:24:33Z
-updated_at: 2026-09-01T23:05:19Z
+updated_at: 2026-11-04T18:57:26Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Offer Manager Integration
@@ -31,10 +31,10 @@ Managing offers on a listing happens in ShowingTime's Offer Manager. Before this
 # Open Offer Manager from a listing
 
 ### Steps:
-1. Open a Baldwin listing's **Listing Detail** page [confirm: the release note calls this the "Property Details page"; confirming the link lives on the Listing Detail page as named in the help center]
-2. Click **Offer Manager** [confirm: where the link sits on the page, for step wording and the screenshot]
+1. Open a Baldwin listing's **Listing Detail** page
+2. Click **Offer Manager**
 3. Review the listing's offers in ShowingTime's Offer Manager
 
 ShowingTime opens signed in and scoped to that listing, which means there is no separate ShowingTime login and no searching for the listing a second time.
 
-**📖 Check out [Integration Tools on the Dashboard](https://intercom.help/perchwell-help-center-baldwin/en/articles/13903183-integration-tools-on-the-dashboard) for the other tools connected to your MLS.**
+**📖 Check out [Access Integrations from the Dashboard or a Listing](https://intercom.help/perchwell-help-center-baldwin/en/articles/13903183-integration-tools-on-the-dashboard) for the other tools connected to your MLS.**

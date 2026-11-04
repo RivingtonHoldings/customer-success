@@ -12,10 +12,10 @@ collections: ["Listing Maintenance"]
 state: published
 author_id: 5472692
 created_at: 2025-07-18T17:13:46Z
-updated_at: 2026-11-04T02:27:46Z
+updated_at: 2026-11-04T20:27:00Z
 labels: ["How To: Manage Listings"]
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Write a Listing Description with AI Scribe
@@ -24,8 +24,6 @@ Use this article to turn on AI Scribe in a listing, generate a Listing descripti
 
 [Embedded video](https://www.loom.com/embed/d98b320268054035b52d2c780cf63024)
 
-This video is applicable to all customers
-
 # Turn on AI Scribe in the listing form
 
 Turn on AI Scribe in the Remarks/Directions section of Add/Edit, the form where you enter a new listing or update an existing one.
@@ -33,12 +31,12 @@ Turn on AI Scribe in the Remarks/Directions section of Add/Edit, the form where 
 ## Steps:
 1. Click Manage Listings in the top navigation bar
 2. Click Add New Listing, or open the listing you want to edit
-3. Click Remarks/Directions in the section list on the right[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103209/a344c3287ac71c67ee49b9fc8c07/upload_102920394669591755.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103209/a344c3287ac71c67ee49b9fc8c07/upload_102920394669591755.png?expires=1793764800&signature=69736afe78ecfaa4525477901765a3ef7fbf72ee70ea0f407069e8d8b20498c0&req=dicvEMh%2BnoNfUPMW1HO4zc%2BxjOPKGKG47hSI1qkFMFbpV8%2FwkVJI41xCAM1W%0AZy6%2F%0A)
+3. Click Remarks/Directions in the section list on the right[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103209/a344c3287ac71c67ee49b9fc8c07/upload_102920394669591755.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103209/a344c3287ac71c67ee49b9fc8c07/upload_102920394669591755.png?expires=1793826000&signature=62d1feb12880cc94a07aa4efae46003549fcf6bb08940eba817ed635317303c3&req=dicvEMh%2BnoNfUPMW1HO4zc%2BxjOPFHKOw7hSI1qkFMFZRqtrxTmZOVDoNOQOZ%0Al2t9%0A)
 4. Turn on the AI Scribe toggle under Listing description
 
 The AI Scribe toggle is off by default. When you turn it on, the Length, Tone, and Focus dropdowns open below it, with a fair housing notice above them.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103224/63e42fe4de0cd7d0ae74574133cd/upload_10859097128257900948.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103224/63e42fe4de0cd7d0ae74574133cd/upload_10859097128257900948.png?expires=1793764800&signature=0d4e02990fb04fc8ab7b6d46dfaa7408e6a613bd4bee80c52834b9af13580d30&req=dicvEMh%2BnoNdXfMW1HO4zTJwNyLbgonL3n7vfN1ewYMEAk0t59iBHzW9WM2w%0A3T5g7tNSInw9POxuR5I%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103224/63e42fe4de0cd7d0ae74574133cd/upload_10859097128257900948.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786103224/63e42fe4de0cd7d0ae74574133cd/upload_10859097128257900948.png?expires=1793826000&signature=ff7ef1fe473d45b13d4b8f548e296bf8d176020b7faeb3c6c075ecd015632bf0&req=dicvEMh%2BnoNdXfMW1HO4zTJwNyLUhovD3n7vZtlYyLns%2Bs%2F6wM6Xjs5hkDPg%0Aqbn2%0A)
 
 > **Tip:** Fill in the listing details before you turn on AI Scribe. AI Scribe writes from the information you enter, so a more complete listing gives it more to work with.
 

@@ -12,10 +12,10 @@ collections: ["Client Experience"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T17:54:52Z
-updated_at: 2026-11-04T17:54:52Z
+updated_at: 2026-11-04T19:03:35Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Communicate with Your Agent via Messages in Perchwell
@@ -37,7 +37,7 @@ Your agent sees your message in your conversation and receives an email notifica
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750347/fe4c1cc1b15c3c42b2865e181fd9/upload_9660143998095080604.png)
 
-To send your agent a listing in Messages, follow the steps in [Share Listings with Your Agent](http://support.perchwell.com/baldwin/en/articles/11373849-share-listings-with-your-agent).
+To send your agent a listing in Messages, follow the steps in [Share Listings with Your Agent](https://support.perchwell.com/crmls/en/articles/18232061-share-listings-with-your-agent).
 
 # React to shared listings with Reject, Maybe, or Like
 

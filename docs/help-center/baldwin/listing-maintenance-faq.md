@@ -12,10 +12,10 @@ collections: ["Listing Maintenance / FAQs"]
 state: published
 author_id: 5472692
 created_at: 2026-05-21T02:07:42Z
-updated_at: 2026-11-03T17:50:12Z
+updated_at: 2026-11-04T18:42:37Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-03T20:41:26Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Listing Maintenance FAQ
@@ -43,7 +43,7 @@ Please reach out to the MLS support number at 251-270-0328 or email [mls@baldwin
 
 # What is the character limit for public remarks?
 
-Public remarks in the Add/Edit form hold up to 2,000 characters. To write a first draft of your public remarks from the listing details, see [AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe).
+Public remarks in the Add/Edit form hold up to 2,000 characters. To write a first draft of your public remarks from the listing details, see [Write a Listing Description with AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe).
 
 # How do I add a video or Matterport tour to a listing?
 
@@ -60,7 +60,7 @@ Add a video or Matterport tour to a listing by entering its link, not a video fi
 
 Submit updates sends your changes to the MLS, and the tour link goes live right away.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png?expires=1793740500&signature=a26de98b6fc73423a78da0bfbf27994257e78af1600fda67696eb9560d143570&req=dicvE8p%2Bm4NYX%2FMW1HO4zZihOY0%2Flbplrc4%2Fc94dBJyYOChbc3k2fSte%2B8li%0A%2BXeptohCj4Ikme93%2BME%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306276/01120e57e599218c4064eca5f964/upload_738224252313284521.png?expires=1793826000&signature=c7198971aafdeac4a1bc0c1c10f25b60984e661681132f4207a6496de4ebf87c&req=dicvE8p%2Bm4NYX%2FMW1HO4zZihOY0wk7xgrc4%2Fc94dBJw5OZ6imtqPoD5Q526B%0AasvnQLxnDFu%2Fz0znOIs%3D%0A)
 
 # Can an owner list a property in the MLS as For Sale By Owner (FSBO)?
 
@@ -78,9 +78,7 @@ Each copy appears as a draft on the Manage Listings page. Click the pencil icon 
 
 Members who came from a legacy platform may know Duplicate as Copy or Clone.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png?expires=1793740500&signature=0cba3481a5b47046ba6f5035c4dd6536648fb5e84017313e57d2c5e43cf25696&req=dicvE8p%2Bm4JeX%2FMW1HO4zWdsnMDoTkXOVhNFBAlC4A8%2Fa%2FcDfUlIVJFZmrjB%0AYnXv5bMDIusMsCGc5Fs%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png?expires=1793740500&signature=94701f6ebb01af4aaeb0c1517cfc2759bce64414ae4695b21b95ebc44317367a&req=dicvE8p%2Bm4JaXfMW1HO4zdTqGxEmYydb7gZGOr1rfo7eIbo6lZHBhRnrX9vV%0AvqROpr3emiVCRF15tI8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306316/fdca09cadefa9da273186bef52ce/upload_12799474372500256138.png?expires=1793826000&signature=4b10161003402850a77dbc901f77c94d97f1a885d51d390e4f89d68a2efb3c91&req=dicvE8p%2Bm4JeX%2FMW1HO4zWdsnMDnSEPLVhNFBAlC4A%2B0J73ixy1ngKb4WO0i%0AH01IOvwyFUkvNLy7ZCE%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306354/2f6b2f4aeff76364556a89fdf82d/upload_9764399612555457050.png?expires=1793826000&signature=d345b0e612744cd76e91cde12583362beac2bb9c53e719307598119caaa7cd9b&req=dicvE8p%2Bm4JaXfMW1HO4zdTqGxEpZSFe7gZGOr1rfo5FmKpQMQ1EfptqYX8Y%0A%2B1PArjRT4cQWVCO7kuc%3D%0A)
 
 # Where did my open house remarks come from, and how do I edit them?
 
@@ -93,9 +91,9 @@ Open house remarks carried over from the legacy platform for open houses schedul
 
 Add saves the open house with the updated remarks.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png?expires=1793740500&signature=9910a768410acacc729574d059cb78739bfcddacae32983d8572fedbf7b54483&req=dicvE8p%2Bm4JYUfMW1HO4zRuJhU7fKa4fEHGtZQptxmeA301lp9PFhwWhJwgI%0AO7HbEw5Vjs5funXm0Rk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785306378/76fada75e3eb3a5b8fdc82c5e5cd/upload_13775158806465685039.png?expires=1793826000&signature=786d951d188768c079fe71cf79b665d06df75ded1f78f911c938ca0c33484e32&req=dicvE8p%2Bm4JYUfMW1HO4zRuJhU7QL6gaEHGtZQptxmfyTV02ayLwXodMKc6T%0AMAByi%2BD%2FtjGb3%2FV7fdw%3D%0A)
 
-Open house remarks are visible to agents only. The [Listings FAQ](https://support.perchwell.com/baldwin/en/articles/15200541-listings-faq) explains who sees them.
+Open house remarks are visible to agents only. The [Listing Detail Page FAQ](https://support.perchwell.com/baldwin/en/articles/15200541-listings-faq) explains who sees them.
 
 # Are the rules for Coming Soon listings different in Perchwell?
 

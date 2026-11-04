@@ -12,10 +12,10 @@ collections: ["Client Experience"]
 state: draft
 author_id: 8314814
 created_at: 2026-11-04T17:55:57Z
-updated_at: 2026-11-04T17:55:57Z
+updated_at: 2026-11-04T19:44:12Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-04T18:08:00Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Receive Alerts About New Listings
@@ -38,7 +38,7 @@ Each saved search alert email opens with "Latest updates to" and the saved searc
 - Each matching listing, with a link to its Listing Detail Page
 - A Click here to unsubscribe link at the bottom
 
-Saved search alert emails do not include a way to message your agent. To message your agent, open Messages in Perchwell. [Communicate with Your Agent in Perchwell](http://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) explains how. [Unsubscribe from Saved Search Alert Emails](https://support.perchwell.com/crmls/en/articles/13602428-unsubscribe-from-saved-search-alert-emails) covers how to stop receiving saved search alerts.
+Saved search alert emails do not include a way to message your agent. To message your agent, open Messages in Perchwell. [Communicate with Your Agent via Messages in Perchwell](https://support.perchwell.com/crmls/en/articles/18231941-communicate-with-your-agent-via-messages-in-perchwell) explains how. [Unsubscribe from Saved Search Alert Emails](https://support.perchwell.com/crmls/en/articles/18232828-unsubscribe-from-saved-search-alert-emails) covers how to stop receiving saved search alerts.
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750428/57cbe349dd63926db6283a4d67c6/upload_17828288929585666116.png)
 
@@ -68,4 +68,4 @@ The listings with the fewest days on market move to the top of the results. Save
 
 ![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750519/f34aad97cbac75b1b0b7d7ea05d0/upload_4760864401138933133.png)
 
-Your agent decides whether a saved search appears in your client portal. If you receive alerts but cannot find the saved search, ask your agent to give you access to it. [View Shared Saved Searches](http://support.perchwell.com/baldwin/en/articles/14743530-view-shared-saved-searches) explains how to explore and filter a shared saved search.
+Your agent decides whether a saved search appears in your client portal. If you receive alerts but cannot find the saved search, ask your agent to give you access to it. [View Shared Saved Searches](https://support.perchwell.com/crmls/en/articles/18232664-view-shared-saved-searches) explains how to explore and filter a shared saved search.

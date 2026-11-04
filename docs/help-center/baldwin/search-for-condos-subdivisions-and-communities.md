@@ -12,10 +12,10 @@ collections: ["Search / Filters"]
 state: published
 author_id: 5472692
 created_at: 2026-06-03T17:53:00Z
-updated_at: 2026-10-23T21:27:34Z
+updated_at: 2026-11-04T19:10:10Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T21:28:07Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Search for Condos, Subdivisions, and Communities
@@ -36,9 +36,9 @@ Residential attached, a subtype under the Residential-Single Family property typ
 
 Your search results update to show attached homes, including condos.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png?expires=1792792800&signature=0b4e36b7c267588393bb17d202e3099e363bae8b85900afd2d07fd50d1d96c05&req=diQiFc99mYZbWPMW1HO4zXFM8aSR%2BxLHwaH3%2F4tHOynkRJSdmxtzVubMBqKd%0AeItf%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png?expires=1793826000&signature=e3b271965b61671f3ee165b9109ce1bf788997f2a2ef0d07d2e976410be2d629&req=diQiFc99mYZbWPMW1HO4zXFM8aWe8BbPwaH35Y9BMhNMjdVtcqra4TRlIom2%0ArWOTIIAWK8ppQEuroQw%3D%0A)
 
-Members who came from a legacy platform may know Property Type as Class and subtypes as Property Type. [Filter Your Search by Property Types](http://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-types) explains how to select subtypes and lists the subtypes under each property type.
+Members who came from a legacy platform may know Property Type as Class and subtypes as Property Type. [Filter Your Search by Property Type and Subtype](http://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-types) explains how to select subtypes and lists the subtypes under each property type.
 
 # Narrow your search to condos with Structure Style
 
@@ -52,7 +52,7 @@ Add the Structure Style filter to narrow your results to listings identified as 
 
 Your search results update to show listings with a Condo structure style. When Residential attached is also selected under Property Type, your results narrow to attached condos.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png?expires=1792792800&signature=53ca7ff6adc9a6238c7b2de386e74407069fb8e8dce6573681df7d02efb5eb32&req=diQiFc99mIleUfMW1HO4zUJvxM%2FXh21K8nL7Lwha5QGJpQ%2Be8ElwUtd2dLO3%0AKg6r%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png?expires=1793826000&signature=24d82ff56e07f78bca916648d831821892916306ad79924628fd36c4145d4dbb&req=diQiFc99mIleUfMW1HO4zUJvxM7YjGlC8nL7NQxc7DsZ8xohoqh2y4QTWEdD%0AZuGw%2BJ9TS2hNR8glvhk%3D%0A)
 
 # Find listings in a specific condo complex, subdivision, or community
 
@@ -69,4 +69,4 @@ Your search results update to show listings in the selected condo complex or sub
 
 To find listings without a subdivision or condo complex, select None at the top of the list.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png?expires=1792792800&signature=75248c531141da1ea5857e509b508f0b507f7ad9eded91ca60a699e2c4622428&req=dichFMl%2Fn4dZWfMW1HO4zXt12eGsLahVF8fLm%2Fn0KoSoBibzlxlk1RgIHyUN%0A5H%2B1%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png?expires=1793826000&signature=c607360e92a4a396a35a055db52da052b3fe1858824a95dbb8ad5aa842cedd61&req=dichFMl%2Fn4dZWfMW1HO4zXt12eCjJqxdF8fLgf3yI76fERj8wYMBkDjz2y4B%0AGb4NDr8dvhHKDyF%2B34M%3D%0A)
