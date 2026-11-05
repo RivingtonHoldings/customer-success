@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T17:12:37Z. Articles: 72 (61 published, 11 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T17:28:45Z. Articles: 82 (62 published, 20 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -98,6 +98,21 @@ Collection ID 16866962. 5 articles.
 - [Link a Saved Search to a Tag](link-a-saved-search-to-a-tag.md), updated 2026-11-05
 - [Share a Tag with Clients](share-a-tag-with-clients.md), updated 2026-11-05
 - [Tags Page Overview](tags-page-overview.md), updated 2026-11-05
+
+## Then Vs. Now
+
+Collection ID 19802920. 10 articles.
+
+- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md) (draft), updated 2026-11-05
+- [Find OneHome Features in the Perchwell Client Portal](find-onehome-features-in-the-perchwell-client-portal.md) (draft), updated 2026-11-05
+- [Find and Update Contacts Moved from Matrix](find-and-update-contacts-moved-from-matrix.md) (draft), updated 2026-11-05
+- [Find the Perchwell Report That Replaces Each Matrix Report](find-the-perchwell-report-that-replaces-each-matrix-report.md) (draft), updated 2026-11-05
+- [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md) (draft), updated 2026-11-05
+- [Review Saved Searches Moved from Matrix](review-saved-searches-moved-from-matrix.md) (draft), updated 2026-11-05
+- [Review Your Data Moved from Matrix](review-your-data-moved-from-matrix.md) (draft), updated 2026-11-05
+- [Sample Article](sample-article.md), updated 2026-11-05
+- [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md) (draft), updated 2026-11-05
+- [Why Listings and Market Data Can Look Different in Perchwell](why-listings-and-market-data-can-look-different-in-perchwell.md) (draft), updated 2026-11-05
 
 ## User Settings
 
