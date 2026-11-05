@@ -12,10 +12,10 @@ collections: ["Then vs. Now"]
 state: published
 author_id: 5472692
 created_at: 2026-04-22T18:15:31Z
-updated_at: 2026-11-04T23:28:29Z
+updated_at: 2026-11-05T00:33:35Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T23:29:37Z
+synced_at: 2026-11-05T00:37:12Z
 ---
 
 # Find and Update Contacts Moved from Paragon
@@ -24,11 +24,11 @@ Use this article to find the contacts moved from Paragon and make sure each one 
 
 # Find your contacts moved from Paragon on the Contacts page
 
-Open the Contacts page to find your contacts moved from Paragon on the My Contacts tab. Each profile includes every field the contact had in Paragon. In Paragon, your contacts were in the Collaboration Center.
+Open the Contacts page to find your contacts moved from Paragon on the My Contacts tab. Some fields did not move, because Paragon did not send every field. In Paragon, your contacts were in the Collaboration Center.
 
 Contacts moved in a one-time transfer the week before your Perchwell access date. Changes made in Paragon after that date are not in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png?expires=1793836800&signature=681740075c22b7e6a00c9595caeb1f7ac445704218d2fcd2b0a4e18256a386b6&req=dicvE897mYheUPMW1HO4zZqtw6y3wxPfGRaOloefMcWi2vST%2FlY6psosLIFj%0AMZIJ%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png?expires=1793840400&signature=2fca8007133df37704ab35a68669e09ab44753e80c34dad6ca954d0dc144be45&req=dicvE897mYheUPMW1HO4zZqtw6y3xBXTGRaOloefMcWfIJpewIcUtETBU0ZR%0AnpsU%0A)
 
 # Add an email address to a contact moved from Paragon
 

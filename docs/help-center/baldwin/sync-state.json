@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-04T23:59:03Z",
+ "last_run": "2026-11-05T00:37:12Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
@@ -285,11 +285,11 @@
   },
   "14725404": {
    "file": "review-your-data-moved-from-paragon.md",
-   "updated_at": 1793836465,
+   "updated_at": 1793838929,
    "state": "published",
    "title": "Review Your Data Moved from Paragon",
    "content_id": "17292415",
-   "body_sha1": "305088bc22384e38ddfa3df74f1249e54648525b"
+   "body_sha1": "8a807285d8ee7de4d6ca724dd2d4b7f5e445a272"
   },
   "14725825": {
    "file": "review-saved-searches-moved-from-paragon.md",
@@ -621,11 +621,11 @@
   },
   "14726035": {
    "file": "find-and-update-contacts-moved-from-paragon.md",
-   "updated_at": 1793834909,
+   "updated_at": 1793838815,
    "state": "published",
    "title": "Find and Update Contacts Moved from Paragon",
    "content_id": "17293244",
-   "body_sha1": "f7d6647a52032c4b30bbfec012399fda74186a25"
+   "body_sha1": "6da528ccb6bf1a6dbc4d4522e3bf7a7c708f74b8"
   },
   "15521036": {
    "file": "sample-emails-to-tell-clients-about-perchwell.md",
