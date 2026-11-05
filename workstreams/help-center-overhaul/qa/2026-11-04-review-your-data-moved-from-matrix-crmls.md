@@ -134,3 +134,11 @@ The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara
 ## Contact fields reworded, Nov 5, 2026
 
 - Tara is not sure whether Matrix contacts without an email address will transfer. The Contacts bullet no longer says every contact moved or that a valid first name, last name, and email were required (the earlier wording came from the legacy-MLS Transfer Guide, not Matrix). It now says "Contacts moved with their name, email address, phone number, and any additional email addresses," which holds whichever way the team answers. Edit when confirmed.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. Sam added the CRMLS screenshot (Visual Status CRMLS Final), so the repo placeholder became an image line. Contacts now follow Baldwin: Tara said contacts are handled as in Baldwin, so the Update contacts section says they arrived uninvited and some have no email address.
+
+## Decisions, Nov 5, 2026
+
+- Older Perchwell Transfer Guide (record 12881759, Getting Started after Migrations): Tara decided it is retired after the new articles publish. Retirement runs only after a teammate publishes the replacement records and is a rung 3 change (set to draft, one confirmation per record, changelog line). It covers the same ground as this article, the saved search article, and the contacts article. Its IDX and single sign-on answers are not in the new set and will be gone with it.

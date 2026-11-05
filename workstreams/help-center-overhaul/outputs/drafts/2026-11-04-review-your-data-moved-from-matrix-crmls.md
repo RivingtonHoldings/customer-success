@@ -35,7 +35,7 @@ Review each saved search moved from Matrix to check its filters before you turn 
 
 The saved search keeps your changes. Its name still starts with [From Matrix: Unreviewed] until you rename it, and its alerts stay off until you turn them on.
 
-> Screenshot placeholder (CRMLS): Show the My Searches window with a moved saved search whose name starts with [From Matrix: Unreviewed] | Alt text: The My Searches window with a saved search named [From Matrix: Unreviewed] followed by the search name.
+> Image added in Notion: CRMLS | Alt text: The My Searches window with a saved search named [From Matrix: Unreviewed] followed by the search name.
 
 Check the Contacts column in the My Searches window to confirm each saved search is linked to the right contacts.
 
@@ -57,7 +57,7 @@ Recipient controls who receives the alerts, so check it before you click Update.
 
 ## Update contacts moved from Matrix
 
-Check the contacts that moved from Matrix before you share with them. They arrived uninvited, which means they do not have access to Perchwell until you invite them.
+Check the contacts that moved from Matrix before you share with them. They arrived uninvited, which means they do not have access to Perchwell until you invite them. Some have no email address, and those contacts are left out of the contact list when you share or send a message.
 
 For more information:
 - [confirm: link to the CRMLS Find and Update Contacts Moved from Matrix article once it exists] explains how to find your contacts and add a missing email address.

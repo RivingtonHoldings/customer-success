@@ -127,3 +127,11 @@ Tara's revision applied with four changes. Kept: the HOA definition, the idea of
 ## Row name, Nov 5, 2026
 
 The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara's request, so the row now carries the exact article title for the port. The master sheet's title columns were not changed.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. No screenshots on this article.
+
+## Decisions, Nov 5, 2026
+
+- Blank placeholder (record 18231908, Listing Field Changes in Perchwell, published, empty): Tara decided to replace its content in place. The record is published, so the update goes live as soon as it is written. It is a change to a live article, so the port needs the full diff, one confirmation, a changelog line, and a mirror re-sync; no new CRMLS record is created for this article and Intercom URL CRMLS takes this record's URL. Nothing has been written to Intercom.

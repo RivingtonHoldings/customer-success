@@ -123,3 +123,7 @@ Tara's version applied with one change. Kept: "numbers your listings in order, s
 ## Row name, Nov 5, 2026
 
 The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara's request, so the row now carries the exact article title for the port. The master sheet's title columns were not changed.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. No screenshots on this article.

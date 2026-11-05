@@ -98,3 +98,12 @@ Total 100.0 of 100, band Fin-ready. The score does not count open confirm marker
 ## Row name, Nov 5, 2026
 
 The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara's request, so the row now carries the exact article title for the port. The master sheet's title columns were not changed.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. No screenshots on this article.
+
+## Decisions, Nov 5, 2026
+
+- CRIB sentence: Tara approved the reword. The paragraph now ends "The last step takes about 5 minutes after CRMLS sends the change." I also changed the sentence before it from "has usually not reached CRIB yet" to "has usually not reached Perchwell yet", so the two sentences agree and the member is not asked to think about CRIB.
+- Plain language gate: Tara confirmed the noun is member ID. "The agent has two CRMLS member IDs." The gate flag from earlier is cleared; the gate now passes.

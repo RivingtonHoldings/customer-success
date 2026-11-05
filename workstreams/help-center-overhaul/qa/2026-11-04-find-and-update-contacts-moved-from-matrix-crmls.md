@@ -110,3 +110,7 @@ The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara
 ## Contact fields reworded, Nov 5, 2026
 
 - Same rewording as the hub for the field list. The Add an email address section stays, written conditionally ("any contact that has none"), with a marker: whether Matrix contacts without an email address moved. If they are excluded, delete the section; if they come over, keep it. The marker blocks the port until Tara confirms.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. Sam added the CRMLS screenshot. The contacts marker is cleared: Tara said contacts are handled as in Baldwin, so the Add an email address section follows Baldwin's wording (a contact that moved without an email; Perchwell requires one to create a contact). Marker removed.

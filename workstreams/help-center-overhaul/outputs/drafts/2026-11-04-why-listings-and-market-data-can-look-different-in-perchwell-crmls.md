@@ -13,7 +13,7 @@ A new or edited CRMLS listing travels to Perchwell in this order:
 2. Matrix sends the change to CRIB, on a timeline CRMLS controls.
 3. CRIB sends the change to Perchwell, which takes about 5 minutes.
 
-The listing then appears in Perchwell search results with the update. When a listing looks different in Perchwell than in Matrix, the change has usually not reached CRIB yet. Check the listing in Perchwell again 5 minutes after the change reaches CRIB.
+The listing then appears in Perchwell search results with the update. When a listing looks different in Perchwell than in Matrix, the change has usually not reached Perchwell yet. The last step takes about 5 minutes after CRMLS sends the change.
 
 [confirm: link to the CRMLS Listing Field Changes in Perchwell article once it has a public link] explains $0 and 0 values, the status name that differs in the dashboards, and property subtypes Perchwell does not store.
 
@@ -34,5 +34,5 @@ Market Analytics and the Agent and Office Ranking reports can show numbers that 
 | What you see | Why it happens | What to do |
 |---|---|---|
 | Market Analytics prices look about 20% low | The Sale Or Rental filter starts at any value, so rentals mix in with sales | Set Sale Or Rental to Sale. |
-| The same agent appears twice in Agent Ranking | The agent has two CRMLS member records | Add the two rows together for that agent's total. |
+| The same agent appears twice in Agent Ranking | The agent has two CRMLS member IDs | Add the two rows together for that agent's total. |
 | A blank office appears at the top of Office Ranking | The buyer's agent belongs to a neighboring MLS, so CRMLS sends no office for that agent | The blank row is sales by agents from other MLSs. |

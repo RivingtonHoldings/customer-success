@@ -111,3 +111,7 @@ Description reworded to follow the Baldwin article's wording, with Matrix terms 
 ## Row name, Nov 5, 2026
 
 The "(CRMLS)" suffix was removed from this article's Notion Article Name at Tara's request, so the row now carries the exact article title for the port. The master sheet's title columns were not changed.
+
+## Synced from Notion, Nov 5, 2026
+
+Notion was ahead of the repo. Kelly is the Article Reviewer on all nine rows, Article Due is Nov 12, 2026, Article Status is Ready to Transfer, and Roles is All Except Client, all set by Tara or the team. Article Review Status is still Not Started; the CRMLS port needs Review Finished or Complete. Sam added both CRMLS screenshots (Visual Status CRMLS Final); the repo placeholders became image lines.

@@ -10,11 +10,11 @@ Open the Contacts page to find your contacts moved from Matrix on the My Contact
 
 Contacts moved in a one-time transfer at the start of your Perchwell member training. Changes made in Matrix afterward are not in Perchwell.
 
-> Screenshot placeholder (CRMLS): Show the My Contacts tab on the Contacts page with contacts moved from Matrix | Alt text: The My Contacts tab on the Contacts page listing contacts with their names, email addresses, and phone numbers.
+> Image added in Notion: CRMLS | Alt text: The My Contacts tab on the Contacts page listing contacts with their names, email addresses, and phone numbers.
 
 ## Add an email address to a contact moved from Matrix
 
-Add an email address to any contact that has none. [confirm: whether Matrix contacts without an email address moved] On the My Contacts tab, a contact without one has an empty Email column. Without an email address, a contact is left out of the contact list when you:
+Add an email address to any contact that moved from Matrix without one. On the My Contacts tab, those contacts have an empty Email column. Perchwell requires an email address to create a contact, but some contacts moved from Matrix without one. Without one, a contact is left out of the contact list when you:
 - Share a listing by email
 - Share a saved search
 - Share a report

@@ -10,7 +10,7 @@ Click Saved Searches, or the name of the open saved search, in the upper left of
 
 Saved searches moved in a one-time transfer at the start of your Perchwell member training. A saved search created in Matrix after the transfer did not move, so recreate it in Perchwell.
 
-> Screenshot placeholder (CRMLS): Show the My Searches window with moved saved searches whose names start with [From Matrix: Unreviewed] | Alt text: The My Searches window listing saved searches whose names start with [From Matrix: Unreviewed].
+> Image added in Notion: CRMLS | Alt text: The My Searches window listing saved searches whose names start with [From Matrix: Unreviewed].
 
 ## Find the contacts linked to saved searches moved from Matrix
 
@@ -18,7 +18,7 @@ Saved searches moved from Matrix stay linked to the contacts they had in Matrix.
 - Contacts column: Lists each saved search's contacts in the My Searches window, which opens from Saved Searches on the Search page.
 - Shared Searches tab: Lists every saved search linked to one contact, on the left side of that contact's page.
 
-> Screenshot placeholder (CRMLS): Show a contact's page with the Shared Searches tab open | Alt text: A contact's page with the Shared Searches tab listing the saved searches linked to that contact.
+> Image added in Notion: CRMLS | Alt text: A contact's page with the Shared Searches tab listing the saved searches linked to that contact.
 
 ## Add a missing contact to a saved search moved from Matrix
 
