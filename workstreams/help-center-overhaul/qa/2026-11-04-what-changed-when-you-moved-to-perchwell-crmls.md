@@ -135,7 +135,7 @@ Tara was unclear about the location filters and sent a Filters screenshot. It sh
 
 Dropped, not verified: the doc's claim that each Perchwell list shows every option after another filter is set. The screenshot cannot show it. To test: on the Filters tab, set County to one county, open the City dropdown, and note whether it lists only cities in that county or every city. Add a sentence if members would want to know.
 
-Also from the screenshot: the Status & Activity statuses read Coming soon, Active, Active under contract, Pending, Closed, Expired, Canceled, Hold, and Withdrawn. There is no Temp off mkt, which confirms Hold is the CRMLS status. The CRMLS Filter Your Search by Status and Price Changes draft and the What Each Listing Status Means draft (TRK-117) still say Temp off mkt and need checking.
+Also from the screenshot: the Status & Activity statuses read Coming soon, Active, Active under contract, Pending, Closed, Expired, Canceled, Hold, and Withdrawn. There is no Temp off mkt, which confirms Hold is the CRMLS status. Correction, Nov 5: What Each Listing Status Means (CRMLS), TRK-117, already uses Hold. Only the shared Filter Your Search by Status and Price Changes article (TRK-087, live record 11010696) still says Temp off mkt; it is logged in open-article-fixes.md.
 
 ## Markers resolved, Nov 5, 2026
 

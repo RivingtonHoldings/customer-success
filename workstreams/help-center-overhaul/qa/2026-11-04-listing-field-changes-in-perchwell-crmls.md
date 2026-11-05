@@ -121,7 +121,7 @@ Tara's revision applied with four changes. Kept: the HOA definition, the idea of
 
 ## Markers resolved, Nov 5, 2026 (Tara's answer and two screenshots)
 
-- Hold or Temp off mkt (V16): Tara confirmed the off-market status is Hold. Marker removed; the section now says Hold. Check next: the CRMLS Filter Your Search by Status and Price Changes draft and the CRMLS What Each Listing Status Means draft (TRK-117) still say Temp off mkt, copied from Baldwin, and may be wrong for CRMLS.
+- Hold or Temp off mkt (V16): Tara confirmed the off-market status is Hold. Marker removed; the section now says Hold. Check next: the shared Filter Your Search by Status and Price Changes article (TRK-087, live record 11010696) says Temp off mkt, which is Baldwin's status, not CRMLS's; it is logged in open-article-fixes.md. Correction, Nov 5: What Each Listing Status Means (CRMLS), TRK-117, already uses Hold, so my earlier claim that it said Temp off mkt was wrong.
 - Community (V8): Tara's Filters screenshot shows a Community section holding two fields, Subdivision name and Subdivision name other, and the filter search for "subdivision" lists both under Community. Her listing screenshot shows Subdivision name other (Arrowhead Woods) in the Land & Lot section. The section now says so and the marker is removed. The doc's "under subdivision and complex" was dropped: the screenshot shows no complex field. Not verified: where the Subdivision name field appears on a listing (the browser find showed two matches for "subdivision"; the second was in the collapsed Location section), and which of the two fields Matrix Township maps to. The article asserts only what the screenshots show.
 
 ## Row name, Nov 5, 2026

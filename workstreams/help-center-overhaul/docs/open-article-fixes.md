@@ -20,6 +20,9 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Create a Listing Report**, TRK-067
 - The sample has a "% Change +9893.57%" row that looks like a data error.
 
+**Create a Quick CMA Report (CRMLS)**, TRK-127
+- The live CRMLS record (13959293) says up to 12 fields in landscape. CRMLS is 11 (Tara, November 5, 2026); the Notion draft now says 11, and the live record is corrected when TRK-127 ports. Baldwin's 12 is right for Baldwin: do not change TRK-070.
+
 ## Contacts and client collaboration
 
 **Export Contacts to a CSV File**, TRK-009
@@ -35,6 +38,9 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 
 **Print or Save Search Results as a PDF**, TRK-086
 - The Actions menu placeholder (Print highlighted) has no image yet. When captured, place it above the printout image, after steps 2 and 3.
+
+**Filter Your Search by Status and Price Changes**, TRK-087 (one row for Baldwin and CRMLS, live record 11010696)
+- The date-window sentence lists "Temp off mkt" among the statuses that default to 180 days. Baldwin's status is Temp off mkt; CRMLS's is Hold (Tara's CRMLS Filters screenshot, November 5, 2026; TRK-117 already uses Hold). Fix the CRMLS version to say Hold through the CRMLS port, and leave Baldwin's text alone.
 
 ## Manage Listings
 
