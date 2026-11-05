@@ -3,19 +3,19 @@ intercom_id: "18233009"
 content_id: "23616464"
 title: "Dashboard Overview"
 description: "Get familiar with the Perchwell Dashboard: understand what each widget shows, customize your layout, and access integrations."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18233009-dashboard-overview"
 help_center: crmls
 help_center_id: 4767477
 collection: "Dashboard"
 collection_ids: [16866828]
 collections: ["Dashboard"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T19:54:56Z
-updated_at: 2026-11-04T23:00:26Z
+updated_at: 2026-11-04T23:52:28Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Dashboard Overview
@@ -28,7 +28,7 @@ The Dashboard is the Perchwell page that brings market activity together with yo
 
 To go straight to a listing, agent, or contact from the Dashboard, type an address, MLS ID, name, or email into the Search field in the upper right of the top navigation. [Universal Search Bar](https://support.perchwell.com/crmls/en/articles/18234136-universal-search-bar) explains what you find there and how to open it.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060555/d3298581d765a35800dcd43bb2e7/upload_12622827175388725982.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060555/d3298581d765a35800dcd43bb2e7/upload_12622827175388725982.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060555/d3298581d765a35800dcd43bb2e7/upload_12622827175388725982.png?expires=1793900700&signature=1267942bd0b96c9d644437f385cb49846f55b812d398c55826f9944e94e549d0&req=dicvHsl4nYRaXPMW1HO4zchKptfelRquZKV%2BiGZf5ggm7bJwdaH%2F4eSpMNwp%0AE0vGsiCeDKQD7teo7bM%3D%0A)
 
 # What each Dashboard widget shows
 
@@ -42,7 +42,7 @@ The Hot Sheets widget on the Dashboard tracks new and updated listing activity f
 
 [Add a Hot Sheet to the Dashboard](https://support.perchwell.com/crmls/en/articles/18232986-add-a-hot-sheet-to-the-dashboard) walks through creating both types step by step. For how many Hot Sheets fit on a Dashboard, how far back a timeframe reaches, and what counts as off-market activity, see [Dashboard FAQ](https://support.perchwell.com/crmls/en/articles/18234749-dashboard-faq).
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060573/b01ca59c02e00ec322baf3dffc23/upload_3824598041941332670.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060573/b01ca59c02e00ec322baf3dffc23/upload_3824598041941332670.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060573/b01ca59c02e00ec322baf3dffc23/upload_3824598041941332670.png?expires=1793900700&signature=98ce475651afcc72bcd434d9e1ff6ebeadd143041bd0213e356b763232c84223&req=dicvHsl4nYRYWvMW1HO4zdcrrLH0pFywBd1AeldbSsm6CbFHpv2A8xhNyewz%0A49gC6q9sneDcXxsyM6Q%3D%0A)
 
 ## Contacts widget on the Dashboard
 
@@ -50,7 +50,7 @@ The Contacts widget on the Dashboard lists the people you have added to Perchwel
 
 Learn how to add, import, and group contacts in [Create and Manage Your Contacts in Perchwell](https://support.perchwell.com/crmls/en/articles/18232928-create-and-manage-your-contacts-in-perchwell).
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060596/f91cfddfd4673825e8f20e06393c/upload_14094638243009944038.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060596/f91cfddfd4673825e8f20e06393c/upload_14094638243009944038.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060596/f91cfddfd4673825e8f20e06393c/upload_14094638243009944038.png?expires=1793900700&signature=e27af6ee1d5e63d0ef31e3dc5c4d0cc3241b3aa599f7ca31f3b2206f9da42e46&req=dicvHsl4nYRWX%2FMW1HO4zVvhqK7bLIrb0v2BLcur5yOrI69H7Iz0nGW1oOCc%0ACaWBKHUNg5SOjK1tW18%3D%0A)
 
 ## Saved Searches widget on the Dashboard
 
@@ -58,7 +58,7 @@ The Saved Searches widget on the Dashboard lists your Saved Searches, and clicki
 
 [Manage Your Saved Searches](https://support.perchwell.com/crmls/en/articles/18234059-manage-your-saved-searches) covers renaming, editing, and deleting a Saved Search, and setting up its email alerts.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060615/f6eb4c214932732dc15b2a70ce72/upload_262081386461669108.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060615/f6eb4c214932732dc15b2a70ce72/upload_262081386461669108.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060615/f6eb4c214932732dc15b2a70ce72/upload_262081386461669108.png?expires=1793900700&signature=ccc7aa22a519923c49f0df1abac12744313cb2432e6689fee50d7bffbaa79631&req=dicvHsl4nYdeXPMW1HO4zQPx5FaQdH8VRdh1DtRyr4rmqFNQqFHJmhP2mVBN%0Av%2FnA19L9MGnIf%2F6%2FEfQ%3D%0A)
 
 ## Tags widget on the Dashboard
 
@@ -68,7 +68,7 @@ Members who came from a legacy platform may know Tags as listing carts. [Find Fa
 
 [Tags Page Overview](https://support.perchwell.com/crmls/en/articles/18233327-tags-page-overview) explains how Tags hold listings, how My Tags and Client Tags differ, and how to work with Tags on the Tags page.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060632/3f543a4a2f604921a6456ea2e158/upload_6704687711702029881.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060632/3f543a4a2f604921a6456ea2e158/upload_6704687711702029881.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060632/3f543a4a2f604921a6456ea2e158/upload_6704687711702029881.png?expires=1793900700&signature=20d6dbbaca0521b58f2e5b58b29622d6dacd776dff7666a04042b2234f1499ef&req=dicvHsl4nYdcW%2FMW1HO4zf5S3IeYXzxPUbH1vwexmB%2BpeFO6JDihqJHhGbVx%0APghJidasxhiuFe9rDTY%3D%0A)
 
 ## Listings widget on the Dashboard
 
@@ -76,11 +76,11 @@ The Listings widget on the Dashboard shows listings from your own up to every li
 
 If your MLS uses Perchwell for listing entry, a pencil icon appears next to each listing when the Listings widget is set to My Listings. Click it to open the listing in Add/Edit. If your MLS connects ShowingTime, a ShowingTime icon appears next to the listing. Click it to open ShowingTime for that listing and manage showing details, including availability, access instructions, appointment requests, and feedback.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060645/607a4e48699e586046f6aa0f00fc/upload_3477368902965106749.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060645/607a4e48699e586046f6aa0f00fc/upload_3477368902965106749.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060645/607a4e48699e586046f6aa0f00fc/upload_3477368902965106749.png?expires=1793900700&signature=f25a4334c5e8631a0a7ae2d169c3ee0c5a5245156306f6074b764d747b43933a&req=dicvHsl4nYdbXPMW1HO4zaLnZ3LGaqD4aDQPyw2sbPno5Up7W4m%2BYjvJlIq7%0A0LriryTNfrQJXNbqgl8%3D%0A)
 
 When the Listings widget is set to MLS Listings, Brokerage Listings, or Office Listings, a tag icon appears instead. Click the tag icon to add the listing to a Tag.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060673/b283b5bcef0d11c51c7096fdd66a/upload_9564809076035310987.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060673/b283b5bcef0d11c51c7096fdd66a/upload_9564809076035310987.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060673/b283b5bcef0d11c51c7096fdd66a/upload_9564809076035310987.png?expires=1793900700&signature=e187e6eb567ae85b5ac113d139a08e651869cb5c353e9446b535420edeccb654&req=dicvHsl4nYdYWvMW1HO4zUncpb2OX%2F7P%2Fw1lTb8blyT65Gs9OzlZKgMA4nhv%0As03VFFya785w5GGGmeM%3D%0A)
 
 [Find Listings in the Listings Widget](https://support.perchwell.com/crmls/en/articles/18233020-find-listings-in-the-listings-widget) covers choosing whose listings you see, the status and activity filters, finding a listing that is missing, and the quick actions available on each listing.
 
@@ -92,7 +92,7 @@ Choose and arrange your Dashboard widgets from Manage widgets, in the top right 
 
 [Customize Your Dashboard](https://support.perchwell.com/crmls/en/articles/18232992-customize-your-dashboard) covers adding, removing, and reordering widgets, and sorting the list in each widget.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060699/177d1ef81d36f959b8f4fc8c0e2b/upload_2527142043159810702.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060699/177d1ef81d36f959b8f4fc8c0e2b/upload_2527142043159810702.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788060699/177d1ef81d36f959b8f4fc8c0e2b/upload_2527142043159810702.png?expires=1793900700&signature=511365a5aeb8a9c332a2cded46dadcfcbd01adc39d9ba2c32ccdb32b9e8b56b5&req=dicvHsl4nYdWUPMW1HO4zeFn4H0OHiNv7QKqoyktvkvvRQz9zpOspm2iuutk%0A%2BG7TFxtBKr6dFy%2BFAHQ%3D%0A)
 
 # Launch integrations from the Dashboard
 

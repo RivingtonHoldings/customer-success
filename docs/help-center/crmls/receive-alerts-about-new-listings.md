@@ -3,19 +3,19 @@ intercom_id: "18231970"
 content_id: "23615116"
 title: "Receive Alerts About New Listings"
 description: "Get saved search alerts by email when new listings match the search your agent set up for you."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18231970-receive-alerts-about-new-listings"
 help_center: crmls
 help_center_id: 4767477
 collection: "Client Experience"
 collection_ids: [19802003]
 collections: ["Client Experience"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T17:55:57Z
-updated_at: 2026-11-04T19:44:12Z
+updated_at: 2026-11-05T01:29:15Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T19:48:56Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Receive Alerts About New Listings
@@ -40,7 +40,7 @@ Each saved search alert email opens with "Latest updates to" and the saved searc
 
 Saved search alert emails do not include a way to message your agent. To message your agent, open Messages in Perchwell. [Communicate with Your Agent via Messages in Perchwell](https://support.perchwell.com/crmls/en/articles/18231941-communicate-with-your-agent-via-messages-in-perchwell) explains how. [Unsubscribe from Saved Search Alert Emails](https://support.perchwell.com/crmls/en/articles/18232828-unsubscribe-from-saved-search-alert-emails) covers how to stop receiving saved search alerts.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750428/57cbe349dd63926db6283a4d67c6/upload_17828288929585666116.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750428/57cbe349dd63926db6283a4d67c6/upload_17828288929585666116.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750428/57cbe349dd63926db6283a4d67c6/upload_17828288929585666116.png?expires=1793900700&signature=9f48d09f81a95353e5ca0d4d7b47cf302b6c77f1ab09e22c8c86dcc825c7a85c&req=dicvEc57nYVdUfMW1HO4zZB9G7Qi2fzMh1GDilt2N6PXuxkG6ATMj7Y6XQm%2F%0AzrzvnVezeK9XeNIrx%2B0%3D%0A)
 
 # Open a listing from a saved search alert email
 
@@ -52,7 +52,7 @@ Open any listing in a saved search alert email to view its photos and property d
 
 The listing opens on its Listing Detail Page, with your agent's name and contact details at the top.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750470/a7fc889a493ebdef48014f29db00/upload_13451119707996085965.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750470/a7fc889a493ebdef48014f29db00/upload_13451119707996085965.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750470/a7fc889a493ebdef48014f29db00/upload_13451119707996085965.png?expires=1793900700&signature=17bb4d10022e415859dabbcdacfe9b4fe03b3150da3e3ca2381eabc5531b8705&req=dicvEc57nYVYWfMW1HO4zezaj4ynbarUb4qspvoQAGhd7z3R9fsjjPcCo%2ByA%0A9QA47eRhxADXW0ql%2Fig%3D%0A)
 
 # See the newest saved search matches in Perchwell
 
@@ -66,6 +66,6 @@ See the newest listings that match a saved search by opening it in your client p
 
 The listings with the fewest days on market move to the top of the results. Saved search results are sorted by status until you choose a different sort.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750519/f34aad97cbac75b1b0b7d7ea05d0/upload_4760864401138933133.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750519/f34aad97cbac75b1b0b7d7ea05d0/upload_4760864401138933133.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750519/f34aad97cbac75b1b0b7d7ea05d0/upload_4760864401138933133.png?expires=1793900700&signature=5ddad68735b7ba43dea18763dc727ecef457c0e9215070aa7602df4e3db90c06&req=dicvEc57nYReUPMW1HO4zbLHJ%2BKoHOTErVTUt0boPcDX2JuuvvuguBITr1Ug%0Aiu00YeLG9i2ZGc5xgXc%3D%0A)
 
 Your agent decides whether a saved search appears in your client portal. If you receive alerts but cannot find the saved search, ask your agent to give you access to it. [View Shared Saved Searches](https://support.perchwell.com/crmls/en/articles/18232664-view-shared-saved-searches) explains how to explore and filter a shared saved search.

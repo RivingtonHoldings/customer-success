@@ -3,19 +3,19 @@ intercom_id: "18232867"
 content_id: "23616285"
 title: "Set Up Your Clients in Perchwell"
 description: "Add clients as contacts, invite them to Perchwell, share saved searches, turn on alerts for them, and send them listings in Messages."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18232867-set-up-your-clients-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
 collection: "Client Collaboration"
 collection_ids: [16866981]
 collections: ["Client Collaboration"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T19:34:44Z
-updated_at: 2026-11-04T22:07:42Z
+updated_at: 2026-11-05T00:32:36Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Set Up Your Clients in Perchwell
@@ -26,7 +26,7 @@ Use this article to add clients to your contacts, invite them to Perchwell, shar
 
 Add clients to your contacts on the Contacts page before you invite them or share anything with them. Contacts from a legacy platform may already be on your My Contacts tab.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png?expires=1793900700&signature=a3709785f1fc9dbf210f922c8a902225fa3b14dde7e09030d2aed455a43e0a05&req=dicvHsl%2Bm4haXPMW1HO4zcNYQ6zwNPKgvhB4fQVg5qUWgcAQNgAAlhxILWDM%0AU2lBE9NScZlJaP9C5OI%3D%0A)
 
 [Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) explains how to add one contact at a time. To add multiple clients at once, see [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/crmls/en/articles/18232805-bulk-upload-contacts-from-a-csv-file) for uploading them from a CSV (comma-separated values) file.
 

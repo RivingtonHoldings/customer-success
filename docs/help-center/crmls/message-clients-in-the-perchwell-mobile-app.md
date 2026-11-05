@@ -3,19 +3,19 @@ intercom_id: "18234364"
 content_id: "23618099"
 title: "Message Clients in the Perchwell Mobile App"
 description: "Message invited clients in the Perchwell mobile app, share listings from Search or a listing, and review how clients react to them."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234364-message-clients-in-the-perchwell-mobile-app"
 help_center: crmls
 help_center_id: 4767477
 collection: "Mobile"
 collection_ids: [19802008]
 collections: ["Mobile"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:22:30Z
-updated_at: 2026-11-04T22:25:31Z
+updated_at: 2026-11-05T01:31:46Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:29:19Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Message Clients in the Perchwell Mobile App
@@ -59,7 +59,7 @@ The conversation opens with your message. To start from a contact instead, tap M
 
 To continue a conversation, tap the client's name on the Messages tab. The General tab shows your messages and shared listings, with the time each message was sent.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png?expires=1793900700&signature=98f822046d6f3d545a70446594fe42cbe54537da3d065ad54e7e7d0b97440a9e&req=dicvHsp6lYBaWvMW1HO4zU0WyL9gQBAe5d3ebrpKBW3Q3a0E5EvKWE9aag7j%0Ayweb7GT6sQh3nKN4Jts%3D%0A)
 
 Members who came from a legacy platform may know Messages as part of the Collaboration Center.
 

@@ -3,19 +3,19 @@ intercom_id: "18232986"
 content_id: "23616433"
 title: "Add a Hot Sheet to the Dashboard"
 description: "Add a Hot Sheets widget to your Perchwell Dashboard and set it up to track listing activity within a Saved Search or across the MLS."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18232986-add-a-hot-sheet-to-the-dashboard"
 help_center: crmls
 help_center_id: 4767477
 collection: "Dashboard"
 collection_ids: [16866828]
 collections: ["Dashboard"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T19:51:14Z
-updated_at: 2026-11-04T23:00:22Z
+updated_at: 2026-11-05T16:42:30Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Add a Hot Sheet to the Dashboard
@@ -40,7 +40,7 @@ Add a Hot Sheets widget to the Dashboard from Manage widgets, in the top right c
 2. Click Manage widgets in the top right corner
 3. Click Add hot sheet
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788052634/f202537414d8737eb0417d8fd398/upload_12811573299235034428.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788052634/f202537414d8737eb0417d8fd398/upload_12811573299235034428.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788052634/f202537414d8737eb0417d8fd398/upload_12811573299235034428.png?expires=1793900700&signature=d24dc2a3536a34f144ceae5a975e1edc93931c7a1d3dd2b20114d482f1bf843f&req=dicvHsl7n4dcXfMW1HO4zYmp4%2BPaScywhzhvM4mlShb9xGcs%2B4KM10UIjEtD%0AXJmkMtnQv9X5z9qBSmM%3D%0A)
 
 The new Hot Sheets widget is added to the Dashboard and opens on a choice of two: From saved search, or New hot sheet.
 

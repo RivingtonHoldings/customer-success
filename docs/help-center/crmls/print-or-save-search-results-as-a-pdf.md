@@ -3,19 +3,19 @@ intercom_id: "18234086"
 content_id: "23617762"
 title: "Print or Save Search Results as a PDF"
 description: "Choose which columns print and which listings to include, then print search results from Perchwell or save them as a PDF."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234086-print-or-save-search-results-as-a-pdf"
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T21:50:20Z
-updated_at: 2026-11-04T21:50:21Z
+updated_at: 2026-11-05T00:07:18Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Print or Save Search Results as a PDF
@@ -58,11 +58,11 @@ Print is available in List and Expanded views. In Tiles view, switch to List or 
 
 Your browser's print window opens with a preview. The printout includes every listing in your search results, regardless of which listings are selected, including any not yet loaded on the page.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301509/823ed18760560aecace4e6ebe777/upload_5904261951839643449.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301509/823ed18760560aecace4e6ebe777/upload_5904261951839643449.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301509/823ed18760560aecace4e6ebe777/upload_5904261951839643449.png?expires=1793900700&signature=dcf9b1906be33468d9337b1d5438878116041177f9429c49c53e6d36ceb7aa55&req=dicvHsp%2BnIRfUPMW1HO4zcbMG%2BF3wfX58zWYFWYGzBsJm8rLxJ4T5WZoxbAA%0AyltkjfcazjhbB8jHvoc%3D%0A)
 
 The header shows Search Results and the search name if the search is saved. The footer shows the result count, page numbers, and the date and time printed.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301560/7a015eac0b3219602427a3271cbc/upload_15915446396047002632.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301560/7a015eac0b3219602427a3271cbc/upload_15915446396047002632.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301560/7a015eac0b3219602427a3271cbc/upload_15915446396047002632.png?expires=1793900700&signature=598c9350110a11d6d8d6b35d19be276c5841934abbb8c3913b3d6fdc17991229&req=dicvHsp%2BnIRZWfMW1HO4zdZmovpAPVLqG35rb6knmD1BKtrQz2bCAr8CaYqc%0AdRsUys89nXBW0ErOH54%3D%0A)
 
 To share a formatted report instead, such as a CMA or a Listing Report, select Create a Report in the Actions menu. [Create a Listing Report](https://support.perchwell.com/crmls/en/articles/18233087-create-a-listing-report) explains how.
 
@@ -77,4 +77,4 @@ Choose the page layout and save your search results as a PDF from your browser's
 
 Your search results print, or the PDF saves to your computer.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301593/03788bd014d55a0c559df9a3b0a3/upload_1540202042970716098.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301593/03788bd014d55a0c559df9a3b0a3/upload_1540202042970716098.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788301593/03788bd014d55a0c559df9a3b0a3/upload_1540202042970716098.png?expires=1793900700&signature=400c2b1c6bc060b78f42dbd7fbff58db6063606bd6efac12c692d1434d4e7d90&req=dicvHsp%2BnIRWWvMW1HO4zVm3rN2XZe7uq%2B%2FMiNSiPJATFGbP6EyKTArClnyo%0AsbgUO8PvsunoNhGG%2FWY%3D%0A)

@@ -3,19 +3,19 @@ intercom_id: "18234509"
 content_id: "23618260"
 title: "Create and Manage Teams"
 description: "Find a team in Manage People, request a team change, or, as MLS staff, create Perchwell Teams and add agents to share listing access."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234509-create-and-manage-teams"
 help_center: crmls
 help_center_id: 4767477
 collection: "Manage People"
 collection_ids: [19802005]
 collections: ["Manage People"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:34:51Z
-updated_at: 2026-11-04T22:34:51Z
+updated_at: 2026-11-05T00:43:37Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:37:15Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Create and Manage Teams

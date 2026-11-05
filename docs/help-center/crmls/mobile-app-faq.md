@@ -3,19 +3,19 @@ intercom_id: "18234753"
 content_id: "23618556"
 title: "Mobile App FAQ"
 description: "Questions about the Perchwell mobile app: where listing notes show, and assuming an agent's identity."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234753-mobile-app-faq"
 help_center: crmls
 help_center_id: 4767477
-collection: "FAQ, Tips, and What's New in Perchwell"
+collection: "Frequently Asked Questions"
 collection_ids: [16867037]
-collections: ["FAQ, Tips, and What's New in Perchwell"]
-state: draft
+collections: ["Frequently Asked Questions"]
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:56:54Z
-updated_at: 2026-11-04T22:56:54Z
+updated_at: 2026-11-05T01:26:22Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Mobile App FAQ

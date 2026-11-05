@@ -3,19 +3,19 @@ intercom_id: "18234136"
 content_id: "23617829"
 title: "Universal Search Bar"
 description: "Find a listing, agent, or contact from any page in Perchwell by typing an address, MLS ID, name, or email into the Universal Search Bar."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234136-universal-search-bar"
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:01:33Z
-updated_at: 2026-11-04T23:00:24Z
+updated_at: 2026-11-05T00:05:36Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Universal Search Bar
@@ -41,7 +41,7 @@ Matches appear as you type, and clicking one opens it.
 
 The Universal Search Bar opens one listing at a time. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](https://support.perchwell.com/baldwin/en/articles/15200328-search-faq) covers this in detail.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png?expires=1793900700&signature=0df39d0ea5adea32292527724728b6e0f19e80bc6494048d63caf9f9e60b74d5&req=dicvHsp%2FlIVXWfMW1HO4zUCWPQMvluAsulG5kWJNcDwcCbviwPhiFBiG3z9r%0A4dLzG3LymLNybwdRTr0%3D%0A)
 
 # What you find with the Universal Search Bar
 
@@ -52,7 +52,7 @@ The Universal Search Bar finds listings, agents, and contacts. The search window
 
 You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears, and so does a result matching only a number you typed. Keep typing to narrow the list.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png?expires=1793900700&signature=81a0b0593181f04297d2662ff75ec92c675ff12e07c74e69886d4d965e2c47bb&req=dicvHsp%2FlIReWfMW1HO4zWzebui3rBgmtIOBZ%2BF%2BtG8eUix8LR1DCwBt8vdX%0AeLFhckjSmSYZeYFy8GU%3D%0A)
 
 # Things to Know
 - Members who came from a legacy platform may know the Universal Search Bar as Power Search. [Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.

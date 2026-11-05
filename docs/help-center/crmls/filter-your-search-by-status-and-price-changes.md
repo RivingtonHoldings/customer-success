@@ -1,28 +1,26 @@
 ---
-intercom_id: "11010696"
-content_id: "11832103"
+intercom_id: "18234102"
+content_id: "23617782"
 title: "Filter Your Search by Status and Price Changes"
 description: "Filter by status, price drop, or price increase with Status & Activity, set a rolling window or date range, and turn on alerts."
-url: "http://support.perchwell.com/en/articles/11010696-filter-your-search-by-status-and-price-changes"
+url: "https://support.perchwell.com/crmls/en/articles/18234102-filter-your-search-by-status-and-price-changes"
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
 state: published
-author_id: 5472692
-created_at: 2025-04-01T14:00:59Z
-updated_at: 2026-10-23T22:01:01Z
-labels: ["How to: Search (Status + Listing Activity)"]
+author_id: 8314814
+created_at: 2026-11-04T21:53:27Z
+updated_at: 2026-11-05T00:06:54Z
+labels: []
 body_source: public-help-center
-synced_at: 2026-10-23T22:01:40Z
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Filter Your Search by Status and Price Changes
 
 Use this article to find listings by their current status, a status they had during a set time, or recent price changes with the Status & Activity filters.
-
-[Embedded video](https://www.loom.com/embed/62ae5727c36d4efeb30ba88920fb84a5)
 
 # Filter by current listing status
 
@@ -34,13 +32,13 @@ Filter listings currently in Coming soon, Active, Active under contract, or Pend
 
 Your search results update to show listings in the selected statuses. Now appears next to each one, which means the search matches the listing's current status. Only these four statuses offer Now.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png?expires=1792794600&signature=dc307fcfb4e9d0666ab113bc0eee38d212dc1b3ca82e00ac36dea22faaab2798&req=dichFMl6lYdXXvMW1HO4zV04qH7dLmLnkvt1gN2rU7D3R9VUkAIuB0Hs20yx%0A96jW%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307546/586ca15476468be1a5ce743fcf4c/upload_4717140562500872511.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307546/586ca15476468be1a5ce743fcf4c/upload_4717140562500872511.png?expires=1793900700&signature=94aa4e227239c4756bae74626a5ebcba244194092e0916f6e5a3712726059eb2&req=dicvHsp%2BmoRbX%2FMW1HO4zVK7fTNZ%2BgtXi7n7oqwPF3%2Bz04qSjORhMH5MtxTO%0AVz6Milw7YICD2uHFZRo%3D%0A)
 
 # Find listings that were in any status during a set time
 
 Set a date window on any status to find listings that were in that status during the selected time. Your results can include listings that have since changed status.
 
-Click the button next to a status under Status & Activity to set its date window. Closed, Leased, Expired, Canceled, Temp off mkt, and Withdrawn always use a date window and default to 180 days when selected.
+Click the button next to a status under Status & Activity to set its date window. Closed, Expired, Canceled, Withdrawn, and statuses such as Leased, Temp off mkt, and Hold always use a date window that defaults to 180 days when selected. Available statuses vary by MLS.
 
 For example, set Pending to a 30-day rolling window to find listings that were pending within the last 30 days, including any that have since closed.
 
@@ -50,7 +48,7 @@ Select Price drop or Price increase under Activity in Status & Activity to find 
 
 Combine a price change with a status to narrow your results. For example, select Active and Price drop. Your results show listings that are currently Active and had a price drop within the last 30 days.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png?expires=1792794600&signature=17846b857601254ba038ee8d31fea2298d81b9336296e5dc21b033fdd4ab09bb&req=dichFMl6lYZYWvMW1HO4zUwBmkdg6%2F%2F2RNSFFQWA0WdCQaU4GxAe9dCygW1Q%0AsKR8%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307567/f05cc21c1025d2d56bc1765305a4/upload_6797993999654616135.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307567/f05cc21c1025d2d56bc1765305a4/upload_6797993999654616135.png?expires=1793900700&signature=9de09c4f5ddee731db9667aa51645f3e2c9209e0b123bb2a4e82268bb8caa0b1&req=dicvHsp%2BmoRZXvMW1HO4zZcMB2q%2FKEgDA1HKlSv%2FCP4i9VAzOOxI4TJumDEg%0A5L%2Fn5e0OggncVYaT7V0%3D%0A)
 
 # Change the date window for a status or price change
 
@@ -67,7 +65,7 @@ A rolling window counts back a set number of days from today and moves forward e
 
 Your search results update to the new window. Window end defaults to 0, which includes today. Click 30, 60, 180, or 365 days to set Window start to that number of days ago.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png?expires=1792794600&signature=7afc077daf4d30d745c028f2f867e82e1d21597eb1e0c11518afc43ddbac0bbf&req=dichFMl6lYldXfMW1HO4zfD6Im1I3NRhZyWNjqzm1YMP8mt9k9pNWICAZ%2FOD%0AJMre%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307581/2023428e0578ba2e40db55b08aad/upload_447194609427660653.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307581/2023428e0578ba2e40db55b08aad/upload_447194609427660653.png?expires=1793900700&signature=937af3515820eea4c1d5374c5481c62a736c943939791b27fec78130c5cd2515&req=dicvHsp%2BmoRXWPMW1HO4zZomrMVzv7gs6QmXdTT3HQlCYD97Q%2FPcJaMgLGW9%0A1zkxOLGMsWlkSlD2H8Y%3D%0A)
 
 ## Select a date range
 
@@ -81,7 +79,7 @@ A date range covers fixed dates on the calendar and does not move forward each d
 
 Your search results update to the selected date or date range. Click 30, 60, or 180 days to select a range ending today.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png?expires=1792794600&signature=b2619882e42be88ad504fe65655e4198be38e5d987416200592535dea204bf21&req=dichFMl6lYlXWPMW1HO4zRoJTR%2BUVYpaPKu%2FXQ174NXpasNLhyTp03%2F3ZrWG%0ADyu%2B%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307641/9268d788fff7b9b111049569aa9c/upload_4970681044260212855.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307641/9268d788fff7b9b111049569aa9c/upload_4970681044260212855.png?expires=1793900700&signature=b732f8b2961821720733522671f321b8172d46bf56b2e8bed47c4cab24bb8f5d&req=dicvHsp%2BmodbWPMW1HO4zehQ07Db6JEjIIxulobS%2FAesyOAslPMZdifkke0w%0APclvrLm9yHtRXsqFffM%3D%0A)
 
 ## Set a reporting period
 
@@ -96,12 +94,12 @@ A reporting period starts on a fixed date and runs through today, such as month-
 
 Your search results update to show that status or price change from the selected start date through today. Click 30, 60, 180, or 365 days to start the period that number of days before today.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png?expires=1792794600&signature=61a7798392906c69173ad7011e1b0236356f71b8b4bbc9a100b4ecefa50353c2&req=dichFMl6lYhcWvMW1HO4zQVH3TheD1Wtfr9QStW5NKXPqehtbMgfatUa5Qyz%0AdaYS%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307688/5a95d098bfc230796ba7ca8c6ad3/upload_624743902327433433.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788307688/5a95d098bfc230796ba7ca8c6ad3/upload_624743902327433433.png?expires=1793900700&signature=bf1cb95732a7dbbcdcc5082800dcc830f82028175ba2a1a660621bc50512edce&req=dicvHsp%2BmodXUfMW1HO4zVTp%2FtaINUGcaSl4rgqmGCN%2Fv%2BiZkEvaVnNW%2Bhg7%0AJX5cPmd93JZux2179Hk%3D%0A)
 
 # Get alerts for status changes, price changes, and open houses
 
 Save your search and turn on its alerts. Alerts send an email when a matching listing changes status, changes price, or adds an open house. Select Status, Price, or Open House in the saved search's alert settings to choose which changes send an alert.
 
-[Set Up Email Alerts for Saved Searches](http://support.perchwell.com/baldwin/en/articles/11112420-set-up-email-alerts-for-saved-searches) explains how to turn on alerts, choose recipients, and set the frequency.
+[Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches) explains how to turn on alerts, choose recipients, and set the frequency.
 
 Members who came from a legacy platform may know these alerts as drip campaigns.

@@ -3,19 +3,19 @@ intercom_id: "18232897"
 content_id: "23616320"
 title: "Message Clients in Perchwell"
 description: "Message invited clients in Perchwell, share listings in Messages from Search or a listing, and review how clients react to them."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
 collection: "Client Collaboration"
 collection_ids: [16866981]
 collections: ["Client Collaboration"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T19:38:05Z
-updated_at: 2026-11-04T22:26:22Z
+updated_at: 2026-11-05T00:33:24Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:29:19Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Message Clients in Perchwell
@@ -31,7 +31,7 @@ Start from where you are viewing the listing:
 - Preview: Click a listing in your search results to preview it. Click Listing Actions, then select Share via Message to share only that listing.
 - Listing Detail Page: Click Actions in the upper right, then select Send as in-app message.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014713/b7d2a0c6656156265f2dbefccded/upload_8165791152614248668.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014713/b7d2a0c6656156265f2dbefccded/upload_8165791152614248668.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014713/b7d2a0c6656156265f2dbefccded/upload_8165791152614248668.png?expires=1793900700&signature=5c76f40ddd22ac8d0f961e4a11842ec90db20e28f9993b04b0452e3f5ce775a6&req=dicvHsl%2FmYZeWvMW1HO4zdSlr334f3rTslbkB1lTCSY9VWEzD4V6gsPINVgx%0A2WlHxru%2B9%2FE0gluhN4I%3D%0A)
 
 ## Steps:
 1. Select a contact
@@ -61,7 +61,7 @@ Start a conversation with an invited client from the Messages page.
 
 The conversation opens with your message.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014780/7f5026daac001dd5114567099b32/upload_5638573262971500552.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014780/7f5026daac001dd5114567099b32/upload_5638573262971500552.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014780/7f5026daac001dd5114567099b32/upload_5638573262971500552.png?expires=1793900700&signature=8947db0bed6f1625ace89849511b4b7120b5c32df0975049c36bb349e8f0f84a&req=dicvHsl%2FmYZXWfMW1HO4zRvPewuSwdWf0DNBihluy2rhv0%2BNQ0CB5zFTMVJZ%0AgNNA36mVcDgK5d94pNk%3D%0A)
 
 [Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) covers starting a conversation from the Contacts page.
 
@@ -83,7 +83,7 @@ Filter the listings by reaction:
 
 Shared properties shows the listings that match the selected filter. Select a listing to open a chat thread about it.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014810/a97cb203e055f46bb4353a321749/upload_16883834051060169399.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014810/a97cb203e055f46bb4353a321749/upload_16883834051060169399.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788014810/a97cb203e055f46bb4353a321749/upload_16883834051060169399.png?expires=1793900700&signature=e44fe8be0cee97a281d7e1ba802583a58125c07ada9e2ec175b499e2b010e4a8&req=dicvHsl%2FmYleWfMW1HO4zZw2X8eRXUgtJM10g%2B2Cfe8WgsR24YnLN7H0qX8F%0ACFfKhPCjhWnr04FwrOs%3D%0A)
 
 # Get notified of new messages and find them
 

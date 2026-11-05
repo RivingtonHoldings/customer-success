@@ -3,19 +3,19 @@ intercom_id: "18234749"
 content_id: "23618550"
 title: "Dashboard FAQ"
 description: "Answers to common Perchwell Dashboard questions: how many Hot Sheets fit, how far a timeframe reaches, off-market activity, and mobile."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234749-dashboard-faq"
 help_center: crmls
 help_center_id: 4767477
-collection: "FAQ, Tips, and What's New in Perchwell"
+collection: "Frequently Asked Questions"
 collection_ids: [16867037]
-collections: ["FAQ, Tips, and What's New in Perchwell"]
-state: draft
+collections: ["Frequently Asked Questions"]
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:56:40Z
-updated_at: 2026-11-04T22:56:40Z
+updated_at: 2026-11-05T01:26:06Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Dashboard FAQ
@@ -46,7 +46,7 @@ Off-market activity in a Hot Sheet counts listings that moved to an off-market s
 
 For status definitions, see [What Each Listing Status Means](https://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell).
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png?expires=1793900700&signature=ce403c616a877ad80ad0e2ed28b4134086ac36f1211042d15c5259028b434178&req=dicvHs1%2BlYNeXvMW1HO4zYQXZuqZsJNZcHU2h6nXkM%2FJHY%2BX23gziYRaYhsZ%0AiMQ1hZasLMNMVZ2pBWk%3D%0A)
 
 # Can I view the Dashboard and Hot Sheets in the Perchwell mobile app?
 

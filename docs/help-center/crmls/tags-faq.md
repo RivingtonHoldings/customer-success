@@ -3,19 +3,19 @@ intercom_id: "18234758"
 content_id: "23618564"
 title: "Tags FAQ"
 description: "Answers to common questions about Tag links, sharing Tags with clients, notifications, reactions, and managing your Tags."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234758-tags-faq"
 help_center: crmls
 help_center_id: 4767477
-collection: "FAQ, Tips, and What's New in Perchwell"
+collection: "Frequently Asked Questions"
 collection_ids: [16867037]
-collections: ["FAQ, Tips, and What's New in Perchwell"]
-state: draft
+collections: ["Frequently Asked Questions"]
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:58:24Z
-updated_at: 2026-11-04T22:58:24Z
+updated_at: 2026-11-05T01:27:33Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Tags FAQ

@@ -3,19 +3,19 @@ intercom_id: "18234756"
 content_id: "23618560"
 title: "Reports FAQ"
 description: "Answers to common questions about Perchwell reports and CMAs, from layouts and fields to hiding sections and sharing with clients."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234756-reports-faq"
 help_center: crmls
 help_center_id: 4767477
-collection: "FAQ, Tips, and What's New in Perchwell"
+collection: "Frequently Asked Questions"
 collection_ids: [16867037]
-collections: ["FAQ, Tips, and What's New in Perchwell"]
-state: draft
+collections: ["Frequently Asked Questions"]
+state: published
 author_id: 8314814
 created_at: 2026-11-04T22:57:58Z
-updated_at: 2026-11-04T22:57:59Z
+updated_at: 2026-11-05T01:27:21Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T23:04:40Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Reports FAQ
@@ -26,7 +26,7 @@ Use this article to answer common questions about Perchwell reports: changing a 
 
 Perchwell reports follow set layouts designed by your MLS staff and Perchwell, so not every field position can be changed. Choose what goes in each report on the Customize Report step of the report window:
 - Quick CMA: Select Landscape or Portrait, then select the fields each listing shows. Add a subject property, listings from a Tag, your contact information, or a summary section.
-- Listing Report: Enter a Report Label and Report Subtitle, and select Landscape or Portrait. Select details such as DOM, Open house, and Large map.
+- Listing Report: Enter a Report Label and Report Subtitle, and select Landscape or Portrait. Select details such as DAM, Open house, and Large map.
 - Show Sheet: Select Landscape or Portrait, select details such as Map and Floorplan, and choose whose contact information shows. Arrange up to 13 photos.
 - Itinerary: Set the tour date and times, and add an appointment time and notes to each stop. Add your client's name, and select details such as Agent name and Exact address.
 - Full Report: Select For agent, For client, or Both, and choose whether to include listing history.
@@ -50,7 +50,7 @@ For more information:
 
 # What fields can I include in a Quick CMA or a CMA with a subject property?
 
-A Quick CMA shows up to 12 fields per listing with the Landscape layout, and up to 9 with Portrait. Fields include Beds, Baths, SQ FT, $/SQ FT, DOM/DAM (Days on Market or Days Active in MLS), Year Built, and MLS ID.
+A Quick CMA shows up to 12 fields per listing with the Landscape layout, and up to 9 with Portrait. Fields include Beds, Baths, SQ FT, $/SQ FT, DAM (Days Active in MLS), Year Built, and MLS ID.
 
 Select the fields under Select fields to show on the Customize Report step of the report window. A CMA with a subject property opens the same Customize Report step, which means the same fields and limits apply.
 
@@ -64,7 +64,7 @@ With Include exact address selected, each address in the PDF (Portable Document 
 - Open links externally with your branding: Opens the listing on a page with your branding.
 - Open links in Perchwell (clients must log in): Opens the listing in Perchwell after the client logs in.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png?expires=1793988000&signature=76fe63165cd512873adb4b492e8eb33e8ba22011f45792cefa6b75e57ec66468&req=dicvHs1%2FnIZfX%2FMW3nq%2Bgd%2BsxZLX5OQBr%2Fogw8Iq7k4E%2FvFD2Hy%2Fdh6b0lCW%0AzE6kqsbFkOVc%2FCXo%2BwWR5Uaz5hA%3D%0A)
 
 # Can I create a Quick CMA for lease listings?
 

@@ -3,19 +3,19 @@ intercom_id: "18234126"
 content_id: "23617814"
 title: "Set Up Email Alerts for Saved Searches"
 description: "Turn on email alerts for a saved search, choose which listing activity you want alerts for, and set who receives alerts and how often."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches"
 help_center: crmls
 help_center_id: 4767477
 collection: "Search / Search"
 collection_ids: [16866865]
 collections: ["Search / Search"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T21:58:20Z
-updated_at: 2026-11-04T21:58:20Z
+updated_at: 2026-11-05T00:06:22Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T22:13:53Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Set Up Email Alerts for Saved Searches
@@ -41,7 +41,7 @@ Perchwell begins sending alerts for new matching activity on the schedule you se
 
 The first time alerts are turned on, New match is selected, Recipient is set to Only me, and Frequency is set to Immediately. If alerts were previously on, Perchwell restores the previous settings.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313297/7452690b132a6606bd3c170367bf/upload_3270791458970766348.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313297/7452690b132a6606bd3c170367bf/upload_3270791458970766348.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313297/7452690b132a6606bd3c170367bf/upload_3270791458970766348.png?expires=1793900700&signature=b369d391837d9adc9515e653b7808fc24ee29c88ff7bcd03326ea3854efeae38&req=dicvHsp%2FnoNWXvMW1HO4zf06MpDPYhsXCysUmguHYGH89fJyHA6OoDACyOOB%0ArdKchHESOVpdOauVz28%3D%0A)
 
 ## Turn on saved search alerts with the bell icon
 
@@ -72,7 +72,7 @@ Select an option from the Recipient dropdown to choose who receives saved search
 
 Add contacts to the saved search before selecting a Recipient option that includes contacts. The Add a contact to receive saved search alerts section covers how.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313320/ab48ab22ac3a015ac800f3a83bf8/upload_16512052699701253666.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313320/ab48ab22ac3a015ac800f3a83bf8/upload_16512052699701253666.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313320/ab48ab22ac3a015ac800f3a83bf8/upload_16512052699701253666.png?expires=1793900700&signature=c762d156da5fa96733792f8b2cb7ae930057b5f3920c23d080dda1fd86dc86b2&req=dicvHsp%2FnoJdWfMW1HO4zU%2BJgvLuEK5EP5zIRW6mFE7pAGJLD6LIJdY%2FUi5G%0Ah%2BQ9MDhoXlcH5ZAMYj0%3D%0A)
 
 # Choose how often saved search alerts send
 
@@ -84,7 +84,7 @@ Select an option from the Frequency dropdown to choose how often saved search al
 
 Morning alerts send around 8:00 AM and Evening alerts around 8:00 PM in your MLS time zone.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313331/36ba9ba72ff08c1e37a180064348/upload_8483056357904328398.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313331/36ba9ba72ff08c1e37a180064348/upload_8483056357904328398.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313331/36ba9ba72ff08c1e37a180064348/upload_8483056357904328398.png?expires=1793900700&signature=acaf673859268841d38b25652f4012e5228aa60070639dbc7f82e51fef1d676e&req=dicvHsp%2FnoJcWPMW1HO4zYcfbsrZckQfpV%2B6kPesc61oQFh8TwZ5k29axIac%0AAPQM3eU5TyieMtDa5tM%3D%0A)
 
 # Add a contact to receive saved search alerts
 
@@ -119,4 +119,4 @@ Contacts do not need a Perchwell account to receive alerts or open the listing l
 
 [Unsubscribe from Saved Search Alert Emails](https://support.perchwell.com/crmls/en/articles/18232828-unsubscribe-from-saved-search-alert-emails) covers how a client stops receiving alerts.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313363/14123df32df273c0376a51963813/upload_3378179541835436267.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313363/14123df32df273c0376a51963813/upload_3378179541835436267.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788313363/14123df32df273c0376a51963813/upload_3378179541835436267.png?expires=1793900700&signature=50a54b47ca0da87b1631d2230d9f0c283b05de7f27857c329402383a9adc0302&req=dicvHsp%2FnoJZWvMW1HO4zYUiWgXMsKI6%2F4yciqPmYpQChTmrt%2FJO%2FYniAzNp%0AKhAFumZ%2BBJK3EPdWfHg%3D%0A)

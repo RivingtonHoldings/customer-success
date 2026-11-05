@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-04T23:08:16Z. Articles: 127 (118 published, 9 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T17:12:37Z. Articles: 127 (117 published, 10 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -131,7 +131,7 @@ Collection ID 17797980. 9 articles.
 - [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-04
 - [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-04
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-04
-- [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-04
+- [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-05
 
 ## Tags
 
@@ -148,11 +148,11 @@ Collection ID 17797953. 5 articles.
 Collection ID 19197859. 8 articles.
 
 - [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-04
-- [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md), updated 2026-11-03
-- [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-03
+- [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md) (draft), updated 2026-11-04
+- [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-05
 - [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-04
-- [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-04
-- [Review Your Data Moved from Paragon](review-your-data-moved-from-paragon.md), updated 2026-11-04
+- [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-05
+- [Review Your Data Moved from Paragon](review-your-data-moved-from-paragon.md), updated 2026-11-05
 - [Sample Emails to Tell Clients About Perchwell](sample-emails-to-tell-clients-about-perchwell.md), updated 2026-11-03
 - [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md), updated 2026-11-04
 
@@ -206,7 +206,7 @@ Collection ID 17797941. 14 articles.
 - [Customize Your Search Results View](customize-your-search-results-view.md), updated 2026-11-04
 - [Export Listings to a CSV File](export-listings-to-a-csv-file.md), updated 2026-10-23
 - [Filter Your Search by Property Type and Subtype](filter-your-search-by-property-type-and-subtype.md), updated 2026-11-04
-- [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-10-23
+- [Filter Your Search by Status and Price Changes](filter-your-search-by-status-and-price-changes.md), updated 2026-11-04
 - [Manage Your Saved Searches](manage-your-saved-searches.md), updated 2026-11-04
 - [Print or Save Search Results as a PDF](print-or-save-search-results-as-a-pdf.md), updated 2026-10-23
 - [Search Page Overview](search-page-overview.md), updated 2026-11-04

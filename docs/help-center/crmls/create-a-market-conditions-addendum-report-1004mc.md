@@ -3,19 +3,19 @@ intercom_id: "18233102"
 content_id: "23616580"
 title: "Create a Market Conditions Addendum Report (1004MC)"
 description: "Create a 1004MC Market Conditions Addendum Report from your search results, set its stable range, and email, print, or download it."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18233102-create-a-market-conditions-addendum-report-1004mc"
 help_center: crmls
 help_center_id: 4767477
 collection: "Reports"
 collection_ids: [16867011]
 collections: ["Reports"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-04T20:04:40Z
-updated_at: 2026-11-04T20:04:40Z
+updated_at: 2026-11-05T01:04:34Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-04T20:19:10Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:12:37Z
 ---
 
 # Create a Market Conditions Addendum Report (1004MC)
@@ -30,7 +30,7 @@ Create a Market Conditions Addendum Report when you need 1004MC market metrics c
 
 Sample 1004MC Report:
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083109/dc93bcb125660a265d0a6864717f/upload_16896491261375068257.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083109/dc93bcb125660a265d0a6864717f/upload_16896491261375068257.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083109/dc93bcb125660a265d0a6864717f/upload_16896491261375068257.png?expires=1793900700&signature=2643decc49be303cd3a27be22b271d0f96ae36ad9deee2952a1e09c073d6994c&req=dicvHsl2noBfUPMW1HO4zSE1jZAdfsiXxY3txSj3YBV32NPK1ZOrdw4pWuDy%0AWChbGPtKpD7I357BWeA%3D%0A)
 
 # Create a 1004MC report from your search results
 
@@ -52,7 +52,7 @@ The Market Conditions Addendum Report supports up to 500 listings. If your searc
 
 Set up the Market Conditions Addendum Report on the Customize Report step of the report window. Selected Listings at the top shows how many listings the report includes.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083130/c245458fe3e2874d6805d43d4911/upload_6353185073879153430.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083130/c245458fe3e2874d6805d43d4911/upload_6353185073879153430.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788083130/c245458fe3e2874d6805d43d4911/upload_6353185073879153430.png?expires=1793900700&signature=fb567b58bdaeaf492fabf5e6263d3555a356401e16e38735aa517611416dc922&req=dicvHsl2noBcWfMW1HO4zax93sAJRDlq5ZXLJ80wtude1ES97EIZi3uwJfIH%0AU5%2FOcjM9ZLBjf12NDVU%3D%0A)
 
 ## Choose the 1004MC report orientation
 
