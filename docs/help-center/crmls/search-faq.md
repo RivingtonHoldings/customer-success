@@ -3,19 +3,19 @@ intercom_id: "18247089"
 content_id: "23635302"
 title: "Search FAQ"
 description: "Answers to common Search questions about filters, map tools, hidden listings, sharing, exporting, saved search alerts, and more."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247089-search-faq"
 help_center: crmls
 help_center_id: 4767477
 collection: "Frequently Asked Questions"
 collection_ids: [16867037]
 collections: ["Frequently Asked Questions"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:03:02Z
-updated_at: 2026-11-05T17:03:02Z
+updated_at: 2026-11-05T17:49:19Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Search FAQ
@@ -28,7 +28,7 @@ Use this article to find quick answers to common questions about the Search page
 
 Search by school with the Elementary School, Middle School, and High School filters under Schools on the Filters tab.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232090/704b571e0499114205eeb8edd0d0/upload_11164379558927542575.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232090/704b571e0499114205eeb8edd0d0/upload_11164379558927542575.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232090/704b571e0499114205eeb8edd0d0/upload_11164379558927542575.png?expires=1793903400&signature=108286d9394d88fbcfd7eaba0c2787731dd49380628e0537a1a554161509da9b&req=dicuFst9n4FWWfMW1HO4zdYbrDOpkYaKof1vuktnyABFTXfNeg%2F0xt1329P7%0AOKm95N4GlNzrFHtp0uY%3D%0A)
 
 ## How do I search for a specific street name?
 
@@ -38,11 +38,11 @@ Enter part of the street name in the Street name field under Location on the Fil
 
 Search by agent with the Agent filter under Listing Details on the Filters tab. To find the filter, enter Agent in the Search filters and values field.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232140/dab5af7f31300445b5ef053996ea/upload_6451867906794598476.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232140/dab5af7f31300445b5ef053996ea/upload_6451867906794598476.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232140/dab5af7f31300445b5ef053996ea/upload_6451867906794598476.png?expires=1793903400&signature=c231483b491c2370154fbca4c6d19ac159e8cf03f104eb3a8bf8cb922c956d6a&req=dicuFst9n4BbWfMW1HO4zajT5ZogdIfFnPxiiGkVbTOt5UnlM7VoMIxOSjQI%0A8i2%2FDY%2B6ZXmdc1uE6RM%3D%0A)
 
 Enter the agent's name, then select Listing, Buy-side, or both to choose which side of the transaction the agent represented.
 
-![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png?expires=1793903400&signature=dedc26b6214e257ffde01e50e12c3de7af9192ba28bf0b206dc00f9ca2e927b5&req=dicvFM1%2Bm4VfWPMW1HO4zYDlIAdxy1YHcx4B8QCvUkJAeeP9jDVaJMcbNR8T%0AGp6oksyNFTey%2F1JfQt0%3D%0A)
 
 ## How do I search for acreage?
 
@@ -59,7 +59,7 @@ Yes. Enter the neighborhood or subdivision name in the Community filter on the F
 Search for waterfront properties under the Exterior filter.
 Select the Waterfront features dropdown to see a list of available waterfront properties.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232170/cb892577cc90f0776fd2058db678/upload_8521803595364745405.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232170/cb892577cc90f0776fd2058db678/upload_8521803595364745405.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232170/cb892577cc90f0776fd2058db678/upload_8521803595364745405.png?expires=1793903400&signature=acf45adba01aa12dd271b2370b0aca93e535d3bb1357f26cfd46bef2b3bdcff6&req=dicuFst9n4BYWfMW1HO4zVAY3j%2FKz1D0rUEMIO9IYrnWP3Pi7JMObENo%2BIt1%0AfmH3jYi5WLtOTVmhU3g%3D%0A)
 
 ## How do I search for listings with an open house?
 
@@ -120,7 +120,7 @@ Hidden listings stay hidden after you leave the search only if you save the sear
 
 [Search Page Overview](https://support.perchwell.com/crmls/en/articles/18234118-search-page-overview) explains how Keep and Hide work.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232197/65ea2b9c4c6aecb5f025e083b701/upload_11717545335053616881.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232197/65ea2b9c4c6aecb5f025e083b701/upload_11717545335053616881.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232197/65ea2b9c4c6aecb5f025e083b701/upload_11717545335053616881.png?expires=1793903400&signature=31b1fe7508d1b1a814de7ecaeb4040472a9f7a720510f91375179297a5edf25b&req=dicuFst9n4BWXvMW1HO4ze9Fh4%2B0uwCj1bRjhyBIvfEe%2BZ4TnLBwchuFxSKY%0AtGYil%2B%2FuXTh4fLW77M8%3D%0A)
 
 ## Can I run multiple searches at the same time?
 
@@ -132,7 +132,7 @@ To return to a search later, save it. [Manage Your Saved Searches](https://suppo
 
 Driving Directions in the Actions menu is greyed out when your browser is not sharing your location with Perchwell. Turn on location access for Perchwell in your browser settings.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232410/0f29ff3887eca17e50183f943f05/upload_10682517623993426106.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232410/0f29ff3887eca17e50183f943f05/upload_10682517623993426106.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790232410/0f29ff3887eca17e50183f943f05/upload_10682517623993426106.png?expires=1793903400&signature=6629905dcd7fda86e257d9dd1652fbc00c27d9fa809fc25e67a18a01668fba47&req=dicuFst9n4VeWfMW1HO4zR%2BxE7qqRgDYWOoFKnDp5Gnhl9Eehd3C%2FVPPGLc8%0Ao9yLGW6modCuYsiJqEo%3D%0A)
 
 # Sharing and exporting questions
 

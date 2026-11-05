@@ -3,19 +3,19 @@ intercom_id: "18247081"
 content_id: "23635293"
 title: "Listing Detail Page in the Perchwell Mobile App"
 description: "Review listing details, history, and mortgage estimates on the Listing Detail Page in the Perchwell mobile app, and share or edit a listing."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247081-listing-detail-page-in-the-perchwell-mobile-app"
 help_center: crmls
 help_center_id: 4767477
 collection: "Mobile"
 collection_ids: [19802008]
 collections: ["Mobile"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:02:19Z
-updated_at: 2026-11-05T17:05:38Z
+updated_at: 2026-11-05T17:49:59Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Listing Detail Page in the Perchwell Mobile App
@@ -26,7 +26,7 @@ Use this article to review a listing's details and photos, contact the listing a
 
 Review a listing's photos, asking price, association fee, DAM (days active in MLS), and CDAM (cumulative days active in MLS) at the top of the Listing Detail Page in the mobile app. Tap any photo to open the photo gallery.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png?expires=1793903400&signature=ee00f568883bc79a7431b819c48d1654e129a64deb25a6db08ce95d994d1d1ff&req=dicuFst9nIdaW%2FMW1HO4zSPAplKckuS%2BB3sHIqW7VeOt7clBi33yUxltVEOO%0A8yREsmz0aZHLRyIVDTE%3D%0A)
 
 Below the summary, the listing's details are grouped into sections. Tap a section's name to expand or collapse it. The sections are:
 - Description
@@ -60,7 +60,7 @@ The Actions tab of the three-dots menu holds nine options:
 - One Pager: Create a one-page PDF of the listing with a QR code that opens its Listing Detail Page.
 - Create Report: Create a CMA, Extended CMA, Listing Report, Show Sheet, or Media Report for the listing.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png?expires=1793903400&signature=6febb8bf2a5c0b5b674e63c7348cd43cc9f9c78917df34380c0374b01f0ad38a&req=dicuFst9nIZeXvMW1HO4zcAeJKu53FJmTSHd7cp5RXzTnMdRX9ayNbR%2FxqSk%0AGLau5m2OmymrEHwj5eE%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell) explains how clients receive listings in Messages.
@@ -75,7 +75,7 @@ Tap Integrations in the three-dots menu, then tap a tool to open it for the list
 - ShowingTime: Schedule and manage showings.
 - SentriLock: Manage lockbox access.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png?expires=1793903400&signature=550aea8eefb03ceecbd8cc2650216c8d4203da975abc5c6512bf03f65e974281&req=dicuFst9nIZYWfMW1HO4zZqzjAdkk%2BkcaXAuf64uWQl3zDVaiwL%2B1Se18%2BbD%0AHx3kxmdw%2FKFn3ndjx3c%3D%0A)
 
 ## Edit a listing from the Admin tab
 

@@ -3,19 +3,19 @@ intercom_id: "18247070"
 content_id: "23635280"
 title: "What Each Listing Status Means"
 description: "Look up what Coming soon, Active under contract, Pending, Canceled, and other listing statuses mean in Perchwell."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247070-what-each-listing-status-means"
 help_center: crmls
 help_center_id: 4767477
 collection: "Frequently Asked Questions"
 collection_ids: [16867037]
 collections: ["Frequently Asked Questions"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:00:43Z
-updated_at: 2026-11-05T17:00:43Z
+updated_at: 2026-11-05T17:48:42Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # What Each Listing Status Means

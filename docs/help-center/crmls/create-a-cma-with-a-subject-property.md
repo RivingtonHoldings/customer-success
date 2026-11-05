@@ -12,10 +12,10 @@ collections: ["Reports"]
 state: published
 author_id: 8314814
 created_at: 2026-11-04T20:02:05Z
-updated_at: 2026-11-05T01:00:57Z
+updated_at: 2026-11-05T17:55:03Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Create a CMA with a Subject Property
@@ -35,7 +35,7 @@ Run a comps search for a subject property from its Listing Detail Page with CMA 
 
 CMA Subject Property Sample:
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077617/9c2189b94d46ce58c202cb09047b/upload_7381221673058584038.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077617/9c2189b94d46ce58c202cb09047b/upload_7381221673058584038.png?expires=1793900700&signature=da9fcb4d5a0898fedd26ff5b09b56a52637811c3a2c6deae21afaeab649bff60&req=dicvHsl5modeXvMW1HO4zcI%2BVOMr0%2F9%2FqoSqH06mUfoAclG8o0F44%2BvgUtMB%0AHZWL6ApseRgtnJ7LoI8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077617/9c2189b94d46ce58c202cb09047b/upload_7381221673058584038.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077617/9c2189b94d46ce58c202cb09047b/upload_7381221673058584038.png?expires=1793903400&signature=a348f5f4637a7dbf47710031a7706298aaf9a63489bcbb9ddbeae2adb28c2e44&req=dicvHsl5modeXvMW1HO4zcI%2BVOMr0%2Fx8qoSqBUqgWMBw8XvhNRYemT%2BwBtUL%0AWv2E%0A)
 
 ## Steps:
 1. Enter the property's address in the Search field in the top navigation
@@ -47,9 +47,9 @@ CMA Subject Property Sample:
 
 The Search page opens with the matching listings. Your subject property is pinned at the top of the results with a star icon and a Subject label.
 
-CMA Subject Property starts from the Listing Detail Page only. In a listing preview on the Search page, click Actions, then select Quick CMA to create a Quick CMA instead. [Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/13959293-create-a-quick-cma-report) covers that path.
+CMA Subject Property starts from the Listing Detail Page only. In a listing preview on the Search page, click Actions, then select Quick CMA to create a Quick CMA instead. [Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) covers that path.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077644/c85b6e29832236eac11fb72f0954/upload_566916662339994074.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077644/c85b6e29832236eac11fb72f0954/upload_566916662339994074.png?expires=1793900700&signature=b37832f01afc9540f336ecdf7e1f3ae1e7a1479a942087d8f438fd5fc355d959&req=dicvHsl5modbXfMW1HO4zc9N1TlPTx1ljPpAZJKVN9T%2BOwNPIr4le7%2Fjyx%2FT%0AtB2epZd3mO%2BxCPVlNbc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077644/c85b6e29832236eac11fb72f0954/upload_566916662339994074.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077644/c85b6e29832236eac11fb72f0954/upload_566916662339994074.png?expires=1793903400&signature=fb18336620bc45c37903e25d03df10bff1185c29fc67bdf550048f814fa1aca0&req=dicvHsl5modbXfMW1HO4zc9N1TlPTx5mjPpAfpaTPu6v%2F46S%2FswR9V9TSrrD%0APgM0%0A)
 
 # Adjust the CMA Subject Property search criteria
 
@@ -82,10 +82,10 @@ Select comps for your CMA from the comps search results on the Search page.
 
 The report window opens on the Customize Report step. Your subject property is added at the top automatically, and your comps are grouped by status, such as Active and Sold.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077708/4360218f5b0d5d7aef3f3ab901b5/upload_6816529147125007034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077708/4360218f5b0d5d7aef3f3ab901b5/upload_6816529147125007034.png?expires=1793900700&signature=e801b633f2f24972176d54eb020a1c77beb44689a822da4ef5285ffec67110b0&req=dicvHsl5moZfUfMW1HO4zeMTr%2FGP2v4wfZuONiZZQ5nPCMKh5nzZZ4a5zR6K%0AH%2B63geaisYIehFBGB18%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077708/4360218f5b0d5d7aef3f3ab901b5/upload_6816529147125007034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788077708/4360218f5b0d5d7aef3f3ab901b5/upload_6816529147125007034.png?expires=1793903400&signature=70badacca363d507b89ba4d472def7c384b4e1e32886c41cf5a48c7410eedcd8&req=dicvHsl5moZfUfMW1HO4zeMTr%2FGP2v0zfZuOLCJfSqNdppH82gRLbeI7kpWX%0Aq0H4%0A)
 
 # Customize and share your CMA with a subject property
 
 Customize your CMA with a subject property in the report window, then email, print, or download it. Click Next on the Customize Report step to open the Generate Report step, where you share the CMA.
 
-[Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/13959293-create-a-quick-cma-report) walks through each report setting and sharing option.
+[Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) walks through each report setting and sharing option.

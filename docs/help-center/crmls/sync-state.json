@@ -1,87 +1,215 @@
 {
- "last_run": "2026-11-05T17:28:45Z",
+ "last_run": "2026-11-05T17:57:16Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18233009": {
+   "file": "dashboard-overview.md",
+   "updated_at": 1793901391,
+   "state": "published",
+   "title": "Dashboard Overview",
+   "content_id": "23616464",
+   "body_sha1": "2da356556b3827cc7b99178c6106debcbdf38499"
+  },
+  "18234749": {
+   "file": "dashboard-faq.md",
+   "updated_at": 1793901388,
+   "state": "published",
+   "title": "Dashboard FAQ",
+   "content_id": "23618550",
+   "body_sha1": "6b6cd5237edd264fbb91656301aeadc39a2f81ba"
+  },
+  "18234136": {
+   "file": "universal-search-bar.md",
+   "updated_at": 1793901386,
+   "state": "published",
+   "title": "Universal Search Bar",
+   "content_id": "23617829",
+   "body_sha1": "140a69b15b032626c1a4f1dc6b66adc0a338b003"
+  },
+  "18234422": {
+   "file": "search-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793901384,
+   "state": "published",
+   "title": "Search in the Perchwell Mobile App",
+   "content_id": "23618157",
+   "body_sha1": "be46d95ba38b99102d7d2438ca779e63e4c09161"
+  },
+  "18234753": {
+   "file": "mobile-app-faq.md",
+   "updated_at": 1793901310,
+   "state": "published",
+   "title": "Mobile App FAQ",
+   "content_id": "23618556",
+   "body_sha1": "35f30a0f652b637fb1af70d0b969fe2e75f34de1"
+  },
+  "18233020": {
+   "file": "find-listings-in-the-listings-widget.md",
+   "updated_at": 1793901308,
+   "state": "published",
+   "title": "Find Listings in the Listings Widget",
+   "content_id": "23616481",
+   "body_sha1": "f62251291f119e578f3cdc715164a715058f009d"
+  },
+  "18234756": {
+   "file": "reports-faq.md",
+   "updated_at": 1793901306,
+   "state": "published",
+   "title": "Reports FAQ",
+   "content_id": "23618560",
+   "body_sha1": "1bee5e82c4e3ce9f7ab05030b946ad31ea880016"
+  },
+  "18233073": {
+   "file": "create-a-cma-with-a-subject-property.md",
+   "updated_at": 1793901303,
+   "state": "published",
+   "title": "Create a CMA with a Subject Property",
+   "content_id": "23616547",
+   "body_sha1": "188fd15c3fbcf15fb4c81569a4f4c926e7f176c1"
+  },
+  "18247068": {
+   "file": "access-integrations-from-the-dashboard-or-a-listing.md",
+   "updated_at": 1793901083,
+   "state": "published",
+   "title": "Access Integrations from the Dashboard or a Listing",
+   "content_id": "23635277",
+   "body_sha1": "b88520f3fa59e6141b2d05a0485f93464b999fe6"
+  },
+  "18247092": {
+   "file": "create-a-quick-cma-report.md",
+   "updated_at": 1793901063,
+   "state": "published",
+   "title": "Create a Quick CMA Report",
+   "content_id": "23635308",
+   "body_sha1": "66da63eb645761c0bb1a4142f169895cd6ed076f"
+  },
+  "18247096": {
+   "file": "user-settings-faq.md",
+   "updated_at": 1793901027,
+   "state": "published",
+   "title": "User Settings FAQ",
+   "content_id": "23635314",
+   "body_sha1": "b7a138a2b4bb16b1a008dceaf8d6d049d481879c"
+  },
+  "18247083": {
+   "file": "log-in-to-the-perchwell-mobile-app.md",
+   "updated_at": 1793901015,
+   "state": "published",
+   "title": "Log In to the Perchwell Mobile App",
+   "content_id": "23635295",
+   "body_sha1": "a60afbcd76942eb845932892bf45544d824b2a4e"
+  },
+  "18247081": {
+   "file": "listing-detail-page-in-the-perchwell-mobile-app.md",
+   "updated_at": 1793900999,
+   "state": "published",
+   "title": "Listing Detail Page in the Perchwell Mobile App",
+   "content_id": "23635293",
+   "body_sha1": "b3eadea0114b5777c69bb07c90f425817a991260"
+  },
+  "18247089": {
+   "file": "search-faq.md",
+   "updated_at": 1793900959,
+   "state": "published",
+   "title": "Search FAQ",
+   "content_id": "23635302",
+   "body_sha1": "e9534ba990e018b1240a1af31bc94fd18e5a1a1c"
+  },
+  "18247072": {
+   "file": "mls-rules-and-compliance-faq.md",
+   "updated_at": 1793900945,
+   "state": "published",
+   "title": "MLS Rules and Compliance FAQ",
+   "content_id": "23635282",
+   "body_sha1": "c29fa44e55f506e279288e6c3af99a688889b408"
+  },
+  "18247071": {
+   "file": "all-about-property-types-and-sub-types.md",
+   "updated_at": 1793900935,
+   "state": "published",
+   "title": "All About Property Types and Sub-Types",
+   "content_id": "23635281",
+   "body_sha1": "cd73d3904e99b6295b183f6b7c18abcfa9bf658a"
+  },
+  "18247070": {
+   "file": "what-each-listing-status-means.md",
+   "updated_at": 1793900922,
+   "state": "published",
+   "title": "What Each Listing Status Means",
+   "content_id": "23635280",
+   "body_sha1": "6cf78e8a34649b047303f543119e376f788555a0"
+  },
   "18247301": {
    "file": "find-familiar-features-by-their-perchwell-names.md",
-   "updated_at": 1793899524,
-   "state": "draft",
+   "updated_at": 1793900889,
+   "state": "published",
    "title": "Find Familiar Features by Their Perchwell Names",
    "content_id": "23635765",
    "body_sha1": "a593a3d7b5b6550cace01901264538f4fe943ff3"
   },
   "18247297": {
    "file": "what-changed-when-you-moved-to-perchwell.md",
-   "updated_at": 1793899502,
-   "state": "draft",
+   "updated_at": 1793900881,
+   "state": "published",
    "title": "What Changed When You Moved to Perchwell",
    "content_id": "23635761",
    "body_sha1": "9a0b055933423d04b8d7f4987454624cfd40b4d8"
   },
   "18247296": {
    "file": "review-saved-searches-moved-from-matrix.md",
-   "updated_at": 1793899464,
-   "state": "draft",
+   "updated_at": 1793900871,
+   "state": "published",
    "title": "Review Saved Searches Moved from Matrix",
    "content_id": "23635760",
-   "body_sha1": "e999394b90e94646d67d367e776522fa356d266c"
+   "body_sha1": "3c481fc8fd856cdf7e4d7d10544dc053746b72c4"
   },
   "18247287": {
    "file": "review-your-data-moved-from-matrix.md",
-   "updated_at": 1793899409,
-   "state": "draft",
+   "updated_at": 1793900860,
+   "state": "published",
    "title": "Review Your Data Moved from Matrix",
    "content_id": "23635748",
-   "body_sha1": "5def278af399c0b2d9efdf38355d45dcbcb3e279"
+   "body_sha1": "b1e876dbf99f415bf504b3101107f53d57ebc97c"
   },
   "18247278": {
    "file": "find-and-update-contacts-moved-from-matrix.md",
-   "updated_at": 1793899360,
-   "state": "draft",
+   "updated_at": 1793900846,
+   "state": "published",
    "title": "Find and Update Contacts Moved from Matrix",
    "content_id": "23635738",
-   "body_sha1": "92bb91638713ba02bdcdea5157cfd5e871320ff7"
+   "body_sha1": "6344528b48f1a626e4c75133b0e7a9b9452a2d05"
   },
   "18247275": {
    "file": "why-listings-and-market-data-can-look-different-in-perchwell.md",
-   "updated_at": 1793899308,
-   "state": "draft",
+   "updated_at": 1793900834,
+   "state": "published",
    "title": "Why Listings and Market Data Can Look Different in Perchwell",
    "content_id": "23635735",
    "body_sha1": "429ce8ac82d74dd2ef73e29d3116c951ab8abc56"
   },
   "18247272": {
    "file": "find-onehome-features-in-the-perchwell-client-portal.md",
-   "updated_at": 1793899285,
-   "state": "draft",
+   "updated_at": 1793900820,
+   "state": "published",
    "title": "Find OneHome Features in the Perchwell Client Portal",
    "content_id": "23635732",
    "body_sha1": "170ff1c88417af3894b9a1a8426dda2f64c54045"
   },
   "18247271": {
    "file": "find-the-perchwell-report-that-replaces-each-matrix-report.md",
-   "updated_at": 1793899283,
-   "state": "draft",
+   "updated_at": 1793900808,
+   "state": "published",
    "title": "Find the Perchwell Report That Replaces Each Matrix Report",
    "content_id": "23635731",
    "body_sha1": "a98c866da9ecf1f6bb7800b9d81461a99a81524d"
   },
   "18247269": {
    "file": "listing-field-changes-in-perchwell.md",
-   "updated_at": 1793899281,
-   "state": "draft",
+   "updated_at": 1793900789,
+   "state": "published",
    "title": "Listing Field Changes in Perchwell",
    "content_id": "23635729",
    "body_sha1": "7eebf84da3bf81af50302907ae542f43e1ff771a"
-  },
-  "18247214": {
-   "file": "sample-article.md",
-   "updated_at": 1793899141,
-   "state": "published",
-   "title": "Sample Article",
-   "content_id": "23635660",
-   "body_sha1": "adc83b19e793491b1c6ea0fd8b46cd9f32e592fc"
   },
   "18247082": {
    "file": "filter-your-search-by-property-type-and-subtype.md",
@@ -91,54 +219,6 @@
    "content_id": "23635294",
    "body_sha1": "398e3158eae7c15b453d75ca4b714450cac21c8e"
   },
-  "18247068": {
-   "file": "access-integrations-from-the-dashboard-or-a-listing.md",
-   "updated_at": 1793898509,
-   "state": "draft",
-   "title": "Access Integrations from the Dashboard or a Listing",
-   "content_id": "23635277",
-   "body_sha1": "83144e798b719f9fe2e36911c81bfc1111e7ca97"
-  },
-  "18247081": {
-   "file": "listing-detail-page-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793898338,
-   "state": "draft",
-   "title": "Listing Detail Page in the Perchwell Mobile App",
-   "content_id": "23635293",
-   "body_sha1": "d972c6d30ed12ab0cf941c08aeeb7c9bc77c1f52"
-  },
-  "18247096": {
-   "file": "user-settings-faq.md",
-   "updated_at": 1793898271,
-   "state": "draft",
-   "title": "User Settings FAQ",
-   "content_id": "23635314",
-   "body_sha1": "ac517ce2eec6a36fd7184d4e4aaa8a18dc4e9f8a"
-  },
-  "18247092": {
-   "file": "create-a-quick-cma-report.md",
-   "updated_at": 1793898218,
-   "state": "draft",
-   "title": "Create a Quick CMA Report",
-   "content_id": "23635308",
-   "body_sha1": "f508d87b7c93d32cd6896cfcd1d648da750939d6"
-  },
-  "18247089": {
-   "file": "search-faq.md",
-   "updated_at": 1793898182,
-   "state": "draft",
-   "title": "Search FAQ",
-   "content_id": "23635302",
-   "body_sha1": "366b6edf28710fc2d8f894517b14d1ef53b8f927"
-  },
-  "18247083": {
-   "file": "log-in-to-the-perchwell-mobile-app.md",
-   "updated_at": 1793898149,
-   "state": "draft",
-   "title": "Log In to the Perchwell Mobile App",
-   "content_id": "23635295",
-   "body_sha1": "9376cf8e3308d089f978b291e89c70f6ce98ad22"
-  },
   "18247080": {
    "file": "search-for-condos-subdivisions-and-communities.md",
    "updated_at": 1793898124,
@@ -147,30 +227,6 @@
    "content_id": "23635292",
    "body_sha1": "56117d59aa6a7c1174ab7aec0061150847364bf0"
   },
-  "18247072": {
-   "file": "mls-rules-and-compliance-faq.md",
-   "updated_at": 1793898046,
-   "state": "draft",
-   "title": "MLS Rules and Compliance FAQ",
-   "content_id": "23635282",
-   "body_sha1": "c29fa44e55f506e279288e6c3af99a688889b408"
-  },
-  "18247071": {
-   "file": "all-about-property-types-and-sub-types.md",
-   "updated_at": 1793898045,
-   "state": "draft",
-   "title": "All About Property Types and Sub-Types",
-   "content_id": "23635281",
-   "body_sha1": "cd73d3904e99b6295b183f6b7c18abcfa9bf658a"
-  },
-  "18247070": {
-   "file": "what-each-listing-status-means.md",
-   "updated_at": 1793898043,
-   "state": "draft",
-   "title": "What Each Listing Status Means",
-   "content_id": "23635280",
-   "body_sha1": "6cf78e8a34649b047303f543119e376f788555a0"
-  },
   "18234456": {
    "file": "tags-in-the-perchwell-mobile-app.md",
    "updated_at": 1793842346,
@@ -178,14 +234,6 @@
    "title": "Tags in the Perchwell Mobile App",
    "content_id": "23618192",
    "body_sha1": "140d82c9e9ffc4518f77ec064293a7c3bde5a106"
-  },
-  "18234422": {
-   "file": "search-in-the-perchwell-mobile-app.md",
-   "updated_at": 1793842331,
-   "state": "published",
-   "title": "Search in the Perchwell Mobile App",
-   "content_id": "23618157",
-   "body_sha1": "155a411377de7ded78e45fdd695ddbb9d8087ea2"
   },
   "18234364": {
    "file": "message-clients-in-the-perchwell-mobile-app.md",
@@ -275,30 +323,6 @@
    "content_id": "23618564",
    "body_sha1": "724b99c2a29e7a14a011e4ec0a87dea31781dc03"
   },
-  "18234756": {
-   "file": "reports-faq.md",
-   "updated_at": 1793842041,
-   "state": "published",
-   "title": "Reports FAQ",
-   "content_id": "23618560",
-   "body_sha1": "f0b54395b1572cf923d6bba7cc6d45a72c49e8f6"
-  },
-  "18234753": {
-   "file": "mobile-app-faq.md",
-   "updated_at": 1793841982,
-   "state": "published",
-   "title": "Mobile App FAQ",
-   "content_id": "23618556",
-   "body_sha1": "028a03b5e8f5f22e08cf0544cd7948f6ae03c9ec"
-  },
-  "18234749": {
-   "file": "dashboard-faq.md",
-   "updated_at": 1793841966,
-   "state": "published",
-   "title": "Dashboard FAQ",
-   "content_id": "23618550",
-   "body_sha1": "cda8c6420de4d271e5b172616a8bb1ffac45c779"
-  },
   "18234746": {
    "file": "client-collaboration-faq.md",
    "updated_at": 1793841951,
@@ -330,14 +354,6 @@
    "title": "Create a Listing Report",
    "content_id": "23616563",
    "body_sha1": "3106702e24ff51e7441909583babfda9787f5826"
-  },
-  "18233073": {
-   "file": "create-a-cma-with-a-subject-property.md",
-   "updated_at": 1793840457,
-   "state": "published",
-   "title": "Create a CMA with a Subject Property",
-   "content_id": "23616547",
-   "body_sha1": "d11012040af1ff1172ed0f0dfac1d4c881e8195e"
   },
   "18234722": {
    "file": "analytics-page-overview.md",
@@ -618,30 +634,6 @@
    "title": "Share Listings with Clients from Search",
    "content_id": "23617821",
    "body_sha1": "5d95184872250401086847257031f863f514a4ee"
-  },
-  "18234136": {
-   "file": "universal-search-bar.md",
-   "updated_at": 1793837136,
-   "state": "published",
-   "title": "Universal Search Bar",
-   "content_id": "23617829",
-   "body_sha1": "a4a83918999e90d963a5860f2534d0eb9795e90b"
-  },
-  "18233020": {
-   "file": "find-listings-in-the-listings-widget.md",
-   "updated_at": 1793836392,
-   "state": "published",
-   "title": "Find Listings in the Listings Widget",
-   "content_id": "23616481",
-   "body_sha1": "e6486e9e9da46644dbcb7f14bcbf3a6f0c8336f3"
-  },
-  "18233009": {
-   "file": "dashboard-overview.md",
-   "updated_at": 1793836348,
-   "state": "published",
-   "title": "Dashboard Overview",
-   "content_id": "23616464",
-   "body_sha1": "16d3d4593653b78fc5e1f1c30f8fcfdbf3e8cb50"
   },
   "18232992": {
    "file": "customize-your-dashboard.md",

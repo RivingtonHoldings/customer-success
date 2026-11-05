@@ -3,19 +3,19 @@ intercom_id: "18247092"
 content_id: "23635308"
 title: "Create a Quick CMA Report"
 description: "Create a Quick CMA report from your search results or a listing, choose its layout and fields, and email, print, or download it."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report"
 help_center: crmls
 help_center_id: 4767477
 collection: "Reports"
 collection_ids: [16867011]
 collections: ["Reports"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:03:38Z
-updated_at: 2026-11-05T17:03:38Z
+updated_at: 2026-11-05T17:51:03Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Create a Quick CMA Report
@@ -44,7 +44,7 @@ In a listing preview on the Search page, Actions creates the Quick CMA from all 
 
 The report window moves to the Customize Report step with your listings.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png?expires=1793903400&signature=a2fbbde9a31e51a41ec613a8eb93e7243211c9fdbc54ce5db70db109ef43c262&req=dicuFst9mIhZX%2FMW1HO4zanIu8rp9EXLlQEOaII25zxSSMsTyqrmmTrFemaz%0A0sShx9GkrYMjyQvRLaI%3D%0A)
 
 # Customize the Quick CMA
 
@@ -65,7 +65,7 @@ Reorder or remove listings on the Customize Report step, where the Quick CMA gro
 - Click the X to the right of a listing to remove it from the Quick CMA
 - Click View Listing to open the listing
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png?expires=1793903400&signature=4e705fd3edf01b4a1bba008a5913a878f44348351a7e7016f03895f4a4a65cbc&req=dicuFst9m4FfWfMW1HO4zYCkurOkAn89F2nA9JSuYwuZo3p3gQWhNeKO5TnU%0AubIqG%2B2Ws2G6ks%2FWUZE%3D%0A)
 
 ## Choose the Quick CMA layout
 
@@ -98,7 +98,7 @@ Select the fields each listing shows under Select fields to show in the Quick CM
 
 If a listing is missing a detail in the Quick CMA, the listing agent may not have entered it.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png?expires=1793903400&signature=f68d2dc3f5748e3363abfae89cb6afcf6ec4099e7ae5d974dbbe0a181fd8c3c5&req=dicuFst9m4FdXfMW1HO4zTis%2B4uDpH%2BdQ4qFa8u%2FjveThcug%2FFsRkQEtzCw3%0ASFfdCwG9AyS8SU3hJk4%3D%0A)
 
 ## Choose how listing links open in the Quick CMA
 
@@ -117,13 +117,13 @@ Perchwell remembers your selections on the Customize Report step, which means yo
 
 > **Tip:** For clickable listing links in the PDF, select both Include exact address and Open links externally with your branding.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png?expires=1793903400&signature=d5d7549786fab240d103d1e22206d5e716a40ff95769a3065ff49fb53e8d71c0&req=dicuFst9m4FaWvMW1HO4zbipM%2Bqt0Q2oisX7JQkoP9MN2NRYD30eqdNLGDL1%0ATnEdeHXqIDqwLr2zpIo%3D%0A)
 
 # Email, print, or download the Quick CMA
 
 Email, print, or download the Quick CMA from the Generate Report step of the report window. Click Next on the Customize Report step to open it, and click Previous to change a setting.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png?expires=1793903400&signature=15a092c95e610858ba74527e9db59c552932a1482068df5a7b6bd2630eecd338&req=dicuFst9m4FYUPMW1HO4zcpMBeyKhscHAvoe63u2QzkYdkk7khoE7zBCB0%2FN%0A1W76ZARTqEWMZjoD6%2Bw%3D%0A)
 
 ## Email the Quick CMA
 

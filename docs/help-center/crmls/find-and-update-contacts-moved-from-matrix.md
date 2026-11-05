@@ -3,19 +3,19 @@ intercom_id: "18247278"
 content_id: "23635738"
 title: "Find and Update Contacts Moved from Matrix"
 description: "Find your contacts moved from Matrix on the Contacts page, add any missing email addresses, and invite them to Perchwell."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247278-find-and-update-contacts-moved-from-matrix"
 help_center: crmls
 help_center_id: 4767477
 collection: "Then Vs. Now"
 collection_ids: [19802920]
 collections: ["Then Vs. Now"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:22:40Z
-updated_at: 2026-11-05T17:22:40Z
+updated_at: 2026-11-05T17:47:26Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:28:45Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Find and Update Contacts Moved from Matrix
@@ -28,7 +28,7 @@ Open the Contacts page to find your contacts moved from Matrix on the My Contact
 
 Contacts moved in a one-time transfer at the start of your Perchwell member training. Changes made in Matrix afterward are not in Perchwell.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png?expires=1793903400&signature=ad33b780507f15f409954896a83f3104a41409ff13a89e4d386e0a80e437ff98&req=dicuFst2mIdbX%2FMW1HO4zRhc86iNIaVNAGlQvIiYUBkTB1DkngP%2Fmn6JlSVK%0A%2F%2BMDymF44mrx7BrQwCU%3D%0A)
 
 # Add an email address to a contact moved from Matrix
 

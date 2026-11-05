@@ -3,19 +3,19 @@ intercom_id: "18247072"
 content_id: "23635282"
 title: "MLS Rules and Compliance FAQ"
 description: "Answers to CRMLS compliance questions on listing photos, DAM, new construction, Coming Soon, buyer agreements, and more."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247072-mls-rules-and-compliance-faq"
 help_center: crmls
 help_center_id: 4767477
 collection: "Frequently Asked Questions"
 collection_ids: [16867037]
 collections: ["Frequently Asked Questions"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:00:46Z
-updated_at: 2026-11-05T17:00:46Z
+updated_at: 2026-11-05T17:49:05Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # MLS Rules and Compliance FAQ

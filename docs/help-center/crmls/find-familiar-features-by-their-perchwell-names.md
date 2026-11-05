@@ -3,19 +3,19 @@ intercom_id: "18247301"
 content_id: "23635765"
 title: "Find Familiar Features by Their Perchwell Names"
 description: "Find the Perchwell name for a feature you knew in Matrix, such as Carts, Power Bar, Market Watch, Search Criteria, and more."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247301-find-familiar-features-by-their-perchwell-names"
 help_center: crmls
 help_center_id: 4767477
 collection: "Then Vs. Now"
 collection_ids: [19802920]
 collections: ["Then Vs. Now"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:25:24Z
-updated_at: 2026-11-05T17:25:24Z
+updated_at: 2026-11-05T17:48:09Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:28:45Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Find Familiar Features by Their Perchwell Names

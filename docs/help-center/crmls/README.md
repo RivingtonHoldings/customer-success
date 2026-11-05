@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T17:28:45Z. Articles: 82 (62 published, 20 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T17:57:16Z. Articles: 81 (79 published, 2 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -37,26 +37,26 @@ Collection ID 19802003. 5 articles.
 
 Collection ID 16866828. 5 articles.
 
-- [Access Integrations from the Dashboard or a Listing](access-integrations-from-the-dashboard-or-a-listing.md) (draft), updated 2026-11-05
+- [Access Integrations from the Dashboard or a Listing](access-integrations-from-the-dashboard-or-a-listing.md), updated 2026-11-05
 - [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-05
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-04
-- [Dashboard Overview](dashboard-overview.md), updated 2026-11-04
-- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-04
+- [Dashboard Overview](dashboard-overview.md), updated 2026-11-05
+- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-05
 
 ## Frequently Asked Questions
 
 Collection ID 16867037. 10 articles.
 
-- [All About Property Types and Sub-Types](all-about-property-types-and-sub-types.md) (draft), updated 2026-11-05
+- [All About Property Types and Sub-Types](all-about-property-types-and-sub-types.md), updated 2026-11-05
 - [Client Collaboration FAQ](client-collaboration-faq.md), updated 2026-11-05
 - [Dashboard FAQ](dashboard-faq.md), updated 2026-11-05
 - [Listing Detail Page FAQ](listing-detail-page-faq.md), updated 2026-11-05
-- [MLS Rules and Compliance FAQ](mls-rules-and-compliance-faq.md) (draft), updated 2026-11-05
+- [MLS Rules and Compliance FAQ](mls-rules-and-compliance-faq.md), updated 2026-11-05
 - [Mobile App FAQ](mobile-app-faq.md), updated 2026-11-05
 - [Reports FAQ](reports-faq.md), updated 2026-11-05
-- [Search FAQ](search-faq.md) (draft), updated 2026-11-05
+- [Search FAQ](search-faq.md), updated 2026-11-05
 - [Tags FAQ](tags-faq.md), updated 2026-11-05
-- [What Each Listing Status Means](what-each-listing-status-means.md) (draft), updated 2026-11-05
+- [What Each Listing Status Means](what-each-listing-status-means.md), updated 2026-11-05
 
 ## Manage People
 
@@ -69,7 +69,7 @@ Collection ID 19802005. 2 articles.
 
 Collection ID 19802008. 5 articles.
 
-- [Listing Detail Page in the Perchwell Mobile App](listing-detail-page-in-the-perchwell-mobile-app.md) (draft), updated 2026-11-05
+- [Listing Detail Page in the Perchwell Mobile App](listing-detail-page-in-the-perchwell-mobile-app.md), updated 2026-11-05
 - [Manage Contacts in the Perchwell Mobile App](manage-contacts-in-the-perchwell-mobile-app.md), updated 2026-11-05
 - [Message Clients in the Perchwell Mobile App](message-clients-in-the-perchwell-mobile-app.md), updated 2026-11-05
 - [Search in the Perchwell Mobile App](search-in-the-perchwell-mobile-app.md), updated 2026-11-05
@@ -85,7 +85,7 @@ Collection ID 16867011. 9 articles.
 - [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md), updated 2026-11-05
 - [Create a Media Report](create-a-media-report.md), updated 2026-11-05
 - [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-05
-- [Create a Quick CMA Report](create-a-quick-cma-report.md) (draft), updated 2026-11-05
+- [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-05
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-05
 - [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-05
 
@@ -101,27 +101,26 @@ Collection ID 16866962. 5 articles.
 
 ## Then Vs. Now
 
-Collection ID 19802920. 10 articles.
+Collection ID 19802920. 9 articles.
 
-- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md) (draft), updated 2026-11-05
-- [Find OneHome Features in the Perchwell Client Portal](find-onehome-features-in-the-perchwell-client-portal.md) (draft), updated 2026-11-05
-- [Find and Update Contacts Moved from Matrix](find-and-update-contacts-moved-from-matrix.md) (draft), updated 2026-11-05
-- [Find the Perchwell Report That Replaces Each Matrix Report](find-the-perchwell-report-that-replaces-each-matrix-report.md) (draft), updated 2026-11-05
-- [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md) (draft), updated 2026-11-05
-- [Review Saved Searches Moved from Matrix](review-saved-searches-moved-from-matrix.md) (draft), updated 2026-11-05
-- [Review Your Data Moved from Matrix](review-your-data-moved-from-matrix.md) (draft), updated 2026-11-05
-- [Sample Article](sample-article.md), updated 2026-11-05
-- [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md) (draft), updated 2026-11-05
-- [Why Listings and Market Data Can Look Different in Perchwell](why-listings-and-market-data-can-look-different-in-perchwell.md) (draft), updated 2026-11-05
+- [Find Familiar Features by Their Perchwell Names](find-familiar-features-by-their-perchwell-names.md), updated 2026-11-05
+- [Find OneHome Features in the Perchwell Client Portal](find-onehome-features-in-the-perchwell-client-portal.md), updated 2026-11-05
+- [Find and Update Contacts Moved from Matrix](find-and-update-contacts-moved-from-matrix.md), updated 2026-11-05
+- [Find the Perchwell Report That Replaces Each Matrix Report](find-the-perchwell-report-that-replaces-each-matrix-report.md), updated 2026-11-05
+- [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-05
+- [Review Saved Searches Moved from Matrix](review-saved-searches-moved-from-matrix.md), updated 2026-11-05
+- [Review Your Data Moved from Matrix](review-your-data-moved-from-matrix.md), updated 2026-11-05
+- [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md), updated 2026-11-05
+- [Why Listings and Market Data Can Look Different in Perchwell](why-listings-and-market-data-can-look-different-in-perchwell.md), updated 2026-11-05
 
 ## User Settings
 
 Collection ID 19802006. 4 articles.
 
 - [Create Brokerage Email Templates](create-brokerage-email-templates.md), updated 2026-11-05
-- [Log In to the Perchwell Mobile App](log-in-to-the-perchwell-mobile-app.md) (draft), updated 2026-11-05
+- [Log In to the Perchwell Mobile App](log-in-to-the-perchwell-mobile-app.md), updated 2026-11-05
 - [Update Your Brokerage Logo and Colors](update-your-brokerage-logo-and-colors.md), updated 2026-11-05
-- [User Settings FAQ](user-settings-faq.md) (draft), updated 2026-11-05
+- [User Settings FAQ](user-settings-faq.md), updated 2026-11-05
 
 ## Search / Filters (under Search)
 

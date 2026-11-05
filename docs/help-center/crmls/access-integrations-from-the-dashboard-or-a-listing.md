@@ -3,19 +3,19 @@ intercom_id: "18247068"
 content_id: "23635277"
 title: "Access Integrations from the Dashboard or a Listing"
 description: "Open the tools your MLS connects to Perchwell, such as Realist, RPR, and DownPayment Resource, from the Dashboard or a listing's Actions menu."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247068-access-integrations-from-the-dashboard-or-a-listing"
 help_center: crmls
 help_center_id: 4767477
 collection: "Dashboard"
 collection_ids: [16866828]
 collections: ["Dashboard"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:00:02Z
-updated_at: 2026-11-05T17:08:29Z
+updated_at: 2026-11-05T17:51:23Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Access Integrations from the Dashboard or a Listing
@@ -35,7 +35,7 @@ The integration opens in a new tab, so the Dashboard stays as you left it. When 
 
 Sign in to an integration with the credentials your MLS provided for that tool.
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png?expires=1793903400&signature=5b1ddd27b6c30511e1fba743576d2abae4655a58a202e869a136f537788b0dae&req=dicuFst8mIhaXfMW1HO4zfOx5E4eG2JGNOAzUEtppHtsXUQCjRZKKp%2BjgQFO%0A7t7ZeRNSqfQv%2B%2BfUs9k%3D%0A)
 
 # Open integrations for a listing from the Actions menu
 
@@ -55,4 +55,4 @@ The Integrations submenu includes tools also available from the Dashboard Integr
 
 [Listing Detail Page Overview](https://support.perchwell.com/crmls/en/articles/18247110-listing-detail-page-overview) covers the rest of the Actions menu
 
-![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png?expires=1793903400&signature=45d79415d9613471a174fc6a027bd000debf65703a698b6e915c826a2c7d3cb7&req=dicuFst8mIhWXvMW1HO4zW445oCuYcGnYXWYSOn6eIdIP7WGA6RhM5DI6IME%0AJbqzmModBBCaDgeCKWQ%3D%0A)

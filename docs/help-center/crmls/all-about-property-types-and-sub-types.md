@@ -3,19 +3,19 @@ intercom_id: "18247071"
 content_id: "23635281"
 title: "All About Property Types and Sub-Types"
 description: "See what each CRMLS property type includes, from Residential-Single Family to Commercial Lease, and the subtypes under each one."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247071-all-about-property-types-and-sub-types"
 help_center: crmls
 help_center_id: 4767477
 collection: "Frequently Asked Questions"
 collection_ids: [16867037]
 collections: ["Frequently Asked Questions"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:00:45Z
-updated_at: 2026-11-05T17:00:45Z
+updated_at: 2026-11-05T17:48:55Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # All About Property Types and Sub-Types

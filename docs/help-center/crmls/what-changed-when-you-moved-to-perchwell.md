@@ -3,19 +3,19 @@ intercom_id: "18247297"
 content_id: "23635761"
 title: "What Changed When You Moved to Perchwell"
 description: "Learn how familiar workflows from Matrix have changed in Perchwell, including Quick Search, Concierge mode, and Market Watch."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247297-what-changed-when-you-moved-to-perchwell"
 help_center: crmls
 help_center_id: 4767477
 collection: "Then Vs. Now"
 collection_ids: [19802920]
 collections: ["Then Vs. Now"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:25:02Z
-updated_at: 2026-11-05T17:25:02Z
+updated_at: 2026-11-05T17:48:01Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:28:45Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # What Changed When You Moved to Perchwell

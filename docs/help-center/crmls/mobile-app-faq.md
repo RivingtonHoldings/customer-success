@@ -12,10 +12,10 @@ collections: ["Frequently Asked Questions"]
 state: published
 author_id: 8314814
 created_at: 2026-11-04T22:56:54Z
-updated_at: 2026-11-05T01:26:22Z
+updated_at: 2026-11-05T17:55:10Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Mobile App FAQ
@@ -24,13 +24,13 @@ synced_at: 2026-11-05T17:12:37Z
 
 No. There is no Perchwell app for iPad. On an iPad, open Perchwell in a web browser. Chrome is recommended. On a phone, download the Perchwell mobile app for iPhone or Android.
 
-[Log In to the Perchwell Mobile App](https://support.perchwell.com/baldwin/en/articles/15280170-log-in-to-the-perchwell-mobile-app) explains how to download the app and log in.
+[Log In to the Perchwell Mobile App](https://support.perchwell.com/crmls/en/articles/18247083-log-in-to-the-perchwell-mobile-app) explains how to download the app and log in.
 
 # Do listing notes from the Perchwell mobile app show on my computer?
 
 No. Listing notes you add in the Perchwell mobile app stay in the app. They do not show when you open Perchwell on your computer. Only you see your notes. To review a note, open the listing in the mobile app.
 
-[Listing Detail Page in the Perchwell Mobile App](https://support.perchwell.com/baldwin/en/articles/14784837-listing-detail-page-in-the-perchwell-mobile-app) shows where Add Note sits on a listing.
+[Listing Detail Page in the Perchwell Mobile App](https://support.perchwell.com/crmls/en/articles/18247081-listing-detail-page-in-the-perchwell-mobile-app) shows where Add Note sits on a listing.
 
 # Can I assume an agent's identity in the Perchwell mobile app?
 

@@ -12,10 +12,10 @@ collections: ["Frequently Asked Questions"]
 state: published
 author_id: 8314814
 created_at: 2026-11-04T22:56:40Z
-updated_at: 2026-11-05T01:26:06Z
+updated_at: 2026-11-05T17:56:28Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Dashboard FAQ
@@ -44,9 +44,9 @@ A listing in a 0-day Hot Sheet can have days on market (DOM) above zero because 
 
 Off-market activity in a Hot Sheet counts listings that moved to an off-market status, such as Cancelled or Withdrawn, during the selected timeframe, even if the listing has since changed status. Expired is counted separately in its own Hot Sheet bar.
 
-For status definitions, see [What Each Listing Status Means](https://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell).
+For status definitions, see [What Each Listing Status Means](https://support.perchwell.com/crmls/en/articles/18247070-what-each-listing-status-means).
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png?expires=1793900700&signature=ce403c616a877ad80ad0e2ed28b4134086ac36f1211042d15c5259028b434178&req=dicvHs1%2BlYNeXvMW1HO4zYQXZuqZsJNZcHU2h6nXkM%2FJHY%2BX23gziYRaYhsZ%0AiMQ1hZasLMNMVZ2pBWk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788408217/9ee40689c270af9c1e1deeeb799a/upload_7264712032443493689.png?expires=1793903400&signature=9eb28204a8160addc136091b7ca1dab33e4e4a6cdb69c31cb77b171e6c4c95e5&req=dicvHs1%2BlYNeXvMW1HO4zYQXZuqZsJBacHU2na3RmfWB7Wf%2FtNR7Xo6Ti5KW%0Aa0x7%0A)
 
 # Can I view the Dashboard and Hot Sheets in the Perchwell mobile app?
 
@@ -56,4 +56,4 @@ The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Open
 
 Members who came from a legacy platform may know Hot Sheets as the Market Monitor. In Perchwell, a Hot Sheet is the equivalent Dashboard widget for tracking new and updated listing activity.
 
-[Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/baldwin/en/articles/14459704-new-terminology) maps the other legacy names to their Perchwell equivalents.
+[Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/crmls/en/articles/18247301-find-familiar-features-by-their-perchwell-names) maps the other legacy names to their Perchwell equivalents.

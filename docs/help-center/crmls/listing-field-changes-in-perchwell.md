@@ -3,19 +3,19 @@ intercom_id: "18247269"
 content_id: "23635729"
 title: "Listing Field Changes in Perchwell"
 description: "Learn which Matrix listing fields were renamed or are not stored in Perchwell, including Township, mixed use subtypes, and more."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247269-listing-field-changes-in-perchwell"
 help_center: crmls
 help_center_id: 4767477
 collection: "Then Vs. Now"
 collection_ids: [19802920]
 collections: ["Then Vs. Now"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:21:21Z
-updated_at: 2026-11-05T17:21:21Z
+updated_at: 2026-11-05T17:46:29Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:28:45Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Listing Field Changes in Perchwell

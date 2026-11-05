@@ -3,19 +3,19 @@ intercom_id: "18247272"
 content_id: "23635732"
 title: "Find OneHome Features in the Perchwell Client Portal"
 description: "Find the Perchwell client portal match for each OneHome feature your clients used, such as Favorite, Add a Note, and Request a Tour."
-url: ""
+url: "https://support.perchwell.com/crmls/en/articles/18247272-find-onehome-features-in-the-perchwell-client-portal"
 help_center: crmls
 help_center_id: 4767477
 collection: "Then Vs. Now"
 collection_ids: [19802920]
 collections: ["Then Vs. Now"]
-state: draft
+state: published
 author_id: 8314814
 created_at: 2026-11-05T17:21:25Z
-updated_at: 2026-11-05T17:21:25Z
+updated_at: 2026-11-05T17:47:00Z
 labels: []
-body_source: intercom-api
-synced_at: 2026-11-05T17:28:45Z
+body_source: public-help-center
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Find OneHome Features in the Perchwell Client Portal

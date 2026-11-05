@@ -12,10 +12,10 @@ collections: ["Frequently Asked Questions"]
 state: published
 author_id: 8314814
 created_at: 2026-11-04T22:57:58Z
-updated_at: 2026-11-05T01:27:21Z
+updated_at: 2026-11-05T17:55:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T17:57:16Z
 ---
 
 # Reports FAQ
@@ -39,7 +39,7 @@ Reorder or remove listings in a Quick CMA, Listing Report, Show Sheet, Itinerary
 Members who came from a legacy platform may know customizable reports, such as Agent All Fields Customizable and CMA Summary.
 
 For more information:
-- [Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) covers layouts, fields, and every Quick CMA option.
+- [Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) covers layouts, fields, and every Quick CMA option.
 - [Create a Listing Report](https://support.perchwell.com/crmls/en/articles/18233087-create-a-listing-report) covers labels, listing details, and layout.
 - [Create a Show Sheet](https://support.perchwell.com/crmls/en/articles/18233133-create-a-show-sheet) covers listing details, contact information, and photos.
 - [Create an Itinerary Report](https://support.perchwell.com/crmls/en/articles/18233139-create-an-itinerary-report) covers tour times, notes, and listing details.
@@ -54,7 +54,7 @@ A Quick CMA shows up to 12 fields per listing with the Landscape layout, and up 
 
 Select the fields under Select fields to show on the Customize Report step of the report window. A CMA with a subject property opens the same Customize Report step, which means the same fields and limits apply.
 
-[Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) lists every field available in a Quick CMA.
+[Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) lists every field available in a Quick CMA.
 
 # What does Include exact address do in a Quick CMA?
 
@@ -64,13 +64,13 @@ With Include exact address selected, each address in the PDF (Portable Document 
 - Open links externally with your branding: Opens the listing on a page with your branding.
 - Open links in Perchwell (clients must log in): Opens the listing in Perchwell after the client logs in.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png?expires=1793988000&signature=76fe63165cd512873adb4b492e8eb33e8ba22011f45792cefa6b75e57ec66468&req=dicvHs1%2FnIZfX%2FMW3nq%2Bgd%2BsxZLX5OQBr%2Fogw8Iq7k4E%2FvFD2Hy%2Fdh6b0lCW%0AzE6kqsbFkOVc%2FCXo%2BwWR5Uaz5hA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png?expires=1793903400&signature=4d8d1fc67844a8b0f6cde71321985b4d193afee6d7de900e3c5f7bcaa07c1d84&req=dicvHs1%2FnIZfX%2FMW1HO4zcGNImeZm9wLrcjPqtNXNUs3K8HKY%2FQe2OxeN99D%0Ajcde%0A)
 
 # Can I create a Quick CMA for lease listings?
 
 Yes. Create a Quick CMA for lease listings the same way as for homes for sale. Select a lease property type, such as Lease or Residential Lease, under Property Type on the Search page, then select the listings you want for the Quick CMA.
 
-[Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) covers each step from your search results.
+[Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) covers each step from your search results.
 
 # How do I hide sections of a Full Report from clients?
 
@@ -94,7 +94,7 @@ Share a report with a client from the Generate Report step of the report window.
 - Print: Opens your browser's print dialog.
 - Download: Saves the report to your computer as a PDF file.
 
-[Create a Quick CMA Report](https://support.perchwell.com/baldwin/en/articles/13959293-create-a-quick-cma-report) and [Create a Full Report](https://support.perchwell.com/crmls/en/articles/18233152-create-a-full-report) explain the email fields for each report.
+[Create a Quick CMA Report](https://support.perchwell.com/crmls/en/articles/18247092-create-a-quick-cma-report) and [Create a Full Report](https://support.perchwell.com/crmls/en/articles/18233152-create-a-full-report) explain the email fields for each report.
 
 # Where do I find a report I already created?
 
