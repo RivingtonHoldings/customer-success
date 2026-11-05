@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2025-04-01T14:00:59Z
-updated_at: 2026-10-23T22:01:01Z
+updated_at: 2026-11-04T23:57:31Z
 labels: ["How to: Search (Status + Listing Activity)"]
 body_source: public-help-center
-synced_at: 2026-10-23T22:01:39Z
+synced_at: 2026-11-04T23:59:03Z
 ---
 
 # Filter Your Search by Status and Price Changes
@@ -34,7 +34,7 @@ Filter listings currently in Coming soon, Active, Active under contract, or Pend
 
 Your search results update to show listings in the selected statuses. Now appears next to each one, which means the search matches the listing's current status. Only these four statuses offer Now.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png?expires=1792794600&signature=dc307fcfb4e9d0666ab113bc0eee38d212dc1b3ca82e00ac36dea22faaab2798&req=dichFMl6lYdXXvMW1HO4zV04qH7dLmLnkvt1gN2rU7D3R9VUkAIuB0Hs20yx%0A96jW%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048687/088b789c8512030cf73dd35f1950/upload_6315004801089393078.png?expires=1793838600&signature=b29abb6c4f5608151dbffe1b72584ca1f7a48395619cf39b11d5584b6f1406e0&req=dichFMl6lYdXXvMW1HO4zV04qH%2FSJG7nkvt1mtmtWor3prbdvLjAmht17vDe%0AHukV%2FNf%2B2e2UEhZ0F8U%3D%0A)
 
 # Find listings that were in any status during a set time
 
@@ -50,7 +50,7 @@ Select Price drop or Price increase under Activity in Status & Activity to find 
 
 Combine a price change with a status to narrow your results. For example, select Active and Price drop. Your results show listings that are currently Active and had a price drop within the last 30 days.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png?expires=1792794600&signature=17846b857601254ba038ee8d31fea2298d81b9336296e5dc21b033fdd4ab09bb&req=dichFMl6lYZYWvMW1HO4zUwBmkdg6%2F%2F2RNSFFQWA0WdCQaU4GxAe9dCygW1Q%0AsKR8%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048773/8b1291f94f9311001de4ad8942f1/upload_4297788638865949495.png?expires=1793838600&signature=c40a1c9c340feec5b6a590a1ad241664545de7be3686d2d983fa277a490752ed&req=dichFMl6lYZYWvMW1HO4zUwBmkZv4fP2RNSFDwGG2F2fWZ%2BFfDS55YqR3LxX%0AeKp6JCbkNX55ARSwTho%3D%0A)
 
 # Change the date window for a status or price change
 
@@ -67,7 +67,7 @@ A rolling window counts back a set number of days from today and moves forward e
 
 Your search results update to the new window. Window end defaults to 0, which includes today. Click 30, 60, 180, or 365 days to set Window start to that number of days ago.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png?expires=1792794600&signature=7afc077daf4d30d745c028f2f867e82e1d21597eb1e0c11518afc43ddbac0bbf&req=dichFMl6lYldXfMW1HO4zfD6Im1I3NRhZyWNjqzm1YMP8mt9k9pNWICAZ%2FOD%0AJMre%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048824/96c599e8581c5dd06e34c1372e27/upload_18340569470036549169.png?expires=1793838600&signature=fbc4a4f501a3f195700c784dd7227b77e175b2faea665acf4c4872e8d5475ae4&req=dichFMl6lYldXfMW1HO4zfD6ImxH1thhZyWNlKjg3LkkFsscONvbc7cNndGc%0AfUprCzLhOHySA9HciUg%3D%0A)
 
 ## Select a date range
 
@@ -81,7 +81,7 @@ A date range covers fixed dates on the calendar and does not move forward each d
 
 Your search results update to the selected date or date range. Click 30, 60, or 180 days to select a range ending today.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png?expires=1792794600&signature=b2619882e42be88ad504fe65655e4198be38e5d987416200592535dea204bf21&req=dichFMl6lYlXWPMW1HO4zRoJTR%2BUVYpaPKu%2FXQ174NXpasNLhyTp03%2F3ZrWG%0ADyu%2B%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048881/1068c71d6fbc8ca56c5056e67552/upload_14222535698308379278.png?expires=1793838600&signature=f19f41551009b5877e43c4b6eaffd532ec16d1a632de19913a7727f564a6efce&req=dichFMl6lYlXWPMW1HO4zRoJTR6bX4ZaPKu%2FRwl96e%2Fnn9%2BDvD7u7cS5ZpkQ%0AJ54X%2FuKI2IfsBzO9JDg%3D%0A)
 
 ## Set a reporting period
 
@@ -96,7 +96,7 @@ A reporting period starts on a fixed date and runs through today, such as month-
 
 Your search results update to show that status or price change from the selected start date through today. Click 30, 60, 180, or 365 days to start the period that number of days before today.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png?expires=1792794600&signature=61a7798392906c69173ad7011e1b0236356f71b8b4bbc9a100b4ecefa50353c2&req=dichFMl6lYhcWvMW1HO4zQVH3TheD1Wtfr9QStW5NKXPqehtbMgfatUa5Qyz%0AdaYS%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762048933/a8c6626f67dae809ae52873614c3/upload_17951503443305953799.png?expires=1793838600&signature=a5d71bb73d619d50d7cc27ef023ad50a2a4c39178df9f49d2c5a1017ea6dea8c&req=dichFMl6lYhcWvMW1HO4zQVH3TlRBVmtfr9QUNG%2FPZ86M%2BoI6H6XByz4mkNR%0ADrmXsbqlA9fHLxUFk%2B8%3D%0A)
 
 # Get alerts for status changes, price changes, and open houses
 
