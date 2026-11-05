@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-05T00:37:12Z",
+ "last_run": "2026-11-05T01:41:37Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
@@ -58,14 +58,6 @@
    "title": "What Changed When You Moved to Perchwell",
    "content_id": "16905641",
    "body_sha1": "35858afe18738ab08e111530d2c630f4095a5ddb"
-  },
-  "8955772": {
-   "file": "create-an-itinerary-report.md",
-   "updated_at": 1793762515,
-   "state": "published",
-   "title": "Create an Itinerary Report",
-   "content_id": "9099068",
-   "body_sha1": "ed3ca70b41f059ca5f5dd94801b7e397750427b5"
   },
   "8955781": {
    "file": "create-a-media-report.md",
@@ -293,11 +285,11 @@
   },
   "14725825": {
    "file": "review-saved-searches-moved-from-paragon.md",
-   "updated_at": 1793818806,
+   "updated_at": 1793842872,
    "state": "published",
    "title": "Review Saved Searches Moved from Paragon",
    "content_id": "17292991",
-   "body_sha1": "c9a4fa543fc17a8e331a35a6af632c3c5a7168a9"
+   "body_sha1": "935e9046f48f7c8f8762e87c7193ccb212b8a674"
   },
   "11373805": {
    "file": "receive-alerts-about-new-listings.md",

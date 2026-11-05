@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T00:37:12Z. Articles: 127 (117 published, 10 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T01:41:37Z. Articles: 126 (116 published, 10 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -121,7 +121,7 @@ Collection ID 19693999. 6 articles.
 
 ## Reports
 
-Collection ID 17797980. 9 articles.
+Collection ID 17797980. 8 articles.
 
 - [Create a CMA with a Subject Property](create-a-cma-with-a-subject-property.md), updated 2026-11-03
 - [Create a Full Report](create-a-full-report.md), updated 2026-11-04
@@ -131,7 +131,6 @@ Collection ID 17797980. 9 articles.
 - [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-04
 - [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-04
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-04
-- [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-04
 
 ## Tags
 
@@ -151,7 +150,7 @@ Collection ID 19197859. 8 articles.
 - [Find Your Partial Listings in Perchwell](find-your-partial-listings-in-perchwell.md) (draft), updated 2026-11-04
 - [Find and Update Contacts Moved from Paragon](find-and-update-contacts-moved-from-paragon.md), updated 2026-11-05
 - [Listing Field Changes in Perchwell](listing-field-changes-in-perchwell.md), updated 2026-11-04
-- [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-04
+- [Review Saved Searches Moved from Paragon](review-saved-searches-moved-from-paragon.md), updated 2026-11-05
 - [Review Your Data Moved from Paragon](review-your-data-moved-from-paragon.md), updated 2026-11-05
 - [Sample Emails to Tell Clients About Perchwell](sample-emails-to-tell-clients-about-perchwell.md), updated 2026-11-03
 - [What Changed When You Moved to Perchwell](what-changed-when-you-moved-to-perchwell.md), updated 2026-11-04
