@@ -15,7 +15,7 @@ created_at: 2026-11-04T20:11:09Z
 updated_at: 2026-11-05T00:57:26Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Create an Itinerary Report
@@ -30,7 +30,7 @@ An Itinerary report is a tour schedule for the listings you plan to visit, with 
 - Organize open house visits
 - Share a tour schedule and property details with a client
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png?expires=1793900700&signature=9e3136aadb0dc30593948745ed903ad69a8ca0a343da37d3429eb881f23e8dfd&req=dicvHsl3moJZXPMW1HO4zaNlAH02eGi0E9RaUXpJKwX6RTgy2ehh45Ox%2FIXr%0AqDaCvzJvZqa0czGL5b4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png?expires=1793917800&signature=29408e94afd032a2baf869ecd9a5d48da4834a4c6f3c0bd4934d6fc9819ea584&req=dicvHsl3moJZXPMW1HO4zaNlAH02eW%2B7E9RaUXpJKwWNc8PP2PfIIY2Fw%2BRS%0ABLvWitlc7zwtqb8gvSQ%3D%0A)
 
 # Create an Itinerary report from your search results
 
@@ -49,9 +49,9 @@ To build an Itinerary report from listings saved to a Tag, find them on the Sear
 
 Itinerary Report sample:
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png?expires=1793900700&signature=9e3136aadb0dc30593948745ed903ad69a8ca0a343da37d3429eb881f23e8dfd&req=dicvHsl3moJZXPMW1HO4zaNlAH02eGi0E9RaUXpJKwX6RTgy2ehh45Ox%2FIXr%0AqDaCvzJvZqa0czGL5b4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097365/401afe21ce62e4bffef7c0da3f16/upload_8459521253174160959.png?expires=1793917800&signature=29408e94afd032a2baf869ecd9a5d48da4834a4c6f3c0bd4934d6fc9819ea584&req=dicvHsl3moJZXPMW1HO4zaNlAH02eW%2B7E9RaUXpJKwWNc8PP2PfIIY2Fw%2BRS%0ABLvWitlc7zwtqb8gvSQ%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097402/833b798a3770d442ecd8a4cfb32b/upload_8290236503224460820.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097402/833b798a3770d442ecd8a4cfb32b/upload_8290236503224460820.png?expires=1793900700&signature=ab738019f49a38f07f67b53ed263d9c3f3f0a4fe9eff83aec8573f8284a25be0&req=dicvHsl3moVfW%2FMW1HO4zWfn7VOF7ZtoDsNHu%2Fd7uYf20eIrggkezA2OnQ%2Fh%0AQ%2Fvc3jmo7MbOTUAhp68%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097402/833b798a3770d442ecd8a4cfb32b/upload_8290236503224460820.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097402/833b798a3770d442ecd8a4cfb32b/upload_8290236503224460820.png?expires=1793917800&signature=e474d9d3b54511575168eb0b4adc285d879cb941bc1f240435b8cb87306b4233&req=dicvHsl3moVfW%2FMW1HO4zWfn7VOF7JxnDsNHu%2Fd7uYcywrYbbp2eujewiOhP%0AuDqChV53Cf0WtSiXh9k%3D%0A)
 
 # Plan the tour in the Itinerary report
 
@@ -76,7 +76,7 @@ Add an appointment time and notes to each tour stop in the Listings section.
 
 Repeat these steps for each listing on the tour. The Notes field holds up to 400 characters, and Include map is selected by default.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097425/405abdb4c539b08d0f098f2c8681/upload_12373744326871597028.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097425/405abdb4c539b08d0f098f2c8681/upload_12373744326871597028.png?expires=1793900700&signature=c2cdca0c1c77988f58378dab238b401fdd1499e5afcd810d435f11c1345e829f&req=dicvHsl3moVdXPMW1HO4zRVYTiSHGuKy3sYHTsPDiDvLHpV386lGrlEnP%2BFV%0AxuVh6p97aiO9ZiMWnag%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097425/405abdb4c539b08d0f098f2c8681/upload_12373744326871597028.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097425/405abdb4c539b08d0f098f2c8681/upload_12373744326871597028.png?expires=1793917800&signature=75996feb4ac62f025b25d48201e32c409515320e9ce6b6c6ba0f096c9faf76e5&req=dicvHsl3moVdXPMW1HO4zRVYTiSHG%2BW93sYHTsPDiDvu%2BT%2Fyz5Zlu3yFaxqG%0AQPKMuS0X3GhAQy6%2FbdQ%3D%0A)
 
 ## Reorder or remove listings in the Itinerary report
 
@@ -118,7 +118,7 @@ Choose what happens when a recipient clicks a listing in the Itinerary report:
 
 Open links externally with your branding is selected by default.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097453/7f9882753d22a1eea00ea5c2c559/upload_10451841000316545468.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097453/7f9882753d22a1eea00ea5c2c559/upload_10451841000316545468.png?expires=1793900700&signature=b1a12693b31d7a74473f0f9a95c29657c8894dafaee274fbca2f2d9f8d3398dc&req=dicvHsl3moVaWvMW1HO4zSLqwIOyOD2LExalWlMX36k5a97XcZgxD%2B2gi70G%0A9PAx9QRvEnAtHfZZglk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097453/7f9882753d22a1eea00ea5c2c559/upload_10451841000316545468.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097453/7f9882753d22a1eea00ea5c2c559/upload_10451841000316545468.png?expires=1793917800&signature=ed1c02aec31b52ef47df5c86de8283f7fbe5a660e8acead049ed8f25dd9cb621&req=dicvHsl3moVaWvMW1HO4zSLqwIOyOTqEExalWlMX36nxiro%2BOKhWcr3ZRvmH%0AGDppNIVccnwb5SERjuw%3D%0A)
 
 # Email, print, or download the Itinerary report
 
@@ -161,4 +161,4 @@ Open your Report library to find Itinerary reports you created earlier.
 
 Your Report library opens with your saved reports, including Itinerary reports. Search for a report by the recipient's email address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097491/a9b7cbabc05583fdf4042ea72612/upload_1790314373155241942.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097491/a9b7cbabc05583fdf4042ea72612/upload_1790314373155241942.png?expires=1793900700&signature=7168fd76168f8491bd816eb96a60535aa062b237d1b80360ac48050f6b10aff3&req=dicvHsl3moVWWPMW1HO4zVMKbAFTa7ec0tkd2FBeBP%2BIHBc7JiqPeZXext4O%0AN%2BTJMDMiBI1i5p1ONvQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097491/a9b7cbabc05583fdf4042ea72612/upload_1790314373155241942.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788097491/a9b7cbabc05583fdf4042ea72612/upload_1790314373155241942.png?expires=1793917800&signature=2037a21acf30f59755cbe91c43b994f0ffdd34870216b005165f83277d9c0322&req=dicvHsl3moVWWPMW1HO4zVMKbAFTarCT0tkd2FBeBP8pZrev6YqOeulzJWh%2F%0AGDETW8RhInrRDTMMg%2BM%3D%0A)

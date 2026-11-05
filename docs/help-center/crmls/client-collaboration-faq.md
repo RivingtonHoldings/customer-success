@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:55:26Z
 updated_at: 2026-11-05T01:25:51Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Client Collaboration FAQ

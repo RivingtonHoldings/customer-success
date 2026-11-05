@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:46:20Z
 updated_at: 2026-11-05T00:07:56Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Manage Your Saved Searches
@@ -32,7 +32,7 @@ Open a saved search from the Search page. The Saved Searches button in the upper
 
 The search opens on the Search page. The saved search name appears in the upper left, and any contacts added to it are listed next to Save.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291263/2a4b2ae8e068bc30fc1883078070/upload_18371884708582208725.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291263/2a4b2ae8e068bc30fc1883078070/upload_18371884708582208725.png?expires=1793900700&signature=027fc7b8a9dc9e924f1448ced5fa170f95b538d10b26d2e93b062f70f51ed117&req=dicvHst3nINZWvMW1HO4zaXePSUaMA%2FvuvFTwsI0VEcA8mr52f6xRqoG%2FNId%0AnA76P5ClzB9z6WM9wsQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291263/2a4b2ae8e068bc30fc1883078070/upload_18371884708582208725.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291263/2a4b2ae8e068bc30fc1883078070/upload_18371884708582208725.png?expires=1793917800&signature=b27721293937f20d4d36c099bbf7ebf0b732063cf843d900786f435f80b865f3&req=dicvHst3nINZWvMW1HO4zaXePSUaMQjguvFTwsI0VEeiOmZS2flEf7deEn4T%0AYhNHWSEzLwGUHlMZ1sE%3D%0A)
 
 # Find and sort saved searches in the My Searches window
 
@@ -44,7 +44,7 @@ Click Saved Searches, or the name of the open saved search, in the upper left of
 
 The Contacts column lists the contacts added to each saved search. The Notifications column shows who receives its alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291292/e523b6d1751188b0a7b13bb833ab/upload_13812406657601103727.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291292/e523b6d1751188b0a7b13bb833ab/upload_13812406657601103727.png?expires=1793900700&signature=12354df779eff42db1920372b82fd1de61d550a17425554bd96c94538cb25e54&req=dicvHst3nINWW%2FMW1HO4zcdkSXpd5AL%2BN9kT5Xx69q9LPHmDUmELXFQCfKsg%0A%2BVudiu5foTYnhH%2Bp%2BDQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291292/e523b6d1751188b0a7b13bb833ab/upload_13812406657601103727.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291292/e523b6d1751188b0a7b13bb833ab/upload_13812406657601103727.png?expires=1793917800&signature=b0c2de9981adf6d14e70ac696973a082133a8a1d2fc57b8d33ed88d3975c010a&req=dicvHst3nINWW%2FMW1HO4zcdkSXpd5QXxN9kT5Xx69q%2FkWPSgl0heacr%2B6lS%2F%0Asi6pBsxNgmOGuMBkS5I%3D%0A)
 
 # Save changes to a saved search
 
@@ -52,7 +52,7 @@ Save changes to the open saved search from the Search page. An orange dot on the
 - Update Current: Saves your changes to the open saved search.
 - Save New: Saves your changes as a separate saved search and leaves the original unchanged. Enter a name in the Name this search field of the New Search window, then click Save.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291345/39bcf745c7b210db6109d2abb379/upload_9323545260759360536.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291345/39bcf745c7b210db6109d2abb379/upload_9323545260759360536.png?expires=1793900700&signature=f2911ac678b89f548dc4b9d9ed2bc5d0eeb31a0f09b7497e1407e6095c3c68f0&req=dicvHst3nIJbXPMW1HO4zaQAAowujeFacU%2FitwBH2v7SntBrG%2BBr%2FBNCkRY%2F%0AJZwyE60NuFmA10GyihQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291345/39bcf745c7b210db6109d2abb379/upload_9323545260759360536.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291345/39bcf745c7b210db6109d2abb379/upload_9323545260759360536.png?expires=1793917800&signature=bdd445e4ffc6c6a12ae429df235be17840114c5e0e8d1eb4bd9e9f2530c42154&req=dicvHst3nIJbXPMW1HO4zaQAAowujOZVcU%2FitwBH2v4tY38JXFZv1MdavRm7%0A%2FXGrrRFCFNZQQ0mDYKM%3D%0A)
 
 # Start a new search
 
@@ -60,9 +60,9 @@ Start a new search from the Search page in one of two ways:
 - Start New: Click Start New in the upper right of the Search page.
 - New Search: Click Saved Searches, or the name of the open saved search, in the upper left of the Search page. Then click New Search in the lower left of the My Searches window.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291388/2470aa66491c3592564c10a2f4c0/upload_4181884272275427083.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291388/2470aa66491c3592564c10a2f4c0/upload_4181884272275427083.png?expires=1793900700&signature=67d0b2e0e202034eea13c810350eb0b453cfe710d60076a7eafb5e49dabd2923&req=dicvHst3nIJXUfMW1HO4zQlcOTS9UfCSqb1P2GGqw8L9YDQ2CTPlJlWNwiE5%0AXodnbUHKFa1JpvkNHAA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291388/2470aa66491c3592564c10a2f4c0/upload_4181884272275427083.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291388/2470aa66491c3592564c10a2f4c0/upload_4181884272275427083.png?expires=1793917800&signature=eb181a10a1854ec1ee0da637136a52cbd8457ff553952d12c96b5fe167cad189&req=dicvHst3nIJXUfMW1HO4zQlcOTS9UPedqb1P2GGqw8LBsmJXEtUYgFBJu4R4%0AmiUoMnFnbPKVEvjInU0%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291437/1e327f1daf8d8620b7a4aced6f5b/upload_12250344707693148916.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291437/1e327f1daf8d8620b7a4aced6f5b/upload_12250344707693148916.png?expires=1793900700&signature=6186a81c9e956b31d543f1749a01d988214a468c0efa2e2328f3bfad6639574b&req=dicvHst3nIVcXvMW1HO4zTTee2wBEZAIosLSH91qOUnO61w8zXbUjl0oEOdZ%0ANlAYv5Xtg1Ina7b2VHA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291437/1e327f1daf8d8620b7a4aced6f5b/upload_12250344707693148916.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291437/1e327f1daf8d8620b7a4aced6f5b/upload_12250344707693148916.png?expires=1793917800&signature=750405bb2e5c7d1ef60d96c1fdb6b3d9ecf88862993e45287c9a71f9a3714c01&req=dicvHst3nIVcXvMW1HO4zTTee2wBEJcHosLSH91qOUkEaS6XyBDy7mFloyPU%0ACI2P3nM6Yt3Zqhf1liM%3D%0A)
 
 If you have a Template Search, the new search starts with its settings. [Create a Template Search](https://support.perchwell.com/crmls/en/articles/18234015-create-a-template-search) explains how to set one.
 
@@ -89,7 +89,7 @@ For more information:
 - [Find and Contact Buyer's Agents with Reverse Prospecting](https://support.perchwell.com/crmls/en/articles/18232908-find-and-contact-buyer-s-agents-with-reverse-prospecting) covers how agents find matching saved searches.
 - [Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) covers creating a new contact.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291538/337b7eee4f881a66f467651d3820/upload_16731453516493420081.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291538/337b7eee4f881a66f467651d3820/upload_16731453516493420081.png?expires=1793900700&signature=1b0bdf2cd778ee0802ec8a4748e09be2ed4f8a65d83096c3a7faf3d49a24e8d5&req=dicvHst3nIRcUfMW1HO4zeG4MZgIFc16b6NJZWadfNcflWElhVOYxc5zNUor%0A%2BZDmXauB7IXO7MZNk6Y%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291538/337b7eee4f881a66f467651d3820/upload_16731453516493420081.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291538/337b7eee4f881a66f467651d3820/upload_16731453516493420081.png?expires=1793917800&signature=34c9c25d2a8eef4835bdd3a17803263e5a45bfe7f68942f32c6fa145a8b9daf8&req=dicvHst3nIRcUfMW1HO4zeG4MZgIFMp1b6NJZWadfNcI4%2BSxvfWpzGrMfAE%2B%0AWfndk3clMa3LG0rtCyc%3D%0A)
 
 # Rename a saved search
 
@@ -121,4 +121,4 @@ Delete a saved search from the Edit Search window. A deleted saved search cannot
 
 The saved search is deleted and no longer appears in the My Searches window.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291631/717fa5827224d853408551f71b68/upload_8011570665005325190.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291631/717fa5827224d853408551f71b68/upload_8011570665005325190.png?expires=1793900700&signature=e3f45bad13180b74e2a84a0b7ca647abe3f78b84867e9a14c407db45d0d4aaa5&req=dicvHst3nIdcWPMW1HO4zeCQjAQrBFxmcUJHNl5e6BxvEGIE6%2B%2BheEaqhbeq%0AWKkvBHKNitOTHNpgf2k%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291631/717fa5827224d853408551f71b68/upload_8011570665005325190.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788291631/717fa5827224d853408551f71b68/upload_8011570665005325190.png?expires=1793917800&signature=bf795b7eff394d7fad5209ecb7f623f2febd4fd7042920871d44216409be65e4&req=dicvHst3nIdcWPMW1HO4zeCQjAQrBVtpcUJHNl5e6ByoTCgiV8xq1utoX8xC%0AqTLznvkc88hNAsZreZA%3D%0A)

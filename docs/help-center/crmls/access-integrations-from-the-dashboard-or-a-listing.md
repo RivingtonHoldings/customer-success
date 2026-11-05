@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:00:02Z
 updated_at: 2026-11-05T17:51:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Access Integrations from the Dashboard or a Listing
@@ -35,7 +35,7 @@ The integration opens in a new tab, so the Dashboard stays as you left it. When 
 
 Sign in to an integration with the credentials your MLS provided for that tool.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png?expires=1793903400&signature=5b1ddd27b6c30511e1fba743576d2abae4655a58a202e869a136f537788b0dae&req=dicuFst8mIhaXfMW1HO4zfOx5E4eG2JGNOAzUEtppHtsXUQCjRZKKp%2BjgQFO%0A7t7ZeRNSqfQv%2B%2BfUs9k%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225954/14a664f6ff10c90812e5cd41a2e4/upload_15844603250501620751.png?expires=1793917800&signature=d3e897c45e83328a0af5e8f391d19fddba80c5e86b5009a332d742fb53d0ef2c&req=dicuFst8mIhaXfMW1HO4zfOx5E4eGmZKNOAzUEtppHu%2FfaejxpC%2FDPhPElrw%0AD4HiX4mbVPYeJlyQUzw%3D%0A)
 
 # Open integrations for a listing from the Actions menu
 
@@ -55,4 +55,4 @@ The Integrations submenu includes tools also available from the Dashboard Integr
 
 [Listing Detail Page Overview](https://support.perchwell.com/crmls/en/articles/18247110-listing-detail-page-overview) covers the rest of the Actions menu
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png?expires=1793903400&signature=45d79415d9613471a174fc6a027bd000debf65703a698b6e915c826a2c7d3cb7&req=dicuFst8mIhWXvMW1HO4zW445oCuYcGnYXWYSOn6eIdIP7WGA6RhM5DI6IME%0AJbqzmModBBCaDgeCKWQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790225997/bcc57efa2e8fe3dda79bc52ce314/upload_451759184994714302.png?expires=1793917800&signature=03a967c833dc2593c598ec1f8d7e112e32827c4fa38f415a9ad7d8857819e471&req=dicuFst8mIhWXvMW1HO4zW445oCuYMWrYXWYSOn6eIdfJ%2BIp1Vfu5OJjHSwJ%0AmhdlvEU4XrL%2BPcLGDyY%3D%0A)

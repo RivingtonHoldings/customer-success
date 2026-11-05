@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:26:48Z
 updated_at: 2026-11-05T00:31:42Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Bulk Upload Contacts from a CSV File
@@ -42,7 +42,7 @@ Open the Upload Contacts window from Upload on the Contacts page. Bulk upload wo
 
 The Upload Contacts window opens.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png?expires=1793900700&signature=3d8cd746ace2a19ede216eac353d23230ad6577f7a61a6c57913e1182df1ffbf&req=dicvEcB3n4NeXvMW1HO4zf6icTanjKAFfgWdF7mPRYPvFyPMn0JHymuEGLJd%0ABPInGfsL5zsKUqXHrg0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png?expires=1793917800&signature=acc89f2e5062362752042841501eb63f9328188bc865c36d8d489e5e95198492&req=dicvEcB3n4NeXvMW1HO4zf6icTanjacKfgWdF7mPRYPrzUAj9HXizpeEQtgo%0AqFDYCay2gj6fr046rRA%3D%0A)
 
 # Download and fill in the CSV template
 
@@ -56,7 +56,7 @@ Download the CSV template from the Upload Contacts window, then add your contact
 
 Your CSV file is ready to upload in the Upload Contacts window
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png?expires=1793900700&signature=a2e444ebb8291f527f5e987072fadbe61f7d7032ae534b4f680660f19e9284fc&req=dicvEcB3n4NZWPMW1HO4zaQlvzO8%2Bn0fAtzXx1JVPVT%2BsiAFSxUyTG%2FlhSY1%0AFZTEsNR4PMGieN%2FbHlE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png?expires=1793917800&signature=9d9d6236c4b7d7f4873ebcc3a405851c536e39e53d20e9d6692f203e9af2bc67&req=dicvEcB3n4NZWPMW1HO4zaQlvzO8%2B3oQAtzXx1JVPVRD5RaQb%2FU8ocprS%2B59%0APWFLfG25NIN0lnW8Kj0%3D%0A)
 
 ## CSV template requirements for bulk upload
 

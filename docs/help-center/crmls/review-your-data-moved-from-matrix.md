@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:23:29Z
 updated_at: 2026-11-05T17:47:40Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Review Your Data Moved from Matrix
@@ -53,7 +53,7 @@ Review each saved search moved from Matrix to check its filters before you turn 
 
 The saved search keeps your changes. Its name still starts with [From Matrix: Unreviewed] until you rename it, and its alerts stay off until you turn them on.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790287601/aa3821681b47b8c76e8d29c2a52a/upload_16327872241987107581.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790287601/aa3821681b47b8c76e8d29c2a52a/upload_16327872241987107581.png?expires=1793903400&signature=67592fcccbca25ecdc441ff510939054ebbd9cfc455ffed539c1df07d8405a8d&req=dicuFst2modfWPMW1HO4zQqCJZ1n06WAAFWWDmbXjcz%2FqJeXniCSl4OUZIUv%0AxGQmSGBMBrPXIOEXFWE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790287601/aa3821681b47b8c76e8d29c2a52a/upload_16327872241987107581.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790287601/aa3821681b47b8c76e8d29c2a52a/upload_16327872241987107581.png?expires=1793917800&signature=c3f2d6ba1e45ce42112ea110472f9d7fcef1f70ef533b26ea5d4bd92b0ecec9c&req=dicuFst2modfWPMW1HO4zQqCJZ1n0qGMAFWWDmbXjcyZPwRuJzzIcMAMTKYc%0AdLasUr3IRpDL6s7aQiU%3D%0A)
 
 Check the Contacts column in the My Searches window to confirm each saved search is linked to the right contacts.
 

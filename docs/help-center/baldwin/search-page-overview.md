@@ -15,7 +15,7 @@ created_at: 2026-03-02T04:09:22Z
 updated_at: 2026-11-04T19:32:03Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Search Page Overview
@@ -32,7 +32,7 @@ Click the Filters or Results tab to move between them. Next to the tabs, a count
 
 Quick Filters appear in a row across the upper left of the Search page. They cover common search criteria, including Property Type, Price, Beds, Baths, Sqft, and Year Built. The search map appears below the Quick Filters on the left side of the page. Property Type and Year Built are set from the Quick Filters only. The other Quick Filters are also available on the Filters tab. To find one, enter its name in the Search filters and values field in the upper right of the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png?expires=1793823300&signature=42c797438cef057121c0a222e562e8ec91e9215a2c42987c1a4967e1c6ee61e6&req=dichFMl%2Fm4NZUfMW1HO4zQebseV74UvoFXbeL6LjPNaphcmffpfG2P2CeyOc%0ARSeX2LKD10E3SWwlt0w%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016268/b1cbfdbd91b2a988f5ac326152c6/upload_3753166998968707966.png?expires=1793826000&signature=fecbbc55874df0802d03c3c132f882f3433c4aed0932f06370eed4a691acbaab&req=dichFMl%2Fm4NZUfMW1HO4zQebseV74U7rFXbeL6LjPNbsfDk2Nz1JquBCQY1f%0AYBvjGjDyrMtQAXs1DeE%3D%0A)
 
 # Set your search criteria on the Filters tab
 
@@ -51,7 +51,7 @@ The Results tab shows the listings that match your search criteria. Click an ico
 - Preview: Opens one listing at a time.
 - Analytics: Displays charts based on the listings that match your search criteria.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png?expires=1793823300&signature=8f64132e217ae2e30ef19cf2f24071a1d56c6377352c7ba6228dc13c59acf253&req=dichFMl%2Fm4NXW%2FMW1HO4zU8D7sUGlJylWOOBHqFnwxhej9L3lDHXWIBCGPDH%0AVgBfE8mnmoyIvsMK060%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016282/ae666f2719c99840f605d313be91/upload_16962256431409461318.png?expires=1793826000&signature=49a5ba12f7984db262c853becf543d9ba597287b8c59d9e0ef97e0cd32fbd709&req=dichFMl%2Fm4NXW%2FMW1HO4zU8D7sUGlJmmWOOBHqFnwxim3i1THBovRRbVuHHO%0ApD6xRxVL5R61CfoJvrQ%3D%0A)
 
 The Columns menu above the search results shows the name of the column template currently applied. Open the Columns menu to add, remove, or reorder columns. Save your columns as a column template from the same menu.
 
@@ -59,7 +59,7 @@ Location and Status can be reordered but cannot be removed. Both columns remain 
 
 [Customize Your Search Results View](http://support.perchwell.com/baldwin/en/articles/11962073-customize-your-search-view) covers search result views, column templates, and the map display step by step.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png?expires=1793823300&signature=ff6930a6c00fefdf697704844a4d472cf70a0330d9686b856f4bbc1bc487f20b&req=dichFMl%2Fm4JfWvMW1HO4zZKDguivxP7mUfoQDbNC0tz4yWC45%2BPghPRrhZcx%0AwfBu37G9sO0%2FaHYtvvM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016303/9a29e3e215c189f9e072428eef9c/upload_5451378765525277769.png?expires=1793826000&signature=a354306f3d180fadbe601a2c1d1922b9f60b8004885f8cbd15d4a38f177ff716&req=dichFMl%2Fm4JfWvMW1HO4zZKDguivxPvlUfoQDbNC0tzLIDffQKC23w%2FepBsW%0AG46UxCWmXlhnQ7AHuQ8%3D%0A)
 
 # Narrow your search results with Keep, Hide, and column filters
 
@@ -113,4 +113,4 @@ Drag the handle on the left side of a chart card to move it to a different posit
 
 [Analytics FAQ](http://support.perchwell.com/baldwin/en/articles/15200594-analytics-faq) covers how many charts can be added to one search and whether Search Analytics charts are kept when you save a search. [Share and Export Analytics Charts](http://support.perchwell.com/en/articles/8955876-share-and-export-analytics-charts) covers emailing charts and exporting them to PDF.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png?expires=1793823300&signature=93ea1a9d8fb9329fcb8565547517c326f107be98428d489f44cd999084f5e9c7&req=dichFMl%2Fm4JeUPMW1HO4zd9wbvn2ncsmtgbZt3GWuNmTJhxcQflPHjqTEmge%0AeAcdkc64RV0xywDg%2FH4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762016319/20ccf477262691a51dc1f4542b42/upload_17901056296560211114.png?expires=1793826000&signature=96b36fc71893244f3f953cd020b222142c70f049130f11932c861e5a9faa26e4&req=dichFMl%2Fm4JeUPMW1HO4zd9wbvn2nc4ltgbZt3GWuNkxRxLFVtJ5QxoGsOIP%0A7ki9n2P%2BgVTXOgOzUhs%3D%0A)

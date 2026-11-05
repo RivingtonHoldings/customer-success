@@ -15,7 +15,7 @@ created_at: 2025-03-31T14:29:22Z
 updated_at: 2026-11-04T20:15:49Z
 labels: ["How To: Search"]
 body_source: public-help-center
-synced_at: 2026-11-04T20:19:10Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Universal Search Bar

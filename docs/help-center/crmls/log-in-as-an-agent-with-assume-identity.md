@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:34:24Z
 updated_at: 2026-11-05T00:43:03Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Log In as an Agent with Assume Identity
@@ -35,13 +35,13 @@ Give an admin or another agent in your office access to your account from the Ca
 6. Enter the person's name in the search field
 7. Select the person
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365586/247848d0aaa914dc25d4a20cdd70/upload_14976653393959971567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365586/247848d0aaa914dc25d4a20cdd70/upload_14976653393959971567.png?expires=1793900700&signature=9f0f1fdfee514e7630d5b1d6ce5d70f10f985e60ae81724d85f525b2e7058124&req=dicvHsp4mIRXX%2FMW1HO4zU5kQDa%2F%2B8XgERk4nZhxeOM37VZ7AIzDAva4xDD0%0Ag3NHEyhq5ePcR85lKGE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365586/247848d0aaa914dc25d4a20cdd70/upload_14976653393959971567.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365586/247848d0aaa914dc25d4a20cdd70/upload_14976653393959971567.png?expires=1793917800&signature=c2220fa59dbb9c2ae1bd857007b9d59b03ad91945c8f96492b57f32034d7d8af&req=dicvHsp4mIRXX%2FMW1HO4zU5kQDa%2F%2BsLvERk4nZhxeOO6Ziydns0zu3q1h2V1%0Atpy6wdD0Yh38jNBpK%2Bs%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365606/641f06f7eb3f7d5f1aa7b11232e2/upload_163375675721062256.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365606/641f06f7eb3f7d5f1aa7b11232e2/upload_163375675721062256.png?expires=1793900700&signature=1c82ebe10be19f3aa2b115c355fdd945d87ea1c0986d4dec803bff68530eb98c&req=dicvHsp4mIdfX%2FMW1HO4zWXwyv8daTv%2BS2PYFiSTagDt7UJd2bL6xofOJtev%0AXAVpdj%2F6jIBjKgG9hOE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365606/641f06f7eb3f7d5f1aa7b11232e2/upload_163375675721062256.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365606/641f06f7eb3f7d5f1aa7b11232e2/upload_163375675721062256.png?expires=1793917800&signature=90fac7539f30eb340e59177d287bc7c9d6364f59c31d4510c2ca628f3ec7847c&req=dicvHsp4mIdfX%2FMW1HO4zWXwyv8daDzxS2PYFiSTagA4pexROS4u2pkbVTqx%0AYyrv4WGMRXO1jHVeKcE%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365620/b6266e79a7b787155680a67b8206/upload_17297912661378042851.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365620/b6266e79a7b787155680a67b8206/upload_17297912661378042851.png?expires=1793900700&signature=e03059af81700ae471eda3ce49646a3fd72d46533e8c537ae389546aa6b4436b&req=dicvHsp4mIddWfMW1HO4zaedGp9dYgdGY0Bp8v8t56hREVpEgKRbXsYaITiA%0AxMYUaWYMh7wB17%2Fh%2BXs%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365620/b6266e79a7b787155680a67b8206/upload_17297912661378042851.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365620/b6266e79a7b787155680a67b8206/upload_17297912661378042851.png?expires=1793917800&signature=7a5625ff40f4dcd45a2205616610bd8a629ec0a55d8d07909e72c6c0a58afab9&req=dicvHsp4mIddWfMW1HO4zaedGp9dYwBJY0Bp8v8t56g2LS3Ma%2BbG4D0%2B2ccE%0AkGQy4jyELJ8%2B7TIlUPs%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365627/4bbe02ade2241ea19bb7aeeefd22/upload_3298083653179116201.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365627/4bbe02ade2241ea19bb7aeeefd22/upload_3298083653179116201.png?expires=1793900700&signature=d69c21f220a8ca1da08cbd5fe482d9bac0504aed8a71257dccb7acfe95995c2f&req=dicvHsp4mIddXvMW1HO4zZavVyunRLWBaPYWYdVF2tzLM6kEUgi40DnVnQhm%0Ayt4BIsHpJKhYz0k%2BQgg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365627/4bbe02ade2241ea19bb7aeeefd22/upload_3298083653179116201.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365627/4bbe02ade2241ea19bb7aeeefd22/upload_3298083653179116201.png?expires=1793917800&signature=af5beab777251d3f5ec6a3203b20dde7af26733374699b5be4f38fe38094c308&req=dicvHsp4mIddXvMW1HO4zZavVyunRbKOaPYWYdVF2tw49sMWOpQ%2FVMOMCghD%0Ac15Fx%2BxdDj7cJ9ecedU%3D%0A)
 
 Perchwell saves your selection automatically. The person can now assume your identity from Log in as in their profile menu. You, your broker, and the person you added each receive an email. Perchwell tracks all history while someone is logged in as you.
 
@@ -63,9 +63,9 @@ Brokers, office admins, and MLS staff log in as an agent from the agent's detail
 
 You're now logged in as the agent in the same tab and can view their account exactly as they do.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365641/5941dccfa918e93868d5c73c4e63/upload_16907724360074799352.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365641/5941dccfa918e93868d5c73c4e63/upload_16907724360074799352.png?expires=1793900700&signature=69ab1c8e9df7207dedb767d3a4f0e4d179554a384a1d836094f7c46e64293ebe&req=dicvHsp4mIdbWPMW1HO4zSK9CTuAtkK%2FXsl7ItgomHqLUNHPZURpSxdrHfdL%0AHVcdpOhO0yCil%2F%2BUhIc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365641/5941dccfa918e93868d5c73c4e63/upload_16907724360074799352.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365641/5941dccfa918e93868d5c73c4e63/upload_16907724360074799352.png?expires=1793917800&signature=234279f859499a1fd15376f48ce445d437477f55f03c1344634e979e71cd15c9&req=dicvHsp4mIdbWPMW1HO4zSK9CTuAt0WwXsl7ItgomHqOH87o0LLSwD0FdB92%0AL8Gsv7h4D7I%2FNbAU784%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365659/cb0504b67e058ac338a5ed4dd5e8/upload_6694584909198948281.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365659/cb0504b67e058ac338a5ed4dd5e8/upload_6694584909198948281.png?expires=1793900700&signature=2792cae35d3c1179e990d4ff855628c4106a3f5c0a97f847ae7f674aafad9055&req=dicvHsp4mIdaUPMW1HO4zTeYh5MxN5jaI1oYjaIx2z8AYRjvhsrDZ2YbWxtI%0AFPza52Ve6rZ%2FF8rWPm4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365659/cb0504b67e058ac338a5ed4dd5e8/upload_6694584909198948281.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365659/cb0504b67e058ac338a5ed4dd5e8/upload_6694584909198948281.png?expires=1793917800&signature=24f2337b035d30fc31aef13ce9d946669121f6cb440631720460c2f3ae0425d9&req=dicvHsp4mIdaUPMW1HO4zTeYh5MxNp%2FVI1oYjaIx2z%2F3jYMLyuGQjkg75gAx%0A1rI63Ib7uS9KkSGbeg4%3D%0A)
 
 ## Log in as an agent from the profile menu
 
@@ -77,7 +77,7 @@ Admins for an agent or broker log in as an agent from Log in as in the profile m
 3. Enter the agent's name in the Search users field
 4. Select the agent
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561406115/7e17e14ecdb69cd72c78ea13025d/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561406115/7e17e14ecdb69cd72c78ea13025d/image.png?expires=1793900700&signature=e8b912a8d07efe12a247aaf4cef296db0f1fad87077402f25ba18530f6882b27&req=diUhF81%2Bm4BeXPMW1HO4zVVCAef7d2W%2FUaAtIASpUspYjDdmHT%2FXzM3GCCcs%0ANHqQTy%2FklqD1XKfpjwI%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2561406115/7e17e14ecdb69cd72c78ea13025d/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2561406115/7e17e14ecdb69cd72c78ea13025d/image.png?expires=1793917800&signature=cd29d2c09520d0de4a0d7099e9337261b2869be5cf0272182474c9e0b44f4eb2&req=diUhF81%2Bm4BeXPMW1HO4zVVCAef7dmKwUaAtIASpUsrEKRZXVkA%2Bq5Ztz05E%0AA057vB0ZdzUEgPXbWsw%3D%0A)
 
 You're now logged in as the agent in the same tab and can view their account exactly as they do.
 
@@ -85,7 +85,7 @@ You're now logged in as the agent in the same tab and can view their account exa
 
 Click your profile icon in the upper right, then click Stop assuming identity to return to your own account. Stop assuming identity shows in the profile menu only while you are logged in as an agent.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365668/87abf6631264c1ccf676e74cce48/upload_8006080954975952000.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365668/87abf6631264c1ccf676e74cce48/upload_8006080954975952000.png?expires=1793900700&signature=824ff45e2968e3578bf021311e00710de5d6093c7bf8d75648662aff9088ebbd&req=dicvHsp4mIdZUfMW1HO4zUUdBoXXA5LABLLaO0n4w%2FCTmRqvmXxm9j8gJL94%0AhZMOyn%2FJazzM7dNclY0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365668/87abf6631264c1ccf676e74cce48/upload_8006080954975952000.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788365668/87abf6631264c1ccf676e74cce48/upload_8006080954975952000.png?expires=1793917800&signature=387e39f4c8d8bef5214697dfc7ca016f454a6e95708ada3d87d9dac9a8b09c48&req=dicvHsp4mIdZUfMW1HO4zUUdBoXXApXPBLLaO0n4w%2FDCHo9rU6g6SyaAwWjA%0Al5aSVgLsd%2BvV%2Fmro2vI%3D%0A)
 
 # Things to Know
 - Changes you make while logged in as an agent with Assume Identity apply directly to the agent's account, even if the agent is logged in at the same time. Your own permission level still applies, which means you make only the changes your role allows.

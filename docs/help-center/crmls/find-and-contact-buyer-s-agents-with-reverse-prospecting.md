@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:39:32Z
 updated_at: 2026-11-05T00:33:42Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Find and Contact Buyer's Agents with Reverse Prospecting
@@ -32,7 +32,7 @@ Open Reverse Prospecting for any of your listings to see which buyer's agents ha
 
 The listing's Reverse Prospecting page opens, with activity counts at the top and the matching saved searches below.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022760/9595c609f1a93bbdef084be88263/upload_8763470124226268633.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022760/9595c609f1a93bbdef084be88263/upload_8763470124226268633.png?expires=1793900700&signature=25201ee5a270abbba6a968847bf0e61712a75dda4fa0414ca8b58faeb6764a20&req=dicvHsl8n4ZZWfMW1HO4zVEWywfuaw19yCtLFm4y%2FcM0xBpX5awAU7nRqDMs%0AVxGxMd8q6Mu0zXRN8yA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022760/9595c609f1a93bbdef084be88263/upload_8763470124226268633.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022760/9595c609f1a93bbdef084be88263/upload_8763470124226268633.png?expires=1793917800&signature=c47e47741901ae40986ada443d328d968cafc3b2d366c7c544d9d6c69979bd2b&req=dicvHsl8n4ZZWfMW1HO4zVEWywfuagpyyCtLFm4y%2FcPTP33i95kYvASrlWH5%0AWhJWHMr4nU0yp2BQmTw%3D%0A)
 
 # Track activity on your listing in Reverse Prospecting
 
@@ -66,9 +66,9 @@ Email the buyer's agents behind matching saved searches from the saved searches 
 
 Perchwell sends your message as a regular email to each buyer's agent you selected. The Last Contacted column updates for those saved searches. To reach more than 10 buyer's agents, send another email
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022805/a1f18cb505764fa2e9385e5ef249/upload_2979231088883801893.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022805/a1f18cb505764fa2e9385e5ef249/upload_2979231088883801893.png?expires=1793900700&signature=3aa87519dcffd518ade6e576c17a44b5ac26e4a804b96349068860683b7da928&req=dicvHsl8n4lfXPMW1HO4zS1MSi%2Fb7hqp7lD5gTLpkhmOSCXL9Vcbm%2BhecNCo%0Aa2E%2BbEp%2BJv1hCmnUeQE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022805/a1f18cb505764fa2e9385e5ef249/upload_2979231088883801893.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022805/a1f18cb505764fa2e9385e5ef249/upload_2979231088883801893.png?expires=1793917800&signature=4614b88acea8ae51681193fe2446b2d711d0ef62b5b38ee95b9e47e2033f120f&req=dicvHsl8n4lfXPMW1HO4zS1MSi%2Fb7x2m7lD5gTLpkhlE5%2Bl0naxzUdlK%2BXeN%0AzeWCDgP8qZAQQJfWOcY%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022848/52cc19b005f07228c55d064e4be6/upload_5315815249762295944.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022848/52cc19b005f07228c55d064e4be6/upload_5315815249762295944.png?expires=1793900700&signature=9f0bf24dfdffd76e71e1ab4454e5e695dd4015c634c03ff588fcd8e855ab3361&req=dicvHsl8n4lbUfMW1HO4zdSPw5JOHfXYS41UnRGAEQzfRPE2092n9O5P1XDl%0Au4e15LTul5fJzUQ73tA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022848/52cc19b005f07228c55d064e4be6/upload_5315815249762295944.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022848/52cc19b005f07228c55d064e4be6/upload_5315815249762295944.png?expires=1793917800&signature=06493040afb41c70f366bbb4fbe85e870d386c1ea4ac880fe0329be7b33862fc&req=dicvHsl8n4lbUfMW1HO4zdSPw5JOHPLXS41UnRGAEQz9UWhICVxzuOY9E9Zp%0AZiXi9mFhhC%2Btpi8vSyY%3D%0A)
 
 # Turn off Reverse Prospecting for a saved search or client
 
@@ -82,8 +82,8 @@ Turn off Reverse Prospecting for a saved search from the Edit Search window. Rev
 
 Listing agents no longer see the saved search in Reverse Prospecting. The saved search itself works the same way as before.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022877/784bd8f0e26bc5b329ffe3149527/upload_17479513421872461121.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022877/784bd8f0e26bc5b329ffe3149527/upload_17479513421872461121.png?expires=1793900700&signature=156aa70bd031f5c4455e52665ec630f7278bc87bf7678407a8706b167e21303a&req=dicvHsl8n4lYXvMW1HO4zTohCFLsZ%2FCXrpKfu5U%2B6x84rBuTx3eNUxHjnAeT%0AShwMsiNGM0R5sNETa3o%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022877/784bd8f0e26bc5b329ffe3149527/upload_17479513421872461121.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022877/784bd8f0e26bc5b329ffe3149527/upload_17479513421872461121.png?expires=1793917800&signature=0eaf6ddc838ee3e3eb5eeea43c9558049ddf99e26bd2644f7bd1efe31a49f94c&req=dicvHsl8n4lYXvMW1HO4zTohCFLsZveYrpKfu5U%2B6x%2FehQ3TINr5Z6t1g6jl%0A%2FejijIfoCSOxU2tnNyI%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022903/24de73a71eb5c23002291c664177/upload_10606165400767860134.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022903/24de73a71eb5c23002291c664177/upload_10606165400767860134.png?expires=1793900700&signature=65c48e8aeaa216529136dfe547811995ec545da1d3fc51a2e8f39ac2037b05f1&req=dicvHsl8n4hfWvMW1HO4zU62nHy2l2cJnORBhq2n5%2FYTN7Ph1Qshp8guo2sE%0AOvHmBKl91aQrir78qtk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022903/24de73a71eb5c23002291c664177/upload_10606165400767860134.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788022903/24de73a71eb5c23002291c664177/upload_10606165400767860134.png?expires=1793917800&signature=20eb9eaacb98ccb9e661591a3fef1e4150b2c5bb2bca6bc50887bc1caf9d6f93&req=dicvHsl8n4hfWvMW1HO4zU62nHy2lmAGnORBhq2n5%2Fa9mkFwfqjIctvNFZeI%0Af95elKtAcEJW6fmQ7wc%3D%0A)
 
 To turn off Reverse Prospecting for every saved search tied to a client, turn off the Reverse Prospecting toggle on the client's Contact Details tab. [Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) explains how to open a contact's profile.

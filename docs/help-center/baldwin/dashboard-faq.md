@@ -15,7 +15,7 @@ created_at: 2026-05-21T19:11:58Z
 updated_at: 2026-11-04T18:25:20Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Dashboard FAQ
@@ -46,7 +46,7 @@ Off-market activity in a Hot Sheet counts listings that moved to an off-market s
 
 For status definitions, see [What Each Listing Status Means](http://support.perchwell.com/baldwin/en/articles/14709241-listing-statuses-in-perchwell).
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png?expires=1793820600&signature=1c3eb07394b73e232e75d5ef19153f84c3e615c05af3aa7997e8ec5034d54da0&req=dicvE8F%2FnIFdXvMW1HO4zQusIqoF%2F3sCGFsXMMjb%2BN9%2BrpOuiQ2dKqtLOMbF%0AD1pMUIKd5GAzaY2ZGNg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785811027/cf78275168df740565035600c152/upload_11683618398636189938.png?expires=1793818800&signature=4477d0ae6b41eb6d37a691b9537a624be3b31e935013dbf7b649534e5bbcb104&req=dicvE8F%2FnIFdXvMW1HO4zQusIqoF%2FHMMGFsXKszd8eUlXgmQHRURqW1lD5KX%0ApsFI%0A)
 
 # Can I view the Dashboard and Hot Sheets in the Perchwell mobile app?
 

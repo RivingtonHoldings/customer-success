@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:25:11Z
 updated_at: 2026-11-05T01:32:26Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Tags in the Perchwell Mobile App
@@ -36,7 +36,7 @@ Start from either place:
 
 The listings are added to a Tag as soon as you tap it. Contacts in each Tag are notified of the new listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351331/9632481562aa25d9504889a67826/upload_11953012517746298460.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351331/9632481562aa25d9504889a67826/upload_11953012517746298460.png?expires=1793900700&signature=c4a94866cca9dade96d8626f719ccd66e0e3cf763917a69ce998530a59db5c83&req=dicvHsp7nIJcWPMW1HO4zfwaNGjf5zfK34O%2BL8LdbyfQmuyHo0Bx74RIeObP%0AyN4evqgh7C%2FGz3BAfZo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351331/9632481562aa25d9504889a67826/upload_11953012517746298460.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351331/9632481562aa25d9504889a67826/upload_11953012517746298460.png?expires=1793917800&signature=e79bdbb24df4a57eabd2ba1c97b489a013813f653e0a6a4321873fa2e81f0373&req=dicvHsp7nIJcWPMW1HO4zfwaNGjf5jDF34O%2BL8LdbydRR44NaCexQic2AhHF%0A447OP1vkbP%2FeePrLvMw%3D%0A)
 
 # View tagged listings on the My Tags screen
 
@@ -44,7 +44,7 @@ Tap Tags in the bottom navigation of the Perchwell mobile app to open the My Tag
 - Shared with client: Tags with at least one client added, whether or not you have sent the Tag.
 - Other Tags: Tags with no clients.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351359/839e6093a542de11321e762219a5/upload_2791093340818987087.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351359/839e6093a542de11321e762219a5/upload_2791093340818987087.png?expires=1793900700&signature=cc5d55ee5cf36be2f06822239e23b4cb4b1d30023c61ff7d301027d0535f1808&req=dicvHsp7nIJaUPMW1HO4zTU8bU7qnPNVEytJISnIEqs2iJt3ENCBoP0GlUBY%0Ax1Wcjd1aJ%2BkQuQmdxnM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351359/839e6093a542de11321e762219a5/upload_2791093340818987087.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788351359/839e6093a542de11321e762219a5/upload_2791093340818987087.png?expires=1793917800&signature=1cf720f1bd9366e244276740938e5ccc53f22bb5691230fcbb439754153b1623&req=dicvHsp7nIJaUPMW1HO4zTU8bU7qnfRaEytJISnIEqu%2FRX8yxHDZfws0MEG%2B%0AjcRrx1Cd3lAdOy4v5rM%3D%0A)
 
 ## Steps:
 1. Tap each Tag whose listings you want to view

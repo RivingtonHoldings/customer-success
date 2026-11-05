@@ -15,7 +15,7 @@ created_at: 2026-09-01T22:24:33Z
 updated_at: 2026-11-04T18:57:26Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Offer Manager Integration

@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:42:00Z
 updated_at: 2026-11-05T00:08:46Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Customize Your Search Results View
@@ -33,15 +33,15 @@ Choose how listings display on the Results tab of the Search page by clicking an
 
 Preview also opens when you click a listing in your search results. Click Exit to return to your search results.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278217/046cc6c58fc0b60131ca8dedff0c/upload_17330923304134100740.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278217/046cc6c58fc0b60131ca8dedff0c/upload_17330923304134100740.png?expires=1793900700&signature=28e598d98cee7c7e086ba0a6dd2a03dfc651814eb37317d5ba894f3c110ef438&req=dicvHst5lYNeXvMW1HO4zXuhLcYLco77eXEAE%2Bla0RqIu1hFVAS%2Fzl1q7PyP%0AbAslnqpJmKZ6y%2B41%2BOI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278217/046cc6c58fc0b60131ca8dedff0c/upload_17330923304134100740.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278217/046cc6c58fc0b60131ca8dedff0c/upload_17330923304134100740.png?expires=1793917800&signature=a564d9e63d77fd9443e5596b62a3ab6fbd8bbe2e82889a14466709e980c4eeca&req=dicvHst5lYNeXvMW1HO4zXuhLcYLc4n0eXEAE%2Bla0RowB3d2YYMEMWOxe%2FrR%0AMCqe0qP0A6%2FB2DLRaBc%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278250/72a91b7f8a496dec6b9bbadc3a69/upload_18156364861264498668.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278250/72a91b7f8a496dec6b9bbadc3a69/upload_18156364861264498668.png?expires=1793900700&signature=1559322875f8d29c2600d72d53bbdddb01e7dcf8bcc978c8659f4a5e86edf04c&req=dicvHst5lYNaWfMW1HO4zQ0zFuOvjXx7R%2Bl%2ByPNZD4swIeuRlfpnwK7dGZfT%0AE2MHq2IMIQ9tJDMhOpY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278250/72a91b7f8a496dec6b9bbadc3a69/upload_18156364861264498668.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278250/72a91b7f8a496dec6b9bbadc3a69/upload_18156364861264498668.png?expires=1793917800&signature=ac35a841f969eeca1f169a1ab4f16ca029ecc04b64d9287396fea9671625a268&req=dicvHst5lYNaWfMW1HO4zQ0zFuOvjHt0R%2Bl%2ByPNZD4uHtxF5tAq0b7b469of%0AFWTQnmy1yAYYT1a3afo%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278294/65f59b7cc3d0a45a5aee895fa220/upload_11701446243229924681.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278294/65f59b7cc3d0a45a5aee895fa220/upload_11701446243229924681.png?expires=1793900700&signature=5516fd92c36c01d0b3bbb240a55a11a69b98e01d9675971ae877a132ca32dacd&req=dicvHst5lYNWXfMW1HO4zceROdr4ft%2BBZTHr%2Bao23LMgmd35qiWV6fdnFMdE%0AiO4dfGE7QEkQKXZYJrg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278294/65f59b7cc3d0a45a5aee895fa220/upload_11701446243229924681.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278294/65f59b7cc3d0a45a5aee895fa220/upload_11701446243229924681.png?expires=1793917800&signature=b44bcf67868ce13370a40d3f03450be08f7169ead50a821d80258f290f7286c4&req=dicvHst5lYNWXfMW1HO4zceROdr4f9iOZTHr%2Bao23LOVccCCJCk9TssczAo2%0AQazOuC1ruM253lMzUok%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278309/f77d70bfbb9b585b93496bce9a75/upload_16952379270627876019.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278309/f77d70bfbb9b585b93496bce9a75/upload_16952379270627876019.png?expires=1793900700&signature=8c90506290252c2498eb6579a397d223fc2ba2f5daa9bd909c4808789005978c&req=dicvHst5lYJfUPMW1HO4zYNUtzrXyXluO3dA6%2F3UDMAIyA1dhSe0agqLcHj7%0AXlNhoOftlfLz9%2FUnsUo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278309/f77d70bfbb9b585b93496bce9a75/upload_16952379270627876019.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278309/f77d70bfbb9b585b93496bce9a75/upload_16952379270627876019.png?expires=1793917800&signature=f99ed99bec26684e432a1e81028ba6fd33127a7d32729978ab6acf0c009e09cd&req=dicvHst5lYJfUPMW1HO4zYNUtzrXyH5hO3dA6%2F3UDMDtDlTb3UiWnZ4bcIlr%0AzbbYQAtfwb0vNagXvRE%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278346/5f672d89cd0f65a99fd4bb3120ca/upload_17561775131351482802.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278346/5f672d89cd0f65a99fd4bb3120ca/upload_17561775131351482802.png?expires=1793900700&signature=76988a62c9e44ddc971966c36742c0fa72c2d9e6bb7ecd726be60512e80766a8&req=dicvHst5lYJbX%2FMW1HO4zVGmaEyfKiN4sGJYLKE5bTghJj0hwurVhY3Hm0%2B5%0A8qlHhHRTtj%2BuhFMOtGA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278346/5f672d89cd0f65a99fd4bb3120ca/upload_17561775131351482802.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278346/5f672d89cd0f65a99fd4bb3120ca/upload_17561775131351482802.png?expires=1793917800&signature=1caee212f608b9fa36be70a2edb14534ba3d0ef549af399f6b4397f729c2140f&req=dicvHst5lYJbX%2FMW1HO4zVGmaEyfKyR3sGJYLKE5bThMltumriTZcfI%2FKDNa%0AjM%2FAenEeoaw2F8FO3g4%3D%0A)
 
 [Search Page Overview](https://support.perchwell.com/crmls/en/articles/18234118-search-page-overview) covers adding and arranging charts in Search Analytics, which is separate from the Analytics page in the top navigation bar.
 
@@ -61,11 +61,11 @@ Columns are available in List and Expanded views. If you are in Tiles, Preview, 
 
 Your search results update with the columns you selected. Location and Status can be reordered but cannot be removed, so they remain in your results regardless of the column template you apply.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278376/9e0ff854313c72271d4990294db4/upload_5913421195910016092.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278376/9e0ff854313c72271d4990294db4/upload_5913421195910016092.png?expires=1793900700&signature=6883832e3a197ec8a6cf6d921e9820201f92c8bd433137255e52f8acccfc4fcd&req=dicvHst5lYJYX%2FMW1HO4zTOAou6b0N8SZAZ94pl%2FE2t9qNFUTNsTotGzus%2BG%0AZoZl6QXL%2B7KLnVY%2B2P0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278376/9e0ff854313c72271d4990294db4/upload_5913421195910016092.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278376/9e0ff854313c72271d4990294db4/upload_5913421195910016092.png?expires=1793917800&signature=a4c6a979a9476ce1e994d65c9a1b6891aa6bc5bf7d0707ef6095370b2144776f&req=dicvHst5lYJYX%2FMW1HO4zTOAou6b0dgdZAZ94pl%2FE2vX0qmQVlhveg0nC0ZP%0A3eXhph5EDNqLFEBd3SY%3D%0A)
 
 To reorder columns without opening the Columns menu, click and hold a column header in your search results, then drag it to its new position.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278423/859f865e2ff65e7c07595e1cf6d1/upload_17756036226190272592.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278423/859f865e2ff65e7c07595e1cf6d1/upload_17756036226190272592.png?expires=1793900700&signature=bc06abb76131a686661929383b318cc969a97a87b9689a48527cbf64146fc9fb&req=dicvHst5lYVdWvMW1HO4zRRtiHBoclIypFIcg1W%2Fp6BmsJMtKHs26YRTV%2B7w%0AHCGshdllMXSsOS84I38%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278423/859f865e2ff65e7c07595e1cf6d1/upload_17756036226190272592.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278423/859f865e2ff65e7c07595e1cf6d1/upload_17756036226190272592.png?expires=1793917800&signature=1e1443796f78b7e0ad7c17f3551ce31bc17c9de072755840ac6b9dacdb8f353c&req=dicvHst5lYVdWvMW1HO4zRRtiHBoc1U9pFIcg1W%2Fp6Cjk5dLo96l6dsNOmL6%0AW5QrgwhlRas4JowG5O4%3D%0A)
 
 # Save your columns as a column template
 
@@ -87,7 +87,7 @@ The saved template appears under the Templates tab, and its name appears in the 
 
 To apply a template you saved earlier, open the Columns menu, click the Templates tab, then select the template.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278461/a551188ee0a6fa42af043cc95a4c/upload_6303260920258214340.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278461/a551188ee0a6fa42af043cc95a4c/upload_6303260920258214340.png?expires=1793900700&signature=62067b0ab4cc45b77d8f971e37cf5be9e99a8f5ba3aa1938e5f953240b12bedd&req=dicvHst5lYVZWPMW1HO4zUS2DrZzQEB1bMx7tAbXvCtvFsWZQhyeIVUnyenG%0AXfw6n1Dp4nW1h%2Bxy%2FDw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278461/a551188ee0a6fa42af043cc95a4c/upload_6303260920258214340.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278461/a551188ee0a6fa42af043cc95a4c/upload_6303260920258214340.png?expires=1793917800&signature=9ea9bfa4c26d34c417eb977025ea9fc00a6575071db40e33a10e05cebb8ef138&req=dicvHst5lYVZWPMW1HO4zUS2DrZzQUd6bMx7tAbXvCsmfKG84JSsPS3b1DZ1%0AEB0bfh5Kjj2HBBEn4NA%3D%0A)
 
 # Set a default column template for new searches
 
@@ -101,7 +101,7 @@ When you start a new search, Perchwell applies your default column template unle
 
 See [Create a Template Search](https://support.perchwell.com/crmls/en/articles/18234015-create-a-template-search) to learn how to create a Template Search and set it for new searches.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278482/e086c08efd848a1afb7049c4a44c/upload_1174503904825397436.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278482/e086c08efd848a1afb7049c4a44c/upload_1174503904825397436.png?expires=1793900700&signature=c9b519ca3fc5c01076702994ab2af2061ee6bd9927ea00656614bbf31456216e&req=dicvHst5lYVXW%2FMW1HO4zSC%2FdWv35sf7%2BFEGRdIfDI0H0K8OEQtVr8vf4bPM%0A2WDfoj1o4WvSrQxbieU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278482/e086c08efd848a1afb7049c4a44c/upload_1174503904825397436.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278482/e086c08efd848a1afb7049c4a44c/upload_1174503904825397436.png?expires=1793917800&signature=a8e33b053ad1a2999e95561b1378662a4b81b55d9b053f0886af6b3bd11dc7df&req=dicvHst5lYVXW%2FMW1HO4zSC%2FdWv358D0%2BFEGRdIfDI0cTqahTmsZ7ZKYdEnO%0AfFt5C0vAONsGpUvrJT8%3D%0A)
 
 # Resize, hide, and change layers on the search map
 
@@ -110,18 +110,18 @@ Adjust the search map from either the Filters or Results tab of the Search page.
 - Hide the map: Click the panel icon at the top left of the Filters or Results panel, next to the map. Click the icon again to show the map.
 - Change map layers: Click the layers icon in the lower right corner of the map.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278542/a648ac9ba8a6cb5fdbace7be2709/upload_8455421255627377097.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278542/a648ac9ba8a6cb5fdbace7be2709/upload_8455421255627377097.png?expires=1793900700&signature=2ae2df23ffce8d9e05725c67c29d97baf8184f82777a40fea683c820e4d5d6cc&req=dicvHst5lYRbW%2FMW1HO4zUB4ZLcuHI13BeePNc384Y0eUZblL0ClpisLI3jq%0A0E83ddTofmjwRtfcgAA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278542/a648ac9ba8a6cb5fdbace7be2709/upload_8455421255627377097.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278542/a648ac9ba8a6cb5fdbace7be2709/upload_8455421255627377097.png?expires=1793917800&signature=e269a24a82920acd2704fdc4bd68bc271661b9ffc9776365bcbc0111b3c3b4ae&req=dicvHst5lYRbW%2FMW1HO4zUB4ZLcuHYp4BeePNc384Y2Opm7t%2BSRD%2BvDOCN4J%0AXaSuvVLHcmX5ADNuAe8%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278592/a5aa19e4578c5c688f2b8a5bddfb/upload_12256795423995220749.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278592/a5aa19e4578c5c688f2b8a5bddfb/upload_12256795423995220749.png?expires=1793900700&signature=7ed8c3f3309576aa3550f097d0780f4b5e445719b2035d48d4c71ef841580017&req=dicvHst5lYRWW%2FMW1HO4zZmMYV471%2F5bLGPZGvrEl2qwill31r8mCDj8p%2F1P%0AlQpvk7JjqeXewOx3b8s%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278592/a5aa19e4578c5c688f2b8a5bddfb/upload_12256795423995220749.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278592/a5aa19e4578c5c688f2b8a5bddfb/upload_12256795423995220749.png?expires=1793917800&signature=958040e5cc73511894d87b6d5b641bf27bff3262897c62946a8bc21d1f3ce544&req=dicvHst5lYRWW%2FMW1HO4zZmMYV471vlULGPZGvrEl2r%2FwmpPH3%2BYjjq2lqkF%0A%2FQYml6JAwo1PHwkBVbM%3D%0A)
 
 The layers panel includes map styles and overlays:
 - Roads, Terrain, and Satellite: Select one to change the map style.
 - Flood: Turn on to show Federal Emergency Management Agency (FEMA) flood risk areas, color-coded by risk level on the map.
 - Parcels: Turn on to show property boundaries on the map. The toggle is disabled at wider zoom levels, so zoom in until it becomes active.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278624/48335d75c42da8e75bc6707fbc61/upload_8587889120866383716.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278624/48335d75c42da8e75bc6707fbc61/upload_8587889120866383716.png?expires=1793900700&signature=d6819732b6205eea472c6628ef903b15d421f581feae65f48b483f11417dfced&req=dicvHst5lYddXfMW1HO4zaGUQkrFzECk4j%2FI9MN2tq1S9waef3AFZwYlfUuG%0AP2tm17qIDbmcztKNtKE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278624/48335d75c42da8e75bc6707fbc61/upload_8587889120866383716.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278624/48335d75c42da8e75bc6707fbc61/upload_8587889120866383716.png?expires=1793917800&signature=7d6981d4da8e39a867ddd87038365042008e9840dd83113bed0eff15129f6abd&req=dicvHst5lYddXfMW1HO4zaGUQkrFzUer4j%2FI9MN2tq2jvdDJhuXJfdMRj1dr%0ADluIqJtm9rmH%2F5Y%2FE%2FE%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278652/a4c3847ccb2589a80abc12ca4299/upload_231498671753234212.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278652/a4c3847ccb2589a80abc12ca4299/upload_231498671753234212.png?expires=1793900700&signature=22b5b528c0ee6e4f8df12df4fc8afed67295cf715f5f8c5651b6b275870b685d&req=dicvHst5lYdaW%2FMW1HO4zbxpSe%2FS2j66PhGagXcaupCNDHlv13lFbgW1t9nY%0ASzjhaPOCgb9qMDgSW0M%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278652/a4c3847ccb2589a80abc12ca4299/upload_231498671753234212.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788278652/a4c3847ccb2589a80abc12ca4299/upload_231498671753234212.png?expires=1793917800&signature=8482b6fa31b7e627ca69847e9479f6e9a48f59acc6abb52cee3c04d8dd1131dd&req=dicvHst5lYdaW%2FMW1HO4zbxpSe%2FS2zm1PhGagXcaupAwdhyQZ2kOO0TIvT6x%0ANZjNUfxW6YL8605yypU%3D%0A)
 
 To search within a specific area instead, see [Filter Your Search with Map Tools](https://support.perchwell.com/crmls/en/articles/18234069-filter-your-search-with-map-tools) for steps on the radius, polygon, freehand, and commute tools.
 
@@ -135,4 +135,4 @@ The Flood overlay colors the search map by FEMA flood risk area. Click View floo
 
 Flood risk areas come from FEMA's National Flood Hazard Layer.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788280610/2f51d5cb91818eef8999dc5838c4/upload_15947082764081096537.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788280610/2f51d5cb91818eef8999dc5838c4/upload_15947082764081096537.png?expires=1793900700&signature=ee9a193a6c587a9d880d34c2c3a8c730d145986a871d3f0b4a717630afbe935b&req=dicvHst2nYdeWfMW1HO4zaSY1pa0ezrHHbtbtnaUk3cPPtXSOBlLP1BGpGbD%0ADFVimoPu6756iUUhsZI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788280610/2f51d5cb91818eef8999dc5838c4/upload_15947082764081096537.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788280610/2f51d5cb91818eef8999dc5838c4/upload_15947082764081096537.png?expires=1793917800&signature=c205599d59c176f969577de9c57f18b740ee371c187a0acffb767de4f804b4e6&req=dicvHst2nYdeWfMW1HO4zaSY1pa0ej3IHbtbtnaUk3eV8yFznAOCv7Muhxep%0Ayp00m%2FihWuOmKxnxpdg%3D%0A)

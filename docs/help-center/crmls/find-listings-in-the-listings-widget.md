@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:56:22Z
 updated_at: 2026-11-05T17:55:08Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Find Listings in the Listings Widget
@@ -28,7 +28,7 @@ To find the Listings widget, click Dashboard in the top navigation bar from anyw
 
 > **Note:** The Listings widget cannot be removed or moved to a different position on the Dashboard.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064099/985738c30977ca88f30f6e9699b4/upload_8071489220742572069.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064099/985738c30977ca88f30f6e9699b4/upload_8071489220742572069.png?expires=1793903400&signature=551e27e3622f7bb0e268d37fbc22d157a5c9b90ade0448919c08ffd9ae0c680b&req=dicvHsl4mYFWUPMW1HO4zc5FGndy%2FPTl4Q9leL9LyUSFqwARXRcEEpclk685%0A582m%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064099/985738c30977ca88f30f6e9699b4/upload_8071489220742572069.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064099/985738c30977ca88f30f6e9699b4/upload_8071489220742572069.png?expires=1793917800&signature=b3c4e22c1f5b47a066dfe97822c4ab10962b1a8b6b55f77c715354e07a41778d&req=dicvHsl4mYFWUPMW1HO4zc5FGndy%2FfDp4Q9lYrtNwH7Ww6tvMVZh4mc4qBum%0AhwP4cyAkJRTY42i8cms%3D%0A)
 
 # Narrow the listings in the Listings widget
 
@@ -66,9 +66,9 @@ Listings appear from most recent to least recent. For example, with Active selec
 
 If some status and activity filters are hidden, click the arrow at the end of the row to see the next set.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064141/829168330b66162fc79b5a7fc2a9/upload_5865596037549445127.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064141/829168330b66162fc79b5a7fc2a9/upload_5865596037549445127.png?expires=1793903400&signature=e269ef114dff320b482722365cd2bbd8a19818414553a63b5b45fb23efdd4d3b&req=dicvHsl4mYBbWPMW1HO4zVNQOc0U0gdE2xCkQLp7BN%2Ffvhx8QE9wbHV0Xs86%0AAcZr%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064141/829168330b66162fc79b5a7fc2a9/upload_5865596037549445127.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064141/829168330b66162fc79b5a7fc2a9/upload_5865596037549445127.png?expires=1793917800&signature=65b1d8b17f25d33cbaea1733ffaf2e24785afc7a510ebb92f0050a38623ec9e6&req=dicvHsl4mYBbWPMW1HO4zVNQOc0U0wNI2xCkWr59DeXC7AGsNCs1Ps84QLTG%0A9nDXDOzZKg4ZSag06fA%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064167/3f22d6e1bc1135693d806497969a/upload_3491029426816678805.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064167/3f22d6e1bc1135693d806497969a/upload_3491029426816678805.png?expires=1793903400&signature=e02f1a55d496ee486d0ce3c299e3dc186dd92abdaca089fa764ddad5997f2207&req=dicvHsl4mYBZXvMW1HO4zX43gkrJTcwFzXzox%2FBpW5TTIjPfQQNPq2t2U8Yw%0AvAc%2F%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064167/3f22d6e1bc1135693d806497969a/upload_3491029426816678805.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788064167/3f22d6e1bc1135693d806497969a/upload_3491029426816678805.png?expires=1793917800&signature=cd97fe3347dfde4acb73107e408682c0a3304069f0c7fa681b05a72feb358835&req=dicvHsl4mYBZXvMW1HO4zX43gkrJTMgJzXzo3fRvUq4M5vOO6j58dQvCYew%2F%0AwKYo4RHmQBBQFEdxQwc%3D%0A)
 
 ## Search within the Listings widget
 

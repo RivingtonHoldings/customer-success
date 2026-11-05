@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:22:40Z
 updated_at: 2026-11-05T17:47:26Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Find and Update Contacts Moved from Matrix
@@ -28,7 +28,7 @@ Open the Contacts page to find your contacts moved from Matrix on the My Contact
 
 Contacts moved in a one-time transfer at the start of your Perchwell member training. Changes made in Matrix afterward are not in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png?expires=1793903400&signature=ad33b780507f15f409954896a83f3104a41409ff13a89e4d386e0a80e437ff98&req=dicuFst2mIdbX%2FMW1HO4zRhc86iNIaVNAGlQvIiYUBkTB1DkngP%2Fmn6JlSVK%0A%2F%2BMDymF44mrx7BrQwCU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790285646/83b08230e68a8b0602574c95bd6f/upload_3201926240695341605.png?expires=1793917800&signature=b7779cabbf0be24ae82123263d99b3b7af014f9b3fb6202f9ef5c51eaf17891f&req=dicuFst2mIdbX%2FMW1HO4zRhc86iNIKFBAGlQvIiYUBnZ85RCSg27CTrSl1hK%0ARUlFI5QeBW1%2B2C02F5s%3D%0A)
 
 # Add an email address to a contact moved from Matrix
 

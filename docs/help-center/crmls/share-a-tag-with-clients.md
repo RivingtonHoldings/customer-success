@@ -15,7 +15,7 @@ created_at: 2026-11-04T20:26:57Z
 updated_at: 2026-11-05T00:25:46Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Share a Tag with Clients
@@ -28,7 +28,7 @@ Email a Tag to clients from the Tags page, or resend a Tag you already sent to a
 - Send: Click Send for a Tag you have not sent yet.
 - Resend: Click Resend for a Tag you have already sent.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132473/7d0085e022efe48d5636688a74d6/upload_9765838729741827631.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132473/7d0085e022efe48d5636688a74d6/upload_9765838729741827631.png?expires=1793900700&signature=afe8b06cd11de7b3a2b8129c3556b471775f9d2e58f0b23cceb9007021302cfc&req=dicvHsh9n4VYWvMW1HO4zc8wMXhYUVRn2oq%2Bbpb7N3UKNYsf6A98B20uC2wW%0AQNW6oqoulZiqyVrP9cY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132473/7d0085e022efe48d5636688a74d6/upload_9765838729741827631.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132473/7d0085e022efe48d5636688a74d6/upload_9765838729741827631.png?expires=1793917800&signature=b68e69eff28a53f601558920152e12a4adbf69ea563712ecd76313afa0b256dd&req=dicvHsh9n4VYWvMW1HO4zc8wMXhYUFNo2oq%2Bbpb7N3X9%2BqX2nE1zyoPifniW%0Ap2V4H5ioLoGbBQeNR5E%3D%0A)
 
 > **Important:** A contact cannot be removed from a Tag after you save or send it. To stop sharing the Tag, delete it. Its public link then stops working for everyone.
 
@@ -42,7 +42,7 @@ The Tag invitation sent window lists the email address each invitation went to. 
 
 Each client receives an email from [no-reply@perchwell.com](mailto:no-reply@perchwell.com) with your name displayed as the sender. It includes a View Tag button that opens the Tag's public page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132523/5a3c348553c0f54a7a7d894ef38d/upload_7489681184022009404.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132523/5a3c348553c0f54a7a7d894ef38d/upload_7489681184022009404.png?expires=1793900700&signature=9404a272110af7d5060d870acb7f04330e0f9e61dcba5fccbba07cbf44112420&req=dicvHsh9n4RdWvMW1HO4zRIrRHfwYrax3WkoS9tpSQozE6WymJQXXtoWuxIX%0AuVJikldD48d7UXy%2FVCY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132523/5a3c348553c0f54a7a7d894ef38d/upload_7489681184022009404.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132523/5a3c348553c0f54a7a7d894ef38d/upload_7489681184022009404.png?expires=1793917800&signature=8d00a41421323c00f4b4ea5ba4e84e9d160e469b526d348fb6ca59be2d9f1b02&req=dicvHsh9n4RdWvMW1HO4zRIrRHfwY7G%2B3WkoS9tpSQp7UnX7d8IPvtj4o9mO%0A%2Fb9Vh8xdaKjLmpmv83w%3D%0A)
 
 When you resend a Tag, all of its contacts receive the email again. If you are not adding anyone, click Invite to workspace when the Share your tag window opens.
 
@@ -59,7 +59,7 @@ When Tag notifications are on, the Tag's contacts also receive its notification 
 
 Click the Copy public link chain-link icon in the Actions column on the Tags page to copy a Tag's public link. A "Copied to clipboard" message appears in the lower right. Paste the link into a text, an email, or anywhere else you want to share the Tag.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132571/1b771bb65b3b6ceec9bf902f084b/upload_6467248174771259041.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132571/1b771bb65b3b6ceec9bf902f084b/upload_6467248174771259041.png?expires=1793900700&signature=74339ce138e60659c65d44ebd4c3eefcc744e3536b3c0976d0d8e6f0ff546d30&req=dicvHsh9n4RYWPMW1HO4zeFUDtPn5P%2FgvwWMe4CB%2FwF4yFRpzsVXgAoJ2qFr%0ATyeSGF0df%2FKbV57bpuY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132571/1b771bb65b3b6ceec9bf902f084b/upload_6467248174771259041.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132571/1b771bb65b3b6ceec9bf902f084b/upload_6467248174771259041.png?expires=1793917800&signature=4a3018bc3ea394b4b2282573ef53611df70038c5546f63aac53d95dac6fea5b7&req=dicvHsh9n4RYWPMW1HO4zeFUDtPn5fjvvwWMe4CB%2FwGOyP2mjoEfJ2ya4DIq%0An%2FwG%2BqKM6TEucrehsZM%3D%0A)
 
 To view the Tag's public page yourself, click the Open public link arrow icon in the Actions column. It opens in a new tab. The number in the Views column goes up each time someone visits the public page. Your own visits count too.
 
@@ -67,7 +67,7 @@ To view the Tag's public page yourself, click the Open public link arrow icon in
 
 Clients do not need a Perchwell account or login to open a shared Tag page. It shows your name, contact information, and brokerage logo above the Tag's name, description, and listings. Clients can open each listing's details and move between them without leaving the page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132616/cee808484cc425689005527bd5e6/upload_17795577206585849533.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132616/cee808484cc425689005527bd5e6/upload_17795577206585849533.png?expires=1793900700&signature=9f32884dde32cb07f43d332614c96c5109c44555b69f1bfa08c2e7cbb9ad4194&req=dicvHsh9n4deX%2FMW1HO4zecdzWt8dFCpkOPiaBNz5GWsOSUN48Gj7kT6%2BPT1%0AMpFjGBiyK2BAfRkO4EM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132616/cee808484cc425689005527bd5e6/upload_17795577206585849533.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788132616/cee808484cc425689005527bd5e6/upload_17795577206585849533.png?expires=1793917800&signature=0c2f8948c13f09259868e193ac92f381b84649809f9b7da9ff156a3630a76387&req=dicvHsh9n4deX%2FMW1HO4zecdzWt8dVemkOPiaBNz5GV32yphi%2FzvI17%2BzPii%0AiBz9Sfek1ifJcfO%2BCaU%3D%0A)
 
 When the Reactions setting is on and the Tag has a contact, clients can like or dislike listings with the heart and thumbs-down icons. Clicking the selected icon again removes the reaction. The Liked and Disliked columns on the Tags page show the number of reactions for each Tag.
 

@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:43:06Z
 updated_at: 2026-11-05T00:33:54Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Create and Manage Your Contacts in Perchwell
@@ -43,7 +43,7 @@ The Create new contact window also includes these options:
 
 To add a company, job title, or group, edit the contact's profile after you save them. See Assign a contact to a group and Edit a contact's details.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031184/c9df9f139c6370316b5ef6224644/upload_15777401787112090337.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031184/c9df9f139c6370316b5ef6224644/upload_15777401787112090337.png?expires=1793900700&signature=6dfc460b3815c6a4e7931e6c69b2e8aba45a92a144c036a7e548b33f84a403e6&req=dicvHsl9nIBXXfMW1HO4zTI%2BV5rSFVbRLo2272%2FA9z6dA%2F0zhKaFwTHyOT3N%0Al1v%2FuxRvDesNIbOYHYs%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031184/c9df9f139c6370316b5ef6224644/upload_15777401787112090337.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031184/c9df9f139c6370316b5ef6224644/upload_15777401787112090337.png?expires=1793917800&signature=46bd27ddbdb31034a9db3e9ac988dcb1c80bc7c67e56236fefaad9197f8d1e37&req=dicvHsl9nIBXXfMW1HO4zTI%2BV5rSFFHeLo2272%2FA9z75hXb3B0aekb3JLXGa%0A0yYJmcD1mGuQX3b8XUQ%3D%0A)
 
 To create a contact while you share a listing, click Listing Actions on the listing, choose to share by text, then click Create Contact. The Add Contact window that opens also has an Additional information section with optional Company, Title, and Group fields.
 
@@ -65,9 +65,9 @@ Click Manage Groups in the upper right of the Contacts page to open the Manage G
 
 Deleting a group does not delete its contacts. Those contacts are no longer in any group until you assign them to a new one.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031216/3b1b9684e34c79971e131085682a/upload_2955896343480861467.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031216/3b1b9684e34c79971e131085682a/upload_2955896343480861467.png?expires=1793900700&signature=5b0431c30efed27f782b3868947182ad8c6748a6e2d22a79f3f98231d28f14eb&req=dicvHsl9nINeX%2FMW1HO4zcjhn66HdRVQJDf4UqI5Kn3uiRJw%2FFZNcaA0X%2BAl%0AhYO1ywp7BHh%2BqENX%2FbU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031216/3b1b9684e34c79971e131085682a/upload_2955896343480861467.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031216/3b1b9684e34c79971e131085682a/upload_2955896343480861467.png?expires=1793917800&signature=9bbbd6902a5fb7e0ec272cfe48e982d5f0eda0e866675f2833f834f4049bff10&req=dicvHsl9nINeX%2FMW1HO4zcjhn66HdBJfJDf4UqI5Kn2N%2BtlFcyUzGUbnEiMm%0Ar2YOqGSUhiAnUx0DFxw%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031246/0b9dcb4d1a197fba7734b6ceb136/upload_14461691367774115770.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031246/0b9dcb4d1a197fba7734b6ceb136/upload_14461691367774115770.png?expires=1793900700&signature=969c2a65a61706100f0687e684d20dda8c2241aa8d0c1896444a167b46745c35&req=dicvHsl9nINbX%2FMW1HO4ze%2FzG4SpI7agn7vXMNfh3pNTEbKct4u%2BAD%2Bnh1bF%0AM157sYnx2OO%2Fgkpq1os%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031246/0b9dcb4d1a197fba7734b6ceb136/upload_14461691367774115770.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031246/0b9dcb4d1a197fba7734b6ceb136/upload_14461691367774115770.png?expires=1793917800&signature=489f2775dca85381bcd0bc801dde2c480acd0cac90cee65220acd06efe0f8c8c&req=dicvHsl9nINbX%2FMW1HO4ze%2FzG4SpIrGvn7vXMNfh3pOSbuxfyAvWcMTUYq8Z%0AWcEOLKhvewssAq6ghfE%3D%0A)
 
 # Assign a contact to a group
 
@@ -99,7 +99,7 @@ The contact's profile shows the updated details.
 
 > **Important:** After you invite a contact to Perchwell, their first name, last name, email, and phone number are locked. To change a locked field, contact Perchwell Support.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031280/febc1fc9b46b129f8084f254c34b/upload_6404722924623386850.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031280/febc1fc9b46b129f8084f254c34b/upload_6404722924623386850.png?expires=1793900700&signature=1a7cb7189d0bdd305e7cb1cde6cb2697c8a976b389ba053b45e0f9ab8672a59d&req=dicvHsl9nINXWfMW1HO4zQIULj9yh0MTrmHL0CdpT7zs1mWV5FW1OxrRvvhd%0AR7XvKSKYBbYPnPnx%2FoY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031280/febc1fc9b46b129f8084f254c34b/upload_6404722924623386850.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031280/febc1fc9b46b129f8084f254c34b/upload_6404722924623386850.png?expires=1793917800&signature=eb451f504882b026ae28d1248bfbdaa851206ff44a2531285eecdced637006f9&req=dicvHsl9nINXWfMW1HO4zQIULj9yhkQcrmHL0CdpT7zKnRqIkK6Lr8GGmAdG%0AjGzn9%2F%2FwWbPTEUR6z18%3D%0A)
 
 [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations) explains how to invite a contact or resend an invitation from their profile.
 
@@ -118,4 +118,4 @@ The contact is removed from your My Contacts list.
 
 To delete multiple contacts at once, select them on the Contacts page and choose Delete from the Actions menu.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031297/705392687f459cb40d67bfe9c83f/upload_5199867697255530514.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031297/705392687f459cb40d67bfe9c83f/upload_5199867697255530514.png?expires=1793900700&signature=05bd39dbd2077fbe1e0b3176c89b7dfb57e6812576e70ed5b9d19cb842051336&req=dicvHsl9nINWXvMW1HO4zb%2BAjCj1t0XXwjDmeGmI00q05KKYejAJlhURKWPM%0ANeTam38NeHXi1TLRDR4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031297/705392687f459cb40d67bfe9c83f/upload_5199867697255530514.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788031297/705392687f459cb40d67bfe9c83f/upload_5199867697255530514.png?expires=1793917800&signature=987b02bf13da5249eef637d2cb5a3edc96c212d73db323752f305d3c31833a3d&req=dicvHsl9nINWXvMW1HO4zb%2BAjCj1tkLYwjDmeGmI00rbtiNQNZ7giIxaMqIu%0AV%2F0m3C9q7TefyYafCHA%3D%0A)

@@ -15,7 +15,7 @@ created_at: 2026-06-16T19:49:52Z
 updated_at: 2026-11-04T19:45:22Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Set Up Your Clients in Perchwell
@@ -26,7 +26,7 @@ Use this article to add clients to your contacts, invite them to Perchwell, shar
 
 Add clients to your contacts on the Contacts page before you invite them or share anything with them. Contacts from a legacy platform may already be on your My Contacts tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785784018/535bce686b2a48849edc0a278a36/upload_18004250755677835201.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785784018/535bce686b2a48849edc0a278a36/upload_18004250755677835201.png?expires=1793823300&signature=1878ff266fd6b744163b4a624ce17539b4e1e9693b4045da5ac1c79463691df0&req=dicvE852mYFeUfMW1HO4zYsYQ04RHxtLy26Q%2B2bItIWINLWncZwDVALk%2BuGC%0A8nhc%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785784018/535bce686b2a48849edc0a278a36/upload_18004250755677835201.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785784018/535bce686b2a48849edc0a278a36/upload_18004250755677835201.png?expires=1793826000&signature=88a69535bcdadfbf923819a9dab97f6cf2aa351a1289412e73a4d67edb762bc9&req=dicvE852mYFeUfMW1HO4zYsYQ04RHx5Iy26Q4WLOvb8TIUGhIEj2L7S7DcEb%0AP3N9B0dCfVA%2F6LKriTw%3D%0A)
 
 [Contacts Page Overview](https://support.perchwell.com/baldwin/en/articles/13975194-contacts-page-overview) explains how to add one contact at a time. To add multiple clients at once from a CSV (comma-separated values) file, see [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/baldwin/en/articles/10732227-bulk-upload-contacts).
 

@@ -15,7 +15,7 @@ created_at: 2026-11-04T20:29:17Z
 updated_at: 2026-11-05T00:26:44Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Tags Page Overview
@@ -39,7 +39,7 @@ The Status column on the Tags page shows whether a Tag has contacts and whether 
 - Not Sent: Contacts have been added, but they have not been invited to the Tag.
 - Sent: The contacts have been invited to the Tag. The status includes the date the invitation was sent, such as Sent 10/19/26.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137700/4c4afa7b25e367e37a823032ae7a/upload_13103852110419341061.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137700/4c4afa7b25e367e37a823032ae7a/upload_13103852110419341061.png?expires=1793900700&signature=81ecb42e15fe404870a7b20e52bbe1bd0faee5a2649b5baa850c033f73f3aa66&req=dicvHsh9moZfWfMW1HO4zc4TcTMjNmS3%2BzPG3Mcbr%2FJbCJ7rmLdEUwzGFpQd%0Ai57onCjFRX2Pk7r5CV4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137700/4c4afa7b25e367e37a823032ae7a/upload_13103852110419341061.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137700/4c4afa7b25e367e37a823032ae7a/upload_13103852110419341061.png?expires=1793917800&signature=eaceb5ab368800468a3e169eed81a69fb4039235944503d4ad1ba7887e96499f&req=dicvHsh9moZfWfMW1HO4zc4TcTMjN2O4%2BzPG3Mcbr%2FIzIHjHhCsGnxm07C%2Bk%0ApNcdz3C%2FuYDUn1SeezM%3D%0A)
 
 A Tag with one or more contacts is a Client Tag. Adding a contact changes the status from My Tag to Not Sent, and inviting them changes it to Sent. Contacts cannot be removed after they are saved to a Tag, so a Client Tag cannot go back to My Tag.
 
@@ -77,4 +77,4 @@ Outside the Tags page, tag listings and find your Tags in these areas of Perchwe
 
 [Add Listings to a Tag](https://support.perchwell.com/crmls/en/articles/18233325-add-listings-to-a-tag) explains each way to add listings to a Tag.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137739/7154faf7e7b23206107edd13f4d1/upload_9559327090872719117.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137739/7154faf7e7b23206107edd13f4d1/upload_9559327090872719117.png?expires=1793900700&signature=0b3576a757c85169f45e85d44a7b9b7a10a91c96b483d2e9cabebdfdde0dfcdf&req=dicvHsh9moZcUPMW1HO4zfwrvUuLWSSOMzmJSUvenpJrShWD2kIO8lJV%2F0pe%0AxPY4zQzLp93rVLhCmDA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137739/7154faf7e7b23206107edd13f4d1/upload_9559327090872719117.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788137739/7154faf7e7b23206107edd13f4d1/upload_9559327090872719117.png?expires=1793917800&signature=6e9fa553b7488799337e367530715ca2abd7e3f31a924230881d2f31a03aa417&req=dicvHsh9moZcUPMW1HO4zfwrvUuLWCOBMzmJSUvenpJHt79KC7TbICenpW%2BQ%0A1kY0NiQFmNEPadL%2BrrI%3D%0A)

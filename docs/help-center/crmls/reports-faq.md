@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:57:58Z
 updated_at: 2026-11-05T17:55:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Reports FAQ
@@ -64,7 +64,7 @@ With Include exact address selected, each address in the PDF (Portable Document 
 - Open links externally with your branding: Opens the listing on a page with your branding.
 - Open links in Perchwell (clients must log in): Opens the listing in Perchwell after the client logs in.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png?expires=1793903400&signature=4d8d1fc67844a8b0f6cde71321985b4d193afee6d7de900e3c5f7bcaa07c1d84&req=dicvHs1%2FnIZfX%2FMW1HO4zcGNImeZm9wLrcjPqtNXNUs3K8HKY%2FQe2OxeN99D%0Ajcde%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788411706/6181533d49bbdf5b1ea3a0249eee/upload_3598981471878838486.png?expires=1793917800&signature=89ceecefc3f145a8042925d6a6677e6c80c176dcb3e4e37b91135ac8138f623f&req=dicvHs1%2FnIZfX%2FMW1HO4zcGNImeZmtgHrcjPsNdRPHF5jzNea8zFbFOnsYfb%0AAQVSGHCYH0LMuaZgztw%3D%0A)
 
 # Can I create a Quick CMA for lease listings?
 

@@ -15,7 +15,7 @@ created_at: 2026-11-04T23:07:38Z
 updated_at: 2026-11-05T01:27:50Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Listing Detail Page FAQ
@@ -28,7 +28,7 @@ The Listing Detail Page shows HOA fees both ways. At the top of the page, the fe
 
 The two numbers look different when the HOA fee is not charged every month. For example, a fee of $355 charged once a year shows as $355 in the Overview section. The top of the page spreads that same fee across 12 months and shows it as $30/mo.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788431243/be18bfe4b1b445f59ea4cabab401/upload_9693483097642520797.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788431243/be18bfe4b1b445f59ea4cabab401/upload_9693483097642520797.png?expires=1793900700&signature=34a48f3df7ba639c219b59278c22bedbb27ca857d68b3de1e834b3d774568e89&req=dicvHs19nINbWvMW1HO4za6THKw9yrdyuD6Rrsou3OLlRF3Zn4yYJY1ID6ej%0AfvsCbhf5dCsWmWgdS%2F8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788431243/be18bfe4b1b445f59ea4cabab401/upload_9693483097642520797.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788431243/be18bfe4b1b445f59ea4cabab401/upload_9693483097642520797.png?expires=1793917800&signature=cae4dec5b948454503e30dc674bfb26df49ad68c6245419ee65014a6ff79bfbd&req=dicvHs19nINbWvMW1HO4za6THKw9y7B9uD6Rrsou3OJIBYXr9deIXi3HdVw0%0Ab8E6wCXAniFztksvmvI%3D%0A)
 
 # Where does the QR code on a One Page Report take someone?
 

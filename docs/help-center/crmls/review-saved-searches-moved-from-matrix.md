@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:24:24Z
 updated_at: 2026-11-05T17:47:51Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Review Saved Searches Moved from Matrix
@@ -28,7 +28,7 @@ Click Saved Searches, or the name of the open saved search, in the upper left of
 
 Saved searches moved in a one-time transfer at the start of your Perchwell member training. A saved search created in Matrix after the transfer did not move, so recreate it in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289957/c570127118ce639ac4c946f55067/upload_15434574967623668872.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289957/c570127118ce639ac4c946f55067/upload_15434574967623668872.png?expires=1793903400&signature=b17fc57756aad415d320c3434acb91e42ce3e81062ad03dd0960ce32c23096da&req=dicuFst2lIhaXvMW1HO4zSXTk4s4zkDRwGM9v0Gz4CSTZyUWXdZ0ucRpZPQf%0AJEyBpUii2bSiNrmpoP0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289957/c570127118ce639ac4c946f55067/upload_15434574967623668872.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289957/c570127118ce639ac4c946f55067/upload_15434574967623668872.png?expires=1793917800&signature=c024a7ca2ab730ff130296fb12327e26bb5bcdc2a534e099cc839a1d1e9433c4&req=dicuFst2lIhaXvMW1HO4zSXTk4s4z0TdwGM9v0Gz4CTPYbgghbI%2BdXknKiZc%0AD%2F4N2lCE%2BPf2YLZ3XnI%3D%0A)
 
 # Find the contacts linked to saved searches moved from Matrix
 
@@ -36,7 +36,7 @@ Saved searches moved from Matrix stay linked to the contacts they had in Matrix.
 - Contacts column: Lists each saved search's contacts in the My Searches window, which opens from Saved Searches on the Search page.
 - Shared Searches tab: Lists every saved search linked to one contact, on the left side of that contact's page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289981/745f26621ab2a7458e07849c9e57/upload_16472504595749657308.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289981/745f26621ab2a7458e07849c9e57/upload_16472504595749657308.png?expires=1793903400&signature=d7e631869de0ec4bd65a71ff1341bc2b0d2941d39b84328ce461a21a443e206b&req=dicuFst2lIhXWPMW1HO4zaBP6EPREWxPUCvVTjsbfL6q6neZagIPH0gK0qh%2B%0AlJSTPAxxK%2FZwU8kGRaM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289981/745f26621ab2a7458e07849c9e57/upload_16472504595749657308.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790289981/745f26621ab2a7458e07849c9e57/upload_16472504595749657308.png?expires=1793917800&signature=af02bf5665b3e881187aafcad3d2f5e1d3d4b275b1fa653f5f0d66599df5524f&req=dicuFst2lIhXWPMW1HO4zaBP6EPREGhDUCvVTjsbfL5WOkN29sVVjTCdoXXs%0At23ahZov%2BkJ59npW3Nk%3D%0A)
 
 # Add a missing contact to a saved search moved from Matrix
 

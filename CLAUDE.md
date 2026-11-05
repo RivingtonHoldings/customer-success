@@ -13,7 +13,7 @@ Notion and Intercom are provided by claude.ai connectors, not by anything in thi
 - **Product:** Perchwell is the MLS platform members use to search listings, enter and manage listings, run reports, and collaborate with clients. One codebase, web and mobile at full parity.
 - **Members:** Real estate agents, brokers, brokerage admins, MLS staff, and invited clients. "Member" is the word for a person using Perchwell through their MLS.
 - **In scope for this project:** Baldwin (cut over from Paragon on August 3, 2026) and CRMLS (cutover upcoming, migration source being confirmed).
-- **Features members ask about most:** Search and SearchWell (natural language search), Add/Edit (listing entry), Saved Searches and alerts, Hotsheets, Tags, Client collaboration, Reports and CMAs, Print and Export CSV, Dashboard widgets, Contacts and the My MLS roster, Mobile.
+- **Features members ask about most:** Search and SearchWell (natural language search), Add/Edit (listing entry), Saved Searches and alerts, Hotsheets, Tags, Client collaboration, Reports and CMAs, Print and Export CSV, Dashboard widgets, Contacts and the MLS roster, Mobile.
 - **Support surfaces:** Help centers on support.perchwell.com (one per MLS), Intercom chat and email, and Fin, the Intercom AI agent that answers from help center articles.
 
 Full support-writing reference, glossary, and terminology rules: `docs/product-context.md`.
@@ -50,7 +50,7 @@ Friendly and competent. The member may be brand new to Perchwell and not technic
 - Translate system terms into what the member sees with a "which means" clause. "Fin reads from published articles only, which means a draft article will not change Fin's answers."
 - Hedge predictions about member behavior. "Members may ask" beats "members will ask."
 - Pair every "don't say X" with "say Y instead."
-- Articles never name a legacy platform. Members came from different systems depending on their MLS, and one article serves several, so write "a legacy platform" and keep the legacy feature name the member would recognize: "Members who came from a legacy platform may know the Universal Search Bar as Power Search." Conversation replies and macros are the exception; you know which MLS you are talking to, so name their platform. Never "old system," "retired," or "sunsetted."
+- Articles never name a legacy platform. Members came from different systems depending on their MLS, and one article serves several, so write "a legacy platform" and keep the legacy feature name the member would recognize: "Members who came from a legacy platform may know the Universal Search Bar as Power Search." Conversation replies and macros are one exception; you know which MLS you are talking to, so name their platform. Then vs. Now articles are the other: each MLS has its own Then vs. Now collection, so a Baldwin Then vs. Now article names Paragon, as in "In Paragon, this was called Power Search." Never "old system," "retired," or "sunsetted."
 
 ## Operational doc conventions
 

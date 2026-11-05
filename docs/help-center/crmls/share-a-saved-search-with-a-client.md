@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:34:35Z
 updated_at: 2026-11-05T00:11:51Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Share a Saved Search with a Client
@@ -41,7 +41,7 @@ The client receives an email that you added them to the saved search. The email 
 
 To also email the client about new matches, turn on Alerts and choose a Recipient option that includes contacts. [Set Up Email Alerts for Saved Searches](https://support.perchwell.com/crmls/en/articles/18234126-set-up-email-alerts-for-saved-searches) explains how.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265689/e9bf27d6e1cc29bcd49b4bf9408d/upload_11145218648587203693.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265689/e9bf27d6e1cc29bcd49b4bf9408d/upload_11145218648587203693.png?expires=1793900700&signature=5590752d16b91c01775fdbf3e8157100490bdea176efb00620a88ba9fd708164&req=dicvHst4mIdXUPMW1HO4zWKQf7oA%2FjZxgbYMuJGT0J7NlJM0X6kq4N8d878h%0AAneSnYNQzOAUU%2FwBJFg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265689/e9bf27d6e1cc29bcd49b4bf9408d/upload_11145218648587203693.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265689/e9bf27d6e1cc29bcd49b4bf9408d/upload_11145218648587203693.png?expires=1793917800&signature=7109791bb68d7ba621b7427a6c169a4107ea6793acc161f236119a8a1d09b86a&req=dicvHst4mIdXUPMW1HO4zWKQf7oA%2FzF%2BgbYMuJGT0J7JA7tYAVoAKyzJhvPB%0AcjK9tFNeMgruMJ%2BWhdA%3D%0A)
 
 # What clients can do in a shared saved search
 
@@ -51,7 +51,7 @@ Turning the toggle off removes the saved search from the client portal. Clients 
 
 In the saved search, clients do not see Tags you have added to listings, whether the Tags are for them or another client. Tags do not show on the listing detail page, and the Tag Search column shows NA.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265716/9c0b39a8cf7f70722271b2f0cec6/upload_9041110480700720947.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265716/9c0b39a8cf7f70722271b2f0cec6/upload_9041110480700720947.png?expires=1793900700&signature=9a5a7056b5697bdb6b646e044277d49709aee75366f773ce5a8cfe92517c464b&req=dicvHst4mIZeX%2FMW1HO4zWtGRgHSXQ%2Fg1PgRi7v64WvrN6cGE3CLi2M5zVy%2F%0AREHG9TNwiOn8oqz4wiA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265716/9c0b39a8cf7f70722271b2f0cec6/upload_9041110480700720947.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265716/9c0b39a8cf7f70722271b2f0cec6/upload_9041110480700720947.png?expires=1793917800&signature=2c3884520bcdf1c827105a2d0fcd307f8819442f627b2e4d7c423266085c6b04&req=dicvHst4mIZeX%2FMW1HO4zWtGRgHSXAjv1PgRi7v64WvWsK8q5am4pbJfHy1P%0AFPlQf3b158UOR8OxGqQ%3D%0A)
 
 # Remove a client from a saved search
 
@@ -65,4 +65,4 @@ Remove a client from a shared saved search through the Contacts field in the Edi
 
 The saved search is removed from the client portal, and the client no longer receives its alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265737/fb78ae4b329839e19de7a0ad2670/upload_8996545708158509993.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265737/fb78ae4b329839e19de7a0ad2670/upload_8996545708158509993.png?expires=1793900700&signature=57c74c13a67077067c98cccaaac23fe0a1d7dbd47dc24b7acd45ef3bbc1c9aa3&req=dicvHst4mIZcXvMW1HO4zSm4MvPclrPDclcppNFyPHGIGdgzLnaMzA6IGdVf%0A1UIb23hi80v9K0KyURI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265737/fb78ae4b329839e19de7a0ad2670/upload_8996545708158509993.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788265737/fb78ae4b329839e19de7a0ad2670/upload_8996545708158509993.png?expires=1793917800&signature=4803e9cec647bd3c08fb943ee5521129583b8e5aa5d861a57ccce8c93b7ab5f5&req=dicvHst4mIZcXvMW1HO4zSm4MvPcl7TMclcppNFyPHEWK2MJUHacckdNPEDi%0A%2FTkFdBOdcuKh7xaTHUQ%3D%0A)

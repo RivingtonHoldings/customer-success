@@ -15,7 +15,7 @@ created_at: 2025-04-20T17:01:49Z
 updated_at: 2026-11-04T19:41:12Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Set Up Email Alerts for Saved Searches
@@ -43,7 +43,7 @@ Perchwell begins sending alerts for new matching activity on the schedule you se
 
 The first time alerts are turned on, New match is selected, Recipient is set to Only me, and Frequency is set to Immediately. If alerts were previously on, Perchwell restores the previous settings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png?expires=1793823300&signature=d37b38efed878f7cf6444da05a6eb45c046b718495e6419a73e27311a4e83ee2&req=dichFMl3nIFZWPMW1HO4zXKHzmEj32hf2WeLtJkrK0xaI%2F5KIyEW85r73z3U%0A3aQV%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091061/0990a5787b01e0febefdc9f20b29/upload_2276991007239765860.png?expires=1793826000&signature=d77df39d47aac7654be79b7b4cba7ee8540c5f6c3449a99f6a77e6dccdda9c5a&req=dichFMl3nIFZWPMW1HO4zXKHzmEj321c2WeLrp0tInauqJanlQTWkkEQECGB%0AcJmXCsziFjqBCxAJO3I%3D%0A)
 
 ## Turn on saved search alerts with the bell icon
 
@@ -74,7 +74,7 @@ Select an option from the Recipient dropdown to choose who receives saved search
 
 Add contacts to the saved search before selecting a Recipient option that includes contacts. The Add a contact to receive saved search alerts section covers how.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png?expires=1793823300&signature=766b4aa4484bb0be82e96def025197301f0bfa59b15f875314b994407404cbeb&req=dichFMl3nIFYX%2FMW1HO4zeYW6EY8TaPJRBqwwgX%2BBySD3F6SUXE%2B3htMDfMN%0AxLJG%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091076/920a507d660c4056c870e4541aab/upload_9834404784953643320.png?expires=1793826000&signature=45a3bbe1dfc5c3eccfae7abd4b4eb5a6e9dfefb7d59e9c8e411714a284acd2f4&req=dichFMl3nIFYX%2FMW1HO4zeYW6EY8TabKRBqw2AH4Dh7GZ4WmQWu6btq0MEmi%0AKAaeqwiiS3%2B5U6tsfgU%3D%0A)
 
 # Choose how often saved search alerts send
 
@@ -86,7 +86,7 @@ Select an option from the Frequency dropdown to choose how often saved search al
 
 Morning alerts send around 8:00 AM and Evening alerts around 8:00 PM in your MLS time zone.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png?expires=1793823300&signature=ce2971346b4af3a3491df35fe6cb9a9fd7bb06e85e10d1f67cf5ca412597ebee&req=dichFMl3nIFXX%2FMW1HO4zdJccBiH4irJzNFjF5vcg33hE4NGcFvcyUFr9lh1%0AoEt%2B%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091086/ab0fe45e49f3261265d7a25eff09/upload_12291482737251881885.png?expires=1793826000&signature=c3e59e5d9ca1874ccae7549ffa74cf1f34383b71c59c66a4e0e0eb9692e8baaf&req=dichFMl3nIFXX%2FMW1HO4zdJccBiH4i%2FKzNFjDZ%2FaikdUu28XUf1%2F2ONULgBo%0AGuGOQPLxMx%2B3XrCCOaM%3D%0A)
 
 # Add a contact to receive saved search alerts
 
@@ -121,4 +121,4 @@ Contacts do not need a Perchwell account to receive alerts or open the listing l
 
 [Unsubscribe from Saved Search Alert Emails](http://support.perchwell.com/baldwin/en/articles/13602428-unsubscribe-from-notifications-for-invited-clients) covers how a client stops receiving alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png?expires=1793823300&signature=bb9cc86b78a3b6fae0e286fce7078e3b3c83b7f741548cdb679d1ef6ddea0222&req=dichFMl3nIFWX%2FMW1HO4zY01GG4fu555azUW3jLAQ8gT4uIxgZ%2BKPNjIfqdf%0ABRXX%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762091096/fee60dcb5cf6e44adf9271215e9c/upload_3681750054604135499.png?expires=1793826000&signature=8b51c7b96727f4284c999c17c84729e28a3f40fb87f6b01de904ada91abfdac7&req=dichFMl3nIFWX%2FMW1HO4zY01GG4fu5t6azUWxDbGSvK7XbO0OR%2BT7IGDCzcw%0AfbnG0wqGGxC1bbA9sb8%3D%0A)

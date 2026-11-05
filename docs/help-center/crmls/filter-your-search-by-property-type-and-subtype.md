@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:02:27Z
 updated_at: 2026-11-05T17:08:31Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Filter Your Search by Property Type and Subtype

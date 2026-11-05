@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:46:54Z
 updated_at: 2026-11-05T00:58:51Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Analytics Page Overview
@@ -32,7 +32,7 @@ Open any Analytics report from the Analytics page. It holds six reports: Agent R
 
 The report opens with its filters across the top and its results below. To return to the list of reports, click Analytics in the upper left.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389533/018fdb028ca6326204ace3c319be/upload_12301016140813433297.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389533/018fdb028ca6326204ace3c319be/upload_12301016140813433297.png?expires=1793900700&signature=bb12db2cdb28f355dd4a7ebbbdbf9d2421570f0617c37d41716639d3d0c157bd&req=dicvHsp2lIRcWvMW1HO4zfAAOxvBFintGyPxB9t93NdjVyq2SNIusdvOZ74t%0ADxlh%2FxV0MEbUbvB5xlQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389533/018fdb028ca6326204ace3c319be/upload_12301016140813433297.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389533/018fdb028ca6326204ace3c319be/upload_12301016140813433297.png?expires=1793917800&signature=ff3640eea3f21c030794e656aa5a7da90159c0131b2ed4f30594a0edb17b8cc9&req=dicvHsp2lIRcWvMW1HO4zfAAOxvBFy7iGyPxB9t93NewZsXv8bEENyYFYulZ%0AwPPgUuaOxgdvyHybKiI%3D%0A)
 
 Members who came from a legacy platform may know Analytics as Statistical Reporting. To chart only the listings in your current search, open the Analytics view on the Search page instead; [Analytics Tab Walkthrough](https://support.perchwell.com/baldwin/en/articles/17453999-analytics-tab-walkthrough) explains how.
 
@@ -56,7 +56,7 @@ Each ranking report lists the agent, office, firm, or team by ID and name, follo
 
 A sale shared with a co-agent is split between the two agents, which means unit counts can show decimals, such as 16.5.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389563/d1046b493144a1388fb65a4c8220/upload_2007300488438810577.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389563/d1046b493144a1388fb65a4c8220/upload_2007300488438810577.png?expires=1793900700&signature=b95ecee46bde13451cb2aec4b370b323a0f83503d4923e1bcef9c9bb0efb675f&req=dicvHsp2lIRZWvMW1HO4zRBg%2BV9HMR%2B%2F9vUt4lbNkfpfDE5DMiM0JAaxXGpB%0A0VpT8EgA6bP6NKubKMw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389563/d1046b493144a1388fb65a4c8220/upload_2007300488438810577.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389563/d1046b493144a1388fb65a4c8220/upload_2007300488438810577.png?expires=1793917800&signature=f24ab0ed7418fd39101ef749169f82f73d500471c968f1da043591584ff73e81&req=dicvHsp2lIRZWvMW1HO4zRBg%2BV9HMBiw9vUt4lbNkfpIEMvOAWbpFyUHwtcD%0AKuFZES%2BpKRh0aHfqfc0%3D%0A)
 
 ## Filter a ranking report
 
@@ -109,7 +109,7 @@ The same menu also offers these options:
 - Copy value: Copies the number you clicked.
 - Expand: Shows the number you clicked in a label over the table.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389592/1e59e80b746e54869725ceabd965/upload_691185965588774762.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389592/1e59e80b746e54869725ceabd965/upload_691185965588774762.png?expires=1793900700&signature=cd3014ebf216731133b3dce4d15a00ed9a9490dbb07bbdb1e7cee78bbb03a685&req=dicvHsp2lIRWW%2FMW1HO4zWZuysRYz12GrpFNLU0UKqfHsOzmj1%2BxXRA59dFx%0A%2FHbT7VxAlIegrzTcxFQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389592/1e59e80b746e54869725ceabd965/upload_691185965588774762.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389592/1e59e80b746e54869725ceabd965/upload_691185965588774762.png?expires=1793917800&signature=dc369c2541617ec8aa2e35f655059ea123d60a93241857e353659b4e1d298d1a&req=dicvHsp2lIRWW%2FMW1HO4zWZuysRYzlqJrpFNLU0UKqfoipeDqdiqMXSMoAvJ%0AfSAqrfTpwnAF2HllJ9A%3D%0A)
 
 > **Note:** Broker exclusive listings count toward agent and office totals but are hidden from other members, including in the Drill window. This means a total may include sales you cannot open.
 
@@ -121,7 +121,7 @@ Each status section shows the listing count, average price, and median price. Th
 
 Hover over a pin on the Market Activity map to see the listing's address, bedrooms, bathrooms, property type, and latest price.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389626/fe294bd43337bafa638065926148/upload_1384479483779762899.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389626/fe294bd43337bafa638065926148/upload_1384479483779762899.png?expires=1793900700&signature=9020c7b968b451a3f6ba44b3252c8c9ae6e609498e8fd84d85534f70ee83d124&req=dicvHsp2lIddX%2FMW1HO4zXcsYS7P2pFjCsAlZZFMKc%2FSLlbQRmEuI1ojvFBy%0A6gCFngcGfdkaKlZki28%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389626/fe294bd43337bafa638065926148/upload_1384479483779762899.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389626/fe294bd43337bafa638065926148/upload_1384479483779762899.png?expires=1793917800&signature=e435020d2d0267bbf6792671386ced1d7ea1561f63130672fff0727d7d22fa71&req=dicvHsp2lIddX%2FMW1HO4zXcsYS7P25ZsCsAlZZFMKc%2F9nWqnaU4P%2BXTtnfzM%0Alq37dZ0BDyoAKd5QOp0%3D%0A)
 
 ## Filter the Market Activity Report
 
@@ -152,7 +152,7 @@ Both measures count only listings in Active status, which means listings under c
 
 > **Important:** Market Analytics data for the most recent period is preliminary. Do not compare its sales volume with earlier periods.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389640/9fcbe9c9be9b7ea797afc0cd89f2/upload_13650610311542130168.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389640/9fcbe9c9be9b7ea797afc0cd89f2/upload_13650610311542130168.png?expires=1793900700&signature=9d23712bca1364cc590378542e8fb5ae779e747ffe999c22d1f5ec2403ebd425&req=dicvHsp2lIdbWfMW1HO4zeycpm%2Fn7wbtFPq81qnISAdepw9MBzdtcCEdtNET%0AuY87ghsL%2B6Y0VSiL1u8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389640/9fcbe9c9be9b7ea797afc0cd89f2/upload_13650610311542130168.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389640/9fcbe9c9be9b7ea797afc0cd89f2/upload_13650610311542130168.png?expires=1793917800&signature=8d71136b2063d9d2d547aeb5408be1df4521d11f3bbb5770d572628ff578d4a3&req=dicvHsp2lIdbWfMW1HO4zeycpm%2Fn7gHiFPq81qnISAdzWhsFTBXM%2BrG1jJNV%0Apf0jKRnIebTpIAdBsHE%3D%0A)
 
 ## Filter the Market Analytics Report
 
@@ -179,4 +179,4 @@ The file downloads to your computer. Format is set to PNG (Image) by default, an
 - XLSX (Excel): An Excel spreadsheet of the report's data.
 - CSVs (in ZIP file): The report's data as CSV (comma-separated values) files, packed in one ZIP file.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389665/9ba63a101a8fb76c7a5203818df2/upload_7009471765462096365.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389665/9ba63a101a8fb76c7a5203818df2/upload_7009471765462096365.png?expires=1793900700&signature=624941ad6fd26b638498487687bf952bd4e5c4d85cd19abb9886e625b63496a9&req=dicvHsp2lIdZXPMW1HO4zbjeJ%2Fm53P99oz8sm0SUHtzvaZy0Wp%2F7BNfEKCdE%0AkSD80rHeJBLnBxEoGag%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389665/9ba63a101a8fb76c7a5203818df2/upload_7009471765462096365.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788389665/9ba63a101a8fb76c7a5203818df2/upload_7009471765462096365.png?expires=1793917800&signature=33bcd58a99b97b9f5f61ba025cda9084457d09676c1f7ccc840193c1c8c089a9&req=dicvHsp2lIdZXPMW1HO4zbjeJ%2Fm53fhyoz8sm0SUHtx37Lbx65yjUEiVyYAo%0ArR0VgKcDoqepRRAL1S8%3D%0A)

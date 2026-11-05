@@ -15,7 +15,7 @@ created_at: 2026-05-21T02:36:19Z
 updated_at: 2026-11-04T19:07:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Search FAQ
@@ -28,7 +28,7 @@ Use this article to find quick answers to common questions about the Search page
 
 Yes. Search by school zone with the Elementary School, Intermediate School, Middle School, and High School filters under Location on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png?expires=1793823300&signature=43a35e85c1b4a7e7650f574acff8bc1155eea734942c766d18c6de7a10cbbb26&req=dichFMl%2Bm4RWUfMW1HO4zRGIg0vArRDZubsPiAWpy1Xs6zpzUPzEaV%2F6KACn%0Ayj5757OWwbCkW3SOjQw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006598/0f9b06d3fcc05ae4b93802a367dc/upload_15842467736719662498.png?expires=1793826000&signature=c053567ef7f95cfc057792485ea82169dd701a76ccf1e7d45e35c84f4ba9cbae&req=dichFMl%2Bm4RWUfMW1HO4zRGIg0vArRXaubsPiAWpy1U7PtjFHZeDBckmwgth%0A%2BB4iI9ueLZkRD3hNZm8%3D%0A)
 
 ## How do I search for a specific street name?
 
@@ -38,11 +38,11 @@ Enter part of the street name in the Street name field under Location on the Fil
 
 Search by agent with the Agent filter under Listing Details on the Filters tab. To find the filter, enter Agent in the Search filters and values field.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png?expires=1793823300&signature=ea2930474c43bd38bf6e9e8b236dc9ee246f963ee7d684c8f361353ab861dc9c&req=dicvFM1%2BnoBcW%2FMW1HO4zZ4K9pYiJEGklh5LwX4ia8eDD9QsE3AFTiq%2FkXpq%0AoNRdGj%2Fp%2BRdTgLoPxHo%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782403132/62a26ce27f0dcaedd2fa79655d64/Screenshot+2026-11-02+at+9_47_15%E2%80%AFAM.png?expires=1793826000&signature=1adeda304d1af682f9edecb3d6a921ba5f3782d5958cc043b764ac8f6ca8111d&req=dicvFM1%2BnoBcW%2FMW1HO4zZ4K9pYiJESnlh5LwX4ia8eOwBpUKkF319e0LEVX%0APv99b3NIuJ9nqVLpDr4%3D%0A)
 
 Enter the agent's name, then select Listing, Buy-side, or both to choose which side of the transaction the agent represented.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png?expires=1793823300&signature=f3af74aeb1fbb369ae2af2607e96ee3da835813043495d1ed7fcc31612110e72&req=dicvFM1%2Bm4VfWPMW1HO4zYDlIAdwyVYAcx4B8QCvUkLkAmRZivmYOkvdrJ5c%0AV7x4C6xsHQk3CwL3iPI%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2782406401/fa51c4c37357e5b70881a90ec9d2/Screenshot+2026-11-02+at+9_49_01%E2%80%AFAM.png?expires=1793826000&signature=ae143df7be986b21cef8faab792e51db682c038f272f2eff748dc19fb80fdb90&req=dicvFM1%2Bm4VfWPMW1HO4zYDlIAdwyVMDcx4B8QCvUkJYSXRjq1Dwo2RlKERr%0AA5kqaft2pC9fVL1YpnI%3D%0A)
 
 ## How do I search for acreage?
 
@@ -65,7 +65,7 @@ Search for waterfront properties with the waterfront filters on the Filters tab.
 
 Lot Description and Water Property Type are set to Or by default, which shows listings that match at least one selected value. Change Or to Not to exclude listings with the selected values.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png?expires=1793823300&signature=966eefb63844ffb532366783cacdbce9e2ac6688670e31119061aa79c3847dc7&req=dichFMl%2Bm4ddUfMW1HO4zdQpHBxKbTqbSuZhIISbWICeVs6%2FyJP4%2FtfQIFre%0AP2kvKCFMoaWkYhhgwy8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006628/3972383d6b4718ce38f58a3e3ad3/upload_8852445989255471608.png?expires=1793826000&signature=d77af7b591c15401fc446586393cc60b1252db4cbff752cbd85c6a5dcf6fd529&req=dichFMl%2Bm4ddUfMW1HO4zdQpHBxKbT%2BYSuZhIISbWIBeo%2BbNT174nAD%2FvNQp%0A3Wfmj25e4%2Bcei1sBlUw%3D%0A)
 
 ## How do I search for listings with an open house?
 
@@ -130,7 +130,7 @@ Hidden listings stay hidden after you leave the search only if you save the sear
 
 [Search Page Overview](http://support.perchwell.com/baldwin/en/articles/13903243-search-page-overview) explains how Keep and Hide work.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png?expires=1793823300&signature=3f99a27d0bb8701d98d0e81e0d8f5ad700e240a138ea8b23cfa58b8be975e7cb&req=dichFMl%2Bm4ZcX%2FMW1HO4zTGNGPJUkG0SV7fAYc9pEShdr15kTJ0N7FWMrMT5%0AZDHM4q%2Fi7Acu3v%2BOK7s%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006736/9a7ee74429e773f4151b7a436567/upload_10948972370342769763.png?expires=1793826000&signature=c0452f81c45ff4b95e4b448fb5c8307c49507f89116c4f50a8fec8a7b1673aa5&req=dichFMl%2Bm4ZcX%2FMW1HO4zTGNGPJUkGgRV7fAYc9pESibkIl%2Fp%2F7LwIqewOk1%0A4UbVp30v2ssJbeaLCto%3D%0A)
 
 ## Can I run multiple searches at the same time?
 
@@ -142,7 +142,7 @@ To return to a search later, save it. [Manage Your Saved Searches](http://suppor
 
 Driving Directions in the Actions menu is greyed out when your browser is not sharing your location with Perchwell. Turn on location access for Perchwell in your browser settings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png?expires=1793823300&signature=30028320d2e7bcfd8a59ac672ac35be2623e7011779039e293fc734b4220fd73&req=dichFMl%2Bm4ZWWvMW1HO4zSdQXvp1jSVBr0sMuv38mttBuXiqYKvUychjcYfN%0AFp9lQZ3B0gs41KRAM4E%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762006793/26d8b5b436ef22910f2feb977be1/upload_18335996093959671239.png?expires=1793826000&signature=128c2a13776d0908889ba825fc93fe559bf0144483d43cc83dcc575625ea81a0&req=dichFMl%2Bm4ZWWvMW1HO4zSdQXvp1jSBCr0sMuv38mtsM2Zw3T54d4%2FXfBVrM%0AtCWT%2FdHChQ5T%2FrJI6RE%3D%0A)
 
 [Actions Menu Options on the Search Page](http://support.perchwell.com/baldwin/en/articles/13623271-multi-listing-actions-on-the-search-page) covers Driving Directions and the other options in the Actions menu.
 

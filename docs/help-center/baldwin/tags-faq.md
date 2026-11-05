@@ -15,7 +15,7 @@ created_at: 2026-05-21T19:26:21Z
 updated_at: 2026-11-04T20:10:18Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T20:19:10Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Tags FAQ

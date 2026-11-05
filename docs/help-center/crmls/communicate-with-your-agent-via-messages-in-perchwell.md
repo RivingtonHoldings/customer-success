@@ -15,7 +15,7 @@ created_at: 2026-11-04T17:54:52Z
 updated_at: 2026-11-05T01:28:58Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Communicate with Your Agent via Messages in Perchwell
@@ -35,7 +35,7 @@ Chat with your agent from Messages in your client portal, your workspace for col
 
 Your agent sees your message in your conversation and receives an email notification.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750347/fe4c1cc1b15c3c42b2865e181fd9/upload_9660143998095080604.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750347/fe4c1cc1b15c3c42b2865e181fd9/upload_9660143998095080604.png?expires=1793900700&signature=988444c307127433424ade0caa7f4ea235fa4d9750214e49608e09efbf3128c2&req=dicvEc57nYJbXvMW1HO4zQZJcTARnJCAjOuDpVEy4jmhM71raHzxxG5kG9S%2F%0Anxx6EMSiK9UKdVu8uIs%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750347/fe4c1cc1b15c3c42b2865e181fd9/upload_9660143998095080604.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750347/fe4c1cc1b15c3c42b2865e181fd9/upload_9660143998095080604.png?expires=1793917800&signature=5735d11b17111d113b3b7fc3e9191d96c058725c78d27578908415180fe296e3&req=dicvEc57nYJbXvMW1HO4zQZJcTARnZePjOuDpVEy4jkZWZEOiQ4woWJzEMP5%0ARusPp4z8QoqEveM9fYY%3D%0A)
 
 To send your agent a listing in Messages, follow the steps in [Share Listings with Your Agent](https://support.perchwell.com/crmls/en/articles/18232061-share-listings-with-your-agent).
 
@@ -54,7 +54,7 @@ React to the listings your agent shares with you in Shared properties, inside yo
 
 Your agent sees the reaction on the listing in Shared properties right away. To change a reaction, click a different icon on the listing.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750383/e79d945b84777970f98524f71cd1/upload_1632775022226823627.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750383/e79d945b84777970f98524f71cd1/upload_1632775022226823627.png?expires=1793900700&signature=fc0fdeed42d2aa9c1468943713d6eb201d88b0cd579dc27715cf7dcb88db7958&req=dicvEc57nYJXWvMW1HO4zcWkGZoH49CoZ0sqM9cF7xV1hxjfCo4KTAX6tKZ1%0A7YiPYa8pkHzrFOKYhw8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750383/e79d945b84777970f98524f71cd1/upload_1632775022226823627.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750383/e79d945b84777970f98524f71cd1/upload_1632775022226823627.png?expires=1793917800&signature=7987f93b3e0eedde3b23f2c8ae50ba13e6b0f1b178c988a38f215a7a7785ba47&req=dicvEc57nYJXWvMW1HO4zcWkGZoH4tenZ0sqM9cF7xV7UJp3Asql1ZGUrfkp%0APORXpxlYtEPyRuMTLwk%3D%0A)
 
 > **Note:** Perchwell does not notify your agent when you react to a listing. Send your agent a message when you want them to follow up.
 

@@ -15,7 +15,7 @@ created_at: 2026-11-04T20:09:14Z
 updated_at: 2026-11-05T00:58:49Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Create a Show Sheet

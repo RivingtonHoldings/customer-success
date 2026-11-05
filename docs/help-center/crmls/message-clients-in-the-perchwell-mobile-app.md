@@ -15,7 +15,7 @@ created_at: 2026-11-04T22:22:30Z
 updated_at: 2026-11-05T01:31:46Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Message Clients in the Perchwell Mobile App
@@ -59,7 +59,7 @@ The conversation opens with your message. To start from a contact instead, tap M
 
 To continue a conversation, tap the client's name on the Messages tab. The General tab shows your messages and shared listings, with the time each message was sent.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png?expires=1793900700&signature=98f822046d6f3d545a70446594fe42cbe54537da3d065ad54e7e7d0b97440a9e&req=dicvHsp6lYBaWvMW1HO4zU0WyL9gQBAe5d3ebrpKBW3Q3a0E5EvKWE9aag7j%0Ayweb7GT6sQh3nKN4Jts%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788348153/59a5411b3a705995dd9c2dddf66e/upload_11658210032793816857.png?expires=1793917800&signature=73f73a4ed54e2b115a25bbf0ad2c9d64cbe5df59f2b1e8c2ed2db79f757cf597&req=dicvHsp6lYBaWvMW1HO4zU0WyL9gQRcR5d3ebrpKBW0DSgb%2FK3TtORUlw0z9%0ARP4WMwFR%2B9VKhsvL%2F5U%3D%0A)
 
 Members who came from a legacy platform may know Messages as part of the Collaboration Center.
 

@@ -15,7 +15,7 @@ created_at: 2026-04-23T15:32:06Z
 updated_at: 2026-11-04T18:11:31Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Create and Manage Teams
@@ -39,7 +39,7 @@ Find a team in Manage People by searching the Teams tab for a team name, Team Le
 
 The Teams list shows the matching teams, with each team's name, brokerage, Team Lead, status, email, and number of members.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png?expires=1793820600&signature=f780b242e448ac812eb6a75a99f8fe5a30c280766315ccb5828d0dbba18a9751&req=dicvE8p8m4hWWvMW1HO4zX6W6gXVj9raeMLKmhflT5iWxs9OhxtUTnI6wlhz%0AkfT2tPZyE17jWepeNSA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785326993/22e119125bcde769de3b24aa3cba/upload_7197102758707730202.png?expires=1793819700&signature=35c9c69539b68720f28d4cb3074645791e70833f1422e2044288cd4fa7aed99c&req=dicvE8p8m4hWWvMW1HO4zX6W6gXVjNPbeMLKmhflT5iPuBJKKUNSztTybKYd%0ArmaN4B7kQpxo4yZz49E%3D%0A)
 
 # Request a change to a team
 
@@ -70,7 +70,7 @@ The team form also includes these optional fields:
 - Contact: Enter the team's email and phone numbers.
 - Address: Enter the team's mailing address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png?expires=1793820600&signature=198b433f40ec0b0c0b894f0c64aee3d37f63a39b14c32a149e86c0ec0c1e734c&req=dicvE8p8moFdXvMW1HO4zRSg0asDphoZzHu7CAqtarFcC0MA35GJo2kMR6U5%0Ajd55TohhsAam%2BLnz2%2BI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327027/53d4ce94f8c0bf6ed570f89bb30b/upload_16158492014816301175.png?expires=1793819700&signature=76d5fbba575c8b73000717413f8a69d81f7a66a7c486e888f385828b75857d1e&req=dicvE8p8moFdXvMW1HO4zRSg0asDpRMYzHu7CAqtarGfFxNsMCSpXgP0fLCI%0AhjquVTtq8ogYDdneAFw%3D%0A)
 
 # Add agents and choose a Team leader for an existing team
 
@@ -90,4 +90,4 @@ Add agents to an existing team with Edit Team in Manage People, and choose which
 
 The agents join the team and get full editing rights to listings assigned to it. Teams are limited to one brokerage, so the Agents dropdown shows only agents in the team's brokerage.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png?expires=1793820600&signature=c222ae3a2a488daf49c4756bd84dc7b12640974ba1c87909bfbb460a2ed3d087&req=dicvE8p8moFbX%2FMW1HO4zQLwhm9rQ0yhVqm5xMh7%2Flq1%2FTZvSdzzJ9kBQZ14%0AFJ8PZIPyUXC1TwcnnLo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785327046/ebdc4ef0d253abe26dcf53e72ee5/upload_5592532823727282447.png?expires=1793819700&signature=e513f70fd633c5198484e1f00539385b02f0577af13337abe5525bd39fbdd0bb&req=dicvE8p8moFbX%2FMW1HO4zQLwhm9rQEWgVqm5xMh7%2Flr07iRysiCsgxU9qt4o%0A0d4%2FFn9y1kNBUbpnmKg%3D%0A)

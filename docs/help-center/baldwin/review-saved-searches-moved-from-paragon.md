@@ -15,7 +15,7 @@ created_at: 2026-04-22T18:00:17Z
 updated_at: 2026-11-05T01:41:12Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T01:41:37Z
 ---
 
 # Review Saved Searches Moved from Paragon
@@ -28,7 +28,7 @@ Click Saved Searches, or the name of the open saved search, in the upper left of
 
 Saved searches moved in a one-time transfer the week before your Perchwell access date. A saved search created in Paragon after that date did not move, so recreate it in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png?expires=1793900700&signature=753c3d6846ae1e8bfd716f02d3ac1fda07ff2e5faccf9435842fb85dcd8db838&req=dicvE894lYhaUfMW1HO4zQdLqArVGEKbUtTh2ZYv%2FO1d9%2FWBrQxYQhkg6Cur%0A68Zg6otkNnqI%2FkLP3N0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668958/83ec5087a4c19f8f4043c056da5f/upload_15456106490781270006.png?expires=1793844900&signature=80900876577d77479afa9d662f432fd6eca1516543c459d5734f3bcc9597d182&req=dicvE894lYhaUfMW1HO4zQdLqArUHEaVUtThw5Ip9dfXdFaQhAxCXnl5BxYM%0AqRN%2F%0A)
 
 # Find the contacts linked to saved searches moved from Paragon
 
@@ -36,7 +36,7 @@ Saved searches moved from Paragon stay linked to the contacts they had in Parago
 - Contacts column: Lists each saved search's contacts in the My Searches window, which opens from Saved Searches on the Search page.
 - Shared Searches tab: Lists every saved search linked to one contact, on the left side of that contact's page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png?expires=1793900700&signature=6ae5e8c107aa0ae18b48561255b8d453771f48a59d8bc790747949ffe9e47eaa&req=dicvE894lYhXWPMW1HO4zYvDc9uCMEsYPot7%2FZnR%2FXm2TZTDKm97wIuWZigX%0AAOfNG7mnvBprjnfW%2FB4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785668981/92177ad4ae5c94e04e14ae2859c3/upload_31946024953755886.png?expires=1793844900&signature=fbc667b9fefa1e2cb9d8c8961bced8fb4d444858f5dfbf09c5a8f7b0f388e975&req=dicvE894lYhXWPMW1HO4zYvDc9uDNE8WPot7553X9EObXMGCVLjiaQGSlu0r%0AbdsD%0A)
 
 # Add a missing contact to a saved search moved from Paragon
 

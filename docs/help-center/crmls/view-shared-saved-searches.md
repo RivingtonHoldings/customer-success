@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:02:28Z
 updated_at: 2026-11-05T01:29:49Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # View Shared Saved Searches
@@ -32,7 +32,7 @@ Open a saved search your agent shared with you from the Search page in your clie
 
 The saved search opens with the filters your agent set. From your email, click Open saved search in the message you received when your agent added you to the search.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750656/9ce01118223ad14ab7d981981038/upload_3264043592221772497.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750656/9ce01118223ad14ab7d981981038/upload_3264043592221772497.png?expires=1793900700&signature=09e9dfcc6a85e1b74df41900b82936f9e1f74544fc0f8e6706b55dd42739939a&req=dicvEc57nYdaX%2FMW1HO4zcMw%2B6gc1ASUDjfTh%2FNmSAUoRzdY0EdlOVamSkjJ%0AB4xM3MVFWQniNviD%2FY8%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750656/9ce01118223ad14ab7d981981038/upload_3264043592221772497.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750656/9ce01118223ad14ab7d981981038/upload_3264043592221772497.png?expires=1793917800&signature=38e5806cb0d5c539971793c69d2f3d4ff401c7b4809c4907ad9279b86873f637&req=dicvEc57nYdaX%2FMW1HO4zcMw%2B6gc1QObDjfTh%2FNmSAUtYIMTVQzCdaIkklnV%0AYumZ76levJe5kYt%2BuS0%3D%0A)
 
 # Browse the listings in a shared saved search
 
@@ -46,7 +46,7 @@ Preview shows the listing's photos and details. Click the arrows next to the lis
 
 [Share Listings with Your Agent](https://support.perchwell.com/crmls/en/articles/18232061-share-listings-with-your-agent) explains how to send a listing to your agent from Preview.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750698/43a6d62f7311a57cf8cc19ca7fc5/upload_2842778557568071498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750698/43a6d62f7311a57cf8cc19ca7fc5/upload_2842778557568071498.png?expires=1793900700&signature=80dec0322afe48fcf5e5f1d4482d1a91f9cec09a39180067363f45e179c807a0&req=dicvEc57nYdWUfMW1HO4zcUI6bAKWCEqzcaOJsMu4eK2CFy9r5HYwo1p89OF%0AIrfzl6MTmrbYkRjwBIM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750698/43a6d62f7311a57cf8cc19ca7fc5/upload_2842778557568071498.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750698/43a6d62f7311a57cf8cc19ca7fc5/upload_2842778557568071498.png?expires=1793917800&signature=65da7ab2e7a94285e0fe2c55e85331fb49993bec65821cd768ea4974cc19143d&req=dicvEc57nYdWUfMW1HO4zcUI6bAKWSYlzcaOJsMu4eL13vpoXhHJDiqQ7z5O%0AT8QWpEV%2F22smeRzRavc%3D%0A)
 
 # Sort the listings in a shared saved search
 
@@ -56,7 +56,7 @@ Column headers show in List and Expanded view.
 
 To see the newest listings first, click the DOM (days on market) column header once. Listings with the lowest DOM move to the top.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750746/11b1dd2003848f405a8885c06382/upload_4198747397200168417.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750746/11b1dd2003848f405a8885c06382/upload_4198747397200168417.png?expires=1793900700&signature=4eb97b18685e77d417557101e2605bf6f416b61dba549e32173de36496f21c3f&req=dicvEc57nYZbX%2FMW1HO4zTnljo2EsblXQmbLTzxDT8TEK9TKec6dBfxBwnEr%0ADaCvp66R7PBw46vYff4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750746/11b1dd2003848f405a8885c06382/upload_4198747397200168417.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750746/11b1dd2003848f405a8885c06382/upload_4198747397200168417.png?expires=1793917800&signature=877b08d5dcbef773d93aa39dfeeeb9e7f9c876fb6239ba93ad3c1f19687d8264&req=dicvEc57nYZbX%2FMW1HO4zTnljo2EsL5YQmbLTzxDT8TjkBncZEaigP5%2Fmmsn%0Ah%2FaPxli8iHtRO1QzCeM%3D%0A)
 
 # Change the filters in a shared saved search
 

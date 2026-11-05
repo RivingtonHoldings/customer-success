@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:34:44Z
 updated_at: 2026-11-05T00:32:36Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Set Up Your Clients in Perchwell
@@ -26,7 +26,7 @@ Use this article to add clients to your contacts, invite them to Perchwell, shar
 
 Add clients to your contacts on the Contacts page before you invite them or share anything with them. Contacts from a legacy platform may already be on your My Contacts tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png?expires=1793900700&signature=a3709785f1fc9dbf210f922c8a902225fa3b14dde7e09030d2aed455a43e0a05&req=dicvHsl%2Bm4haXPMW1HO4zcNYQ6zwNPKgvhB4fQVg5qUWgcAQNgAAlhxILWDM%0AU2lBE9NScZlJaP9C5OI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788006955/2aaf5df9c6a37bf2ac385a473c94/upload_3730561514759092868.png?expires=1793917800&signature=f98a07aaab0910aef7b92dde6198ec429c54f87a388f599198de06bb45b3d45d&req=dicvHsl%2Bm4haXPMW1HO4zcNYQ6zwNfWvvhB4fQVg5qW1rTWM7LW9MTVk%2BF9I%0AzerOZz%2Bn1ruN452K6JQ%3D%0A)
 
 [Contacts Page Overview](https://support.perchwell.com/crmls/en/articles/18232916-contacts-page-overview) explains how to add one contact at a time. To add multiple clients at once, see [Bulk Upload Contacts from a CSV File](https://support.perchwell.com/crmls/en/articles/18232805-bulk-upload-contacts-from-a-csv-file) for uploading them from a CSV (comma-separated values) file.
 

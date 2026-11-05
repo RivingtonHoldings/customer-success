@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:38:06Z
 updated_at: 2026-11-05T00:09:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Create a Template Search
@@ -58,7 +58,7 @@ Set any saved search as your Template Search from the My Searches window.
 
 The star turns green, and new searches start with the settings saved in your Template Search.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273174/b70d2395a4df46130a54693635da/upload_9001174875867456155.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273174/b70d2395a4df46130a54693635da/upload_9001174875867456155.png?expires=1793900700&signature=e742a7539f029bee3eb5596e6f4304f8323d47c993d40f14469b2d358f36233d&req=dicvHst5noBYXfMW1HO4zf8UfgQI0c8Coh6UzBdLYMlXWxiVt6e3%2Fv4JfI6R%0APr%2B5LSYq14NkdEdXdx0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273174/b70d2395a4df46130a54693635da/upload_9001174875867456155.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273174/b70d2395a4df46130a54693635da/upload_9001174875867456155.png?expires=1793917800&signature=82b8bfcc344a6afeed9ff0e7f69b55a5de392e1ee53544a68dc43566c2c46495&req=dicvHst5noBYXfMW1HO4zf8UfgQI0MgNoh6UzBdLYMnkoInjT7z2dKyh4h47%0Ahe6YU7SPiP1qe1xFv%2Bk%3D%0A)
 
 Only one saved search can be your Template Search at a time. Click the star next to another saved search to make it your Template Search instead.
 
@@ -74,7 +74,7 @@ The new search opens with the settings saved in your Template Search. Changing o
 
 To save the new search, click Save, enter a name in the New Search window, then click Save. An orange dot on the Save button indicates unsaved changes.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273186/9a67350d3ae76fa6c6d23a3f46e4/upload_8590267555458531878.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273186/9a67350d3ae76fa6c6d23a3f46e4/upload_8590267555458531878.png?expires=1793900700&signature=b76420917b868e2feb40c17e3220f43afd4a30547d9894f9acc766366b87de18&req=dicvHst5noBXX%2FMW1HO4zZPZq2mlZR4GW78AJOl0QSdm%2Bx13R5iZkeH3VW%2F9%0Ahxpas6G1jUyaVcX7wsg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273186/9a67350d3ae76fa6c6d23a3f46e4/upload_8590267555458531878.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273186/9a67350d3ae76fa6c6d23a3f46e4/upload_8590267555458531878.png?expires=1793917800&signature=e760a7400a7a6b384a646a351cea8e3e03f4eb3f624451d73b262dd9348193ad&req=dicvHst5noBXX%2FMW1HO4zZPZq2mlZBkJW78AJOl0QSc1S64XzNBvRTy5MzlK%0A1aItXZcVIoHOq%2FVTxHM%3D%0A)
 
 # Change or turn off your Template Search
 
@@ -93,7 +93,7 @@ Open your Template Search and change the settings you want new searches to start
 
 New searches start with the updated Template Search settings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273220/9ee59f9e39d0a6615002398542c9/upload_3002700914298676949.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273220/9ee59f9e39d0a6615002398542c9/upload_3002700914298676949.png?expires=1793900700&signature=51bf828f8faa58c817c3cc245a7238137d7c3fd32780dbc227634a09cf0ce1c5&req=dicvHst5noNdWfMW1HO4zXTpDkz3gBmu%2FAOLzxj3Vht6TlPCTdnW2NGKQXeD%0AiP4JgkhhBqhkEN12dpc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273220/9ee59f9e39d0a6615002398542c9/upload_3002700914298676949.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788273220/9ee59f9e39d0a6615002398542c9/upload_3002700914298676949.png?expires=1793917800&signature=742eab7facfc8daedaae61ad3cd9af3a3a32e05c20f2871086df8e5fbf641b0f&req=dicvHst5noNdWfMW1HO4zXTpDkz3gR6h%2FAOLzxj3Vhu3y2fjhJWrQ5aktEXw%0AhNXqS9Pf3gUdxKgbCfk%3D%0A)
 
 ## Turn off your Template Search
 

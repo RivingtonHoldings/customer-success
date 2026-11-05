@@ -15,7 +15,7 @@ created_at: 2026-04-22T19:20:29Z
 updated_at: 2026-11-04T23:58:06Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-04T23:59:03Z
 ---
 
 # Find Your Partial Listings in Perchwell

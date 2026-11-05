@@ -15,7 +15,7 @@ created_at: 2026-07-23T14:29:38Z
 updated_at: 2026-11-04T20:49:56Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T20:52:50Z
 ---
 
 # Filter Your Search by Keyword
@@ -33,7 +33,7 @@ The Text Search filter finds keywords in listing descriptions and addresses. It 
 
 Your search results update to show listings that contain the keyword. The keyword appears under Applied Filters as a Text Search filter.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png?expires=1793832300&signature=b7f8c404cd986335e3d50116b5cb543d8f93c551392e12a8367a2134a1254bd2&req=dichF8B3nYhcWPMW1HO4zUv75unm%2Fwd8LLISjAztFKEaZU3q0rY1u3X5ukHs%0AuY0SXnebM0rz0TmPmts%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761990931/07a955a5e5a781b8998d95c8932b/upload_15213675304549722034.png?expires=1793826900&signature=82585fc2ce3ea0bfec670dd9658a3c782d314cbcb9b366028b1c102a1061ee7c&req=dichF8B3nYhcWPMW1HO4zUv75unm%2FgN2LLISlgjrHZtmjUH7LmySMkeZJNyY%0AdO9o%0A)
 
 # Search for exact phrases and multiple keywords with Or or And
 
@@ -47,7 +47,7 @@ Or is selected by default. For example, enter "high ceilings", pool and select A
 
 The Text Search filter finds listings that mention your keywords. There is no option to exclude listings that mention specific words.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png?expires=1793832300&signature=ada77e179d75585e855726b4150b187dc44b6742d08d3b91d8124e71414cd5e6&req=dichF8B3nIFfWvMW1HO4zSFJgDs%2FkDSrXYvfpbbkjH2tRCZwczNYPHCcnhsV%0Aeh%2Bv%2BMsWLmh0t23sOxM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991003/5afacd622317280dc50cff20c998/upload_9770013357244102950.png?expires=1793826900&signature=af46384ee38023ea3c0e3dd5f10ed64ecedcc2319b08936ca14b20c17e246c2d&req=dichF8B3nIFfWvMW1HO4zSFJgDs%2FkTChXYvfv7LihUdlEzej4%2Fl0yy9QSABf%0AvUW%2F%0A)
 
 # Filter by keyword from the Text search column
 
@@ -59,7 +59,7 @@ Add the Text search column to filter by keyword directly from your search result
 
 Your search results update to show listings that contain the keyword. The same Text Search filter also appears under Applied Filters on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png?expires=1793832300&signature=eb00fd83d1835955b424857e58aac7c860e05c634efdcf24c093bace1d6eb9c4&req=dichF8B3nIFXWvMW1HO4zW0b7ENkbhXHBCRWgQ4HuvP0%2FBOX5qi6ks2QqQPC%0AvcnxzsP01Ij74CbkUxQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2761991083/c81457850710791fd38fb178c553/upload_18414143382532970865.png?expires=1793826900&signature=2e2ee1ffcb6502ba49ecdecf7b5bff6ea509f035137d3bc6d31cbdd66e2a0931&req=dichF8B3nIFXWvMW1HO4zW0b7ENkbxHNBCRWmwoBs8lGkBykNFbpsMwkM9Ws%0AsXxN%0A)
 
 # Remove the keyword filter from your search
 

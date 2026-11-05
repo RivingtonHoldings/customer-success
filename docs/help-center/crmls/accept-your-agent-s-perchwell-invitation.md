@@ -15,7 +15,7 @@ created_at: 2026-11-04T17:53:30Z
 updated_at: 2026-11-05T01:28:37Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Accept Your Agent's Perchwell Invitation
@@ -30,7 +30,7 @@ Look in your inbox for your Perchwell invitation email, with the subject Start y
 
 If the Perchwell invitation is not in your inbox, check your Promotions, Spam, or Junk folders. If you still cannot find it, ask your agent to resend it.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750260/81169d316850ab7a7cb152fa2bb1/upload_298311338424558913.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750260/81169d316850ab7a7cb152fa2bb1/upload_298311338424558913.png?expires=1793900700&signature=e3a301499cd1054f359e2c44b2fc90542f134cb026c21e595aece20e63f2ebb5&req=dicvEc57nYNZWfMW1HO4zYG%2BLPZ01aDJq7OxrxsnQcWmeqtWWtp%2FTk4rEr1j%0AjYEjg97MipejBAf3wWc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750260/81169d316850ab7a7cb152fa2bb1/upload_298311338424558913.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750260/81169d316850ab7a7cb152fa2bb1/upload_298311338424558913.png?expires=1793917800&signature=968aa5b00710690ae267af6dc8870ba7badfaf0983a660e45ab54c41f4fd7d13&req=dicvEc57nYNZWfMW1HO4zYG%2BLPZ01KfGq7OxrxsnQcVD1CZzfCokWyWeP9FC%0AioTqvgJ%2FO2VZ%2BWXDFAE%3D%0A)
 
 # Accept the invitation and create your Perchwell password
 
@@ -49,7 +49,7 @@ Accept your agent's invitation and create your Perchwell password from the email
 
 Your Perchwell client account is active.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750299/9f8d5831f45db5ac93bf25ba7df4/upload_18181028255150799403.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750299/9f8d5831f45db5ac93bf25ba7df4/upload_18181028255150799403.png?expires=1793900700&signature=137b02559371268e3be3fcf4f0a10cfe0ef06a62ab7130b9acb72a17db46773a&req=dicvEc57nYNWUPMW1HO4zfeMyo1ZaqoWVJt%2F%2FnEBMdnQ8WjS0T88tD1XEJ4b%0AZk%2B1qsDpvwCvNlES9Qo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750299/9f8d5831f45db5ac93bf25ba7df4/upload_18181028255150799403.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750299/9f8d5831f45db5ac93bf25ba7df4/upload_18181028255150799403.png?expires=1793917800&signature=3948bd62e7f6cfba013548aa6a5dae82093c8b6315ce3313485b8824083d8f8f&req=dicvEc57nYNWUPMW1HO4zfeMyo1Za60ZVJt%2F%2FnEBMdmUVUxNNRX%2Fk4dyxj2C%0AmWRt6fgjd18zhEWI910%3D%0A)
 
 # Sign in to Perchwell on a computer
 

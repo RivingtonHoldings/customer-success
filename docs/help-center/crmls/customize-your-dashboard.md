@@ -15,7 +15,7 @@ created_at: 2026-11-04T19:52:16Z
 updated_at: 2026-11-04T23:52:06Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Customize Your Dashboard
@@ -38,7 +38,7 @@ To add a Hot Sheet, click the Add hot sheet button at the top of the Manage widg
 
 > **Note:** The Listings widget is not in Manage widgets, because it cannot be added or removed. It is always on the Dashboard.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055186/06c15d916217e572bff6a031a73a/upload_10638139586897182449.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055186/06c15d916217e572bff6a031a73a/upload_10638139586897182449.png?expires=1793900700&signature=7484695476d453727345643b86dd8f2f9dca3b478ec2bc4304b5718001398e1f&req=dicvHsl7mIBXX%2FMW1HO4zbPW2jKUJyR58OYcW%2F0VWvhBBOnafBrjyMcw3ncB%0AkGSuQaALjrcmOPflNsA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055186/06c15d916217e572bff6a031a73a/upload_10638139586897182449.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055186/06c15d916217e572bff6a031a73a/upload_10638139586897182449.png?expires=1793917800&signature=546e8de7c5ac6cb215440524dc18bff20cbe86872084db801da2505189eda69f&req=dicvHsl7mIBXX%2FMW1HO4zbPW2jKUJiN28OYcW%2F0VWvg7PHWnMejWeKOha2k%2F%0AZabWtLLdzB9jtVf%2Fj%2BM%3D%0A)
 
 # Reorder your Dashboard widgets
 
@@ -67,9 +67,9 @@ The sort options vary by widget:
 
 The Listings widget works differently. [Find Listings in the Listings Widget](https://support.perchwell.com/crmls/en/articles/18233020-find-listings-in-the-listings-widget) covers choosing whose listings you see, using status and activity filters, and finding a listing that is missing.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055215/1a9d57f6eedfa148875e5be3520a/upload_14062870164371151385.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055215/1a9d57f6eedfa148875e5be3520a/upload_14062870164371151385.png?expires=1793900700&signature=02fa9c5247f8afa712a9b8288f71bfccc533a0947f30b55c5c899b638b90c514&req=dicvHsl7mINeXPMW1HO4zaPC8qid5r1eTumx1D48jc8xIM8UzCjXEeV68Uma%0AUzZIHOzSpg8yn5%2BELXw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055215/1a9d57f6eedfa148875e5be3520a/upload_14062870164371151385.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055215/1a9d57f6eedfa148875e5be3520a/upload_14062870164371151385.png?expires=1793917800&signature=9ac6bbcd64e3b91a5a7869243bfcef5c520dd81aa1a278caeb6a69ef4619c563&req=dicvHsl7mINeXPMW1HO4zaPC8qid57pRTumx1D48jc%2BATzLWa537xXetR09S%0ArS7Ey8yU7FSjDEAvGgU%3D%0A)
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055269/45c232f47b5e06e61f9b4f0ac4d5/upload_2924401184565480415.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055269/45c232f47b5e06e61f9b4f0ac4d5/upload_2924401184565480415.png?expires=1793900700&signature=e1898c8fade39019307b72ad5a72b571dbdcffb20c4779e3b7d8c02ed5e243c3&req=dicvHsl7mINZUPMW1HO4zTg5E3wmLoHC0XxZLTEvAt%2FkwLpP%2BqBLmNaxWXYH%0AES6EDDxTgnAQlwOaamw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055269/45c232f47b5e06e61f9b4f0ac4d5/upload_2924401184565480415.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788055269/45c232f47b5e06e61f9b4f0ac4d5/upload_2924401184565480415.png?expires=1793917800&signature=7a0c1ef1f17b7057470f355628d0edb0457ac8e57b2ff76e8b80a898f9a9d746&req=dicvHsl7mINZUPMW1HO4zTg5E3wmL4bN0XxZLTEvAt%2FV%2BsBwNJ02ii6m3%2FLu%0AaagG0nAtmFAN1BVVCzA%3D%0A)
 
 # Things to Know
 - The Dashboard and Hot Sheets are not available in the Perchwell mobile app. Both open on desktop only

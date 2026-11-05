@@ -15,7 +15,7 @@ created_at: 2026-04-22T17:18:25Z
 updated_at: 2026-11-05T00:35:29Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T00:37:12Z
 ---
 
 # Review Your Data Moved from Paragon
@@ -55,7 +55,7 @@ Review each saved search moved from Paragon, because some of its filters may hav
 
 The saved search keeps your changes. Its name still starts with [From Paragon: Unreviewed] until you rename it, and its alerts stay off until you turn them on.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png?expires=1793900700&signature=5ff3af532127c789efb3a106f1893b8541e2241cdfd20e423a0c1750aad1d9de&req=dicvE894mIJdWPMW1HO4zax8w9g%2BL8faZRA3OKupow0xVCLfxWjMlVsjfJI9%0AtSqEseaLWTNC9uEg60Q%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785665321/be883541bc18b54244fff3bf6530/upload_9495227212098408101.png?expires=1793840400&signature=a8dcda2d50c38e0274e10b11a25009c66f43457d187cff889661bc63a99a4a9c&req=dicvE894mIJdWPMW1HO4zax8w9g%2FK8fZZRA3Iq%2BvqjeaDbBTfAuOou8r2z2m%0AI9OE%0A)
 
 Check the Contacts column in the My Searches window to confirm each saved search is linked to the right contacts. [Review Saved Searches Moved from Paragon](https://support.perchwell.com/baldwin/en/articles/14725825-review-saved-searches-moved-from-paragon) lists the Paragon filters most likely to have changed.
 

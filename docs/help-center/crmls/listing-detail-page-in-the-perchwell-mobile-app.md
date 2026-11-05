@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:02:19Z
 updated_at: 2026-11-05T17:49:59Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Listing Detail Page in the Perchwell Mobile App
@@ -26,7 +26,7 @@ Use this article to review a listing's details and photos, contact the listing a
 
 Review a listing's photos, asking price, association fee, DAM (days active in MLS), and CDAM (cumulative days active in MLS) at the top of the Listing Detail Page in the mobile app. Tap any photo to open the photo gallery.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png?expires=1793903400&signature=ee00f568883bc79a7431b819c48d1654e129a64deb25a6db08ce95d994d1d1ff&req=dicuFst9nIdaW%2FMW1HO4zSPAplKckuS%2BB3sHIqW7VeOt7clBi33yUxltVEOO%0A8yREsmz0aZHLRyIVDTE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231652/870ba9fc5fcc6afe3338f0e01522/upload_223925650129526516.png?expires=1793917800&signature=2c16a75e393a439e01031ed585efaddd9dfdfdfc74d1132630202f9e29860602&req=dicuFst9nIdaW%2FMW1HO4zSPAplKck%2BCyB3sHIqW7VeNxrtpc10a8cAjE5WUu%0AkiK9Whu1xPV64v0RFmU%3D%0A)
 
 Below the summary, the listing's details are grouped into sections. Tap a section's name to expand or collapse it. The sections are:
 - Description
@@ -60,7 +60,7 @@ The Actions tab of the three-dots menu holds nine options:
 - One Pager: Create a one-page PDF of the listing with a QR code that opens its Listing Detail Page.
 - Create Report: Create a CMA, Extended CMA, Listing Report, Show Sheet, or Media Report for the listing.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png?expires=1793903400&signature=6febb8bf2a5c0b5b674e63c7348cd43cc9f9c78917df34380c0374b01f0ad38a&req=dicuFst9nIZeXvMW1HO4zcAeJKu53FJmTSHd7cp5RXzTnMdRX9ayNbR%2FxqSk%0AGLau5m2OmymrEHwj5eE%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231717/b9262458cb7c8fc00c7279fbae00/upload_9796089289209793603.png?expires=1793917800&signature=8fc43d127c609128dc2f8f3e01fff2ca4e469ae7a0437914f1e4555633504951&req=dicuFst9nIZeXvMW1HO4zcAeJKu53VZqTSHd7cp5RXxKqotL9%2FuYYifhbjcp%0AIOM4ryUBfRVngdnB2o4%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell) explains how clients receive listings in Messages.
@@ -75,7 +75,7 @@ Tap Integrations in the three-dots menu, then tap a tool to open it for the list
 - ShowingTime: Schedule and manage showings.
 - SentriLock: Manage lockbox access.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png?expires=1793903400&signature=550aea8eefb03ceecbd8cc2650216c8d4203da975abc5c6512bf03f65e974281&req=dicuFst9nIZYWfMW1HO4zZqzjAdkk%2BkcaXAuf64uWQl3zDVaiwL%2B1Se18%2BbD%0AHx3kxmdw%2FKFn3ndjx3c%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790231770/dae1cb2cbc28e43fa756de67bb18/upload_17305795344414738478.png?expires=1793917800&signature=d1f35271242e9b1bc2be6beaa2e3c47f278112185f026b6a45d43ebc602d32a7&req=dicuFst9nIZYWfMW1HO4zZqzjAdkku0QaXAuf64uWQn67i6irEOYcsglLH2b%0AoTStiVBKsZm0Ooa6VGI%3D%0A)
 
 ## Edit a listing from the Admin tab
 

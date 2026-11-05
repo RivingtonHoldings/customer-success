@@ -15,7 +15,7 @@ created_at: 2026-04-21T17:21:12Z
 updated_at: 2026-11-04T18:44:43Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Login and Troubleshooting FAQ
@@ -32,7 +32,7 @@ Log in to Perchwell on a computer from your Baldwin portal, Relevate.
 
 Perchwell opens, already logged in to your account.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png?expires=1793820600&signature=2eac4ee2d20eaf3e7e034395babb8438660b7bd8d445cc1ae326808167b84469&req=dicvE8h4n4hfUPMW1HO4zVmzXeHjZ8rJvNsyNbbZ2ckt6syY%2FvlnjLREkcGv%0AFn%2BWhnRz9GAVVAv%2Fpho%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785162909/302d8ef03a95eb104510166b6c1b/upload_10155054544753490720.png?expires=1793826000&signature=a76853d472d5f3b2be1a4a80eea92c01bf098d924342d429af53faf9a0dc0afe&req=dicvE8h4n4hfUPMW1HO4zVmzXeHjZ8zPvNsyNbbZ2ckziHnc2WzkPFcDAAx%2B%0AQwoPb8o3%2BGM46IZ%2BQ7Q%3D%0A)
 
 ## How do I log in to the Perchwell mobile app?
 

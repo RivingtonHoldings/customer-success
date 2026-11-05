@@ -15,7 +15,7 @@ created_at: 2026-03-13T07:57:12Z
 updated_at: 2026-11-04T21:34:38Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T21:35:23Z
 ---
 
 # Update Your Brokerage Logo and Colors
@@ -26,7 +26,7 @@ Use this article, as a broker admin, to replace your brokerage logo and change y
 
 Replace your brokerage logo from My brokerage in the profile menu. Only broker admins have access to My brokerage.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png?expires=1793832300&signature=0b0168dfda259c146e313c72cce3ceb85361e0702dd89dbb5673f46866541613&req=diEiHsF3mYJZXPMW1HO4zVLSrEJg4tsE7d0dpU8kvNknosI19YMA9D0YaDa0%0A2ZFRln%2FjBHVeZ8Zc3NM%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2158894365/f2dccb065bb06f57ba64ad7ed473/image.png?expires=1793829600&signature=907d30cae3f8512c78e5030dd3d01991e2fd08c79745d3d1e353791b360d1c8e&req=diEiHsF3mYJZXPMW1HO4zVLSrEJg49AB7d0dv0sitePy2E%2BXSkKuxRDfqiX1%0Ah8ru%0A)
 
 ## Steps:
 1. Hover over your profile icon in the upper right
@@ -37,7 +37,7 @@ Replace your brokerage logo from My brokerage in the profile menu. Only broker a
 
 The new logo replaces your brokerage's previous logo right away.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png?expires=1793832300&signature=7b5c1f517fdd0491da5e41fd8d0a62e87d4ea551f9b8b7be7171afe5e8c948b5&req=dicvE895n4VZXPMW1HO4zVkCo0FkVn033EcQzTN2%2FMbYI9IUi79XKWkrvF3s%0AKKHZ%2BwA7T%2FiP3cGdHqI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672465/2467ab4a6b2de6e4a845e8806ddb/upload_4062948832251729276.png?expires=1793829600&signature=6578d6f5ba1dddc6fa311ad308cc3c9280c41ba622aab649c518b35e83774dae&req=dicvE895n4VZXPMW1HO4zVkCo0FkV3Yy3EcQ1zdw9fxG77CJliv9dt3kWFGz%0A6gGC%0A)
 
 # Change your brokerage colors for charts and reports
 
@@ -58,7 +58,7 @@ A hex code is the # followed by six letters and numbers that identify a color, s
 
 Your charts, analytics, and new reports show the updated colors. Reports created before the change keep their original colors.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png?expires=1793832300&signature=d3ff522d2ba26c86790c6e234b0a1b0860a6cf2818d1b4373df2bbb84ae66193&req=dicvE895n4deWfMW1HO4zX1SCc0DHksaSghRDlM7oi7N5QNc5OWMMG7KMjpV%0AVmuusolaBf2PoOLYubw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785672610/782dd2bed99eade2f9103d71ed1d/upload_3985165474905483006.png?expires=1793829600&signature=33b758de0b2bef2887d3a9629476f942ac7365a5986128357b4b01b42e73de3c&req=dicvE895n4deWfMW1HO4zX1SCc0DH0AfSghRFFc9qxSOxGifQKq2w1r3iOWc%0AhxCc%0A)
 
 # Create brokerage email templates
 

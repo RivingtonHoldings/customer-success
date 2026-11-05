@@ -15,7 +15,7 @@ created_at: 2025-05-13T02:50:47Z
 updated_at: 2026-11-04T18:58:29Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Receive Alerts About New Listings
@@ -40,7 +40,7 @@ Each saved search alert email opens with "Latest updates to" and the saved searc
 
 Saved search alert emails do not include a way to message your agent. To message your agent, open Messages in Perchwell. [Communicate with Your Agent via Messages in Perchwell](http://support.perchwell.com/baldwin/en/articles/11373888-communicate-with-your-agent-in-perchwell) explains how. [Unsubscribe from Saved Search Alert Emails](http://support.perchwell.com/baldwin/en/articles/13602428-unsubscribe-from-notifications-for-invited-clients) covers how to stop receiving saved search alerts.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798239/ac19557b450d7e60ab531f4355ef/upload_11671422218084021179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798239/ac19557b450d7e60ab531f4355ef/upload_11671422218084021179.png?expires=1793820600&signature=46b33562430f99bcad5545738fc19a646ef3a5d67246914842c45e84ded86cf6&req=dicvE853lYNcUPMW1HO4zRe5hyHKxIY6wjOVJsT4i9EbXk1TAqKPWQ5ygAR%2B%0A2YZZ%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798239/ac19557b450d7e60ab531f4355ef/upload_11671422218084021179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798239/ac19557b450d7e60ab531f4355ef/upload_11671422218084021179.png?expires=1793826000&signature=8cad83b924e7d3e95be8b59254254fe178153953726207d1024aebb8922916a5&req=dicvE853lYNcUPMW1HO4zRe5hyHKxIA8wjOVPMD%2Bgus%2F7HdmVZKt6bzKaKYP%0Ak0%2F5zk1Amydp8WlwOKM%3D%0A)
 
 # Open a listing from a saved search alert email
 
@@ -52,7 +52,7 @@ Open any listing in a saved search alert email to view its photos and property d
 
 The listing opens on its Listing Detail Page, with your agent's name and contact details at the top.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798271/0743b10014155f599a7cfcce8107/upload_10650036569532569022.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798271/0743b10014155f599a7cfcce8107/upload_10650036569532569022.png?expires=1793820600&signature=0238cf2dcafffc32cb06137a482725d3907f788a448c48f18bded0cdecc81a1c&req=dicvE853lYNYWPMW1HO4zVr2Zwuz64%2BInm1eBJ9grtj2ansDd5dPXpLD1HyC%0Ap%2FJh%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798271/0743b10014155f599a7cfcce8107/upload_10650036569532569022.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798271/0743b10014155f599a7cfcce8107/upload_10650036569532569022.png?expires=1793826000&signature=bf485d21e174abf502fec3fef6eb929b11d31b3f788f0f9f84f30166efe9577c&req=dicvE853lYNYWPMW1HO4zVr2Zwuz64mOnm1eHptmp%2BKmaU042Ju205idP5UH%0AcSH8VQZrcxPV7k%2FcA98%3D%0A)
 
 # See the newest saved search matches in Perchwell
 
@@ -66,6 +66,6 @@ See the newest listings that match a saved search by opening it in your client p
 
 The listings with the fewest days on market move to the top of the results. Saved search results are sorted by status until you choose a different sort.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798292/e3f95191099c35cb9c22fffe47d9/upload_11179698603286551595.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798292/e3f95191099c35cb9c22fffe47d9/upload_11179698603286551595.png?expires=1793820600&signature=dd2b3cc352c720bb9897758e054aafaba217d3d896b09919b1bac3fd103620e6&req=dicvE853lYNWW%2FMW1HO4zbYhhpsNql4G728evSiI%2BreQ%2FKpTDkkufoun88qk%0AG2od%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798292/e3f95191099c35cb9c22fffe47d9/upload_11179698603286551595.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785798292/e3f95191099c35cb9c22fffe47d9/upload_11179698603286551595.png?expires=1793826000&signature=9f67400e1df1c00c84af8c9dace8d0f057c770887b43cefb4b49c8a4ba441fdd&req=dicvE853lYNWW%2FMW1HO4zbYhhpsNqlgA728epyyO840wlfOnq9SG21liv0eO%0AsKwGyNs9j9NP1tle1Qg%3D%0A)
 
 Your agent decides whether a saved search appears in your client portal. If you receive alerts but cannot find the saved search, ask your agent to give you access to it. [View Shared Saved Searches](http://support.perchwell.com/baldwin/en/articles/14743530-view-shared-saved-searches) explains how to explore and filter a shared saved search.

@@ -15,7 +15,7 @@ created_at: 2026-04-27T15:09:23Z
 updated_at: 2026-11-04T18:54:43Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Message Clients in the Perchwell Mobile App
@@ -37,7 +37,7 @@ Start from where you are viewing the listing:
 
 The listings are sent to the client in Messages.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379142/cfa50a102980fdffa997a15a6a5e/upload_6902777937082850529.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379142/cfa50a102980fdffa997a15a6a5e/upload_6902777937082850529.png?expires=1793820600&signature=c29f45c05768718c272b14e266075a777594fe8589d991bcca83a39b3dcf5d99&req=dicvE8p5lIBbW%2FMW1HO4zXoZOwumHyhg2Ixbt8KqDaMBofFJyiZkoy%2FXiyEX%0Av0Ew%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379142/cfa50a102980fdffa997a15a6a5e/upload_6902777937082850529.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379142/cfa50a102980fdffa997a15a6a5e/upload_6902777937082850529.png?expires=1793826000&signature=efc1046138a5dd6102cc03f7b7855e1578a7b992877748a37d42d2d0d07f8d89&req=dicvE8p5lIBbW%2FMW1HO4zXoZOwumHy5m2IxbrcasBJn7I0IKJricWUf7sD3f%0Am%2FHcl553pmVDuWU1%2Bos%3D%0A)
 
 To share listings saved to a Tag, open the Tag and view its listings first. [Tags in the Perchwell Mobile App](http://support.perchwell.com/baldwin/en/articles/14786075-tags-overview) explains how.
 
@@ -61,7 +61,7 @@ The conversation opens with your message. To start from a contact instead, tap M
 
 To continue a conversation, tap the client's name on the Messages tab. The General tab shows your messages and shared listings, with the time each message was sent.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379196/70902948925a6228fe42509e8027/upload_5764381610593157062.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379196/70902948925a6228fe42509e8027/upload_5764381610593157062.png?expires=1793820600&signature=d6963fea15924be7d212a28506864e117ae63ecc32137300c9941342453026d9&req=dicvE8p5lIBWX%2FMW1HO4zcv6PzaFz6nXAfqO89QmxcfWh6XfhB2amnjXLFct%0A9Bvl%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379196/70902948925a6228fe42509e8027/upload_5764381610593157062.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379196/70902948925a6228fe42509e8027/upload_5764381610593157062.png?expires=1793826000&signature=823199d5703e6fa319a1d571af88b3c0e6f322de33cdbb757df8aab26f3547e1&req=dicvE8p5lIBWX%2FMW1HO4zcv6PzaFz6%2FRAfqO6dAgzP1nTNzbQ%2B7TBRrXqDcg%0AiX3iZkogoxmo2lU%2BGrk%3D%0A)
 
 Members who came from a legacy platform may know Messages as part of the Collaboration Center.
 
@@ -77,7 +77,7 @@ Shared listings groups the listings by reaction:
 
 Tap a listing to view the client's reaction and your messages about that listing.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379234/71e4f5c1a50f67b3cbb44391ed43/upload_863165218800009143.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379234/71e4f5c1a50f67b3cbb44391ed43/upload_863165218800009143.png?expires=1793820600&signature=23bf288991891c1ac96f2dc46a2c37d70dad1d4ddacc618f1828c621a314ad50&req=dicvE8p5lINcXfMW1HO4zWc%2BKtzRjyF204YIrqhBZZP4yMeIMLFHqSlW2cWo%0Ak0L7%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379234/71e4f5c1a50f67b3cbb44391ed43/upload_863165218800009143.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785379234/71e4f5c1a50f67b3cbb44391ed43/upload_863165218800009143.png?expires=1793826000&signature=100e520cc78b38dda4481c4156d5cce3b6cf1863e47b5df3735fd2e60c92d638&req=dicvE8p5lINcXfMW1HO4zWc%2BKtzRjydw04YItKxHbKkOv%2BhdFrkdthGyMZ1z%0A8PIJTIkTQV%2BURaYB%2F1o%3D%0A)
 
 # Does the mobile app send push notifications for new messages?
 

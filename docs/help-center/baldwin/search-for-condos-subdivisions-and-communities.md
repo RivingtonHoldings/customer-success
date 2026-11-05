@@ -15,7 +15,7 @@ created_at: 2026-06-03T17:53:00Z
 updated_at: 2026-11-04T19:10:10Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:48:56Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Search for Condos, Subdivisions, and Communities
@@ -36,7 +36,7 @@ Residential attached, a subtype under the Residential-Single Family property typ
 
 Your search results update to show attached homes, including condos.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png?expires=1793823300&signature=8a4ea9167cc332a5d7ec9b34c9bb111daf4831f25a117d1d203d0636dd6667a2&req=diQiFc99mYZbWPMW1HO4zXFM8aWe8BPMwaH35Y9BMhOzVfap3YAi7l%2F9Egev%0AjO1xboD8w32eTMQ%2FQW4%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453634741/f4bf72afd287563abb2fd6fc4b25/Group+111.png?expires=1793826000&signature=e3b271965b61671f3ee165b9109ce1bf788997f2a2ef0d07d2e976410be2d629&req=diQiFc99mYZbWPMW1HO4zXFM8aWe8BbPwaH35Y9BMhNMjdVtcqra4TRlIom2%0ArWOTIIAWK8ppQEuroQw%3D%0A)
 
 Members who came from a legacy platform may know Property Type as Class and subtypes as Property Type. [Filter Your Search by Property Type and Subtype](http://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-types) explains how to select subtypes and lists the subtypes under each property type.
 
@@ -52,7 +52,7 @@ Add the Structure Style filter to narrow your results to listings identified as 
 
 Your search results update to show listings with a Condo structure style. When Residential attached is also selected under Property Type, your results narrow to attached condos.
 
-[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png?expires=1793823300&signature=d3008f7bf2c79b8957df24185c9c973c895d857ef5cfd03a94a75fde48a3776d&req=diQiFc99mIleUfMW1HO4zUJvxM7YjGxB8nL7NQxc7Dvdxf1oweo%2BA55W6aq1%0A6L%2FI72wi5Z8UGqOQQUk%3D%0A)
+[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2453635818/6b607a1ffe87b209647ca22e9e1f/Group+109.png?expires=1793826000&signature=24d82ff56e07f78bca916648d831821892916306ad79924628fd36c4145d4dbb&req=diQiFc99mIleUfMW1HO4zUJvxM7YjGlC8nL7NQxc7DsZ8xohoqh2y4QTWEdD%0AZuGw%2BJ9TS2hNR8glvhk%3D%0A)
 
 # Find listings in a specific condo complex, subdivision, or community
 
@@ -69,4 +69,4 @@ Your search results update to show listings in the selected condo complex or sub
 
 To find listings without a subdivision or condo complex, select None at the top of the list.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png?expires=1793823300&signature=34ec3a81b3ad337e294ba1f939f883d415aa368f0ccec59233f6403c7ae04a53&req=dichFMl%2Fn4dZWfMW1HO4zXt12eCjJqleF8fLgf3yI75mdKUhTet2cTxoDw9q%0AQ03b%2B7TD4RIC2Z%2BkfP0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2762012660/b00bd2ad1935f8ec4b21dc1708d1/upload_1135874417050102972.png?expires=1793826000&signature=c607360e92a4a396a35a055db52da052b3fe1858824a95dbb8ad5aa842cedd61&req=dichFMl%2Fn4dZWfMW1HO4zXt12eCjJqxdF8fLgf3yI76fERj8wYMBkDjz2y4B%0AGb4NDr8dvhHKDyF%2B34M%3D%0A)

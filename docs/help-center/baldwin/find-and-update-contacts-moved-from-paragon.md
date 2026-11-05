@@ -15,7 +15,7 @@ created_at: 2026-04-22T18:15:31Z
 updated_at: 2026-11-05T00:33:35Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T00:37:12Z
 ---
 
 # Find and Update Contacts Moved from Paragon
@@ -28,7 +28,7 @@ Open the Contacts page to find your contacts moved from Paragon on the My Contac
 
 Contacts moved in a one-time transfer the week before your Perchwell access date. Changes made in Paragon after that date are not in Perchwell.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png?expires=1793900700&signature=1ad2842218ea011a3952b0921ea149ecefe3d177aa06fc0ccde244609d86bbcf&req=dicvE897mYheUPMW1HO4zZqtw6y2wBXQGRaOjIOZOP%2B49qzRgpsFsMDEsY3N%0AfcxecCj9Rc4bwgKb0wY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785654919/e7931a0df78af71686f99f8d5154/upload_15639728372486634177.png?expires=1793840400&signature=2fca8007133df37704ab35a68669e09ab44753e80c34dad6ca954d0dc144be45&req=dicvE897mYheUPMW1HO4zZqtw6y3xBXTGRaOloefMcWfIJpewIcUtETBU0ZR%0AnpsU%0A)
 
 # Add an email address to a contact moved from Paragon
 

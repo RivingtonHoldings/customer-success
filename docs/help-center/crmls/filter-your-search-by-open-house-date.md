@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:54:26Z
 updated_at: 2026-11-05T00:19:49Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Filter Your Search by Open House Date
@@ -36,7 +36,7 @@ The Open house filter under Listing Details finds listings with an open house on
 
 Your search results update to show listings with an open house on that date or within that range. To remove a selected date, click it again.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309147/64a859c44e24ccc35d19e73ffc6b/upload_2711289659317349437.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309147/64a859c44e24ccc35d19e73ffc6b/upload_2711289659317349437.png?expires=1793900700&signature=18044475ad891f00e07db5f17a68f51277a307005b6093019be1cf9585396f94&req=dicvHsp%2BlIBbXvMW1HO4zXMVmAg99G76D7FMhpdVzFLjvV5kw1nGYG9Nb4tr%0AHs9MWms8%2BQ6VpM5s1ZQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309147/64a859c44e24ccc35d19e73ffc6b/upload_2711289659317349437.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309147/64a859c44e24ccc35d19e73ffc6b/upload_2711289659317349437.png?expires=1793917800&signature=b77921cdf5d1a07e2f89a78adaca8c335010bbad62a95a4caa8358e49ee17120&req=dicvHsp%2BlIBbXvMW1HO4zXMVmAg99Wn1D7FMhpdVzFLAXdltqFHel20XLfjJ%0AMTbiE3zLaKOKqhsRNik%3D%0A)
 
 # Find upcoming open houses within a set number of days
 
@@ -53,7 +53,7 @@ Add the Open house column to filter by date from your search results and see whe
 
 Your search results update as soon as you click a date. The same Open house filter appears under Applied Filters on the Filters tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309169/56eb8d7b6b43bd3ff13e7298e160/upload_1575893034741095750.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309169/56eb8d7b6b43bd3ff13e7298e160/upload_1575893034741095750.png?expires=1793900700&signature=9d7014f0866ad33724fc24dc3a30a014ac89628dc379e907b7e7e0214b0cd7c9&req=dicvHsp%2BlIBZUPMW1HO4zfuHDnWW4RqsZYy2WzvHn0fnwwLWsiPspEGif4OZ%0A43hwtlMpL%2BMZSiUzA9I%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309169/56eb8d7b6b43bd3ff13e7298e160/upload_1575893034741095750.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788309169/56eb8d7b6b43bd3ff13e7298e160/upload_1575893034741095750.png?expires=1793917800&signature=0b39ae2888b950e7e7a797d35151914f8c5d8719b16b205074023eca73007e69&req=dicvHsp%2BlIBZUPMW1HO4zfuHDnWW4B2jZYy2WzvHn0df2K5JeTrgbTKQ%2BPt2%0AkWHsRVUb4CiB52TZ1eA%3D%0A)
 
 # Remove the Open house filter from your search
 

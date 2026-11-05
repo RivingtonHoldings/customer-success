@@ -20,6 +20,9 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Create a Listing Report**, TRK-067
 - The sample has a "% Change +9893.57%" row that looks like a data error.
 
+**Create a Quick CMA Report (CRMLS)**, TRK-127
+- The live CRMLS record (13959293) says up to 12 fields in landscape. CRMLS is 11 (Tara, November 5, 2026); the Notion draft now says 11, and the live record is corrected when TRK-127 ports. Baldwin's 12 is right for Baldwin: do not change TRK-070.
+
 ## Contacts and client collaboration
 
 **Export Contacts to a CSV File**, TRK-009
@@ -36,13 +39,13 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Print or Save Search Results as a PDF**, TRK-086
 - The Actions menu placeholder (Print highlighted) has no image yet. When captured, place it above the printout image, after steps 2 and 3.
 
+**Filter Your Search by Status and Price Changes**, TRK-087 (one row for Baldwin and CRMLS, live record 11010696)
+- The date-window sentence lists "Temp off mkt" among the statuses that default to 180 days. Baldwin's status is Temp off mkt; CRMLS's is Hold (Tara's CRMLS Filters screenshot, November 5, 2026; TRK-117 already uses Hold). Fix the CRMLS version to say Hold through the CRMLS port, and leave Baldwin's text alone.
+
 ## Manage Listings
 
 **Listing Detail Page FAQ**, TRK-048
 - The HOA example in the text ($355, $30/mo) does not match the screenshot ($1,050, $88/mo). Change one.
-
-**Delete a Draft Listing** (16864886)
-- The live article links to Manage Listings Page Overview with an app.notion.com URL instead of the help center URL. Members who click it land on a Notion page they cannot open. Replace it with https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview and re-port. Found November 4, 2026.
 
 ## Manage People
 
@@ -62,3 +65,9 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Analytics Page Overview**, TRK-002
 - An orange Baldwin placeholder for the Office Ranking Report sits right above the Baldwin screenshot of it, with empty alt text. Likely leftover; delete.
 - Visual Status CRMLS is Not Started, though CRMLS screenshots are in.
+
+## Integrations
+
+**Offer Manager Integration** (16777012), no Notion row
+- Two [confirm] notes were removed from the live steps on November 4, 2026, but neither question was answered: confirm the Offer Manager link sits on the Listing Detail page, and where on the page, then add a screenshot.
+- Links use intercom.help addresses and the body has bold UI names; bring it to the standard in a rewrite.

@@ -15,7 +15,7 @@ created_at: 2026-09-08T18:07:44Z
 updated_at: 2026-11-04T18:27:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Delete a Draft Listing
@@ -27,8 +27,8 @@ Use the **Listing Management** form to delete a listing that is still in **Draft
 # Steps
 1. Go to **Manage Listings:** [https://www.perchwell.com/listings](https://www.perchwell.com/listings)
 2. Locate the draft listing you want to delete.
-3. Click the **pencil icon** on the right side of the listing row.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png?expires=1793820600&signature=9e7fb48806ab7591c79fcb02b1e534757369e3767b6b511a4ca78c3e3d30ac89&req=diYiHs13m4ddUPMW1HO4zXv8pQ8TpX52WbBOFvbf7175SKmUOY0oUtCeAkec%0ATS0x%0A)
-4. In the lower-left corner of the **Listing Management** form, click **Delete**.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png?expires=1793820600&signature=7ac44ebf9de4a9ed21ef5f01076233aec354d49a29d9948bc0491c9b65553d0d&req=diYiHs13moRaXfMW1HO4zfFT%2FOl2gAQs8RhMoKsvb%2FrddjwIQ4GTh6yKjSnM%0A5pI%2F%0A)
+3. Click the **pencil icon** on the right side of the listing row.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658496629/fd2deff6d2c0e86c0d0c7dfc92fe/Screenshot+2026-09-04+at+3_49_31%E2%80%AFPM.png?expires=1793818800&signature=e042567fda4c29fa0f89f219b2109ea81abad0f47656422985fa516a09c0ff40&req=diYiHs13m4ddUPMW1HO4zXv8pQ8TpnZ4WbBOFvbf717zO9dmfd3Wj4UGLDBu%0A1g%2Fv%0A)
+4. In the lower-left corner of the **Listing Management** form, click **Delete**.[![image](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png)](https://downloads.intercomcdn.com/i/o/trq7czv5/2658497554/9b72f34996c614abeca6cafa5adf/Screenshot+2026-09-04+at+3_53_42%E2%80%AFPM.png?expires=1793818800&signature=70f9f2d528fedc64c32cd100af43fbf368431e48fd7622d9871148c81e454810&req=diYiHs13moRaXfMW1HO4zfFT%2FOl2gwwi8RhMoKsvb%2FqQ20g8FnKU76ibA7as%0AwxFc%0A)
 
 > ⚠️ This process applies only to draft listings.
 

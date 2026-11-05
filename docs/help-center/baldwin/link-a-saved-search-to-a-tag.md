@@ -15,7 +15,7 @@ created_at: 2026-08-05T18:00:48Z
 updated_at: 2026-11-04T18:40:48Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Link a Saved Search to a Tag
@@ -38,7 +38,7 @@ Save a search first, then link it to a new or existing Tag from the Tags page. T
 5. Click Add again
 6. Click Create for a new Tag, or Save for an existing Tag
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793820600&signature=3e0d148c9f863c5c660e955e75720bf46931033b3c1b2cc62ea2cbc41a93c8bb&req=dicvE8x3mYRXXPMW1HO4zecmShOYuO%2FldszBoAtRmRD4J0YvHwIfXpZQZ3Ch%0AZjIkrv1HzcECxR5CHFA%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594585/b066f0c3c8e3240b533b9adf4ef1/upload_16773049731673225925.png?expires=1793819700&signature=0b36b01e3e3eb54a8fa19822df7b12b3e0d2ed642f80f02aebf328ba4dc031d5&req=dicvE8x3mYRXXPMW1HO4zecmShOYu%2BbkdszBug9XkCr2k5doESb4SvhltZun%0AIWfj%0A)
 
 The Tag includes the listings from each linked saved search right away.
 
@@ -58,7 +58,7 @@ Check the label under each listing on the Tag's public page to see whether it ca
 
 In the Edit Tag window, click Edit next to Listings and notes. Listings added individually appear under Added by you, and listings from each saved search are grouped under the search's name.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793820600&signature=ed4e094eb3e51c9f28be18cf90c52f732e5a956f6cb3f305fd0ef38ced403286&req=dicvE8x3mYddWfMW1HO4zel9BvSKMNCl6fCFdKqEl0BtPksNNFABv3fnu82c%0ARvRv04iL1Lep0tl4tPo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594620/d9576e8ccbd8bd52d03cdae5cbe0/upload_11287858420713355103.png?expires=1793819700&signature=f976b6d364f7eb5ec688339ec332e28e4ec91c459db53f12e6a3e7468095b51f&req=dicvE8x3mYddWfMW1HO4zel9BvSKM9mk6fCFbq6CnnokE2hyEYrxn2GQXDxy%0AEJsT%0A)
 
 # Remove one saved search listing from a Tag
 
@@ -75,6 +75,6 @@ Unlink a saved search in the Edit Tag window to remove listings added from that 
 2. Click the x next to the saved search's name under Saved searches
 3. Click Save
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793820600&signature=c51cff002990da632df66e46eab2dd6e9ac566bb2718d7903ce7b7614e230bb3&req=dicvE8x3mYdaWvMW1HO4zRWgnsd9JBWiSn2QLbRrC%2Ff6lIbUgyBOJvg4kxCd%0A7uy3gVMUDYsgXU%2BzGsQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785594653/b53f4b47f993360f2bc67762e190/upload_6345626477768873538.png?expires=1793819700&signature=2ea5e4fd703fd4bd1ff54da05b5b5c82cfccd49e976311e3ea995535ff3f6b65&req=dicvE8x3mYdaWvMW1HO4zRWgnsd9JxyjSn2QN7BtAs0%2B4ER1VdtJvttwJuq3%0Amza7%0A)
 
 A "Tag updated." message appears, and listings added from the saved search are removed from the Tag. Listings a contact liked or disliked remain.

@@ -15,7 +15,7 @@ created_at: 2026-03-02T04:56:55Z
 updated_at: 2026-11-04T21:57:01Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T22:13:53Z
+synced_at: 2026-11-04T21:58:54Z
 ---
 
 # Create a Search with Filters

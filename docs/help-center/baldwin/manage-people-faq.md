@@ -15,7 +15,7 @@ created_at: 2026-05-21T04:37:19Z
 updated_at: 2026-11-04T18:47:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Manage People FAQ

@@ -15,7 +15,7 @@ created_at: 2026-11-04T17:58:03Z
 updated_at: 2026-11-05T01:29:32Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Share Listings with Your Agent
@@ -30,7 +30,7 @@ Share listings with your agent by email from the Share window. Open it from wher
 
 The Share window opens on the Email tab.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750564/1031a0374b76f358b6d59bfce9c3/upload_5718333669130804291.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750564/1031a0374b76f358b6d59bfce9c3/upload_5718333669130804291.png?expires=1793900700&signature=413978c5ecf8d8cb0a70268ecfd1bfe912825e7d36701d56ff260a7332dadaf3&req=dicvEc57nYRZXfMW1HO4zQoBaxNQnuHL5abbMv6FxJQ3Z4GFVSPIPoEUGo45%0AIyVv8zZn0WSJN3Pazuo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750564/1031a0374b76f358b6d59bfce9c3/upload_5718333669130804291.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787750564/1031a0374b76f358b6d59bfce9c3/upload_5718333669130804291.png?expires=1793917800&signature=9c2a73b371c8c7b93bca72f49dd434fab23b08012905dd152a1c833ed73f0667&req=dicvEc57nYRZXfMW1HO4zQoBaxNQn%2BbE5abbMv6FxJRFLkto20QYI%2BosHLR6%0AFlRkAFxP5zZFSwVbdAU%3D%0A)
 
 ## Steps:
 1. Select your agent in the To field

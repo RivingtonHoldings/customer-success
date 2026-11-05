@@ -15,7 +15,7 @@ created_at: 2025-07-18T17:13:46Z
 updated_at: 2026-11-04T20:27:00Z
 labels: ["How To: Manage Listings"]
 body_source: public-help-center
-synced_at: 2026-11-04T20:34:53Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Write a Listing Description with AI Scribe

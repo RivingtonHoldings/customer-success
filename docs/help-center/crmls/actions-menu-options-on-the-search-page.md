@@ -15,7 +15,7 @@ created_at: 2026-11-04T21:49:14Z
 updated_at: 2026-11-05T00:07:40Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Actions Menu Options on the Search Page
@@ -32,11 +32,11 @@ Select listings on the Results tab of the Search page to access all options in t
 
 The count next to Actions shows how many listings are selected, such as 3 of 29. The column header checkbox selects only the listings on the page so far, and results load 30 at a time as you scroll.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299020/2b0d231623008d1db0b2571a44a4/upload_3381786699227796179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299020/2b0d231623008d1db0b2571a44a4/upload_3381786699227796179.png?expires=1793900700&signature=52d470a0f16aceda960f44c64cea32c5c0b041cffed514dbfff15ac5479b9c6d&req=dicvHst3lIFdWfMW1HO4zXQI3CnllLhkKDqlrkh%2FFtZt%2FlMXmkj5INaldy1R%0AWO8tW9C0iMp8%2B%2F6a4WQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299020/2b0d231623008d1db0b2571a44a4/upload_3381786699227796179.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299020/2b0d231623008d1db0b2571a44a4/upload_3381786699227796179.png?expires=1793917800&signature=e6e5075f2b0dbf343cf0b6d4d2463466650e324b1c16e38ab3c9b292b6ffbc1e&req=dicvHst3lIFdWfMW1HO4zXQI3Cnllb9rKDqlrkh%2FFtYylTL7SPPsb7SpIkTK%0ApPpYI%2FENI1XrQjBFEZg%3D%0A)
 
 With no listings selected, only Export CSV is available. Choose at least one listing to turn on the other options.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299045/702a7626b5ab7102edf7632487e3/upload_1411580676669457528.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299045/702a7626b5ab7102edf7632487e3/upload_1411580676669457528.png?expires=1793900700&signature=c87ffaedfa2db2e66199f073074480087f56b19da47801a7c522479ce2975b6d&req=dicvHst3lIFbXPMW1HO4zQfnhbN0YpSuO7Jc%2FyTc1Ro7N%2BrSQnhaMOLi9Feo%0AlasNqtuFVFAV8pNh%2Bjw%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299045/702a7626b5ab7102edf7632487e3/upload_1411580676669457528.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299045/702a7626b5ab7102edf7632487e3/upload_1411580676669457528.png?expires=1793917800&signature=eaffe236408aacdd2b8800aa2dd335d97a2eb3fdad1fe76dd791b40ad63466d8&req=dicvHst3lIFbXPMW1HO4zQfnhbN0Y5OhO7Jc%2FyTc1Rpj5cduLDz9d4lWJMDJ%0ACLRt4Y7rhh3KWJ%2FwjEg%3D%0A)
 
 # Share listings from the Actions menu
 
@@ -66,7 +66,7 @@ The Contact Agent window also includes these options:
 
 > **Tip:** Enter {listing} in the subject or message to include each listing's address in its email.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299065/ed81f9f8ef9d32473239279c0e80/upload_12828501587823894865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299065/ed81f9f8ef9d32473239279c0e80/upload_12828501587823894865.png?expires=1793900700&signature=317add5e0f86aaec7c2b57cbc56fa06eaff65802839b99aa775358315280195d&req=dicvHst3lIFZXPMW1HO4zVM6Sse2vrVCIyH9QQATYTd9SMpurp2fcY0Jtgg9%0A3%2Bm%2BkP9DaKd9E7ujSrM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299065/ed81f9f8ef9d32473239279c0e80/upload_12828501587823894865.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788299065/ed81f9f8ef9d32473239279c0e80/upload_12828501587823894865.png?expires=1793917800&signature=eadf9031295d48c61f77e828deb474f197f62d3607b6173fc8c8d7c9706ae195&req=dicvHst3lIFZXPMW1HO4zVM6Sse2v7JNIyH9QQATYTcBdM4ywOYlzMfloaQ9%0ArbtD47VbPcDbTR6hHcs%3D%0A)
 
 # Create reports, export, or print listings from the Actions menu
 

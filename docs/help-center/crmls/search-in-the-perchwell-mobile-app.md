@@ -15,14 +15,14 @@ created_at: 2026-11-04T22:24:15Z
 updated_at: 2026-11-05T17:56:24Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T17:57:16Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Search in the Perchwell Mobile App
 
 Use this article to find and filter listings, draw custom boundaries on the map, save and reopen searches, switch between the Map, Listings, and Analytics views, and share, tag, or create reports for selected listings from Search in the Perchwell mobile app.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349754/331ab6f03f6242843053a6e62fc6/upload_13423675842594889724.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349754/331ab6f03f6242843053a6e62fc6/upload_13423675842594889724.png?expires=1793903400&signature=61231851ffea62e4d4189d00c19b503fbcb57a4782f782dd6a89ecf709a2b9ac&req=dicvHsp6lIZaXfMW1HO4zd052NbePzDerjuZnzAT61l%2FJ2bHUYUGvNb6rN8g%0AfHZ7%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349754/331ab6f03f6242843053a6e62fc6/upload_13423675842594889724.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349754/331ab6f03f6242843053a6e62fc6/upload_13423675842594889724.png?expires=1793917800&signature=1374460c539a108241b06fefa8298c746698b5ffafb163cc3111bba0a97a1de9&req=dicvHsp6lIZaXfMW1HO4zd052NbePjTSrjuZhTQV4mPa1i89MXaOMaQ0yoax%0AoviGM8c6RPGOGtbeVDw%3D%0A)
 
 # Open Search and find a listing, agent, or contact in the mobile app
 
@@ -46,7 +46,7 @@ Set filters beyond the Quick Filters on the Search Filters screen, which holds t
 
 Your search results update to show listings that match your filters. To leave the Search Filters screen without applying your changes, tap the X in the upper left. To restore the default filters, tap Reset in the upper right.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349771/accfb1c6268ded737c3065e004fd/upload_1759085725000695013.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349771/accfb1c6268ded737c3065e004fd/upload_1759085725000695013.png?expires=1793903400&signature=8859e5d57db649a53d5591a0420d28302e2875c612003ee0ba6a8965b98005cd&req=dicvHsp6lIZYWPMW1HO4zYSLEZj0XUla8KP4bwe6dJH9aH8Wu%2F63%2Bp0xHCfL%0ANZy4%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349771/accfb1c6268ded737c3065e004fd/upload_1759085725000695013.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349771/accfb1c6268ded737c3065e004fd/upload_1759085725000695013.png?expires=1793917800&signature=e8f67425e03e08ec4faac59fb7a1e97518592355067b4a7d661cc93b929670a2&req=dicvHsp6lIZYWPMW1HO4zYSLEZj0XE1W8KP4dQO8fau6DJ3J9Z72jclKL6TY%0AkHhJ%2B2x3mwVccqBMQf8%3D%0A)
 
 # Draw a custom boundary on the map in the mobile app
 
@@ -63,7 +63,7 @@ Draw a custom boundary on the map in the mobile app to find listings in an area 
 8. Tap the check mark again to run the search Your results open in map view.
 9. Tap the listings icon below the map icon to switch from map view to list view Boundaries are kept only when you save the search, and Save a new search in the mobile app explains how.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349787/9f61ac9580ab1717ef38dedcebb7/upload_15535446570012117666.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349787/9f61ac9580ab1717ef38dedcebb7/upload_15535446570012117666.png?expires=1793903400&signature=fb403ec7ed3f090ac9c19808695c359f17fbb21295791fcb69300591e66a4c43&req=dicvHsp6lIZXXvMW1HO4zdtOgcGoVbk%2FdNRAVN12M2UuPL8Xy7rn32r6lnrO%0AixQy%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349787/9f61ac9580ab1717ef38dedcebb7/upload_15535446570012117666.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349787/9f61ac9580ab1717ef38dedcebb7/upload_15535446570012117666.png?expires=1793917800&signature=4c009e001423305f36b4c64665d095a42fdeee127e8899f1e07dc869750a4ada&req=dicvHsp6lIZXXvMW1HO4zdtOgcGoVL0zdNRATtlwOl9Z4AzB3fXQVnzUeCXS%0AEwJh4vxQIB5Cm7FZpJk%3D%0A)
 
 ## Draw a polygon, radius, or commute boundary in the mobile app
 
@@ -108,7 +108,7 @@ Switch views with the Map, Listings, and Analytics buttons at the bottom of the 
 - Listings: Scroll through your results as a list, sort them, and select listings to act on.
 - Analytics: Review charts of the listings in your current search. Tap Add chart to add another chart. Analytics charts cannot be exported from the mobile app. To export a chart as a PDF, sign in to Perchwell in a browser.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349805/852c4716cc4111ef1f08fcdb734c/upload_5436000397938896123.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349805/852c4716cc4111ef1f08fcdb734c/upload_5436000397938896123.png?expires=1793903400&signature=69770c01a075711c8ead7fa823caab09b0ba82df641db6634da4a5ba8efaeafb&req=dicvHsp6lIlfXPMW1HO4zWLLuKSkEIUNpEPUUnxScpKhJOD9vSc5b8n1CkqV%0AasTI%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349805/852c4716cc4111ef1f08fcdb734c/upload_5436000397938896123.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349805/852c4716cc4111ef1f08fcdb734c/upload_5436000397938896123.png?expires=1793917800&signature=241c7f04a38a46f660ea48c3e6ca17fda677765ab916e8eb4a92337a00753055&req=dicvHsp6lIlfXPMW1HO4zWLLuKSkEYEBpEPUSHhUe6jBheLc242feFt5h%2Fs3%0A9t4jIAlayl8ThQUACqs%3D%0A)
 
 ## Change the map type and search the area on screen
 
@@ -135,7 +135,7 @@ The Actions options open at the bottom of the screen, and the number of selected
 - Create report: Create a report for the selected listings, such as a CMA (Comparative Market Analysis), a Listing Report, or an Itinerary Report.
 - Hide listings: Hide the selected listings from your search results.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349834/22637121431c50da00aede844b93/upload_3644596939455398401.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349834/22637121431c50da00aede844b93/upload_3644596939455398401.png?expires=1793903400&signature=3a4b6bdef69035632417dde08c1f9221290f02a56f3c09d70d539d5a321bca51&req=dicvHsp6lIlcXfMW1HO4zRV8l%2B6YWPAxHd3XTzKYOxBDoQhRHoHcxJgi7AvE%0A4IrM%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349834/22637121431c50da00aede844b93/upload_3644596939455398401.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788349834/22637121431c50da00aede844b93/upload_3644596939455398401.png?expires=1793917800&signature=de4721768918df90427884a963654dbec605cc4795da4ef88184ed6020b7cb5f&req=dicvHsp6lIlcXfMW1HO4zRV8l%2B6YWfQ9Hd3XVTaeMiohAq86QiAWXwb5kbiF%0Aos4TEpgNexljIqhvxg4%3D%0A)
 
 For more information:
 - [Message Clients in Perchwell](https://support.perchwell.com/crmls/en/articles/18232897-message-clients-in-perchwell) explains how clients receive listings in Messages.

@@ -15,7 +15,7 @@ created_at: 2026-08-05T17:39:35Z
 updated_at: 2026-11-04T18:10:15Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Create and Edit a Tag
@@ -34,7 +34,7 @@ Create a Tag from the Tags page to collect listings for a client or for your own
 3. *(Optional)* Enter a description in the Description field
 4. Click Create
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587405/dbba81383cc925eeadb3d04717e1/upload_4393386519224202705.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587405/dbba81383cc925eeadb3d04717e1/upload_4393386519224202705.png?expires=1793820600&signature=20e4a80d03732140fe66d6de4d67dde2362e1a4a96a301afbb149eb80f2e881a&req=dicvE8x2moVfXPMW1HO4zTXO%2FHo9NUaQ%2BYz0Tykwnn5RT4qWb7c9dCZwmnLQ%0AgLNT3G1hkekvwggYaj4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587405/dbba81383cc925eeadb3d04717e1/upload_4393386519224202705.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587405/dbba81383cc925eeadb3d04717e1/upload_4393386519224202705.png?expires=1793819700&signature=fa56f97013861add61df593dc3dfc73eba0d3f74e47f70e8b41c569b15b0fc68&req=dicvE8x2moVfXPMW1HO4zTXO%2FHo9Nk%2BR%2BYz0Tykwnn5jp6ecHlJGoC9kTZq6%0ABwlYv2J%2BNUEjD1UL3vs%3D%0A)
 
 The new Tag appears on the Tags page with My Tag in the Status column until a contact is added. The Tag's name and description appear on its public page.
 
@@ -44,7 +44,7 @@ To create a Tag while sharing listings from Search, click Create New Tag in the 
 
 Create a Tag for a contact while adding them to your contacts. In the Create New Contact window, turn on the Create Tag toggle, then click Create.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587462/c1729f82c4d85219cec30f111f92/upload_17189823045813967154.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587462/c1729f82c4d85219cec30f111f92/upload_17189823045813967154.png?expires=1793820600&signature=e44784e567fd05e0ecb8b8d559070171c04f320655e5d4e3aace1940f0e2355c&req=dicvE8x2moVZW%2FMW1HO4zbR0K5%2BmbRx6Z6%2BSmb2HfnscC5ayp9t1ZI%2FIg10E%0Ay7%2FyiS8ez2CVkqsbnzU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587462/c1729f82c4d85219cec30f111f92/upload_17189823045813967154.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587462/c1729f82c4d85219cec30f111f92/upload_17189823045813967154.png?expires=1793819700&signature=667782ab9eb629d7753abcd8705fffa5abf78c716bfc54440c734b768a266457&req=dicvE8x2moVZW%2FMW1HO4zbR0K5%2BmbhV7Z6%2BSmb2HfnsU%2BIjis0SIgSi7uOuZ%0AmxhFIlr2f14lzc%2B3MGw%3D%0A)
 
 Perchwell creates a Client Tag named for the contact. The contact's initials appear next to the Tag's name on the Tags page.
 
@@ -58,11 +58,11 @@ Set a Tag's reactions, saved searches, listings, and notifications when you crea
 - Listings and notes: Shows how many listings the Tag holds. Click Edit to add notes, reorder listings, open a full listing, or remove a listing. After removing one, click Save in the Edit Tag window. Add new listings to the Tag from Search or a listing's page.
 - Tag notifications: Turn on Tag notifications to receive emails about listings in the Tag. An email goes out when a listing is added or has a Price Increase, Price Decrease, or Status Change. Tag notifications are on by default, with all three changes selected. Emails go to you, and the Tag's contacts are copied.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587512/146378a0913de7ab39e48dca362a/upload_13677186586174778553.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587512/146378a0913de7ab39e48dca362a/upload_13677186586174778553.png?expires=1793820600&signature=9a3a7a429842d600e282542cc100ed35c615f0884ae7f371f3a82e8f0cf839b1&req=dicvE8x2moReW%2FMW1HO4zU24jEH%2BC6bB%2F6WzWqgA0Sb2aiK8swdQU6bQNOOV%0AaX3H52k5fplqmygcFIQ%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587512/146378a0913de7ab39e48dca362a/upload_13677186586174778553.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587512/146378a0913de7ab39e48dca362a/upload_13677186586174778553.png?expires=1793819700&signature=666dcf00902f798a94d7ead52f6a6bb8d63e687610611f0ba82acc755833a689&req=dicvE8x2moReW%2FMW1HO4zU24jEH%2BCK%2FA%2F6WzWqgA0SZcmmvU2maA8E3DZZg7%0AC2SVMEk8mxiJFFPdT1U%3D%0A)
 
 The bell next to each Tag on the Tags page shows whether Tag notifications are on. A crossed-out bell means they are off. The bell only shows the setting; to turn Tag notifications on or off, click the Edit tag pencil icon next to the Tag.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587563/5eb1312c311614717b43ba68d301/upload_13637840195584216702.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587563/5eb1312c311614717b43ba68d301/upload_13637840195584216702.png?expires=1793820600&signature=4ee9f2ba5a4462f323168775e7581148f356eae2e30ee98e1db109b583bfc657&req=dicvE8x2moRZWvMW1HO4zZMagmOnrZH7kaqRCFkR1DIkDPid4HzZJgjHMNTE%0ApL7DONSpxhUt3lQ7JFo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587563/5eb1312c311614717b43ba68d301/upload_13637840195584216702.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587563/5eb1312c311614717b43ba68d301/upload_13637840195584216702.png?expires=1793819700&signature=2f269ad296dcf3b64d38f2e9eaa72cccd1fc84233a19b0d1e15178149f189036&req=dicvE8x2moRZWvMW1HO4zZMagmOnrpj6kaqRCFkR1DK7eK%2FKqybRo29iBM3%2F%0AOLf3W072JDw8xgXzgFM%3D%0A)
 
 # Edit a Tag's name, description, or settings
 
@@ -73,7 +73,7 @@ Change a Tag's name, description, or settings from the Edit Tag window on the Ta
 2. Change the name, description, or settings
 3. Click Save
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587612/1436768bad4d1e32ccb07881d739/upload_3383721225003569748.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587612/1436768bad4d1e32ccb07881d739/upload_3383721225003569748.png?expires=1793820600&signature=23619a8f52807bb1762c7df8e42761ad9d4abeced3853c9745dfd4267e17a45b&req=dicvE8x2modeW%2FMW1HO4zRv6CLOuvdBmhh540h9xof0Nnydhgo50%2BEWGTFII%0A2i09aEoza8Xbc6IVJo0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587612/1436768bad4d1e32ccb07881d739/upload_3383721225003569748.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587612/1436768bad4d1e32ccb07881d739/upload_3383721225003569748.png?expires=1793819700&signature=c29d54f723988cc74e088fb5bbc849d61bdd35fc34325901e39cae021033b489&req=dicvE8x2modeW%2FMW1HO4zRv6CLOuvtlnhh540h9xof07bfLVp9wcMyGt4bmA%0AERE%2BjTetZgr6NsTT%2BiE%3D%0A)
 
 Changes to the Tag's name or description also appear on its public page.
 
@@ -87,7 +87,7 @@ Duplicate a Tag on the Tags page to copy its listings and settings into a new Ta
 3. *(Optional)* Change the name, description, or settings in the Duplicate Tag window
 4. Click Duplicate
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587647/7936ad9bbb72ae36dac55a35e305/upload_16418569278510536301.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587647/7936ad9bbb72ae36dac55a35e305/upload_16418569278510536301.png?expires=1793820600&signature=e7ea7880f03b6c34cf794e2f1ab4e801da9b980943917942cbb57c3633a8c242&req=dicvE8x2modbXvMW1HO4zX9Z9pJT52s%2B61RPJn1fvmRO46J6yTx%2Fp7XiOVYS%0A0evV6xETViUIg6Y9XuY%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587647/7936ad9bbb72ae36dac55a35e305/upload_16418569278510536301.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587647/7936ad9bbb72ae36dac55a35e305/upload_16418569278510536301.png?expires=1793819700&signature=c2e367bd06f3d56eebf9ac8acae54089390b1d4a4143fa32899309440bb5a532&req=dicvE8x2modbXvMW1HO4zX9Z9pJT5GI%2F61RPJn1fvmThDe8ykfV2qgVNAaiJ%0Ag9cnRJ%2BQYMdw66WTMFI%3D%0A)
 
 A "Tag duplicated." message appears, and the duplicate is added to the Tags page with My Tag in the Status column. Its name ends in Copy unless you changed it. To add contacts to the duplicate, click Send in the Actions column next to it.
 
@@ -108,7 +108,7 @@ Clear all listings from a Tag on the Tags page to empty it without deleting it.
 2. Click Clear All Listings
 3. Click Clear All to confirm
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587687/b31b2132dde325b6fa2d1953a4c9/upload_14651509093555935364.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587687/b31b2132dde325b6fa2d1953a4c9/upload_14651509093555935364.png?expires=1793820600&signature=c2aa12a0675cb2cc36d890ca74233668cd2f1c41395f86a0a829ecfa7fbf04f3&req=dicvE8x2modXXvMW1HO4zemzltfMBFXhJy7mvvDUF72B9edde7qlFK5j6FJR%0AfwPO4ctQzHgeOly1vNM%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587687/b31b2132dde325b6fa2d1953a4c9/upload_14651509093555935364.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587687/b31b2132dde325b6fa2d1953a4c9/upload_14651509093555935364.png?expires=1793819700&signature=86fda496d8b351be0d93b46ad8daf7d14646adddad0ac650495095964816bd2b&req=dicvE8x2modXXvMW1HO4zemzltfMB1zgJy7mvvDUF700sPkcSCqZdZs1v5z9%0ARYgvzn9d7sd2U099h3o%3D%0A)
 
 An "All listings have been cleared." message appears. The Tag stays on the Tags page with 0 listings and keeps its name, reactions, and notification settings.
 
@@ -123,6 +123,6 @@ Delete a Tag on the Tags page when you no longer need it or want to stop sharing
 2. Click Delete in the lower left of the Edit Tag window
 3. Click Delete again to confirm
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587732/be158852c24b4883401176651fa7/upload_14552471687168717584.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587732/be158852c24b4883401176651fa7/upload_14552471687168717584.png?expires=1793820600&signature=d2beb5db782f0aa5f5a623323c07c10ddc1c9d772c8a6c1d45ffd827a8cf67ed&req=dicvE8x2moZcW%2FMW1HO4zbG4gDF8mdwkx1lZqOQT4gejPj5Q3A4WXYJ4eqC4%0AsL7qJsYiK%2FCNmx8PqX0%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587732/be158852c24b4883401176651fa7/upload_14552471687168717584.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785587732/be158852c24b4883401176651fa7/upload_14552471687168717584.png?expires=1793819700&signature=55bced9d9354351491b588a92e1db8f69217418bc2702d59b75359a0e1aa9b47&req=dicvE8x2moZcW%2FMW1HO4zbG4gDF8mtUlx1lZqOQT4geHKL1b3np0odSvo2Pg%0AuyY6bMDhQn%2FcLEHAhIA%3D%0A)
 
 The Tag is removed from the Tags page, and its public link stops working. Its listings remain in Perchwell and in any other Tags that contain them.

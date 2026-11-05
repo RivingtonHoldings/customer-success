@@ -15,7 +15,7 @@ created_at: 2026-03-02T04:39:35Z
 updated_at: 2026-11-04T20:08:37Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T20:19:10Z
+synced_at: 2026-11-04T20:39:25Z
 ---
 
 # Share Listings with Clients from Search

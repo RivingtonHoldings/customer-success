@@ -15,7 +15,7 @@ created_at: 2025-11-12T03:56:45Z
 updated_at: 2026-11-04T18:06:05Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T19:06:48Z
+synced_at: 2026-11-04T18:42:27Z
 ---
 
 # Create a One Page Report
@@ -46,7 +46,7 @@ Create a One Page Report for one listing from its Listing Detail Page.
 
 Your browser's print window opens with the One Page Report, so check the page before you print it or save it as a PDF (Portable Document Format) file.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png?expires=1793820600&signature=e5216aaa7f3049d5cfdf5f21efe692efcd82fffe65499ea455173231e4cbcede&req=dicvEMh2mohdXvMW1HO4zTfapVr%2BxQESl3xw9ZPqxbA8MnxAU98SWlWumLYB%0Aej2ceehmCbAlZwsK6Nk%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png?expires=1793820600&signature=f28ea01b3a045cbd62f356a636154ad7887b74dfb92227c8e1e87c0dfec979d2&req=dicvEMh2mohcXvMW1HO4zVnMuKLlttTiXNBAJ9MlRcds00vyXLePsoFPip6s%0AM4qCDfh9OIKIIA9dM7g%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187927/a2a935220c5f519a58e6218c2d82/upload_4867133098914263741.png?expires=1793819700&signature=fc18cf88141de2dd9f427d3df88a527a28c4e2a9aab4618a7a231f782b59f22e&req=dicvEMh2mohdXvMW1HO4zTfapVr%2BxggTl3xw9ZPqxbDnYavVKP4f%2FlelxgOX%0ALeq5yUFW4CyKBaamQZA%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187937/e74eff31af74521d2ba7ad5b4337/upload_17268328953442966572.png?expires=1793819700&signature=335347601d18348665cf15dc5b16cda4313c1a231f68df7864bec7248977522b&req=dicvEMh2mohcXvMW1HO4zVnMuKLltd3jXNBAJ9MlRcc2opNmRnaPN2vDpq4O%0AB4zIsKxntVBfI9tkwVk%3D%0A)
 
 # Create a One Page Report from your search results
 
@@ -61,7 +61,7 @@ Create a One Page Report for one or more listings from the Search page. The repo
 
 The report window moves to the Customize Report step with your selected listings. To add listings later, create a new One Page Report from the Search page.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png?expires=1793820600&signature=5342a859029b58459132c8c0feb95bab1dcf215fdcab9fd9fc038c9092696407&req=dicvEMh2mohaWvMW1HO4zboVF25JoMmsGFwGCuSzK7aEPvT%2FuivndN%2Fz9tzc%0ANotFYsE6Se3YibL7fSc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187953/652a27349b50b6952f7a45949873/upload_10323459106805839939.png?expires=1793819700&signature=aaffe2cc1e8b409b4bb0443d3cdd6bf82fb3367b8b2fdcfeb667615fec4ab4d0&req=dicvEMh2mohaWvMW1HO4zboVF25Jo8CtGFwGCuSzK7bGM7aY%2Ft9Dv%2B3xFx%2Bn%0ACdN6zoz3v9VsKBjZs7o%3D%0A)
 
 # Choose the agent or client version of the One Page Report
 
@@ -111,4 +111,4 @@ Open your Report library to find saved One Page Reports.
 
 Your Report library opens with your saved reports. Search for a report by the recipient's email address.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png?expires=1793820600&signature=22252607da52d2df93647d904e209fdad90e62ce01b667d6b219b9c40bc3603b&req=dicvEMh2mohZX%2FMW1HO4zWTtIirDg4kRkjspOlimH2FlMpYuk7na7ysLfgeI%0AasgobgjA1tu5tr0jGhI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786187966/315cea86d504903836e0cea99c6a/upload_5075209818420322226.png?expires=1793819700&signature=422aa9c0cf0ee1a157676b352730bda470d7e54ffd5f48606ed0153323f293c8&req=dicvEMh2mohZX%2FMW1HO4zWTtIirDgIAQkjspOlimH2FUBDPr7ZRjDAJ%2BvroZ%0AIsBreAnrwRXws%2BkrgS0%3D%0A)

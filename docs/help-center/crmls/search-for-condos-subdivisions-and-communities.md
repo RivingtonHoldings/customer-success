@@ -15,7 +15,7 @@ created_at: 2026-11-05T17:02:04Z
 updated_at: 2026-11-05T17:02:04Z
 labels: []
 body_source: intercom-api
-synced_at: 2026-11-05T17:12:37Z
+synced_at: 2026-11-05T22:04:17Z
 ---
 
 # Search for Condos, Subdivisions, and Communities
