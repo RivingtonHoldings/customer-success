@@ -81,7 +81,7 @@ Proposed single rule for updating an existing record, the same for every MLS. It
 
 Eligibility
 1. Row `Article Status` is `Ready to Transfer` or `Live in Intercom`. `Draft`, `New Article Request`, and `Deprecated` never publish.
-2. `Article Review Status` is `Review Finished` or `Complete`. This becomes the approval signal for edits, and it is a field reviewers already own. If an edit needs review, a reviewer moves it back to `In Review` and `/publish` holds. CRMLS already requires this.
+2. `Article Review Status` is `Review Finished` or `Complete`. This is a required publishing check, a field reviewers already own. It is not proof that edits made since the last publish have been reviewed or approved, because it does not reset when someone edits. If an edit needs review, a reviewer can move it back to `In Review` and `/publish` holds. Tara's explicit confirmation of the preview and the changes is the final approval. CRMLS already requires this status check.
 3. The MLS's URL field is filled. A filled field always means update; it is never a create.
 
 Guards against the wrong article or a duplicate
@@ -93,7 +93,7 @@ Guards against the wrong article or a duplicate
 
 Guards against overwriting or repeating work (these replace "never overwrite a `Live in Intercom` row")
 9. Nothing-to-publish check: if Notion has not changed since the recorded publish and the live article still matches what was published, say "Nothing to publish" and stop.
-10. Edited-in-Intercom check: if the live article was changed in Intercom after the last publish (its `updated_at` is later than the one recorded; for a first publish, later than the article's last changelog date), the preview says so in plain words, for example "Edited in Intercom on Nov 3 after the last publish; publishing will replace that edit," and the existing diff against the live article shows what would be replaced. It needs an explicit yes.
+10. Edited-in-Intercom check: if the live article was changed in Intercom after the last publish (its `updated_at` is later than the one recorded; for a first publish, later than the article's last changelog date), the preview says so in plain words, for example "Edited in Intercom on Nov 3 after the last publish; publishing will replace that edit," and the existing diff against the live article shows what would be replaced. This is a separate confirmation, asked first and on its own, before the normal publishing confirmation. Approving the normal preview does not authorize overwriting the Intercom edit; if Tara declines, nothing is published for that record.
 11. The preview shows who edited the Notion page since the last publish and when, from Notion's version history.
 12. Unchanged: one confirmation per record, the full diff at confirmation, a changelog line, no `parent_id`, `parent_type`, or `author_id` on an update.
 
@@ -204,8 +204,8 @@ Preserved rules: filenames and captions as the convention reads today; images af
 ## 10. For Leo to approve explicitly
 
 1. **One registry-driven flow** replaces the CRMLS-mode section, with MLS differences held in registry fields (section 3). The one behavior field left is whether unlabeled video counts for an MLS.
-2. **One rule for updating existing records, for every MLS** (section 5): `Ready to Transfer` or `Live in Intercom`, review finished, plus the identity, nothing-to-publish, and edited-in-Intercom guards. This lets Baldwin update from `Live in Intercom` without a status change, replaces the Baldwin `Ready to Transfer` requirement and the "never overwrite a Live row" guard, and leaves `Article Status` untouched on updates.
-3. **Review Status as the edit-approval signal**, and whether a Notion automation to reset it on edit is wanted later.
+2. **One rule for updating existing records, for every MLS** (section 5): `Ready to Transfer` or `Live in Intercom`, review finished, plus the identity, nothing-to-publish, and an edited-in-Intercom guard that needs its own separate confirmation before the normal one. This lets Baldwin update from `Live in Intercom` without a status change, replaces the Baldwin `Ready to Transfer` requirement and the "never overwrite a Live row" guard, and leaves `Article Status` untouched on updates.
+3. **Review Status as a required check, not proof of approval**: it does not show that edits since the last publish were reviewed, so Tara's confirmation of the preview and changes is the final approval. Also whether a Notion automation to reset it on edit is wanted later.
 4. **Links** (section 6): missing links are flagged per link with stop, publish without the link, or a named exception; exceptions live in `link-exceptions.md`; no automatic fallback. This changes today's CRMLS behavior and the order of collection waves.
 5. **Readiness table** on the Production Tracker page (section 4): how it is read, that it gates only `all` and the creation of an MLS's first record, never routine updates, and that `Paused` is the only value that blocks updates.
 6. **Media record**: location and receipt-only role (section 7), now also holding the article ID, title, and Intercom `updated_at` at publish.
