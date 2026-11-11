@@ -2,6 +2,17 @@
 
 One entry per decision, newest first. Each entry says what was decided, why, and who decided. Keep entries short; the rationale is the useful part.
 
+## 2026-11-11: The Template Article was brought up to the standard
+
+Reviewed by Claude at Tara's request, and updated the same day. The Notion Template Article still taught rules the standard had retired or changed: bold UI elements, a default Limitations section, an "audience is stated" checklist line, "modal" in the screenshot placeholder, one-paragraph placeholders without "Show", and "the Paragon comparison" in the migration callout. It also lacked everything added after September 9. It is now a fill-in form that points to `content-standards.md` for the rules, with the pre-publish checklist mirroring the standard's quality checklist and adding the plain language gate. Four calls by Tara:
+
+- **Alt text is for reviewers.** Intercom does not support it and the port drops the caption, so `content-standards.md` (Media) was corrected to match `notion-publishing.md` and `intercom-html.md`.
+- **FAQ questions are H3s**, grouped under an H2 only when they cluster. Applied to the template, the repo FAQ skeleton in `article-template.md`, and the standard.
+- **Template row defaults reset.** Visual Status Baldwin and CRMLS are Not Started and Visual Owner is empty, so a duplicate reaches the production board.
+- **MLS-specific wording is still open.** One Notion row feeds two Intercom records, and some copy differs by MLS (Hold vs. Temp off mkt, 11 vs. 12 export fields). No convention yet; the template is silent on it.
+
+Chosen without asking: step 1 of the sample reads "Click Search in the top navigation", matching the verb-matches-control rule and the model article.
+
 ## 2026-11-04: A shared article becomes two Intercom records, one per help center, from one Notion row
 
 Decided by Leo. The CRMLS help center (4767477) keeps its articles, but every one of them is replaced by a record built from the Notion row, carrying the CRMLS screenshots and videos. The Baldwin record is left as it is. This supersedes the 2026-09-17 entry below, which accepted one shared record because there was no second record to write to; the CRMLS mode of `/port-to-intercom` now creates that record. The row stays one row, with a new `Intercom URL CRMLS` property for the second record, so the copy stays single-sourced in Notion and a later edit ports twice, once per help center.

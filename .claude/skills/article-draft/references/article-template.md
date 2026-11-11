@@ -15,7 +15,7 @@ Heading levels are fixed: H1 is the article title and nothing else, H2 is a majo
 
 Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only if a role gates the workflow, say so here: "You need <role> access to ..." Otherwise write nothing; silence means every member.><If a walkthrough exists, the Loom or Arcade link goes on the next line.>
 
-> Video placeholder: <what the walkthrough should show, from where to where>
+> Video placeholder: Show <what the walkthrough should show, from where to where>
 
 ## When to use <the feature>
 
@@ -30,14 +30,14 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only
 
 ### Steps:
 
-1. Go to Search
+1. Click Search in the top navigation
 2. <Action> <UI element, named exactly, not bolded>
 3. <Action> <UI element>
 4. *(Optional)* <Action>
 
 <One sentence on what happens after the last step: the confirmation, the file, where the member lands.>
 
-> Screenshot placeholder: <the exact screen or modal to capture> | Alt text: <the alt text the image will carry>
+> Screenshot placeholder: Show <the exact screen or window to capture> | Alt text: <the alt text the image will carry, ending with a period>
 
 ## <Customize or configure, named>
 
@@ -45,8 +45,8 @@ Use this article to <outcome 1>, <outcome 2>, and <outcome 3> in Perchwell.<Only
 
 ### <Option group, named>
 
-- <Option> (default) <what it does>
-- <Option> <what it does>
+- <Option>: <what selecting it does. Name the default once, with the setting's name beside its value.>
+- <Option>: <what selecting it does>
 
 ### <Option group, named>
 
@@ -130,7 +130,7 @@ Use this article to find your way around the <Page> page in Perchwell, understan
 
 ## FAQ article
 
-For "\<Area\> FAQ" articles. Every heading is one question in the member's words. Intercom recommends a header per question, and question-form headings are how a member's phrasing gets matched.
+For "\<Area\> FAQ" articles. Every question is one heading in the member's words, an H3 per question. Group questions under an H2 only when they cluster; an H2 that only groups takes no lead sentence. Intercom recommends a header per question, and question-form headings are how a member's phrasing gets matched. Decided November 11, 2026.
 
 ```markdown
 # <Area> FAQ
@@ -141,11 +141,13 @@ For "\<Area\> FAQ" articles. Every heading is one question in the member's words
 
 Use this article to answer the questions members ask most about <area> in Perchwell.
 
-## Can I <question, in the member's words>?
+## <Group of related questions, named>
 
-<Answer in one to three sentences, opening by restating the question's key terms. Steps become a numbered list under a `### Steps:` heading. Link the workflow article when one exists.>
+### Can I <question, in the member's words>?
 
-## Why does <question, in the member's words>?
+<Answer in one to three sentences. The first sentence answers, with the question's key terms, and starts with Yes or No when the question can be answered that way. Steps, if any, follow as a numbered list with no `Steps:` heading. Link the workflow article when one exists.>
+
+### Why does <question, in the member's words>?
 
 <Same shape. Each answer stands alone: no "as described above", no reliance on the question before it.>
 ```
