@@ -9,7 +9,7 @@ Reviewed by Claude at Tara's request, and updated the same day. The Notion Templ
 - **Alt text is for reviewers.** Intercom does not support it and the port drops the caption, so `content-standards.md` (Media) was corrected to match `notion-publishing.md` and `intercom-html.md`.
 - **FAQ questions are H3s**, grouped under an H2 only when they cluster. Applied to the template, the repo FAQ skeleton in `article-template.md`, and the standard.
 - **Template row defaults reset.** Visual Status Baldwin and CRMLS are Not Started and Visual Owner is empty, so a duplicate reaches the production board.
-- **MLS-specific wording is still open.** One Notion row feeds two Intercom records, and some copy differs by MLS (Hold vs. Temp off mkt, 11 vs. 12 export fields). No convention yet; the template is silent on it.
+- **MLS-specific wording keeps the current approach.** One Notion row feeds two Intercom records, and a few differences (Hold vs. Temp off mkt, 11 vs. 12 export fields) are logged in `open-article-fixes.md` and corrected when the CRMLS record ports. When the copy differs in many places, Tara duplicates the row, sets the copy to CRMLS with its own Tracker ID, and ports it separately (as TRK-127 does beside TRK-070). The template's how-to callout and `notion-publishing.md` say so.
 
 Chosen without asking: step 1 of the sample reads "Click Search in the top navigation", matching the verb-matches-control rule and the model article.
 

@@ -42,7 +42,7 @@ Nine properties an article carries, plus four production fields covered under Me
 
 `Collection` and `Roles` are single selects, so an article belongs to exactly one collection and one role group. An article that needs two collections needs splitting, or a decision from the user about which one wins.
 
-`MLS` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Since November 4, 2026 that one row drives two Intercom records: the Baldwin one in `Intercom URL` and the CRMLS one in `Intercom URL CRMLS`, each carrying its own MLS's screenshots and videos. The copy is written once; a later edit ports twice. Earlier (2026-09-17) the one row described one shared record; `decisions.md` has both entries.
+`MLS` is a multi-select, and an article that serves two MLSs takes **one row with both values**, not two rows. Since November 4, 2026 that one row drives two Intercom records: the Baldwin one in `Intercom URL` and the CRMLS one in `Intercom URL CRMLS`, each carrying its own MLS's screenshots and videos. The copy is written once; a later edit ports twice. When the copy differs by MLS in more than a few places, the row is duplicated instead: the copy takes `MLS` CRMLS and its own Tracker ID and ports on its own in CRMLS mode (TRK-127 sits beside TRK-070). Smaller differences stay in the one row and are logged in `workstreams/help-center-overhaul/docs/open-article-fixes.md`, then corrected when the CRMLS record ports. Decided November 11, 2026. Earlier (2026-09-17) the one row described one shared record; `decisions.md` has both entries.
 
 ## Media fields
 
