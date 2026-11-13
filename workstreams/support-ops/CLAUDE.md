@@ -4,7 +4,7 @@ Evergreen support content that outlives any single project. Nothing here has an 
 
 ## What lives here
 
-- `baldwin-weekly-report/` - Runbook, scripts, and theme history for the weekly Baldwin member feedback trends doc, built by one scheduled task on Kevin's Mac every Friday at 10 PM Eastern. Its staging data goes in `confidential/`.
+- `baldwin-weekly-report/` - Runbook (`baldwin-weekly-trends-runbook.md`), scripts, and theme history for the weekly Baldwin member feedback trends doc, built by one scheduled task on Kevin's Mac every Friday at 10 PM Eastern. Its staging data goes in `confidential/`.
 - `macros/` - Paste-ready Intercom macro drafts, one file per feature, named `YYYY-MM-DD-<feature-slug>-macros.md`. Every file is listed in `macros/README.md`, which is the index the `/intercom-macros` skill reads before drafting so it updates an existing macro instead of duplicating it.
 
 ## Rules

@@ -9,6 +9,7 @@
       "themes": {
         "Printing and reports": 11,
         "Listing status changes": 6,
+        "Listing entry and duplicating": 0,
         "Finding listings and search": 7,
         "Contacts and client sharing": 6,
         "Agent phone numbers": 4,
@@ -17,7 +18,8 @@
         "Listing data accuracy (CDOM, HOA)": 3,
         "Seller activity report": 4,
         "Login and account access": 3,
-        "Social sharing and syndication": 5
+        "Social sharing and syndication": 5,
+        "Other": 0
       },
       "signals": {
         "Fin handed to a teammate": 24,
@@ -28,63 +30,137 @@
       "note": "Themes for this week were assigned mostly from conversation titles.",
       "end": 1792987200,
       "end_note": "Monday Oct 26 00:00 Eastern. The first Friday run covers Oct 26 to Oct 30."
+    },
+    {
+      "label": "Oct 26 to 31",
+      "start": 1792987200,
+      "end": 1793451708,
+      "complete": true,
+      "conversations": 103,
+      "themes": {
+        "Printing and reports": 15,
+        "Listing status changes": 22,
+        "Listing entry and duplicating": 0,
+        "Finding listings and search": 14,
+        "Contacts and client sharing": 19,
+        "Agent phone numbers": 4,
+        "Missing subdivisions and areas": 5,
+        "Listing documents and photos": 5,
+        "Listing data accuracy (CDOM, HOA)": 3,
+        "Seller activity report": 2,
+        "Login and account access": 3,
+        "Social sharing and syndication": 2,
+        "Other": 9
+      },
+      "signals": {
+        "Fin handed to a teammate": 13,
+        "Fin thumbs down": 2,
+        "Member ratings of 1 or 2 out of 5": 0,
+        "Member ratings of 4 or 5 out of 5": 4
+      },
+      "note": "Window ends Saturday Oct 31 9:01 AM Eastern, when the delayed Friday run started; the next run starts there. 72 conversations read in full, 31 themed from titles. Other was not counted for the week of Oct 19."
+    },
+    {
+      "label": "Oct 31 to Nov 9",
+      "start": 1793451708,
+      "end": 1794228531,
+      "complete": true,
+      "conversations": 122,
+      "themes": {
+        "Printing and reports": 15,
+        "Listing status changes": 12,
+        "Listing entry and duplicating": 12,
+        "Finding listings and search": 20,
+        "Contacts and client sharing": 24,
+        "Agent phone numbers": 0,
+        "Missing subdivisions and areas": 7,
+        "Listing documents and photos": 4,
+        "Listing data accuracy (CDOM, HOA)": 8,
+        "Seller activity report": 0,
+        "Login and account access": 6,
+        "Social sharing and syndication": 5,
+        "Other": 9
+      },
+      "signals": {
+        "Fin handed to a teammate": 16,
+        "Fin thumbs down": 1,
+        "Member ratings of 1 or 2 out of 5": 1,
+        "Member ratings of 4 or 5 out of 5": 4
+      },
+      "note": "Missed Friday Nov 6 run; ran Monday Nov 9 7:48 AM Eastern, so the window is about 9 days (about 14 conversations a day, against about 19 the week before). New theme Listing entry and duplicating added this week (12); earlier weeks counted those chats in Other or Listing status changes, so they show 0. 74 read in full, 48 themed from titles."
     }
   ],
   "persisting": [
     {
+      "issue": "Agents cannot edit an invited contact; edits revert or are locked",
+      "first_seen": "Aug 2",
+      "reports": 34,
+      "status": "No tracker; invited contacts are locked",
+      "last_report": "Oct 31 to Nov 9"
+    },
+    {
+      "issue": "Agents cannot change their own profile; edits revert or are locked",
+      "first_seen": "Aug 2",
+      "reports": 21,
+      "status": "No tracker; profile data syncs from the MLS feed",
+      "last_report": "Oct 31 to Nov 9"
+    },
+    {
+      "issue": "Subdivisions, cities, and counties missing from lookups",
+      "first_seen": "Week of Oct 19",
+      "reports": 15,
+      "status": "Added on request by support; PWEB-23739 resolved",
+      "last_report": "Oct 31 to Nov 9"
+    },
+    {
       "issue": "Agent phone number wrong or not saving",
       "first_seen": "Week of Oct 19",
-      "reports": 7,
-      "status": "No tracker"
+      "reports": 8,
+      "status": "No tracker",
+      "last_report": "Oct 26 to 31"
     },
     {
       "issue": "Seller activity report, as Paragon had",
       "first_seen": "Week of Oct 19",
       "reports": 6,
-      "status": "PWEB-22992, no release date"
+      "status": "PWEB-22992; the Listing Performance Report went out to members this week, so this may be closed",
+      "last_report": "Oct 26 to 31"
     },
     {
       "issue": "Printed text too small to read",
       "first_seen": "Week of Oct 19",
       "reports": 5,
-      "status": "No tracker; larger font option exists"
+      "status": "No tracker; larger font option exists",
+      "last_report": "Oct 26 to 31"
     },
     {
-      "issue": "Find a listing by address in Manage Listings",
-      "first_seen": "Sep 2",
+      "issue": "CDOM or DOM wrong",
+      "first_seen": "Week of Oct 19",
+      "reports": 5,
+      "status": "PWEB-23580, PWEB-23637",
+      "last_report": "Oct 31 to Nov 9"
+    },
+    {
+      "issue": "One page report errors",
+      "first_seen": "Oct 14",
+      "reports": 4,
+      "status": "MOBILE-4301; missing dates on PWEB-23719",
+      "last_report": "Oct 31 to Nov 9"
+    },
+    {
+      "issue": "Add a contact or text a listing without an email address",
+      "first_seen": "Week of Oct 26",
       "reports": 3,
-      "status": "PWEB-19711, open"
+      "status": "No tracker",
+      "last_report": "Oct 31 to Nov 9"
     },
     {
       "issue": "Listing documents error in Manage Listings",
       "first_seen": "Oct 22",
       "reports": 3,
-      "status": "PWEB-23664, investigating"
-    },
-    {
-      "issue": "CDOM or DOM wrong",
-      "first_seen": "Week of Oct 19",
-      "reports": 3,
-      "status": "PWEB-23580, PWEB-23637"
-    },
-    {
-      "issue": "Annual HOA fee shown as monthly",
-      "first_seen": "Week of Oct 19",
-      "reports": 3,
-      "status": "PWEB-23551"
-    },
-    {
-      "issue": "One page report errors",
-      "first_seen": "Oct 14",
-      "reports": 3,
-      "status": "MOBILE-4301"
-    },
-    {
-      "issue": "Preview a draft listing before it goes live",
-      "first_seen": "Sep 30",
-      "reports": 2,
-      "status": "PWEB-21265, in review"
+      "status": "PWEB-23664, investigating",
+      "last_report": "Oct 26 to 31"
     }
   ],
-  "persisting_note": "Report counts include the partial week of Oct 26 (drafted Oct 29). The Friday Oct 30 run recounts them with the full window."
+  "persisting_note": "Counts last updated with the week of Oct 31 to Nov 9. On Nov 9 Kevin split agent profile edits from invited contact edits; the Nov 2 hand search of Aug 1 to Nov 2 found 20 profile and 34 contact reports. This window had 2 profile and 2 contact reports; 3 were already counted by hand, so 1 profile report was added. Dropped from the top 10 on ties at 3 reports with no new reports: Annual HOA fee shown as monthly (PWEB-23551), Find a listing by address in Manage Listings (PWEB-19711), and, after the split, Preview a draft listing before it goes live (PWEB-21265). Watching: street prefix stuck on listing address (PWEB-23320, 2 reports) and long share links (PWEB-23761, 2 reports)."
 }

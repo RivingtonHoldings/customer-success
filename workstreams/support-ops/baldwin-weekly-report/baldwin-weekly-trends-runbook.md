@@ -1,4 +1,4 @@
-# Baldwin weekly member feedback trends
+# Baldwin weekly trends runbook
 
 A running Google Doc that tracks what Baldwin members are saying, asking, and complaining about in Intercom, with the focus on recurring sentiment and issues that keep coming back. One scheduled Claude task on Kevin's Mac collects the week's data and publishes the report every Friday night.
 
@@ -11,15 +11,16 @@ A running Google Doc that tracks what Baldwin members are saying, asking, and co
 
 Tabs, left to right:
 
-1. **Trends:** rebuilt every run from `history.json`. One table of theme counts per week with a direction column, and one table of sentiment signals per week.
-2. **One tab per week, newest first,** titled with the first and last day of the window, like `Oct 31 to Nov 6`. A tab titled `DRAFT ...` is a hand-made partial week; the next run deletes it.
-3. **About:** what the doc is and how it is built. Change it only when the method changes.
+1. **The newest week,** titled with the first and last day of the window, like `Oct 31 to Nov 6`.
+2. **Trends:** rebuilt every run from `history.json`. One table of theme counts per week with a direction column, and one table of sentiment signals per week.
+3. **Earlier weeks, newest first.** A tab titled `DRAFT ...` is a hand-made partial week; the next run deletes it.
+4. **About:** what the doc is and how it is built. Change it only when the method changes.
 
 ## Files here
 
 | File | What it is |
 |---|---|
-| `README.md` | This runbook. The scheduled tasks read it on every run. |
+| `baldwin-weekly-trends-runbook.md` | This runbook. The scheduled task reads it on every run. |
 | `history.json` | Theme counts, sentiment signals, and the persisting issues list for every finished week. The Trends tab and the week-over-week comparisons come from it. No member names. |
 | `collect.py` | Reduces saved Intercom search pages to the Baldwin conversations in a window, flags email campaign replies, drops MLS staff ratings, and lists tracker tickets. |
 | `build_tab_requests.py` | Turns a tab spec (headings, paragraphs, bullets, tables, bold, links) into one `update_doc` request list for an empty tab. |
@@ -49,6 +50,7 @@ Every non-test conversation goes into exactly one theme. Use these names so the 
 | Contacts and client sharing | Contacts, client invitations, sharing links, alerts to clients, emailing agents |
 | Agent phone numbers | An agent's number showing wrong, as a landline, or not saving |
 | Missing subdivisions and areas | Requests to add subdivisions, cities, counties to lookups |
+| Listing entry and duplicating | Entering or editing a listing in Add/Edit, required fields, drafts that will not save, open house entry, duplicating or cloning a listing (added Nov 9, 2026) |
 | Listing documents and photos | Documents, photos, media in a listing |
 | Listing data accuracy (CDOM, HOA) | Wrong values on a listing: DOM, CDOM, HOA, room data |
 | Seller activity report | Listing activity or performance reports for sellers |
@@ -72,6 +74,7 @@ Every non-test conversation goes into exactly one theme. Use these names so the 
 6. Compute for the week:
    - theme counts and the signals: Fin handed to a teammate (`fin_state` escalated), Fin thumbs down (`negative_feedback`), member ratings of 1 or 2, member ratings of 4 or 5;
    - campaigns from `collect.py` (`campaigns`), with replies grouped by area;
+   - profile edits and invited contact edits, counted as two separate persisting issues because they are different problems (Kevin, November 9). Profile edits: an agent tried to change their own profile (name, email, phone, photo, office) and the change reverted, would not save, or was locked. Invited contact edits: an agent tried to change an invited contact's name, email, or phone and it reverted or was locked. Add each count to its own persisting issue and name the week's counts in a macro-trend when either is 2 or more. Conversations 215476664724468 and 215476664874074 (contact) and 215476666264527 (profile) are already counted.
    - persisting issues: start from `history.json` `persisting`, add this week's reports to matching issues, add any issue seen in two or more weeks or on a tracker ticket with 2 or more reports, and drop issues with no reports for 4 weeks or a resolved tracker. Keep the 10 with the most reports.
 7. Write the week tab spec (`<staging>/<date>-week-spec.json`) for `build_tab_requests.py`, in this order:
    - `h1` "Week of October 31 to November 6, 2026" (the window's first and last day)
@@ -87,7 +90,7 @@ Every non-test conversation goes into exactly one theme. Use these names so the 
 9. Write the Trends spec (`<staging>/<date>-trends-spec.json`): `h1` "Trends across weeks", a one-line `p`, `h2` "Themes", a `table` with `Theme`, the last 8 weeks oldest to newest, and `Direction`; then `h2` "Sentiment signals" and a `table` of the signals per week. Direction compares the last two weeks: Up when the count rose by 2 or more and at least 25 percent, Down for the same fall, otherwise Steady.
 10. Update the doc:
    - `read_doc` the doc (the result is saved to a file) and run `doc_outline.py` on it for the tab IDs.
-   - One `update_doc` call: `deleteTab` the `Trends` tab and any tab whose title starts with `DRAFT`, then `addDocumentTab` "Trends" at index 0 and the week's label at index 1. The reply gives the new tab IDs.
+   - One `update_doc` call: `deleteTab` the `Trends` tab and any tab whose title starts with `DRAFT`, then `addDocumentTab` the week's label at index 0 and "Trends" at index 1, so the newest week is always the first tab (Kevin's choice, November 5). The reply gives the new tab IDs.
    - Put the tab IDs into both specs, run `build_tab_requests.py` on each, `read_doc` again for the `revisionId`, and send both request lists in one `update_doc` call with `writeControl.requiredRevisionId`. On a revision error, read again and resend once.
 11. Verify: `read_doc` again, run `doc_outline.py` on the week tab and the Trends tab, and check the headings, the table, the links, and that the week tab is under 4,500 characters of text. Fix anything wrong.
 12. Finish with a short summary: the doc link, the week's top three macro-trends in one line each, and anything that failed or looked off.
