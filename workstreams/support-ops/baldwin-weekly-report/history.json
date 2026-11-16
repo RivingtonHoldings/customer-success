@@ -1,5 +1,5 @@
 {
-  "doc_id": "1iNA80EIx1pbQelLRf5omcQPnYNaYCGWUb6r_N3jDlwE",
+  "notion_page_id": "41a8b9e01438802a8037c6028b515ad9",
   "weeks": [
     {
       "label": "Oct 19 to 25",
@@ -58,7 +58,8 @@
         "Member ratings of 1 or 2 out of 5": 0,
         "Member ratings of 4 or 5 out of 5": 4
       },
-      "note": "Window ends Saturday Oct 31 9:01 AM Eastern, when the delayed Friday run started; the next run starts there. 72 conversations read in full, 31 themed from titles. Other was not counted for the week of Oct 19."
+      "note": "Window ends Saturday Oct 31 9:01 AM Eastern, when the delayed Friday run started; the next run starts there. 72 conversations read in full, 31 themed from titles. Other was not counted for the week of Oct 19.",
+      "notion_url": "https://app.notion.com/p/41a8b9e014388173b3a7d1b34c88bb58"
     },
     {
       "label": "Oct 31 to Nov 9",
@@ -87,7 +88,8 @@
         "Member ratings of 1 or 2 out of 5": 1,
         "Member ratings of 4 or 5 out of 5": 4
       },
-      "note": "Missed Friday Nov 6 run; ran Monday Nov 9 7:48 AM Eastern, so the window is about 9 days (about 14 conversations a day, against about 19 the week before). New theme Listing entry and duplicating added this week (12); earlier weeks counted those chats in Other or Listing status changes, so they show 0. 74 read in full, 48 themed from titles."
+      "note": "Missed Friday Nov 6 run; ran Monday Nov 9 7:48 AM Eastern, so the window is about 9 days (about 14 conversations a day, against about 19 the week before). New theme Listing entry and duplicating added this week (12); earlier weeks counted those chats in Other or Listing status changes, so they show 0. 74 read in full, 48 themed from titles.",
+      "notion_url": "https://app.notion.com/p/41a8b9e0143881bd96a2d3eccdef5460"
     },
     {
       "label": "Nov 9 to 16",
@@ -123,7 +125,8 @@
         "feedback": 3
       },
       "note": "Full 7-day window, Mon Nov 9 7:48 AM to Mon Nov 16 8:31 AM Eastern; the Friday Nov 13 run failed when the computer slept. 27 read in full, 41 themed from titles. 9 empty chats, internal tests, and one outbound outage notice were left out.",
-      "slides_url": "https://docs.google.com/presentation/d/17AcHOukffA3hkuiDM-77oIgtovlLl8zrqRhWhepmTRo/edit"
+      "slides_url": "https://docs.google.com/presentation/d/17AcHOukffA3hkuiDM-77oIgtovlLl8zrqRhWhepmTRo/edit",
+      "notion_url": "https://app.notion.com/p/41a8b9e01438811289d1cf9bc3c7ca79"
     }
   ],
   "persisting": [

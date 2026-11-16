@@ -120,7 +120,7 @@ This repo is the team's second brain for help center work. Keep it useful for so
 - `docs/build-log.md` - How this repo was built and every judgment call made along the way.
 - `workstreams/help-center-overhaul/` - The September 2026 standardization project. Has its own `CLAUDE.md`, plus `docs/`, `audit/`, `qa/` (one scorecard per article), `fin-reports/`, `outputs/`, and `confidential/`. Archive after October 2, 2026.
 - `workstreams/support-ops/` - Evergreen support content that outlives any project: macro drafts and their index.
-- `.claude/skills/` - Shared skills: setup-check, sync-help-center, article-draft, article-rewrite (also migrates an old Master Article List page into the new Notion database and scores it), port-to-intercom, rename-drive-images, baldwin-weekly-trends (the weekly Baldwin trends doc and slides), intercom-macros, humanizer, skill-creator, learn-and-update-repo.
+- `.claude/skills/` - Shared skills: setup-check, sync-help-center, article-draft, article-rewrite (also migrates an old Master Article List page into the new Notion database and scores it), port-to-intercom, rename-drive-images, baldwin-weekly-trends (the weekly Baldwin trends Notion page and slides), intercom-macros, humanizer, skill-creator, learn-and-update-repo.
 - `.claude/commands/` - One slash command per skill.
 - `.claude/settings.json` - Shared permissions: connector reads and Notion page writes are allowed, Intercom article writes always prompt, conversation writes are denied.
 
