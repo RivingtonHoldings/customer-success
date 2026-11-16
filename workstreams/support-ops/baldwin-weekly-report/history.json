@@ -88,28 +88,64 @@
         "Member ratings of 4 or 5 out of 5": 4
       },
       "note": "Missed Friday Nov 6 run; ran Monday Nov 9 7:48 AM Eastern, so the window is about 9 days (about 14 conversations a day, against about 19 the week before). New theme Listing entry and duplicating added this week (12); earlier weeks counted those chats in Other or Listing status changes, so they show 0. 74 read in full, 48 themed from titles."
+    },
+    {
+      "label": "Nov 9 to 16",
+      "start": 1794228531,
+      "end": 1794835913,
+      "complete": true,
+      "conversations": 68,
+      "themes": {
+        "Printing and reports": 9,
+        "Listing status changes": 7,
+        "Listing entry and duplicating": 9,
+        "Finding listings and search": 12,
+        "Contacts and client sharing": 8,
+        "Agent phone numbers": 0,
+        "Missing subdivisions and areas": 6,
+        "Listing documents and photos": 10,
+        "Listing data accuracy (CDOM, HOA)": 0,
+        "Seller activity report": 0,
+        "Login and account access": 2,
+        "Social sharing and syndication": 2,
+        "Other": 3
+      },
+      "signals": {
+        "Fin handed to a teammate": 4,
+        "Fin thumbs down": 0,
+        "Member ratings of 1 or 2 out of 5": 0,
+        "Member ratings of 4 or 5 out of 5": 3
+      },
+      "kinds": {
+        "question": 43,
+        "request": 12,
+        "bug": 10,
+        "feedback": 3
+      },
+      "note": "Full 7-day window, Mon Nov 9 7:48 AM to Mon Nov 16 8:31 AM Eastern; the Friday Nov 13 run failed when the computer slept. 27 read in full, 41 themed from titles. 9 empty chats, internal tests, and one outbound outage notice were left out.",
+      "slides_url": "https://docs.google.com/presentation/d/17AcHOukffA3hkuiDM-77oIgtovlLl8zrqRhWhepmTRo/edit"
     }
   ],
   "persisting": [
     {
       "issue": "Agents cannot edit an invited contact; edits revert or are locked",
       "first_seen": "Aug 2",
-      "reports": 34,
+      "reports": 35,
       "status": "No tracker; invited contacts are locked",
-      "last_report": "Oct 31 to Nov 9"
+      "last_report": "Nov 9 to 16"
+    },
+    {
+      "issue": "Subdivisions, cities, and counties missing from lookups",
+      "first_seen": "Week of Oct 19",
+      "reports": 21,
+      "status": "Added on request by support; PWEB-23739 resolved; MLS staff forwarded 4 more this week",
+      "last_report": "Nov 9 to 16"
     },
     {
       "issue": "Agents cannot change their own profile; edits revert or are locked",
       "first_seen": "Aug 2",
       "reports": 21,
       "status": "No tracker; profile data syncs from the MLS feed",
-      "last_report": "Oct 31 to Nov 9"
-    },
-    {
-      "issue": "Subdivisions, cities, and counties missing from lookups",
-      "first_seen": "Week of Oct 19",
-      "reports": 15,
-      "status": "Added on request by support; PWEB-23739 resolved",
       "last_report": "Oct 31 to Nov 9"
     },
     {
@@ -120,18 +156,25 @@
       "last_report": "Oct 26 to 31"
     },
     {
+      "issue": "Printed text too small to read",
+      "first_seen": "Week of Oct 19",
+      "reports": 6,
+      "status": "No tracker; larger font option exists",
+      "last_report": "Nov 9 to 16"
+    },
+    {
       "issue": "Seller activity report, as Paragon had",
       "first_seen": "Week of Oct 19",
       "reports": 6,
-      "status": "PWEB-22992; the Listing Performance Report went out to members this week, so this may be closed",
+      "status": "PWEB-22992; the Listing Performance Report went out to members the week of Oct 31, so this may be closed",
       "last_report": "Oct 26 to 31"
     },
     {
-      "issue": "Printed text too small to read",
-      "first_seen": "Week of Oct 19",
+      "issue": "One page report errors",
+      "first_seen": "Oct 14",
       "reports": 5,
-      "status": "No tracker; larger font option exists",
-      "last_report": "Oct 26 to 31"
+      "status": "MOBILE-4301; missing dates on PWEB-23719; one export error this week during a site update",
+      "last_report": "Nov 9 to 16"
     },
     {
       "issue": "CDOM or DOM wrong",
@@ -141,11 +184,11 @@
       "last_report": "Oct 31 to Nov 9"
     },
     {
-      "issue": "One page report errors",
-      "first_seen": "Oct 14",
-      "reports": 4,
-      "status": "MOBILE-4301; missing dates on PWEB-23719",
-      "last_report": "Oct 31 to Nov 9"
+      "issue": "Photo upload fails or is limited in Manage Listings",
+      "first_seen": "Week of Oct 31",
+      "reports": 3,
+      "status": "No tracker; this week's report got no teammate answer",
+      "last_report": "Nov 9 to 16"
     },
     {
       "issue": "Add a contact or text a listing without an email address",
@@ -153,14 +196,7 @@
       "reports": 3,
       "status": "No tracker",
       "last_report": "Oct 31 to Nov 9"
-    },
-    {
-      "issue": "Listing documents error in Manage Listings",
-      "first_seen": "Oct 22",
-      "reports": 3,
-      "status": "PWEB-23664, investigating",
-      "last_report": "Oct 26 to 31"
     }
   ],
-  "persisting_note": "Counts last updated with the week of Oct 31 to Nov 9. On Nov 9 Kevin split agent profile edits from invited contact edits; the Nov 2 hand search of Aug 1 to Nov 2 found 20 profile and 34 contact reports. This window had 2 profile and 2 contact reports; 3 were already counted by hand, so 1 profile report was added. Dropped from the top 10 on ties at 3 reports with no new reports: Annual HOA fee shown as monthly (PWEB-23551), Find a listing by address in Manage Listings (PWEB-19711), and, after the split, Preview a draft listing before it goes live (PWEB-21265). Watching: street prefix stuck on listing address (PWEB-23320, 2 reports) and long share links (PWEB-23761, 2 reports)."
+  "persisting_note": "Counts last updated with the week of Nov 9 to 16. This window had 1 invited contact edit report and no profile edit reports. Photo upload fails or is limited in Manage Listings joined (2 reports the week before, 1 this week). Dropped on a tie at 3 reports with no new report since Oct 26 to 31: Listing documents error in Manage Listings (PWEB-23664). Watching: Photos cannot be reordered on Samsung Android devices (MOBILE-4373), Draft will not save when Active with a future entry date (PWEB-23828), Withdrawn missing from status options, and a Leased listing that cannot be edited back to Active."
 }

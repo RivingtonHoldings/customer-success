@@ -31,7 +31,7 @@ Staging data for the current week goes in `workstreams/support-ops/confidential/
 ## Rules for every run
 
 - **Intercom is read-only.** Never reply, add notes, tag, assign, or change a conversation or ticket.
-- **Write only to the doc above,** to `history.json`, and to the confidential staging folder. Never commit or push.
+- **Write only to the doc above,** the chart data spreadsheet and the week's new deck (see "Slides"), `history.json`, and the confidential staging folder. Never edit the slides template itself. Never commit or push.
 - **No member names, emails, phone numbers, brokerage names, or addresses** in the doc or in `history.json`. Say "an agent", "an appraiser", "MLS staff". Listing MLS numbers and Jira keys are fine. Link a conversation instead of quoting it.
 - **MLS staff ratings do not count.** MLS staff do not give reliable CSAT scores, so sentiment uses member ratings only; `collect.py` already sets `member_rating` to null for MLS staff.
 - **Two pages at most for a week tab:** about 4,500 characters of text plus one table of no more than 10 rows. Check with `doc_outline.py`.
@@ -94,6 +94,27 @@ Every non-test conversation goes into exactly one theme. Use these names so the 
    - Put the tab IDs into both specs, run `build_tab_requests.py` on each, `read_doc` again for the `revisionId`, and send both request lists in one `update_doc` call with `writeControl.requiredRevisionId`. On a revision error, read again and resend once.
 11. Verify: `read_doc` again, run `doc_outline.py` on the week tab and the Trends tab, and check the headings, the table, the links, and that the week tab is under 4,500 characters of text. Fix anything wrong.
 12. Finish with a short summary: the doc link, the week's top three macro-trends in one line each, and anything that failed or looked off.
+
+## Slides
+
+After step 11, the same run makes a new Google Slides deck for the week, following `.claude/skills/baldwin-weekly-trends/SKILL.md` (also `/baldwin-weekly-trends`). Agreed with Kevin on November 13, 2026: the whole template file is the template, every week gets its own copy, and Kevin reviews the deck before sharing it.
+
+- **Template:** [Kevin- support trend slides Template](https://docs.google.com/presentation/d/1-fJ_FQe9TwnbWLQKxiC82SopBj3J9nv9lm8KTcFFyos/edit), ID `1-fJ_FQe9TwnbWLQKxiC82SopBj3J9nv9lm8KTcFFyos`, Drive folder `0AH14cZfpOD3iUk9PVA`. Never edited by a run.
+- **Weekly decks:** copies in the same folder, titled `Baldwin support trends, <label>, <year>`. Each week's link is stored as `slides_url` in `history.json`.
+- **Chart data spreadsheet:** [Baldwin support trends chart data](https://docs.google.com/spreadsheets/d/1Ovxs2i6pdsakgllE4ruhq_50E3B9m7dUYnqmVpLX-U8/edit), ID `1Ovxs2i6pdsakgllE4ruhq_50E3B9m7dUYnqmVpLX-U8`, created November 16, 2026. One tab per week, named with the week label, holding the numbers behind that week's charts.
+- **Charts are drawn in the deck, not linked.** On November 16, 2026 the Google Slides connector refused `createSheetsChart` ("Permission denied") even as a still image, while plain edits worked. So `slide_data.py shapes` draws each chart from bars and labels inside its frame: conversations per day as columns, request types as bars, and this week's top five themes as paired bars against the week before.
+- **Placeholder object IDs in the template** (read November 13, 2026; a copy keeps the same IDs). Page is 10 x 5.625 in.
+
+| Slide | Header box | Placeholder text box | Frame rectangle | Fill with |
+|---|---|---|---|---|
+| 1 (`h5fd9f7b563dd3a42_0_461`), left | "Weekly Volume" `h418bda9a80e95acc_0_6` | `h418bda9a80e95acc_0_0` "Image of New Conversations..." | none | Number box: new conversations against the week before |
+| 1, left | | `h418bda9a80e95acc_0_1` "Graph of Conversations per Day..." | `h418bda9a80e95acc_0_3` | Conversations per day chart |
+| 1, right | "Persisting Topics" `h5fd9f7b563dd3a42_0_477` | `h418bda9a80e95acc_0_4` "Graph of Persisting Trends..." | `h418bda9a80e95acc_0_5` | Theme trend chart |
+| 2 (`h5fd9f7b563dd3a42_0_229`), left | "Weekly Request Type Breakdown" `h418bda9a80e95acc_0_7` | `h418bda9a80e95acc_0_9` "Graph from Intercom Dashboard..." | `h418bda9a80e95acc_0_8` | Request types chart |
+| 2, right | | `h418bda9a80e95acc_0_10` "Any additional/helpful trend feedback..." | `h418bda9a80e95acc_0_11` | Feedback lines; keep the frame |
+
+A chart takes its frame rectangle's position and size, and replaces both the frame and the text box. The thin lines `h5fd9f7b563dd3a42_0_476` and `h5fd9f7b563dd3a42_0_467` divide each slide's two columns; leave them.
+- **Needs the Google Slides connector.** Without it the doc half still runs and the summary says the slides were skipped.
 
 ## Changing the format
 

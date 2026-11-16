@@ -1,0 +1,1 @@
+Follow `.claude/skills/baldwin-weekly-trends/SKILL.md` to run the weekly Baldwin trends report: collect the week's Baldwin Intercom conversations, update the Baldwin Member Feedback Trends doc, then make that week's Google Slides deck from the support trend slides template. Say "slides only" to rebuild just the slides for the last finished week.
