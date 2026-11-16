@@ -8,21 +8,23 @@ Pushes were turned on September 17, 2026. The decision is in `workstreams/help-c
 
 1. Pushes are on and the decision is recorded in `docs/build-log.md` or `workstreams/help-center-overhaul/docs/decisions.md`.
 2. `/sync-help-center` has run at least twice with a clean second run, so the mirror is trusted.
-3. The Notion draft's `Article Status` in the Perchwell Help Center Database [Sep 2026] is `Ready to Transfer`. A `Draft` or `New Article Request` page is never pushed, and a row already `Live in Intercom` is never overwritten.
+3. The Notion row's `Article Status` in the Perchwell Help Center Database [Sep 2026] is `Ready to Transfer` or `Live in Intercom`, its `Article Review Status` is `Review Finished` or `Complete`, and the update rule in the next section holds. A `Draft`, `New Article Request`, or `Deprecated` page is never pushed. A push from a `Live in Intercom` row never changes `Article Status`; a push from a `Ready to Transfer` row sets it to `Live in Intercom`.
 4. The collection (and section, if any) the article belongs to has been identified in the mirror, so `parent_id` and `parent_type` are known rather than guessed.
 5. An `author_id` for the pushing teammate is known. The Intercom connector does not expose an admin lookup, so this comes from an existing article's `author` field in the mirror. An update omits `author_id` and keeps the original author, so this precondition binds on new articles only.
 
-## CRMLS record of a live article (ladder rung 2, CRMLS mode)
+## One record per MLS (ladder rung 2 for a create, rung 3 for an update)
 
-Since November 4, 2026 a Notion row with `MLS` containing CRMLS produces two Intercom records: the Baldwin one `Intercom URL` points at, and a CRMLS one in the CRMLS help center (4767477) that `Intercom URL CRMLS` points at. The CRMLS mode of `/port-to-intercom` creates and later updates the second record. Its preconditions replace number 3 above:
+A Notion row whose `MLS` field lists several MLSs produces one Intercom record per MLS, each in that MLS's help center (the registry in `docs/help-center/mls-registry.md` names each one and the Notion URL field that points at its record). `/port-to-intercom` ports to one MLS per run. Since November 4, 2026 this has applied to Baldwin and CRMLS; any MLS added to the registry follows the same rule. The preconditions for the target MLS, in addition to numbers 1, 2, 4, and 5 above:
 
-- The row's `Article Status` is `Live in Intercom` or `Ready to Transfer`, and `Article Review Status` is `Review Finished` or `Complete`. A CRMLS create normally happens from a row that is already live in Baldwin; that is not an overwrite, because it writes a different record.
-- `Intercom URL CRMLS` is empty for a create and holds the CRMLS record for an update. A filled field is never overwritten by a create.
-- `docs/help-center/collections.md` has a crmls-owned collection with the same name as the Baldwin collection the live article sits in.
+- The row's `Article Status` is `Ready to Transfer` or `Live in Intercom`, and `Article Review Status` is `Review Finished` or `Complete`. Review Status is a required check, not proof that recent edits were reviewed; the confirmed diff is the approval. A create for a second MLS normally happens from a row that is already live for the first; that is not an overwrite, because it writes a different record.
+- The target MLS's URL field is empty for a create and holds the record for an update. A filled field is never a create. Before a create, the target help center is searched for a same-titled article, which stops the run.
+- On an update, the live article's title matches the row's `Article Name` (a trailing MLS suffix removed) or the title in its latest changelog line, and its collections include one owned by the target MLS's help center in `docs/help-center/collections.md`.
+- On a create, `collections.md` has a collection owned by the target MLS's help center whose name matches the row's `Collection`.
+- The MLS's `Ready to publish` value in the readiness table on the Help Center Production Tracker allows it: `No` blocks a create, `Paused` blocks everything, and an unreadable table never blocks an update.
 
-Everything else in the two sections below applies. The Baldwin record is never written by a CRMLS port; a change to it is a separate default-mode update with its own confirmation.
+Everything else in the two sections below applies. A port never writes another MLS's record; a change to it is a separate port with its own confirmation.
 
-**Retiring what the CRMLS record replaces.** Only after a teammate publishes the CRMLS record. A CRMLS-only legacy record is set to `draft` with `update_article` carrying `id` and `state` and nothing else, under the rung 3 rules: shown, confirmed one record at a time, one changelog line each. A shared Baldwin record leaves the CRMLS collection by a human in Intercom, because `update_article` takes a single `parent_id` and would drop its other collections. Deleting a record stays human.
+**Retiring what a new record replaces.** Only after a teammate publishes the new record. A legacy record in the target help center is set to `draft` with `update_article` carrying `id` and `state` and nothing else, under the rung 3 rules: shown, confirmed one record at a time, one changelog line each. Another MLS's shared record leaves the target collection by a human in Intercom, because `update_article` takes a single `parent_id` and would drop its other collections. Deleting a record stays human.
 
 ## New article (ladder rung 2)
 
