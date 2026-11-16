@@ -4,6 +4,8 @@ Status: revision 2, November 6, 2026. Proposal only. Nothing in the existing ski
 
 Revision 3 (November 6, 2026) adds Tara's three follow-ups: one safe rule for updating live articles without changing `Article Status` (section 5), a per-link workflow for missing MLS links (section 6), and how the readiness table is found and read without blocking routine updates (section 4). Revision 2 incorporated Leo's answers to the first review and Tara's seven decisions: every MLS is a peer; readiness lives in Notion, in the simplest existing place; `Live in Intercom` is left alone until its dependencies are confirmed; missing cross-MLS links are flagged, never substituted; Leo approves before implementation; testing is approved in principle but not yet run.
 
+Revision 4 (November 16, 2026) follows Leo's approval of revision 3 and the merge of PR #6. It adds what the publishing baseline found (`workstreams/help-center-overhaul/qa/publish-baseline-2026-11-16.md`) and the MLS-difference rule recorded on `main` since. The changes are in the subsections marked Revision 4 and in items 9 to 12 of section 10, and need Leo's review. Nothing from revision 3 is withdrawn.
+
 ## 1. Commands
 
 One article per run. Notion is the single source of truth; every run fetches the row fresh.
@@ -86,7 +88,7 @@ Eligibility
 
 Guards against the wrong article or a duplicate
 4. The article ID comes from the URL slug and `get_article` must return it. A content ID returns `not_found` and stops the run (existing rule).
-5. The live title must equal the row's `Article Name` or the title recorded at the last publish. Otherwise stop: "The Intercom article with this ID is titled X; this Notion row is Y."
+5. The live title must equal the row's `Article Name`, with any trailing MLS suffix such as ` (CRMLS)` removed (Revision 4: the baseline found `Create a Quick CMA Report (CRMLS)` in Notion and `Create a Quick CMA Report` live), or the title recorded at the last publish. Otherwise stop: "The Intercom article with this ID is titled X; this Notion row is Y."
 6. The live article's collections must include one owned by the target MLS's help center (`docs/help-center/collections.md`). Otherwise stop.
 7. Publish state is untouched: a published article stays published, a draft stays a draft.
 8. Create path (URL field empty): search the target help center by the row's title and any old title first. A same-titled article stops the run and asks whether to link it to this row or create anyway. Nothing is created silently.
@@ -98,6 +100,13 @@ Guards against overwriting or repeating work (these replace "never overwrite a `
 12. Unchanged: one confirmation per record, the full diff at confirmation, a changelog line, no `parent_id`, `parent_type`, or `author_id` on an update.
 
 Status handling: an update never changes `Article Status`. A first publish from a `Ready to Transfer` row sets it to `Live in Intercom`, as today. The drafting skills' rule "never overwrite a `Live in Intercom` page" is a different guard (it protects the Notion page from a drafting skill, not from a person editing it) and is untouched.
+
+CRMLS-only rows (Revision 4). Baseline finding: a row whose `MLS` is CRMLS only, such as TRK-127, never reaches `Live in Intercom` today, because a CRMLS port leaves the status alone and no Baldwin port exists to set it. TRK-127 sits at `Draft` with its CRMLS article already published, so today's CRMLS flow refuses to update it, and rule 1 above would refuse it too. Proposed:
+- The first successful publish of any MLS record from a `Ready to Transfer` row sets `Live in Intercom`, so a CRMLS-only row follows the same path Baldwin rows do. Later publishes leave the status alone. This extends today's CRMLS behavior for CRMLS-only rows.
+- A row already stuck at `Draft` with its MLS URL filled (TRK-127 is one) is refused with a plain message: "This row is Draft, but its CRMLS article is already published. Set the row to Ready to Transfer to publish edits." `/publish` never changes the status itself. Tara fixes such rows once in Notion after checking them.
+- Rule 6, and the collection for a create, come from the row's `Collection` name matched to that MLS's collections in `collections.md`. Today's CRMLS flow reads the collection from the Baldwin record, which a CRMLS-only row does not have.
+
+Duplicated rows (Revision 4). The MLS-difference rule on `main` has Tara duplicate a row as a CRMLS-only copy with its own Tracker ID when the copy differs by MLS in many places (TRK-127 beside TRK-070). `/publish` treats each row as its own article. Commands take a Tracker ID or Notion link, the preview names the Tracker ID and the row's `MLS` field, and naming an MLS the row does not list, such as `/publish baldwin TRK-127`, is refused with the reason.
 
 Effect: Baldwin gains update-from-`Live in Intercom`; CRMLS behaves as today; `Ready to Transfer` still works for both. Remaining risk: Review Status is not reset automatically when someone edits, so a half-finished edit on a live row could be offered for publishing. The protections are the review-status check, the who-edited line, and your per-article confirmation of the diff. A Notion automation that moves Review Status back on edit would close the gap but is outside this proposal.
 
@@ -144,7 +153,7 @@ First publish of an article already live (no record yet). Never silently reuse a
 | Changed | Different identity, or history shows it added, removed, or replaced | Uploads the current Notion image or video link |
 | Cannot be verified | Uploaded image with nothing to compare against and no usable history | Listed under Needs your attention; on Tara's confirmation the current Notion image is uploaded fresh |
 
-After the first confirmed push the record exists and later runs classify automatically as unchanged, replaced, added, removed, moved, or label changed. No backfill of existing articles. Needs-your-attention triggers for media: a label that conflicts with the filename or the MLS Visual/Video Status, an unrecognized label, a slot whose identity and label both changed, or an item that cannot be verified. Unlabeled images remain shared and never trigger it. Unlabeled videos follow the existing status rule.
+After the first confirmed push the record exists and later runs classify automatically as unchanged, replaced, added, removed, moved, or label changed. No backfill of existing articles. Needs-your-attention triggers for media: a label that conflicts with the filename or the MLS Visual/Video Status, an unrecognized label, a slot whose identity and label both changed, or an item that cannot be verified; and (Revision 4) a caption that starts with an MLS name but not in the standard `<MLS> |` form, such as `CRMLS:`, which the current skill treats as unlabeled. Whitespace around the `|` is tolerated. Unlabeled images remain shared and never trigger it. Unlabeled videos follow the existing status rule.
 
 Still to confirm, not yet run: on a "<Article> - Claude Copy" row, how Notion's Replace on an image appears (same block with a new file ID, or a new block). Both outcomes are handled; this only documents which.
 
@@ -212,11 +221,18 @@ Preserved rules: filenames and captions as the convention reads today; images af
 7. **Notion views and automations** that use `Live in Intercom` need a check before any later change to that status; this proposal does not change it.
 8. **Build order**: registry and Notion table, then the `port-to-intercom` generalization, then the media record and link exceptions, then `/publish`.
 
+Added in revision 4 (from the baseline and `main`):
+
+9. **CRMLS-only rows** (section 5): the first publish of any MLS record sets `Live in Intercom` from `Ready to Transfer`; rows stuck at `Draft` with a filled URL are refused with a plain message and fixed once by Tara; the collection comes from the row's `Collection` name, not a Baldwin record.
+10. **Duplicated rows and titles** (section 5): each row is its own article, commands take a Tracker ID, an MLS not on the row is refused, and the title check ignores a trailing MLS suffix.
+11. **Caption labels** (section 7): a caption that starts with an MLS name in a non-standard form, such as `CRMLS:`, goes to Needs your attention instead of being treated as unlabeled.
+12. **Whitespace-only differences**: Baldwin live bodies have no empty spacer paragraphs between blocks, while the converter's house spacing adds them. Recommendation: ignore whitespace-only differences when deciding whether there is anything to publish, so an unedited article reports "Nothing to publish," and apply the converter's spacing only when something real changed. Leo to confirm.
+
 ## 11. Testing
 
 Run only after approval; none has been run.
 
-- Before any edit, dry-run the current `/port-to-intercom` on three live articles: a Baldwin-only one, a shared one, and Universal Search Bar (TRK-095). Save what each would change. After the edit, the same dry runs must match, except for the intended link and update-rule changes.
+- The baseline is recorded in `workstreams/help-center-overhaul/qa/publish-baseline-2026-11-16.md` (TRK-081 Baldwin, TRK-095 Baldwin and CRMLS, TRK-127 CRMLS). After each build stage, rerun the same four checks and list every difference from the baseline; each must be an intended change from this proposal. Add TRK-127 to the update-rule tests: it should be refused with the plain message until its status is fixed, then pass.
 - Update rule, on "Claude Copy" rows and dry runs: a `Live in Intercom` Baldwin row with edits updates without a status change; a `Draft` row is refused; Review Status `In Review` holds; a wrong ID, a title mismatch, and a record in the wrong help center each stop; an empty URL field with a same-titled article in Intercom stops and asks; an unedited row reports nothing to publish; an article edited in Intercom after the last publish shows the warning.
 - Links: a missing destination appears in plain language; each of stop, publish without the link, and a named exception behaves as described; the exception is recorded and re-listed on the next publish; no other MLS's article ever appears unnamed.
 - Media: replace a screenshot keeping the filename (reported replaced); add and remove media; a mistyped label and a label/status mismatch (Needs your attention); unlabeled images (not flagged); first publish of a live article with an uploaded image and no history (reported cannot be verified, never silently reused).
