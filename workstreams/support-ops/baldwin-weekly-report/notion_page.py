@@ -26,19 +26,28 @@ links name text inside one cell.
       Prints {"title": ..., "content": ...} for the week's child page. The
       spec's h1 becomes the page title, so it is left out of the content.
 
-  main  --history history.json --trends-spec TRENDS.json
-      Prints the whole main page as Markdown: the intro, the week pages newest
-      first (every week in history.json with a notion_url), Trends across
-      weeks from the trends spec, and how the report is built. Send it with
-      notion-update-page replace_content; the <page> tags keep the child pages
-      and set their order.
+  main  --current FETCH --history history.json --trends-spec TRENDS.json
+        [--perchie PERCHIE.md]
+      Edits the main page as it is now, so a teammate's own formatting and
+      any section the run does not own are kept. FETCH is a saved
+      notion-fetch result of the main page (the JSON, or just its content).
+      The script changes only three things:
+        - the week page links: every week in history.json with a notion_url
+          is listed right after the line "Newest first.", newest first, and
+          any copy of those links elsewhere on the page (a new child page
+          lands at the bottom) is removed;
+        - the "Trends across weeks" section, up to the next level 2 heading;
+        - with --perchie, the body of the "Perchie Review Loop" toggle.
+      It stops with an error if an anchor is missing instead of guessing.
+      Send the output with notion-update-page replace_content.
 
 Usage: python3 -I notion_page.py week SPEC.json
-       python3 -I notion_page.py main --history H.json --trends-spec T.json
+       python3 -I notion_page.py main --current F --history H.json --trends-spec T.json [--perchie P.md]
 """
 
 import argparse
 import json
+import re
 import sys
 
 SPECIAL = "\\*_`[]<>~$"
@@ -118,70 +127,69 @@ def week(spec):
     return {"title": blocks[0]["text"], "content": render(blocks[1:])}
 
 
-INTRO = (
-    "A running record of what Baldwin members are saying, asking, and complaining about in Intercom, "
-    "with the focus on what keeps coming back. Each week gets its own page that names the recurring themes, "
-    "whether each is growing or fading, and how members feel about it, with links to example conversations. "
-    "Trends across weeks, below, tracks every theme's count week by week."
-)
-
-HOW = [
-    "A scheduled Claude task runs every Friday at 10 PM Eastern. In one run it collects the week's Baldwin conversations, "
-    "groups them into themes, compares them with earlier weeks, adds the week's page here, updates Trends across weeks, "
-    "and makes that week's slide deck. A report week runs from one Friday at 10 PM to the next, so weekend conversations "
-    "land in the following report.",
-    "Every Baldwin conversation counts: questions, bugs, feature requests, and feedback. A conversation is Baldwin when its "
-    "MLS attribute is Baldwin, it went to the Baldwin VIP team, Fin answered it through the Baldwin workflow, or MLS staff "
-    "sent it. Test and spam conversations are left out.",
-    "Sentiment comes from what members write, member conversation ratings (ratings from MLS staff are left out because "
-    "they are not reliable), Fin thumbs-down ratings, and how often Fin hands a conversation to a teammate.",
-    "Member names and contact details are left out; open a linked conversation for them.",
-]
-
-WHERE = (
-    "`workstreams/support-ops/baldwin-weekly-report/baldwin-weekly-trends-runbook.md` in the customer-success repo, "
-    "run by the baldwin-weekly-trends skill. Until November 16, 2026 this report lived in a Google Doc, "
-    "Baldwin Member Feedback Trends; this page replaced it."
-)
+def page_content(raw):
+    """Accept a saved notion-fetch result (JSON or text) and return the page body."""
+    try:
+        raw = json.loads(raw).get("text", raw)
+    except (ValueError, AttributeError):
+        pass
+    m = re.search(r"<content>\n?(.*)\n?</content>", raw, re.S)
+    return m.group(1) if m else raw
 
 
-def main_page(history, trends):
-    pages = []
-    for w in reversed(history["weeks"]):
-        if w.get("notion_url"):
-            pages.append(f'<page url="{w["notion_url"]}">{esc(w.get("notion_title", w["label"]))}</page>')
-    if not pages:
-        raise SystemExit("No week in history.json has a notion_url")
+def trends_md(trends):
     tb = trends["blocks"]
     if tb and tb[0]["style"] in ("h1", "title"):
-        tb = [{"style": "h2", "text": tb[0]["text"]}] + tb[1:]
-        rest = render(tb[:1]) + "\n\n" + render(tb[1:], shift=1)
-    else:
-        rest = render(tb, shift=1)
-    parts = [
-        esc(INTRO),
-        "## Weekly reports",
-        "Newest first.",
-        "\n".join(pages),
-        rest,
-        "## How it is built",
-        "\n\n".join(esc(p) for p in HOW),
-        "## Where the instructions live",
-        WHERE,
-    ]
-    return "\n\n".join(parts) + "\n"
+        return render([{"style": "h2", "text": tb[0]["text"]}]) + "\n\n" + render(tb[1:], shift=1)
+    return render(tb, shift=1)
+
+
+def merge_main(current, history, trends, perchie=None):
+    text = current
+    # 1. Week page links.
+    weeks = [w for w in reversed(history["weeks"]) if w.get("notion_url")]
+    if not weeks:
+        raise SystemExit("No week in history.json has a notion_url")
+    ids = [w["notion_url"].rstrip("/").split("/")[-1].split("?")[0][-32:] for w in weeks]
+    for pid in ids:
+        text = re.sub(r'\n*<page url="[^"]*' + pid + r'[^"]*">.*?</page>', "", text, flags=re.S)
+    anchor = "Newest first."
+    if text.count(anchor) != 1:
+        raise SystemExit('Expected the line "Newest first." exactly once on the main page')
+    tags = "\n\n".join(f'<page url="https://app.notion.com/p/{pid}">{esc(w.get("notion_title", w["label"]))}</page>'
+                        for pid, w in zip(ids, weeks))
+    text = text.replace(anchor, anchor + "\n\n" + tags, 1)
+    # 2. Trends across weeks, up to the next level 2 heading (plain or toggle).
+    start = text.find("## Trends across weeks")
+    if start < 0:
+        raise SystemExit('No "## Trends across weeks" heading on the main page')
+    nxt = re.compile(r"\n(## (?!#)|<toggle heading=\"h[12]\">|</toggle>)")
+    m = nxt.search(text, start + 3)
+    end = m.start() if m else len(text)
+    text = text[:start] + trends_md(trends) + "\n" + text[end:]
+    # 3. The Perchie Review Loop toggle body.
+    if perchie is not None:
+        m = re.search(r'(<toggle heading="h[123]">\s*Perchie Review Loop\s*\n)(.*?)(\n</toggle>)', text, re.S)
+        if not m:
+            raise SystemExit('No "Perchie Review Loop" toggle heading on the main page')
+        text = text[:m.start(2)] + "\n" + perchie.strip() + "\n" + text[m.end(2):]
+    return re.sub(r"\n{3,}", "\n\n", text).strip() + "\n"
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("mode", choices=["week", "main"])
     ap.add_argument("spec", nargs="?")
+    ap.add_argument("--current")
     ap.add_argument("--history")
     ap.add_argument("--trends-spec")
+    ap.add_argument("--perchie")
     a = ap.parse_args()
     if a.mode == "week":
         print(json.dumps(week(json.load(open(a.spec))), ensure_ascii=False))
     else:
-        if not (a.history and a.trends_spec):
-            raise SystemExit("main needs --history and --trends-spec")
-        sys.stdout.write(main_page(json.load(open(a.history)), json.load(open(a.trends_spec))))
+        if not (a.current and a.history and a.trends_spec):
+            raise SystemExit("main needs --current, --history and --trends-spec")
+        perchie = open(a.perchie).read() if a.perchie else None
+        sys.stdout.write(merge_main(page_content(open(a.current).read()), json.load(open(a.history)),
+                                    json.load(open(a.trends_spec)), perchie))
