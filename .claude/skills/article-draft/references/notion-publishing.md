@@ -71,6 +71,10 @@ Split on 2026-09-16, when the Production Tracker view was created, and the three
 
 `docs/standards/fin-labeling.md` derives Fin labels from Notion fields, and derives them from `MLS` and `Collection`, never from the media fields.
 
+## Keeping the templates current
+
+Two templates teach the standard: the Template Article page in Notion and `article-template.md` in this folder. They drifted apart once because nothing said to update both. When a change to `docs/standards/content-standards.md` touches anything a template shows, such as structure, placeholders, callouts, or the pre-publish checklist, update both in the same pass. After editing either one, lint it the way the skills lint a draft: grep for em dashes, bold outside the callout labels and the Description line, "modal", and "you can". Added November 11, 2026, after the Template Article review found the Notion page still teaching bold UI names, a default Limitations section, and "modal".
+
 ## Triage queries
 
 Query the new database first with the Notion connector's query-data-sources tool. The table name in SQL is the data source URL in double quotes.
