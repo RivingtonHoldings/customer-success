@@ -1,15 +1,23 @@
 {
- "last_run": "2026-11-18T17:29:24Z",
+ "last_run": "2026-11-18T20:15:13Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "18233020": {
+   "file": "find-listings-in-the-listings-widget.md",
+   "updated_at": 1795032855,
+   "state": "published",
+   "title": "Find Listings in the Listings Widget",
+   "content_id": "23616481",
+   "body_sha1": "c1ae4af25a3700939bdfc4ca6e4263c38381e6fd"
+  },
   "18234136": {
    "file": "universal-search-bar.md",
-   "updated_at": 1795022773,
+   "updated_at": 1795025543,
    "state": "published",
    "title": "Universal Search Bar",
    "content_id": "23617829",
-   "body_sha1": "f62817ea907db8bb1e2e9338b2582bdbe6a3a462"
+   "body_sha1": "1d93cae63d57775a76c2d9b422520550e8ff7fd5"
   },
   "18233009": {
    "file": "dashboard-overview.md",
@@ -42,14 +50,6 @@
    "title": "Mobile App FAQ",
    "content_id": "23618556",
    "body_sha1": "35f30a0f652b637fb1af70d0b969fe2e75f34de1"
-  },
-  "18233020": {
-   "file": "find-listings-in-the-listings-widget.md",
-   "updated_at": 1793901308,
-   "state": "published",
-   "title": "Find Listings in the Listings Widget",
-   "content_id": "23616481",
-   "body_sha1": "cad17f33e509957299b2c456b5a0f52ea58f4dae"
   },
   "18234756": {
    "file": "reports-faq.md",

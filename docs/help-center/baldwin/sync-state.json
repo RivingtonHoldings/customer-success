@@ -1,8 +1,16 @@
 {
- "last_run": "2026-11-18T17:29:24Z",
+ "last_run": "2026-11-18T20:15:11Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13903171": {
+   "file": "find-listings-in-the-listings-widget.md",
+   "updated_at": 1795025714,
+   "state": "published",
+   "title": "Find Listings in the Listings Widget",
+   "content_id": "16154426",
+   "body_sha1": "830c2ec966c87c7b334db22831f5b35bb75e3d6b"
+  },
   "16634337": {
    "file": "add-the-client-and-invite-them.md",
    "updated_at": 1794952453,
@@ -67,14 +75,6 @@
    "content_id": "17293244",
    "body_sha1": "6da528ccb6bf1a6dbc4d4522e3bf7a7c708f74b8"
   },
-  "11010696": {
-   "file": "filter-your-search-by-status-and-price-changes.md",
-   "updated_at": 1793836651,
-   "state": "published",
-   "title": "Filter Your Search by Status and Price Changes",
-   "content_id": "11832103",
-   "body_sha1": "6fb9237495fb454f7445dbf2a696ec05d7f9d603"
-  },
   "8391759": {
    "file": "masquerade-an-agent-s-account.md",
    "updated_at": 1782959830,
@@ -82,6 +82,14 @@
    "title": "Masquerade an Agent's Account",
    "content_id": "8399496",
    "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
+  },
+  "11010696": {
+   "file": "filter-your-search-by-status-and-price-changes.md",
+   "updated_at": 1793836651,
+   "state": "published",
+   "title": "Filter Your Search by Status and Price Changes",
+   "content_id": "11832103",
+   "body_sha1": "6fb9237495fb454f7445dbf2a696ec05d7f9d603"
   },
   "14727432": {
    "file": "find-your-partial-listings-in-perchwell.md",
@@ -450,14 +458,6 @@
    "title": "Listing Field Changes in Perchwell",
    "content_id": "16905918",
    "body_sha1": "805172d3c553dfd2ba2e29f4ebbbd3eaa9532b9d"
-  },
-  "13903171": {
-   "file": "find-listings-in-the-listings-widget.md",
-   "updated_at": 1793817598,
-   "state": "published",
-   "title": "Find Listings in the Listings Widget",
-   "content_id": "16154426",
-   "body_sha1": "ca4dedf8115751896f0b491f83a3e20eaecd32d6"
   },
   "14744497": {
    "file": "filter-your-search-with-map-tools.md",

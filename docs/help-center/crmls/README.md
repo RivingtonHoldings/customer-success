@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-18T17:29:24Z. Articles: 81 (79 published, 2 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-18T20:15:13Z. Articles: 81 (79 published, 2 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -41,7 +41,7 @@ Collection ID 16866828. 5 articles.
 - [Add a Hot Sheet to the Dashboard](add-a-hot-sheet-to-the-dashboard.md), updated 2026-11-05
 - [Customize Your Dashboard](customize-your-dashboard.md), updated 2026-11-04
 - [Dashboard Overview](dashboard-overview.md), updated 2026-11-05
-- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-05
+- [Find Listings in the Listings Widget](find-listings-in-the-listings-widget.md), updated 2026-11-18
 
 ## Frequently Asked Questions
 

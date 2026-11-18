@@ -1,0 +1,80 @@
+{
+  "tracker_id": "TRK-025",
+  "article_name": "Find Listings in the Listings Widget",
+  "records": {
+    "baldwin": {
+      "intercom_article_id": 13903171,
+      "title": "Find Listings in the Listings Widget",
+      "intercom_updated_at": "2026-11-18T18:15:14Z",
+      "published_on": "2026-11-18",
+      "notion_last_edited": "2026-11-18T18:04:23Z",
+      "media": [
+        {
+          "position": "Opening paragraph, 1",
+          "kind": "video",
+          "caption_label": "Baldwin",
+          "identity": "video:https://www.loom.com/share/4593cca5c13b40e4bfc565b25086ff55",
+          "published_as": "https://www.loom.com/embed/4593cca5c13b40e4bfc565b25086ff55"
+        },
+        {
+          "position": "Find the Listings widget on the Dashboard, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:5c5c7eee-5b01-4ef8-9b9a-5c3d397fa139",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223656/1da412e2b833b037940487d738d8/upload_1070151083549504409.png"
+        },
+        {
+          "position": "Filter by status and activity, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:f71bb7fc-a4e6-4f0e-ad5f-f0e943af42ce",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223711/72897048f6a215a195aa92f4fd66/upload_7244210888826109555.png"
+        },
+        {
+          "position": "Filter by status and activity, 2",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:cf2df48d-d435-443c-8ea9-6f10485cd3d2",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223793/e59eba1b711a684eb39cdc79fffc/upload_16241111553363275341.png"
+        }
+      ]
+    },
+    "crmls": {
+      "intercom_article_id": 18233020,
+      "title": "Find Listings in the Listings Widget",
+      "intercom_updated_at": "2026-11-18T20:14:15Z",
+      "published_on": "2026-11-18",
+      "notion_last_edited": "2026-11-18T18:04:23Z",
+      "media": [
+        {
+          "position": "Opening paragraph, 1",
+          "kind": "video",
+          "caption_label": "CRMLS",
+          "identity": "video:https://www.loom.com/share/e61e65986dba4ba5b0c0fe1c183592f0",
+          "published_as": "https://www.loom.com/embed/e61e65986dba4ba5b0c0fe1c183592f0"
+        },
+        {
+          "position": "Find the Listings widget on the Dashboard, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:4a23919e-124b-4d3d-879f-8fb85d68bdb7",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223687/a30ba0f761f18045af0e5c21f22b/upload_1316646998670379399.png"
+        },
+        {
+          "position": "Filter by status and activity, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:e841da47-1bd1-4a7f-9a85-1f3efc9f5022",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223765/548b7fe277511a16783e7c4e517e/upload_3223179120253416399.png"
+        },
+        {
+          "position": "Filter by status and activity, 2",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:be20b07c-a5d0-4d90-bb50-906b20718318",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223846/8bceb54cbe13d748efba40b1a3bd/upload_17475288308057337429.png"
+        }
+      ]
+    }
+  }
+}

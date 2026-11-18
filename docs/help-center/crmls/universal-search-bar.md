@@ -12,10 +12,10 @@ collections: ["Search / Search"]
 state: published
 author_id: 5472692
 created_at: 2026-11-04T22:01:33Z
-updated_at: 2026-11-18T17:26:13Z
+updated_at: 2026-11-18T18:12:23Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-18T17:29:24Z
+synced_at: 2026-11-18T20:15:13Z
 ---
 
 # Universal Search Bar
@@ -43,7 +43,7 @@ Matches appear as you type, and clicking one opens it.
 
 The Universal Search Bar opens one listing at a time. To pull up several listings together, open the Search page, find the MLS ID filter under Listing Visibility & Access, and enter the IDs separated by commas. [Search FAQ](https://support.perchwell.com/crmls/en/articles/18247089-search-faq) covers this in detail.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png?expires=1795024800&signature=3e21cf792c9db33485e8945f5a534c54a5dfdb073d1763fc5d1ad9952622e71e&req=dicvHsp%2FlIVXWfMW1HO4zUCWPQUmlOQjulG5i2ZLeQawm%2Bl659WpMjLUZySr%0A6s%2BK%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820219210/a27559955cdca4daf0d86d00a3e8/upload_14924408884970684368.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820219210/a27559955cdca4daf0d86d00a3e8/upload_14924408884970684368.png?expires=1795034700&signature=6c144609975bedb9a6d1eedfaf9381d63a7a5183577a23a3b3d327ee8c964897&req=diglFst%2FlINeWfMW1HO4zVMNXr6L%2B4tE1xEIZ2Kxi8%2FCKwjDqsAIQ7wTCxJN%0AoMp3cw%2FgRouwv1de58M%3D%0A)
 
 # What you find with the Universal Search Bar
 
@@ -54,7 +54,7 @@ The Universal Search Bar finds listings, agents, and contacts. The search window
 
 You do not have to type the whole thing, which means an address that matches the street name but not the street number still appears, and so does a result matching only a number you typed. Keep typing to narrow the list.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png?expires=1795024800&signature=3da7b865de420930e1c337c5717fe1108c5913e92211a9743a04ea6b8b74545f&req=dicvHsp%2FlIReWfMW1HO4zWzebu6%2BrhwptIOBfeV4vVXKo%2B%2FvxnKdKjUQNCv%2F%0ABWAN%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png?expires=1795034700&signature=113c1e951194a1cbb9e80947f28af6002b4b03f47107846309998eb178f466ad&req=dicvHsp%2FlIReWfMW1HO4zWzebu6%2BrxwmtIOBZ%2BF%2BtG%2Fr%2BT0o4kWt1S84qQB0%0ApP%2BGXefUNp5f%2FNrNAm4%3D%0A)
 
 # Things to Know
 - Members who came from a legacy platform may know the Universal Search Bar as Power Search. [Find Familiar Features by Their Perchwell Names](https://support.perchwell.com/crmls/en/articles/18247301-find-familiar-features-by-their-perchwell-names) maps the other legacy names to their Perchwell equivalents.

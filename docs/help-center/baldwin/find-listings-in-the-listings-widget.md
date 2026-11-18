@@ -12,10 +12,10 @@ collections: ["Dashboard"]
 state: published
 author_id: 5472692
 created_at: 2026-03-02T03:44:46Z
-updated_at: 2026-11-04T18:39:58Z
+updated_at: 2026-11-18T18:15:14Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T18:42:27Z
+synced_at: 2026-11-18T20:15:11Z
 ---
 
 # Find Listings in the Listings Widget
@@ -30,7 +30,7 @@ To find the Listings widget, click Dashboard in the top navigation bar from anyw
 
 > **Note:** The Listings widget cannot be removed or moved to a different position on the Dashboard.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829206/24e450040576f670f7ade38eb569/upload_5150458457194305356.png?expires=1793819700&signature=cbab1ac59f4c5e84b2c9108a25784da68a22332155ff3d076e31bceffbbc53ff&req=dicvE8F8lINfX%2FMW1HO4zS93bW52mRZyJJkB8xJf6WzHal1yCwqQRguQU7ok%0A4y1M%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223656/1da412e2b833b037940487d738d8/upload_1070151083549504409.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223656/1da412e2b833b037940487d738d8/upload_1070151083549504409.png?expires=1795034700&signature=bbacee61953490033d848744258dac8bf37817c0d009769b192142da2fb510e4&req=diglFst8nodaX%2FMW1HO4zVs9WYKZ2TIOlLA5cPb%2FVrUDkI598sxs0uu6KQDD%0AOOg4bS60ko5wblrTWNY%3D%0A)
 
 # Narrow the listings in the Listings widget
 
@@ -68,7 +68,7 @@ Listings appear from most recent to least recent. For example, with Active selec
 
 If some status and activity filters are hidden, click the arrow at the end of the row to see the next set.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829234/5b82aaee82370488a20937e9d7a3/upload_14300476128135306532.png?expires=1793819700&signature=7c51d775c4b8955ca02a8bfafc1ce5b01f8b38f3d02e23b68fd81332468ef040&req=dicvE8F8lINcXfMW1HO4zU9IB7Ymw4MptTV1SFHM3GZHwfa%2FPlSaOHA2jWbZ%0AWafD%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785829255/573c7659984b3667f78c2ba729ef/upload_12987452376773474861.png?expires=1793819700&signature=fceef95f17ab5ea20a28447e73439c48c4bb22dd0cd2217f261e3dc88801c494&req=dicvE8F8lINaXPMW1HO4zTTFyD3E7ntoPBu5PR6zQj4ec5Jo51zWKuoqLSOe%0ADjIK%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223711/72897048f6a215a195aa92f4fd66/upload_7244210888826109555.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223711/72897048f6a215a195aa92f4fd66/upload_7244210888826109555.png?expires=1795034700&signature=8c55fb458429da8309ac26a1281b121c098713b0551fa19783438eacfa75106a&req=diglFst8noZeWPMW1HO4zR2q1XJJxZWc11xn2Mi8JXpOBIuj7sL196Y2kYuC%0Ap1ScPFY2nZrvBVYaBs4%3D%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223793/e59eba1b711a684eb39cdc79fffc/upload_16241111553363275341.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2820223793/e59eba1b711a684eb39cdc79fffc/upload_16241111553363275341.png?expires=1795034700&signature=c8fe2ad7e8709bc061f83d95661107cb35c068ed2bf9a0126e77a9e00b37c0af&req=diglFst8noZWWvMW1HO4zROGVqeEaJoMvo1SS87lwfmFINkvY%2BMtxtyPKtYH%0A5PItxkJAfn3EtmhBVCA%3D%0A)
 
 ## Search within the Listings widget
 
@@ -88,8 +88,6 @@ Take action on a listing directly from the Listings widget. The icons next to ea
 - Pencil icon: If your MLS uses Perchwell for listing entry and the widget is set to My Listings, click the pencil icon next to a listing to open it in Add/Edit in a new tab. The Dashboard stays open in the original tab
 - ShowingTime icon: When the widget is set to My Listings and your MLS connects ShowingTime, click the ShowingTime icon to manage showing details for that listing, including availability, access instructions, appointment requests, and feedback
 - Tag icon: When the widget is set to MLS Listings, Brokerage Listings, or Office Listings, click the tag icon next to a listing to add it to a Tag
-
-If your MLS uses Perchwell for listing entry, [Add and Edit Listings](http://support.perchwell.com/baldwin/en/articles/13627189-add-and-edit-listings) covers editing a listing once Add/Edit opens.
 
 # Things to Know
 - The Dashboard is not available in the Perchwell mobile app, so the Listings widget opens on desktop only
