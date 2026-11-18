@@ -18,7 +18,7 @@ source_notion_url: https://app.notion.com/p/3658b9e01438800b97d2ccc999061ce2
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Analytics | Roles: All Except Client | Video Included: No | Visuals Included: No | Notion: https://app.notion.com/p/3f98b9e01438813888d6f8496a4df714 -->
+<!-- Article Status: Live in Intercom | MLS: Baldwin, CRMLS | Collection: Analytics | Roles: All Except Client | Video Included: No | Visuals Included: No | Notion: https://app.notion.com/p/3f98b9e01438813888d6f8496a4df714 | Tracker ID: TRK-001 | Synced from Notion November 18, 2026 -->
 
 # Analytics FAQ
 
@@ -44,4 +44,4 @@ Yes. A saved search keeps the charts in its Analytics view and their order. To s
 
 ## How do I share, export, or print Analytics charts?
 
-Click Share in the Analytics view to email a report or export a PDF (Portable Document Format) file, in Portrait or Landscape. Click the Print icon to download a PDF of the charts showing, then print it from your device. [Share and Export Analytics Charts](https://support.perchwell.com/baldwin/en/articles/8955876-share-and-export-analytics-charts) walks through each sharing option.
+Click Share in the Analytics view to email a report or export a PDF (Portable Document Format) file, in Portrait or Landscape. Click the Print icon to download a PDF of the charts showing, then print it from your device.

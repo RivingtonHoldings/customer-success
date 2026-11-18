@@ -10,13 +10,13 @@ source_notion_url: https://app.notion.com/p/34b8b9e0143880fd8f04f5f389a33641
 migrated_from: master-article-list
 ---
 
-<!-- Article Status: Draft | MLS/AOR: Baldwin | Collection: Analytics | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3f98b9e0143881118584db40d55bf944 | Old title: Analytics Tab Overview -->
+<!-- Article Status: Live in Intercom | MLS: Baldwin, CRMLS | Collection: Analytics | Roles: All Except Client | Video Included: No | Visuals Included: Yes | Notion: https://app.notion.com/p/3f98b9e0143881118584db40d55bf944 | Tracker ID: TRK-002 | Old title: Analytics Tab Overview | Synced from Notion November 18, 2026. Images are placed in Notion; each appears here as an "Image" line with its alt text. -->
 
 # Analytics Page Overview
 
 **Description:** View Agent Ranking, Office Ranking, Market Activity, Market Analytics, and more on the Analytics page, then filter and export each report.
 
-Use this article to compare agents, offices, firms, and teams by sales volume, follow recent listing activity and price trends in your market, and export a report to share.
+Use this article to compare agents, offices, firms, and teams by sales volume, see recent listing activity and price trends in your market, and export a report to share.
 
 ## Open a report on the Analytics page
 
@@ -29,7 +29,9 @@ Open any Analytics report from the Analytics page. It holds six reports: Agent R
 
 The report opens with its filters across the top and its results below. To return to the list of reports, click Analytics in the upper left.
 
-> Screenshot placeholder: Show the Analytics page with the six report options | Alt text: The Analytics page listing the Agent, Office, Firm, and Team Ranking Reports and the Market Activity and Market Analytics Reports.
+> Image (Baldwin) | Alt text: The Analytics page listing the Agent, Office, Firm, and Team Ranking Reports and the Market Activity and Market Analytics Reports.
+
+> Image (CRMLS) | Alt text: The Analytics page listing the Agent and Office Ranking Reports and the Market Activity and Market Analytics Reports.
 
 Members who came from a legacy platform may know Analytics as Statistical Reporting. To chart only the listings in your current search, open the Analytics view on the Search page instead; [Add Charts to the Analytics View on Search](https://support.perchwell.com/baldwin/en/articles/17453999-analytics-tab-walkthrough) explains how.
 
@@ -54,7 +56,9 @@ Each ranking report lists the agent, office, firm, or team by ID and name, follo
 
 A sale shared with a co-agent is split between the two agents, which means unit counts can show decimals, such as 16.5.
 
-> Screenshot placeholder: Show the Office Ranking Report with its filters and ranking columns | Alt text: The Office Ranking Report with filters across the top and columns from Rank to % Total below.
+> Image (Baldwin) | Alt text: The Office Ranking Report with filters across the top and columns from Rank to % Total below.
+
+> Image (CRMLS) | Alt text: The Office Ranking Report with filters across the top and columns from Rank to % Total below.
 
 ### Filter a ranking report
 
@@ -75,7 +79,7 @@ The Agent Ranking Report ranks each agent by sales volume, for annual performanc
 - Agent Status: Rank only Active or only Inactive agents.
 - Agent Office: Rank only the agents in one office.
 
-The Non Member row groups buy-side agents who are not Baldwin MLS members.
+The Non Member row groups buy-side agents who are not members of your MLS.
 
 ### Rank offices with the Office Ranking Report
 
@@ -94,7 +98,7 @@ A firm appears when it was active at any point during the Closed Date range. Eac
 
 ### Rank teams with the Team Ranking Report
 
-The Team Ranking Report ranks each team in Baldwin MLS by sales volume. Only sales by agents on a team count, which means Team Ranking covers a small share of the market's total sales. It adds a Team Status filter for narrowing teams by status.
+The Team Ranking Report ranks each team in your MLS by sales volume. Only sales by agents on a team count, which means Team Ranking covers a small share of the market's total sales. It adds a Team Status filter for narrowing teams by status.
 
 ### View the closed listings behind a ranking
 
@@ -112,33 +116,39 @@ The same menu also offers these options:
 - Copy value: Copies the number you clicked.
 - Expand: Shows the number you clicked in a label over the table.
 
-> Screenshot placeholder: Show the menu that opens after clicking a Total Volume value | Alt text: The menu on a ranking value with Drill into Individual Closed Listings, Copy value, and Expand.
+> Image (Baldwin) | Alt text: The menu on a ranking value with Drill into Individual Closed Listings, Copy value, and Expand.
+
+> Image (CRMLS) | Alt text: The menu on a ranking value with Drill into Individual Closed Listings, Copy value, and Expand.
 
 > **Note:** Broker exclusive listings count toward agent and office totals but are hidden from other members, including in the Drill window. This means a total may include sales you cannot open.
 
-## Follow listing activity with the Market Activity Report
+## Understand listing activity with the Market Activity Report
 
-Follow what is new, under contract, or recently sold with the Market Activity Report. It groups recent listing activity by status: New, Coming Soon, Price Drop, Sold, Under Contract, and Active Under Contract.
+See what is new, under contract, or recently sold in your market with the Market Activity Report. It groups recent listing activity by status: New, Coming Soon, Price Drop, Sold, Under Contract, and Active Under Contract.
 
 Each status section shows the listing count, average price, and median price. The Sold section also shows the average and median list price and the sale-to-list price ratio.
 
 Hover over a pin on the Market Activity map to see the listing's address, bedrooms, bathrooms, property type, and latest price.
 
-> Screenshot placeholder: Show the Market Activity Report with the status sections and the map | Alt text: The Market Activity Report with listing counts and prices by status beside a map of listing pins.
+> Image (Baldwin) | Alt text: The Market Activity Report with listing counts and prices by status beside a map of listing pins.
+
+> Image (CRMLS) | Alt text: The Market Activity Report with listing counts and prices by status beside a map of listing pins.
 
 ### Filter the Market Activity Report
 
-Narrow the Market Activity Report to one price range, area, or kind of property with these filters:
+Narrow the Market Activity Report to one price range, area, kind of property, or office with these filters:
 
 - Status Date: Select how recently a listing's status changed.
 - Price Range: Show only listings within a price range.
 - Construction Status: Show only listings with one construction status, such as Under Construction.
 - County, City, and Subdivision: Show activity in one area.
 - Property Type and Property Sub Type: Show activity for one kind of property.
+- Structure Style: Select Condo to show only condo activity, or Other to show all other activity.
+- Listing Office: Show only listings from the offices you select.
 
-## Follow price trends with the Market Analytics Report
+## Understand price trends with the Market Analytics Report
 
-Follow how prices and sales are trending with the Market Analytics Report, which charts market metrics over time and writes an AI-generated summary of them. The summary updates automatically when you change a filter. It works as a starting point for a client market update or a social media post.
+See how prices and sales are trending with the Market Analytics Report, which charts market metrics over time and writes an AI-generated summary of them. The summary updates automatically when you change a filter. It works as a starting point for a client market update or a social media post.
 
 Select a metric from the Field dropdown to change what the chart shows:
 
@@ -156,7 +166,9 @@ Both measures count only listings in Active status, which means listings under c
 
 > **Important:** Market Analytics data for the most recent period is preliminary. Do not compare its sales volume with earlier periods.
 
-> Screenshot placeholder: Show the Market Analytics Report with the AI-generated summary and a chart | Alt text: The Market Analytics Report with an AI-generated market summary beside a chart of average price over time.
+> Image (Baldwin) | Alt text: The Market Analytics Report with an AI-generated market summary beside a chart of average price over time.
+
+> Image (CRMLS) | Alt text: The Market Analytics Report with an AI-generated market summary beside a chart of average price over time.
 
 ### Filter the Market Analytics Report
 
@@ -186,4 +198,6 @@ The file downloads to your computer. Format is set to PNG (Image) by default, an
 - XLSX (Excel): An Excel spreadsheet of the report's data.
 - CSVs (in ZIP file): The report's data as CSV (comma-separated values) files, packed in one ZIP file.
 
-> Screenshot placeholder: Show the Export Dashboard window with the Format dropdown open | Alt text: The Export Dashboard window with the Format dropdown listing PNG, PDF, XLSX, and CSVs in a ZIP file.
+> Image (Baldwin) | Alt text: The Export Dashboard window with the Format dropdown listing PNG, PDF, XLSX, and CSVs in a ZIP file.
+
+> Image (CRMLS) | Alt text: The Export Dashboard window with the Format dropdown listing PNG, PDF, XLSX, and CSVs in a ZIP file.
