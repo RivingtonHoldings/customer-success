@@ -87,7 +87,7 @@ That is why a Notion draft's screenshots need no download, no Chrome, and no man
 3. `get_article` on that draft. The `src` values now point at `perchwell.intercom-attachments-1.com`. Strip the `?expires=…&signature=…` query; the bare path is stable and Intercom re-signs it on read.
 4. Build the real body from those URLs, so the live article never contains a URL that can expire.
 
-Reuse the CDN URL already on the live article whenever the draft points at the same image. In CRMLS mode the "live article" for this purpose is the Baldwin record, and the reuse applies to unlabeled images only; every `CRMLS |` image is new to Intercom and goes through the scratch draft. Carry `width` and `height` over from the current body when you have them, so the layout does not shift; on a freshly re-hosted image, omit them and let Intercom size it.
+Reuse the CDN URL already on the live article whenever the draft points at the same image. When the target MLS has no record yet, or the image is hosted on another MLS's record, the "live article" for this purpose is that other record, and the reuse applies to unlabeled images only; every image labeled for the target MLS (such as `CRMLS |`) is new to Intercom and goes through the scratch draft. Carry `width` and `height` over from the current body when you have them, so the layout does not shift; on a freshly re-hosted image, omit them and let Intercom size it.
 
 The connector has no delete tool, so say in the report that the scratch draft needs deleting by hand in Intercom.
 
