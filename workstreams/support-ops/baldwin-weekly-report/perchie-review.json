@@ -1,0 +1,379 @@
+{
+ "artifact_url": "https://claude.ai/artifact/C4LgX4oqEKbraa4uQXzDHy",
+ "weeks": [
+  {
+   "label": "Nov 9 to 16",
+   "year": 2026,
+   "notion_url": "https://app.notion.com/p/41a8b9e01438811289d1cf9bc3c7ca79",
+   "pool": 67,
+   "conversations": [
+    {
+     "id": "215476778402057",
+     "question": "Why can't I save a draft of a new listing, when the Save draft and Submit listing buttons are both gray?",
+     "perchie_answer": "Perchie gave no answer. It restated the problem and offered a live agent twice, then asked for more details. A teammate later explained that Save draft only works once every field through County is filled in, and that the city and county the member needed were missing from the MLS lists.",
+     "verdict": "No answer",
+     "cause": "Article missing",
+     "source_article": "add-and-edit-listings.md",
+     "fix_id": "F3",
+     "source_title": "Add and Edit Listings",
+     "source_url": "https://support.perchwell.com/en/articles/13627189-add-and-edit-listings"
+    },
+    {
+     "id": "215476789044524",
+     "question": "Can a live agent contact me to set up a Zoom training call?",
+     "perchie_answer": "The member asked for a live agent right away, and Perchie connected them without trying to answer. The teammate then explained that Baldwin MLS staff run training and shared the Baldwin training calendar.",
+     "verdict": "Not a Perchie question",
+     "cause": "None",
+     "source_article": "how-to-complete-required-perchwell-training.md",
+     "fix_id": "R2",
+     "source_title": "How to Complete Required Perchwell Training",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/16170923-how-to-complete-required-perchwell-training"
+    },
+    {
+     "id": "215476823634366",
+     "question": "I can add more than one virtual tour to a listing, but only one shows publicly; is that correct?",
+     "perchie_answer": "Perchie did not answer. It restated the question and offered a live agent, which the member accepted. The member then worked it out on their own.",
+     "verdict": "No answer",
+     "cause": "Article missing",
+     "source_article": "listing-maintenance-faq.md",
+     "fix_id": "F6",
+     "source_title": "Listing Maintenance FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
+    },
+    {
+     "id": "215476859616444",
+     "question": "How do I take my listing off the market permanently when I don't see that option under Property status?",
+     "perchie_answer": "Perchie told the member to choose Withdrawn instead of Temp off mkt. The member replied that Withdrawn is not in the list either, and a teammate told them to use Temp Off Market for now while the team checks.",
+     "verdict": "Wrong",
+     "cause": "Article missing",
+     "source_article": "what-each-listing-status-means.md",
+     "fix_id": "F5",
+     "source_title": "What Each Listing Status Means",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/14709241-what-each-listing-status-means"
+    },
+    {
+     "id": "215476768272048",
+     "question": "How do I run a CMA for one condo unit when four towers share two street addresses and the unit number is what tells them apart?",
+     "perchie_answer": "Perchie said there is no unit number field in the CMA and suggested turning on Include exact address. It never covered how to pick the right unit as the subject property.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "create-a-cma-with-a-subject-property.md",
+     "fix_id": "F10",
+     "source_title": "Create a CMA with a Subject Property",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15216797-create-a-cma-with-a-subject-property"
+    },
+    {
+     "id": "215476770201172",
+     "question": "How do I re-enter an expired listing?",
+     "perchie_answer": "Perchie said to go to Manage Listings, select the expired listing, and click Duplicate. It added that the copy is saved as a draft to review and submit, and that Days on Market starts at 0.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "listing-maintenance-faq.md",
+     "fix_id": "F4",
+     "source_title": "Listing Maintenance FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
+    },
+    {
+     "id": "215476773728958",
+     "question": "How do I find waterfront properties?",
+     "perchie_answer": "Perchie said to open Filters, type water in Search filters and values, and set Lot Description, Water Property Type, Named Waterfront Y/N, or Waterfront Footage. It also mentioned that filters use OR by default.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "search-faq.md",
+     "fix_id": null,
+     "source_title": "Search FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
+    },
+    {
+     "id": "215476789592712",
+     "question": "A client says they tagged 25 listings they like for me, so where do I see those listings?",
+     "perchie_answer": "Perchie first sent the member to the Liked filter in Shared properties in Messages. After the member said nothing was there, it pointed to the contact's Shared Listings and the Liked column on the Tags page, said clients cannot add listings to a Tag, and asked how the client shared them.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "tags-faq.md",
+     "fix_id": "F7",
+     "source_title": "Tags FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15216706-tags-faq"
+    },
+    {
+     "id": "215476801103988",
+     "question": "Why don't bedroom count and property type show up when I search for them on the Filters tab?",
+     "perchie_answer": "Perchie explained that Property Type and Beds are Quick Filters at the top of the Search page and do not appear in the Search filters and values search. It said everything else is found by typing the filter name on the Filters tab.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "search-faq.md",
+     "fix_id": "F1",
+     "source_title": "Search FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
+    },
+    {
+     "id": "215476819102342",
+     "question": "Is there a printed or digital how-to guide for basic tasks like searches and CMAs?",
+     "perchie_answer": "Perchie misread the request as how to print search results and CMA reports as PDFs, and gave those steps. When the member asked how to download the guides, it repeated the report-printing steps.",
+     "verdict": "Wrong",
+     "cause": "Article missing",
+     "source_article": "common-perchwell-faqs.md",
+     "fix_id": "F2",
+     "source_title": "Common Perchwell FAQs",
+     "source_url": ""
+    },
+    {
+     "id": "215476824772372",
+     "question": "Can an agent clone a listing that closed within the last 12 months?",
+     "perchie_answer": "Perchie said to duplicate it from Manage Listings, then to filter Manage Listings to Closed. The member said the listing had never been in their Manage Listings and was told it was locked, so the conversation went to a teammate.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "listing-maintenance-faq.md",
+     "fix_id": "F4",
+     "source_title": "Listing Maintenance FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
+    },
+    {
+     "id": "215476828220568",
+     "question": "Can I let an AI assistant like ChatGPT into my Perchwell account to manage saved searches, without sharing my password?",
+     "perchie_answer": "Perchie said no: Perchwell has no API or approved integration for outside assistants, and Assume Identity is the only approved way for someone else to access the account.",
+     "verdict": "Partly correct",
+     "cause": "Article missing",
+     "source_article": "login-and-troubleshooting-faq.md",
+     "fix_id": "F11",
+     "source_title": "Login and Troubleshooting FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/14710265-login-and-troubleshooting-faq"
+    },
+    {
+     "id": "215476840624894",
+     "question": "How does an agent add photos to a draft listing?",
+     "perchie_answer": "Perchie said to open the draft from Manage Listings with the pencil icon, click Upload or drop photos in the Media section, and save the draft, with JPG or PNG files up to 15 MB each.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "add-and-edit-listings.md",
+     "fix_id": null,
+     "source_title": "Add and Edit Listings",
+     "source_url": "https://support.perchwell.com/en/articles/13627189-add-and-edit-listings"
+    },
+    {
+     "id": "215476787825954",
+     "question": "How does an agent add a Matterport tour made by another company to their listing?",
+     "perchie_answer": "Perchie said to paste the Matterport link into a virtual tour field at the end of Property Details and submit updates. The member confirmed this solved it.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "listing-maintenance-faq.md",
+     "fix_id": null,
+     "source_title": "Listing Maintenance FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
+    },
+    {
+     "id": "215476783270352",
+     "question": "Why can't I create One Page Reports, which fail with an error that the PDF could not be exported?",
+     "perchie_answer": "Perchie said the browser was probably blocking the export and suggested allowing pop-ups and clearing the cache. The real cause was a site-wide release, which a teammate confirmed.",
+     "verdict": "Not a Perchie question",
+     "cause": "Product bug or data issue",
+     "source_article": "create-a-one-page-report.md",
+     "fix_id": "R1",
+     "source_title": "Create a One Page Report",
+     "source_url": "https://support.perchwell.com/en/articles/12816780-create-a-one-page-report"
+    },
+    {
+     "id": "215476785450146",
+     "question": "In a staff test of Perchie: why do search results drop to zero when Price increase or Price drop is selected on a search for one condo development?",
+     "perchie_answer": "Perchie gave no answer. It restated the problem, offered a live agent, and asked for more details about the search setup.",
+     "verdict": "No answer",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "filter-your-search-by-status-and-price-changes.md",
+     "fix_id": "F9",
+     "source_title": "Filter Your Search by Status and Price Changes",
+     "source_url": "https://support.perchwell.com/en/articles/11010696-filter-your-search-by-status-and-price-changes"
+    },
+    {
+     "id": "215476787135574",
+     "question": "How do I change my listing from Active under contract to Pending?",
+     "perchie_answer": "Perchie said to go to Manage Listings, click the pencil icon, change the Status to Pending, and save, and explained what Pending means.",
+     "verdict": "Correct",
+     "cause": "Article missing",
+     "source_article": "add-and-edit-listings.md",
+     "fix_id": "F3",
+     "source_title": "Add and Edit Listings",
+     "source_url": "https://support.perchwell.com/en/articles/13627189-add-and-edit-listings"
+    },
+    {
+     "id": "215476810658856",
+     "question": "Is there a search filter for listings with an assumable mortgage?",
+     "perchie_answer": "Perchie said there is no assumable mortgage filter and suggested a keyword search for assumable. The Financing filter has an Assumable value.",
+     "verdict": "Wrong",
+     "cause": "Article missing",
+     "source_article": "search-faq.md",
+     "fix_id": "F1",
+     "source_title": "Search FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
+    },
+    {
+     "id": "215476822931675",
+     "question": "How do I add a new search to a contact I already have?",
+     "perchie_answer": "Perchie gave the steps to attach a contact to a search that is already saved, but left out building and saving the new search first.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "share-a-saved-search-with-a-client.md",
+     "fix_id": "F8",
+     "source_title": "Share a Saved Search with a Client",
+     "source_url": "https://support.perchwell.com/en/articles/8955682-share-a-saved-search-with-a-client"
+    },
+    {
+     "id": "215476842896594",
+     "question": "Where do I find the Baldwin County forms?",
+     "perchie_answer": "Perchie pointed the agent to the Integrations panel on the Dashboard, then asked whether they meant the association's forms library or forms attached to a listing.",
+     "verdict": "Should have handed off",
+     "cause": "Fin rule or guidance",
+     "source_article": null,
+     "fix_id": "R3"
+    }
+   ],
+   "fixes": [
+    {
+     "id": "F1",
+     "type": "article",
+     "target": "Search FAQ",
+     "change": "Add \"Can I search for listings with an assumable mortgage?\": yes, enter Financing in Search filters and values on the Filters tab and select Assumable. Confirmed by Jeff. (The optional Quick Filters question was dropped: Perchie answered it correctly.)",
+     "status": "Drafted",
+     "conversations": [
+      "215476810658856",
+      "215476801103988"
+     ],
+     "where": "https://app.notion.com/p/41a8b9e014388110b4e9db0e9f55f9b1"
+    },
+    {
+     "id": "F2",
+     "type": "article",
+     "target": "Getting Started in Perchwell",
+     "change": "Add \"Find a Perchwell how-to guide, manual, or PDF\": there is no printed manual; the help center is the guide, any article prints or saves as a PDF, with links to starter articles, the Video Library, and Quick Start training. Moved here from Common Perchwell FAQs, which is an Intercom draft Perchie cannot read.",
+     "status": "Drafted",
+     "conversations": [
+      "215476819102342"
+     ],
+     "where": "https://app.notion.com/p/41a8b9e014388110b4e9db0e9f55f9b1"
+    },
+    {
+     "id": "F3",
+     "type": "article",
+     "target": "Add and Edit Listings",
+     "change": "Add \"Fix a gray Save draft button\" (fill in every field through County; ask MLS staff to add a missing city or county, and save with any available one meanwhile) and \"Change a listing's status, such as Active under contract to Pending\". The status field name and required fields still need a check in the product.",
+     "status": "Drafted",
+     "conversations": [
+      "215476778402057",
+      "215476787135574"
+     ],
+     "where": "https://app.notion.com/p/41a8b9e014388110b4e9db0e9f55f9b1"
+    },
+    {
+     "id": "F4",
+     "type": "article",
+     "target": "Listing Maintenance FAQ, duplicate a listing",
+     "change": "Add a first step to \"How do I duplicate or clone a listing?\": select Expired or Closed under Status in Filters, because those listings are hidden by default. Say you can duplicate only listings in your own Manage Listings, and add the words relist, re-enter, and put an expired listing back on the market.",
+     "status": "Proposed",
+     "conversations": [
+      "215476770201172",
+      "215476824772372"
+     ]
+    },
+    {
+     "id": "F5",
+     "type": "article",
+     "target": "Listing Maintenance FAQ and What Each Listing Status Means",
+     "change": "Add \"How do I take my listing off the market?\" listing the off-market statuses an agent can select, and whether Withdrawn or Canceled must be requested from Baldwin MLS staff. Needs the rule confirmed first: the member could not see Withdrawn, and the team was still checking.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476859616444"
+     ]
+    },
+    {
+     "id": "F6",
+     "type": "article",
+     "target": "Listing Maintenance FAQ, virtual tours",
+     "change": "Under the video and Matterport tour question, say which of Virtual tour #1, Virtual tour #2, and Branded virtual tour shows on the public listing and which only in the MLS. Needs product to confirm the behavior first.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476823634366"
+     ]
+    },
+    {
+     "id": "F7",
+     "type": "article",
+     "target": "Tags FAQ",
+     "change": "Add \"My client says they liked or tagged listings for me. Where do I see them?\": the Liked column on the Tags page, the Like filter in Shared properties in Messages, and listings a client sent with Share Listings with Your Agent. Say clients cannot create Tags or add listings to one.",
+     "status": "Proposed",
+     "conversations": [
+      "215476789592712"
+     ]
+    },
+    {
+     "id": "F8",
+     "type": "article",
+     "target": "Share a Saved Search with a Client",
+     "change": "Add \"Add a new search to an existing contact\": click Start New, set filters, click Save, name the search, then open the pencil icon and pick the contact. Use the words add a search to a contact and set up a search for a client.",
+     "status": "Proposed",
+     "conversations": [
+      "215476822931675"
+     ]
+    },
+    {
+     "id": "F9",
+     "type": "article",
+     "target": "Filter Your Search by Status and Price Changes",
+     "change": "In the price drop section, add: if results go to zero when you select Price drop or Price increase, no listing in your search changed price in the last 30 days; set a longer window such as 180 or 365 days.",
+     "status": "Proposed",
+     "conversations": [
+      "215476785450146"
+     ]
+    },
+    {
+     "id": "F10",
+     "type": "article",
+     "target": "Create a CMA with a Subject Property",
+     "change": "Add a short section on a condo unit in a building with several towers: open the exact unit by MLS ID or by address with the unit, or add the subject property by hand and narrow comps with Subdivision/Condo. Low confidence; check in the product before drafting.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476768272048"
+     ]
+    },
+    {
+     "id": "F11",
+     "type": "article",
+     "target": "Login and Troubleshooting FAQ",
+     "change": "Add \"Can ChatGPT or another AI assistant log in to my account or manage my saved searches?\" with the product-approved answer. Perchie said no API exists, which no article backs, and pointed to Assume Identity, which is not meant for this.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476828220568"
+     ]
+    },
+    {
+     "id": "R1",
+     "type": "rule",
+     "target": "Error messages from Perchwell",
+     "change": "When a member quotes an error message from Perchwell, such as \"could not export that PDF\", give at most one quick step, then offer to connect them with the support team instead of a list of browser fixes.",
+     "status": "Proposed",
+     "conversations": [
+      "215476783270352"
+     ]
+    },
+    {
+     "id": "R2",
+     "type": "rule",
+     "target": "Training requests",
+     "change": "When a Baldwin member asks for training or a training call, say that Baldwin MLS staff run Perchwell training, share the registration page from How to Complete Required Perchwell Training, and hand off only if the member still wants a person.",
+     "status": "Proposed",
+     "conversations": [
+      "215476789044524"
+     ]
+    },
+    {
+     "id": "R3",
+     "type": "rule",
+     "target": "Baldwin association forms",
+     "change": "When a member asks for Baldwin County or Baldwin REALTORS forms or contracts, say Perchwell does not host association forms, do not send them to the Integrations panel, and give the Baldwin MLS staff contact or hand off. Once MLS staff confirm where the forms live, add that to the MLS Rules and Compliance FAQ.",
+     "status": "Proposed",
+     "conversations": [
+      "215476842896594"
+     ]
+    }
+   ]
+  }
+ ]
+}
