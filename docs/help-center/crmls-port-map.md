@@ -1,6 +1,6 @@
 # CRMLS port map
 
-One row per Notion article the CRMLS mode of `/port-to-intercom` has carried into the CRMLS help center (ID 4767477) as its own Intercom record. The Baldwin record is the one the Notion row's `Intercom URL` points at; the CRMLS record is the one `Intercom URL CRMLS` points at. Started November 4, 2026 with the Client Experience pilot. The skill adds or updates a row at step 9 of the CRMLS mode; a human never edits the IDs by hand.
+One row per Notion article the CRMLS mode of `/port-to-intercom` has carried into the CRMLS help center (ID 4767477) as its own Intercom record. The Baldwin record is the one the Notion row's `Intercom URL` points at; the CRMLS record is the one `Intercom URL CRMLS` points at. Started November 4, 2026 with the Client Experience pilot. The skill adds or updates a row at step 9 when the target is CRMLS; a human never edits the IDs by hand. `/publish crmls` and `/publish both` reach the same step through `/port-to-intercom`.
 
 Columns:
 
