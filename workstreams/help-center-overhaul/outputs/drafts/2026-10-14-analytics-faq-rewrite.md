@@ -36,7 +36,7 @@ The Analytics page holds ranking and market reports for your MLS. The Analytics 
 
 ## How many charts can I add to the Analytics view?
 
-Add up to 8 charts at a time to the Analytics view on the Search page. To add a different chart when 8 are showing, delete one first. Click the x icon in a chart's upper right, labeled Delete and the chart name, such as Delete Price. [Analytics Tab Walkthrough](https://support.perchwell.com/baldwin/en/articles/8955889-analytics-tab-walkthrough) explains how to add a chart with + Charts and pick a chart category.
+Add up to 8 charts at a time to the Analytics view on the Search page. To add a different chart when 8 are showing, delete one first. Click the x icon in a chart's upper right, labeled Delete and the chart name, such as Delete Price. [Add Charts to the Analytics View on Search](https://support.perchwell.com/baldwin/en/articles/17453999-analytics-tab-walkthrough) explains how to add a chart with Charts and pick a chart category.
 
 ## Are Analytics charts saved when I save a search?
 

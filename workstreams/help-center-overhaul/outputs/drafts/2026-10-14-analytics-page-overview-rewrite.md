@@ -31,7 +31,7 @@ The report opens with its filters across the top and its results below. To retur
 
 > Screenshot placeholder: Show the Analytics page with the six report options | Alt text: The Analytics page listing the Agent, Office, Firm, and Team Ranking Reports and the Market Activity and Market Analytics Reports.
 
-Members who came from a legacy platform may know Analytics as Statistical Reporting. To chart only the listings in your current search, open the Analytics view on the Search page instead; [Analytics Tab Walkthrough](http://support.perchwell.com/baldwin/en/articles/8955889-analytics-tab-walkthrough) explains how.
+Members who came from a legacy platform may know Analytics as Statistical Reporting. To chart only the listings in your current search, open the Analytics view on the Search page instead; [Add Charts to the Analytics View on Search](https://support.perchwell.com/baldwin/en/articles/17453999-analytics-tab-walkthrough) explains how.
 
 ## Compare agents, offices, firms, and teams with ranking reports
 
