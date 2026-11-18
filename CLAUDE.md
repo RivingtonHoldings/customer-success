@@ -84,7 +84,7 @@ Each rung requires more than the one before it.
    - a mirror re-sync with `/sync-help-center` afterward.
 4. **Never:** Claude does not write conversations, contacts, companies, or macros in Intercom. Macros are drafted in the repo and a human creates them in Intercom.
 
-Pushes are on as of September 17, 2026. `/port-to-intercom` is the only path that writes to Intercom: it checks its preconditions first and refuses when one fails, and it closes the loop by moving the Notion row to `Live in Intercom`. Rung 3's four conditions apply on every update, with no batching. The Intercom article write tools are on the ask list in `.claude/settings.json` so they always prompt; that list names each connector by server ID, and the ID differs per teammate, so a teammate whose session prompts by default adds theirs.
+Pushes are on as of September 17, 2026. `/port-to-intercom` is the only path that writes to Intercom: it checks its preconditions first and refuses when one fails, and it closes the loop by moving the Notion row to `Live in Intercom`. Rung 3's four conditions apply on every update, with no batching. The Intercom article write tools are on the ask list in `.claude/settings.json` so they always prompt; that list names each connector by server ID, and the ID differs per teammate, so a teammate whose session prompts by default adds theirs. Everything else runs without permission prompts: file edits, shell commands, web reads, and Notion page writes are pre-approved in the same file, which means the Intercom article write tools and Notion deletes are the only prompts left, and each one goes to whoever is running the session.
 
 ## Privacy
 
