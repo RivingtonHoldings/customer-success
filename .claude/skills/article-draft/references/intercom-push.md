@@ -22,6 +22,10 @@ A Notion row whose `MLS` field lists several MLSs produces one Intercom record p
 - On a create, `collections.md` has a collection owned by the target MLS's help center whose name matches the row's `Collection`.
 - The MLS's `Ready to publish` value in the readiness table on the Help Center Production Tracker allows it: `No` blocks a create, `Paused` blocks everything, and an unreadable table never blocks an update.
 
+- The edited-in-Intercom check compares the live `updated_at` with the one stored in the article's media record (`docs/help-center/media-record/<Tracker ID>.json`), and falls back to the newest changelog date when there is no record yet. A later live value needs its own confirmation, asked first.
+- A link with no published article for the target MLS is decided one link at a time: stop, publish without the link, or a named exception recorded in `docs/help-center/link-exceptions.md`. Another MLS's article is never substituted automatically.
+- A push writes the target MLS's entry in the media record, a receipt of the media it carried. It is never a content source; Notion wins.
+
 Everything else in the two sections below applies. A port never writes another MLS's record; a change to it is a separate port with its own confirmation.
 
 **Retiring what a new record replaces.** Only after a teammate publishes the new record. A legacy record in the target help center is set to `draft` with `update_article` carrying `id` and `state` and nothing else, under the rung 3 rules: shown, confirmed one record at a time, one changelog line each. Another MLS's shared record leaves the target collection by a human in Intercom, because `update_article` takes a single `parent_id` and would drop its other collections. Deleting a record stays human.
