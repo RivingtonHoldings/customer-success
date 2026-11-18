@@ -43,6 +43,7 @@ The values above are an illustration of the shape only, not a real article.
   - Uploaded image: `file:<fileId>`, the ID inside `notion-file-block://<blockId>/<fileId>?name=...`. A new upload gets a new file ID even with the same filename. The block ID is never used, because a replaced screenshot shows up as a new block.
   - External image: `url:<path>`, the URL path with any signature removed.
   - Video: `video:<Loom or Arcade URL>`.
+  - `unknown`: an item kept from the live body that was not verified against Notion in that push. Never guessed from a filename or date. The next run treats it as Cannot be verified.
   - Signed download URLs expire after five minutes and are never recorded.
 - `published_as` is the Intercom CDN URL (signature removed) or the video embed URL the item became.
 - Items left out on purpose (labeled for another MLS, unlabeled video not counted for this MLS) are not recorded.
