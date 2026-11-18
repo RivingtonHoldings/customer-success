@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T22:04:17Z. Articles: 81 (79 published, 2 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-18T17:29:24Z. Articles: 81 (79 published, 2 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -148,4 +148,4 @@ Collection ID 16866865. 15 articles.
 - [Set Up Email Alerts for Saved Searches](set-up-email-alerts-for-saved-searches.md), updated 2026-11-05
 - [Share Listings with Clients from Search](share-listings-with-clients-from-search.md), updated 2026-11-05
 - [Share a Saved Search with a Client](share-a-saved-search-with-a-client.md), updated 2026-11-05
-- [Universal Search Bar](universal-search-bar.md), updated 2026-11-05
+- [Universal Search Bar](universal-search-bar.md), updated 2026-11-18

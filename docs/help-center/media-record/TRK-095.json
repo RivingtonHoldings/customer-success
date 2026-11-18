@@ -1,0 +1,36 @@
+{
+  "tracker_id": "TRK-095",
+  "article_name": "Universal Search Bar",
+  "records": {
+    "crmls": {
+      "intercom_article_id": 18234136,
+      "title": "Universal Search Bar",
+      "intercom_updated_at": "2026-11-18T17:26:13Z",
+      "published_on": "2026-11-18",
+      "notion_last_edited": "2026-11-18T15:22:26Z",
+      "media": [
+        {
+          "position": "Opening paragraph, 1",
+          "kind": "video",
+          "caption_label": "CRMLS:",
+          "identity": "video:https://www.loom.com/share/eb503d5e8c5f47d2a7fc555ba909ed1f",
+          "published_as": "https://www.loom.com/embed/eb503d5e8c5f47d2a7fc555ba909ed1f"
+        },
+        {
+          "position": "Find a listing, agent, or contact with the Universal Search Bar, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:ac4dc8af-81c5-496a-a019-ed277dcb6077",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319480/f5a31bbc7a05c60c180d70146472/upload_2630545859147730407.png"
+        },
+        {
+          "position": "What you find with the Universal Search Bar, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:282d358b-f2a2-4f10-af03-99d1d715adc4",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2788319510/2dac2a4096f5a98ab9507458fa49/upload_13423220001727663500.png"
+        }
+      ]
+    }
+  }
+}

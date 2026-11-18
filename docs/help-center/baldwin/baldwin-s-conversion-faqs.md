@@ -3,19 +3,19 @@ intercom_id: "13604909"
 content_id: "15667823"
 title: "Baldwin\u2019s Conversion FAQs"
 description: "In this article, you'll find answers to common questions about what to expect before, during, and after the upcoming conversion, including key dates, potential impacts, and steps you can take to prepare."
-url: "http://support.perchwell.com/baldwin/en/articles/13604909-baldwin-s-conversion-faqs"
+url: ""
 help_center: baldwin
 help_center_id: 4755399
 collection: "Getting Started Guide"
 collection_ids: [19562394]
 collections: ["Getting Started Guide"]
-state: published
+state: draft
 author_id: 9490228
 created_at: 2026-02-02T21:06:36Z
-updated_at: 2026-10-16T20:24:41Z
+updated_at: 2026-11-17T18:17:15Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-10-23T19:40:37Z
+body_source: intercom-api
+synced_at: 2026-11-18T17:29:24Z
 ---
 
 # Baldwin’s Conversion FAQs

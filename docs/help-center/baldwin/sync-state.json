@@ -1,8 +1,32 @@
 {
- "last_run": "2026-11-05T22:04:17Z",
+ "last_run": "2026-11-18T17:29:24Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "16634337": {
+   "file": "add-the-client-and-invite-them.md",
+   "updated_at": 1794952453,
+   "state": "draft",
+   "title": "Add the Client and Invite Them",
+   "content_id": "20096471",
+   "body_sha1": "23baf555e7fe8bbd4d761c428b0a8f3b15265f35"
+  },
+  "13604909": {
+   "file": "baldwin-s-conversion-faqs.md",
+   "updated_at": 1794939435,
+   "state": "draft",
+   "title": "Baldwin\u2019s Conversion FAQs",
+   "content_id": "15667823",
+   "body_sha1": "11b4b8e86aff54512e04f5cdd100943020bcbc14"
+  },
+  "18301456": {
+   "file": "create-a-listing-performance-report.md",
+   "updated_at": 1794238918,
+   "state": "published",
+   "title": "Create a Listing Performance Report",
+   "content_id": "23695331",
+   "body_sha1": "310359dd0e381d79537ee7e6679941a30234701e"
+  },
   "8955772": {
    "file": "create-an-itinerary-report.md",
    "updated_at": 1793882228,
@@ -50,6 +74,14 @@
    "title": "Filter Your Search by Status and Price Changes",
    "content_id": "11832103",
    "body_sha1": "6fb9237495fb454f7445dbf2a696ec05d7f9d603"
+  },
+  "8391759": {
+   "file": "masquerade-an-agent-s-account.md",
+   "updated_at": 1782959830,
+   "state": "draft",
+   "title": "Masquerade an Agent's Account",
+   "content_id": "8399496",
+   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
   },
   "14727432": {
    "file": "find-your-partial-listings-in-perchwell.md",
@@ -763,14 +795,6 @@
    "content_id": "16154717",
    "body_sha1": "ccc43d0a8aaa478552b2d3c19e2ae644d07700d5"
   },
-  "13604909": {
-   "file": "baldwin-s-conversion-faqs.md",
-   "updated_at": 1792182281,
-   "state": "published",
-   "title": "Baldwin\u2019s Conversion FAQs",
-   "content_id": "15667823",
-   "body_sha1": "11b4b8e86aff54512e04f5cdd100943020bcbc14"
-  },
   "15809212": {
    "file": "upcoming-features.md",
    "updated_at": 1792155160,
@@ -850,14 +874,6 @@
    "title": "Hot Sheets",
    "content_id": "20096678",
    "body_sha1": "8231fd1f103d486d8391f642de22909884622d73"
-  },
-  "16634337": {
-   "file": "add-the-client-and-invite-them.md",
-   "updated_at": 1787692262,
-   "state": "published",
-   "title": "Add the Client and Invite Them",
-   "content_id": "20096471",
-   "body_sha1": "1808a3930be01e2ec4f8269570b9cb989d2f924b"
   },
   "14727757": {
    "file": "run-a-basic-search.md",
@@ -939,14 +955,6 @@
    "content_id": "19512571",
    "body_sha1": "e6e7177ca3691b450ff6695a29d01a62aad52c32"
   },
-  "14708987": {
-   "file": "common-perchwell-faqs.md",
-   "updated_at": 1782959978,
-   "state": "draft",
-   "title": "Common Perchwell FAQs",
-   "content_id": "17267954",
-   "body_sha1": "f255bfe6e2f1eedfc6d5ef223684bfc133497646"
-  },
   "16170923": {
    "file": "how-to-complete-required-perchwell-training.md",
    "updated_at": 1785607178,
@@ -1010,14 +1018,6 @@
    "title": "May Features",
    "content_id": "18332952",
    "body_sha1": "636cc1ec1cacc08737169cf0f03189601ae9a03d"
-  },
-  "8391759": {
-   "file": "masquerade-an-agent-s-account.md",
-   "updated_at": 1782959830,
-   "state": "draft",
-   "title": "Masquerade an Agent's Account",
-   "content_id": "8399496",
-   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
   }
  }
 }

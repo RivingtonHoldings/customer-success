@@ -1,6 +1,6 @@
 # Baldwin help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-05T22:04:17Z. Articles: 127 (117 published, 10 draft).
+Read-only mirror of the live Intercom help center (help center ID 4755399). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-18T17:29:24Z. Articles: 127 (116 published, 11 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -41,10 +41,9 @@ Collection ID 17797865. 6 articles.
 
 ## FAQs & Cheat Sheets
 
-Collection ID 19547885. 7 articles.
+Collection ID 19547885. 6 articles.
 
 - [All About Property Types and Sub-Types](all-about-property-types-and-sub-types.md), updated 2026-11-03
-- [Common Perchwell FAQs](common-perchwell-faqs.md) (draft), updated 2026-07-02
 - [Login and Troubleshooting FAQ](login-and-troubleshooting-faq.md), updated 2026-11-04
 - [MLS Rules and Compliance FAQ](mls-rules-and-compliance-faq.md), updated 2026-11-03
 - [Most Common Questions Asked to MLS Staff](most-common-questions-asked-to-mls-staff.md) (draft), updated 2026-11-04
@@ -55,9 +54,9 @@ Collection ID 19547885. 7 articles.
 
 Collection ID 19562394. 15 articles.
 
-- [Add the Client and Invite Them](add-the-client-and-invite-them.md), updated 2026-08-25
+- [Add the Client and Invite Them](add-the-client-and-invite-them.md) (draft), updated 2026-11-17
 - [Appraiser Capabilities in Perchwell](appraiser-capabilities-in-perchwell.md), updated 2026-08-04
-- [Baldwin’s Conversion FAQs](baldwin-s-conversion-faqs.md), updated 2026-10-16
+- [Baldwin’s Conversion FAQs](baldwin-s-conversion-faqs.md) (draft), updated 2026-11-17
 - [Client Valuation and Adding a Listing](client-valuation-and-adding-a-listing.md), updated 2026-08-25
 - [Getting Started in Perchwell](getting-started-in-perchwell.md), updated 2026-08-25
 - [Hot Sheets](hot-sheets.md), updated 2026-08-25
@@ -121,10 +120,11 @@ Collection ID 19693999. 6 articles.
 
 ## Reports
 
-Collection ID 17797980. 9 articles.
+Collection ID 17797980. 10 articles.
 
 - [Create a CMA with a Subject Property](create-a-cma-with-a-subject-property.md), updated 2026-11-03
 - [Create a Full Report](create-a-full-report.md), updated 2026-11-04
+- [Create a Listing Performance Report](create-a-listing-performance-report.md), updated 2026-11-09
 - [Create a Listing Report](create-a-listing-report.md), updated 2026-11-04
 - [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md), updated 2026-11-03
 - [Create a Media Report](create-a-media-report.md), updated 2026-11-04

@@ -3,19 +3,19 @@ intercom_id: "16634337"
 content_id: "20096471"
 title: "Add the Client and Invite Them"
 description: "In this article you will understand how to invite your client to Perchwell and also understand their views on the platform."
-url: "http://support.perchwell.com/baldwin/en/articles/16634337-add-the-client-and-invite-them"
+url: ""
 help_center: baldwin
 help_center_id: 4755399
 collection: "Getting Started Guide"
 collection_ids: [19562394]
 collections: ["Getting Started Guide"]
-state: published
+state: draft
 author_id: 10644865
 created_at: 2026-08-25T21:07:47Z
-updated_at: 2026-08-25T21:11:02Z
+updated_at: 2026-11-17T21:54:13Z
 labels: []
-body_source: public-help-center
-synced_at: 2026-09-04T16:50:44Z
+body_source: intercom-api
+synced_at: 2026-11-18T17:29:24Z
 ---
 
 # Add the Client and Invite Them
@@ -23,7 +23,7 @@ synced_at: 2026-09-04T16:50:44Z
 ## **Add a contact and invite them to Perchwell**
 
 Add a new client from the Contacts page with just the basics, send them an invitation, then go straight to your search and share a listing with them through messages. Start to finish in a couple of minutes.
-​
+
 ​
 
 [Embedded video](https://www.loom.com/embed/979a416b95864e07afcc7eb2c3e47bfb)
