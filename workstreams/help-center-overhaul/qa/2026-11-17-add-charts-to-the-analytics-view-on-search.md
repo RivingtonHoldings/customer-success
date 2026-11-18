@@ -79,5 +79,5 @@ Old failures: title is a bare noun next to Analytics Page Overview; description 
 6. **Legacy name.** No legacy name for the Analytics view is known, so the legacy-platform sentence is omitted. Confirm none exists.
 7. **Tracker ID.** TRK-003 is inferred (Analytics FAQ is TRK-001, Analytics Page Overview is TRK-002, alphabetical by live title) and not verified in the master sheet.
 8. **Video.** Loom 956e4116 confirmed accurate by Tara on November 17, 2026. Video Status Baldwin is set to Complete as an assumption.
-9. **CRMLS.** Baldwin only for now. CRMLS's Analytics Page Overview exists; whether CRMLS has the same Charts window is unchecked.
+9. **CRMLS.** Resolved November 18, 2026: CRMLS has five categories (adds Trends) and different chart names, so it has its own row, "Add Charts to the Analytics View on Search (CRMLS)", TRK-004. See the QA file for that row.
 10. **Screenshot placeholders.** Two Baldwin placeholders. The View ribbon screenshots in the live article are signed Intercom links that expire, so they were not carried.
