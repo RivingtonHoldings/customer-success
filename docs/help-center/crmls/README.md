@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-19T17:12:49Z. Articles: 82 (79 published, 3 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-19T17:17:28Z. Articles: 82 (80 published, 2 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -19,7 +19,7 @@ Collection ID 16866981. 9 articles.
 - [Create and Manage Your Contacts in Perchwell](create-and-manage-your-contacts-in-perchwell.md), updated 2026-11-05
 - [Export Contacts to a CSV File](export-contacts-to-a-csv-file.md), updated 2026-11-05
 - [Find and Contact Buyer's Agents with Reverse Prospecting](find-and-contact-buyer-s-agents-with-reverse-prospecting.md), updated 2026-11-05
-- [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md) (draft), updated 2026-11-19
+- [Invite Clients to Perchwell and Resend Invitations](invite-clients-to-perchwell-and-resend-invitations.md), updated 2026-11-19
 - [Message Clients in Perchwell](message-clients-in-perchwell.md), updated 2026-11-05
 - [Set Up Your Clients in Perchwell](set-up-your-clients-in-perchwell.md), updated 2026-11-05
 - [Unsubscribe from Saved Search Alert Emails](unsubscribe-from-saved-search-alert-emails.md), updated 2026-11-05

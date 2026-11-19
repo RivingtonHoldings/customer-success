@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: published
 author_id: 5472692
 created_at: 2026-11-04T19:26:48Z
-updated_at: 2026-11-19T17:03:00Z
+updated_at: 2026-11-19T17:17:03Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-19T17:04:26Z
+synced_at: 2026-11-19T17:17:28Z
 ---
 
 # Bulk Upload Contacts from a CSV File
@@ -104,4 +104,4 @@ Perchwell adds the uploaded contacts to the Contacts page.
 
 # Invite bulk uploaded contacts to Perchwell
 
-Invite bulk uploaded contacts to Perchwell as you upload them, with Invite to Perchwell on the import summary, or later from each contact's profile or all at once from the Actions menu on the Contacts page. This article walks you through sending an invitation: Invite Clients to Perchwell and Resend Invitations.
+Invite bulk uploaded contacts to Perchwell as you upload them, with Invite to Perchwell on the import summary, or later from each contact's profile or all at once from the Actions menu on the Contacts page. This article walks you through sending an invitation: [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/18516368-invite-clients-to-perchwell-and-resend-invitations).

@@ -1,23 +1,23 @@
 {
- "last_run": "2026-11-19T17:12:49Z",
+ "last_run": "2026-11-19T17:17:28Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
-  "18516368": {
-   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
-   "updated_at": 1795108284,
-   "state": "draft",
-   "title": "Invite Clients to Perchwell and Resend Invitations",
-   "content_id": "23984346",
-   "body_sha1": "3413347b54ed08e0a97225e9d6868a2fa04b1535"
-  },
   "18232805": {
    "file": "bulk-upload-contacts-from-a-csv-file.md",
-   "updated_at": 1795107780,
+   "updated_at": 1795108623,
    "state": "published",
    "title": "Bulk Upload Contacts from a CSV File",
    "content_id": "23616210",
-   "body_sha1": "cd0b297023407d299e13de071893465295de6cfc"
+   "body_sha1": "342fb775223e0fe66b63f1b0c7e7b443fef007d1"
+  },
+  "18516368": {
+   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
+   "updated_at": 1795108483,
+   "state": "published",
+   "title": "Invite Clients to Perchwell and Resend Invitations",
+   "content_id": "23984346",
+   "body_sha1": "7b35dc2a2e0102063f411603f136700112e3597f"
   },
   "18247092": {
    "file": "create-a-quick-cma-report.md",
