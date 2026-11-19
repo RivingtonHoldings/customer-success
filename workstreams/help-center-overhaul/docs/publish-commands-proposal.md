@@ -2,6 +2,8 @@
 
 Status: revision 2, November 6, 2026. Proposal only. Nothing in the existing skills, Notion, or Intercom is changed by this document, and nothing is implemented. Tara approved the direction; Leo's explicit approval of section 10 is required before any implementation.
 
+Update, November 18, 2026: all four stages are built and merged, and Leo removed the requirement to go through him for approval on further changes, including changes to `/port-to-intercom`. The approval language in this document and below is the record of how the build went, not a current rule.
+
 Revision 3 (November 6, 2026) adds Tara's three follow-ups: one safe rule for updating live articles without changing `Article Status` (section 5), a per-link workflow for missing MLS links (section 6), and how the readiness table is found and read without blocking routine updates (section 4). Revision 2 incorporated Leo's answers to the first review and Tara's seven decisions: every MLS is a peer; readiness lives in Notion, in the simplest existing place; `Live in Intercom` is left alone until its dependencies are confirmed; missing cross-MLS links are flagged, never substituted; Leo approves before implementation; testing is approved in principle but not yet run.
 
 Revision 4 (November 16, 2026) follows Leo's approval of revision 3 and the merge of PR #6. It adds what the publishing baseline found (`workstreams/help-center-overhaul/qa/publish-baseline-2026-11-16.md`) and the MLS-difference rule recorded on `main` since. The changes are in the subsections marked Revision 4 and in items 9 to 12 of section 10, and need Leo's review. Nothing from revision 3 is withdrawn.
