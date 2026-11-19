@@ -1,8 +1,16 @@
 {
- "last_run": "2026-11-19T17:04:24Z",
+ "last_run": "2026-11-19T17:12:49Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "11373895": {
+   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
+   "updated_at": 1795108144,
+   "state": "published",
+   "title": "Invite Clients to Perchwell and Resend Invitations",
+   "content_id": "12304882",
+   "body_sha1": "13e4278e1e7a78238fb65b9144112929c0a0697c"
+  },
   "10732227": {
    "file": "bulk-upload-contacts-from-a-csv-file.md",
    "updated_at": 1795107687,
@@ -99,6 +107,14 @@
    "content_id": "17293244",
    "body_sha1": "6da528ccb6bf1a6dbc4d4522e3bf7a7c708f74b8"
   },
+  "8391759": {
+   "file": "masquerade-an-agent-s-account.md",
+   "updated_at": 1782959830,
+   "state": "draft",
+   "title": "Masquerade an Agent's Account",
+   "content_id": "8399496",
+   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
+  },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",
    "updated_at": 1793836651,
@@ -186,14 +202,6 @@
    "title": "Unsubscribe from Saved Search Alert Emails",
    "content_id": "15664447",
    "body_sha1": "6ff610fcd06efdd04e846f6ea28e5ea4c91aeb2d"
-  },
-  "11373895": {
-   "file": "invite-clients-to-perchwell-and-resend-invitations.md",
-   "updated_at": 1793740422,
-   "state": "published",
-   "title": "Invite Clients to Perchwell and Resend Invitations",
-   "content_id": "12304882",
-   "body_sha1": "c055ad88693976650eda6ab11d281f8d8bf2fd65"
   },
   "12541968": {
    "file": "message-clients-in-perchwell.md",
@@ -1010,14 +1018,6 @@
    "title": "May Features",
    "content_id": "18332952",
    "body_sha1": "636cc1ec1cacc08737169cf0f03189601ae9a03d"
-  },
-  "8391759": {
-   "file": "masquerade-an-agent-s-account.md",
-   "updated_at": 1782959830,
-   "state": "draft",
-   "title": "Masquerade an Agent's Account",
-   "content_id": "8399496",
-   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
   }
  }
 }

@@ -12,10 +12,10 @@ collections: ["Client Collaboration"]
 state: published
 author_id: 5472692
 created_at: 2025-05-13T03:15:57Z
-updated_at: 2026-11-03T21:13:42Z
+updated_at: 2026-11-19T17:09:04Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-04T03:25:35Z
+synced_at: 2026-11-19T17:12:49Z
 ---
 
 # Invite Clients to Perchwell and Resend Invitations
@@ -43,7 +43,7 @@ Invited clients cannot:
 
 # Invite a client when you add a new contact
 
-Invite a client to Perchwell as you add them on the Contacts page. To include a personal message, create the contact first, then invite them from their profile. A saved invitation email template is added automatically when Invite to Perchwell is on.
+Invite a client to Perchwell as you add them on the Contacts page. To include a personal message, create the contact first, then invite them from their profile. With Invite to Perchwell on, Perchwell sends its standard invitation email when you click Create. The email does not appear on screen before it sends.
 
 ## Steps:
 1. Click Add New in the upper right of the Contacts page
@@ -53,7 +53,7 @@ Invite a client to Perchwell as you add them on the Contacts page. To include a 
 
 The contact receives an invitation email. Their Status on the My Contacts tab changes to Invite sent.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755399/223bd3e157cb4b3cb6c1fcc14ed1/upload_17888094687250887245.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755399/223bd3e157cb4b3cb6c1fcc14ed1/upload_17888094687250887245.png?expires=1793764800&signature=0bf9700b164c2ee3fa167d1e9d6d780daae52da4c1d7be890b70ea2d5bfc1ad7&req=dicvE857mIJWUPMW1HO4zR4O1xxPCwXCpXkcTtVX8T6l629%2B4MvYqpAYs7gn%0A13FhuZnLQCX92EjUdsQ%3D%0A)
+[![The Create new contact window with the Invite to Perchwell toggle turned on and highlighted.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755399/223bd3e157cb4b3cb6c1fcc14ed1/upload_17888094687250887245.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755399/223bd3e157cb4b3cb6c1fcc14ed1/upload_17888094687250887245.png?expires=1795219200&signature=93a6ebcac339f8f8e0ba509c34c3778d04d5f0e16a0509502dddcaf743634f1e&req=dicvE857mIJWUPMW3nq%2Bgd8uOiH6NVcToIP5xLYqlRgQHneX%2Bl2zsZQZ%2BNDz%0AEE%2FMOc5Z%2BgKSTn9ajMbx1aRu7xg%3D%0A)
 
 # Invite a contact or resend an invitation from their profile
 
@@ -69,29 +69,27 @@ Invite a contact to Perchwell, or resend an invitation a client cannot find, fro
 
 The contact receives an invitation email.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755434/29d028feeb32a4e17991c921cf4d/upload_11825615179058163151.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755434/29d028feeb32a4e17991c921cf4d/upload_11825615179058163151.png?expires=1793764800&signature=7d029aadc3ebcffc8fdf86591c475879770813ec0c6a9aac07372128b97ac4d8&req=dicvE857mIVcXfMW1HO4zUHupgyJ4vYmbRAcjwbMX1BBCBaBxM89BXyX2C4I%0AHBELvwsbDwgfULdI1L0%3D%0A)
-
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755450/e2dafe6f4fb5e691e3e5c753da3a/upload_7623796504857877688.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755450/e2dafe6f4fb5e691e3e5c753da3a/upload_7623796504857877688.png?expires=1793764800&signature=7b0a4d520b40d56814a768a3c0982a8308e507ecda79c638b1e89c073e12edcf&req=dicvE857mIVaWfMW1HO4zSFucSFzGmF%2F8k6G%2FLxKOdwBAqCnnJq56lCPmRk0%0AzspmWohxgE8Hnm3cEZ4%3D%0A)
+[![A contact's profile on the Contact Details tab, with the Invite contact to Perchwell button under Account status.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755434/29d028feeb32a4e17991c921cf4d/upload_11825615179058163151.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755434/29d028feeb32a4e17991c921cf4d/upload_11825615179058163151.png?expires=1795219200&signature=1625dcf7cb33eaf71b253095a3b77961c2185ad5b4847773de6e4f532a01e8d0&req=dicvE857mIVcXfMW3nq%2BgRx2tWA%2FrIfwjgBJnWFjk8bqTJ4Kp9i3NkT4m%2Flx%0AjrddrZ%2F8P%2F9xeNZ1qYlvDHhP6AA%3D%0A)[![The Invite to Perchwell window with the Select from a template (optional) dropdown, the Message field, and the Cancel and Send Invite buttons.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755450/e2dafe6f4fb5e691e3e5c753da3a/upload_7623796504857877688.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755450/e2dafe6f4fb5e691e3e5c753da3a/upload_7623796504857877688.png?expires=1795219200&signature=463ff9738e8c4d1b14682bb3444dcbd5c8b713607483a1c9b797a0f3f53d9aa6&req=dicvE857mIVaWfMW3nq%2BgQrQOX%2Bp9%2BLMmezMjK2GEVivGz9IhPQiWB43uVpp%0A1YmeZ6hTcRCzY4XyQqUHkBUsSSU%3D%0A)
 
 [Message Clients in Perchwell](https://support.perchwell.com/baldwin/en/articles/12541968-message-clients-in-perchwell) explains how to invite a contact while you share listings with them.
 
 # Invite clients during a bulk upload
 
-Invite multiple clients to Perchwell as you bulk upload them from a CSV (comma-separated values) file on the Contacts page. Leave the invitation toggle off to add contacts now and invite each one later from their profile.
+Invite multiple clients to Perchwell as you bulk upload them from a CSV (comma-separated values) file on the Contacts page. Leave Invite to Perchwell off to add contacts now and invite each one later from their profile.
 
 ## Steps:
 1. Click Upload in the upper right of the Contacts page
-2. Drag your completed CSV file into the upload area, or click Browse or drag and drop
-3. Turn on invitations
-4. Click Next
-5. Review the import summary
-6. Click Next
+2. Click Upload .CSV file here, then select your completed CSV file
+3. Click Upload
+4. Review the import summary
+5. Turn on Invite to Perchwell
+6. Click Submit
 
 Each contact in the file receives an invitation email.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755494/0c4fd24af923280e77e5ad8f3e0f/upload_3635789082439587133.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755494/0c4fd24af923280e77e5ad8f3e0f/upload_3635789082439587133.png?expires=1793764800&signature=4b826ea153cf80f0f728430d838562535e3a019bee678aeb4d52c5f836cb88e4&req=dicvE857mIVWXfMW1HO4zQsjpLSx4YSALw24ESf2gQaIipBDEHGeAk4dJPmV%0A6ndtXoKcbU9Yv2U%2BWMo%3D%0A)
+[![The Bulk Upload window with the Upload .CSV file here area highlighted below the Download CSV Template button.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755494/0c4fd24af923280e77e5ad8f3e0f/upload_3635789082439587133.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755494/0c4fd24af923280e77e5ad8f3e0f/upload_3635789082439587133.png?expires=1795219200&signature=823c9424e6682e9048d375f9da85923d686b97f61d65cbaf97961bed0411cbcd&req=dicvE857mIVWXfMW3nq%2BgSuRwiOAZg0AuiBsDCJMhGnttAXTRqWpYdDXArjI%0ABJmekbPPc8WEjt4c0ABFz12t7dc%3D%0A)
 
-[Bulk Upload Contacts from a CSV File](https://support.perchwell.com/baldwin/en/articles/10732227-bulk-upload-contacts) explains how to fill in the CSV template and fix import errors.
+[Bulk Upload Contacts from a CSV File](https://support.perchwell.com/baldwin/en/articles/10732227-bulk-upload-contacts-from-a-csv-file) explains how to fill in the CSV template and fix import errors.
 
 # Invite multiple contacts at once
 

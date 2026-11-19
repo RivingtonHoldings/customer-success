@@ -1,0 +1,80 @@
+{
+  "tracker_id": "TRK-010",
+  "article_name": "Invite Clients to Perchwell and Resend Invitations",
+  "records": {
+    "baldwin": {
+      "intercom_article_id": 11373895,
+      "title": "Invite Clients to Perchwell and Resend Invitations",
+      "intercom_updated_at": "2026-11-19T17:09:04Z",
+      "published_on": "2026-11-19",
+      "notion_last_edited": "2026-11-19T16:39:12Z",
+      "media": [
+        {
+          "position": "Invite a client when you add a new contact, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:445050fc-c557-4c3c-8352-33ccf23c537c",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755399/223bd3e157cb4b3cb6c1fcc14ed1/upload_17888094687250887245.png"
+        },
+        {
+          "position": "Invite a contact or resend an invitation from their profile, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:16880b76-12fb-4b18-b258-94d71bf411ce",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755434/29d028feeb32a4e17991c921cf4d/upload_11825615179058163151.png"
+        },
+        {
+          "position": "Invite a contact or resend an invitation from their profile, 2",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:a96b5477-6a9a-4841-985c-f2d4534364d3",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755450/e2dafe6f4fb5e691e3e5c753da3a/upload_7623796504857877688.png"
+        },
+        {
+          "position": "Invite clients during a bulk upload, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:7e182ca2-427b-4cd6-9aef-a5467492ccf5",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785755494/0c4fd24af923280e77e5ad8f3e0f/upload_3635789082439587133.png"
+        }
+      ]
+    },
+    "crmls": {
+      "intercom_article_id": 18516368,
+      "title": "Invite Clients to Perchwell and Resend Invitations",
+      "intercom_updated_at": "2026-11-19T17:11:24Z",
+      "published_on": "2026-11-19",
+      "notion_last_edited": "2026-11-19T16:39:12Z",
+      "media": [
+        {
+          "position": "Invite a client when you add a new contact, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:445050fc-c557-4c3c-8352-33ccf23c537c",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2822514454/f062b134aa082a1eb01b46a0a255/upload_3091223772113884472.png"
+        },
+        {
+          "position": "Invite a contact or resend an invitation from their profile, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:16880b76-12fb-4b18-b258-94d71bf411ce",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2822514472/212385841dc6da9123de0770d6b3/upload_1660863988093752257.png"
+        },
+        {
+          "position": "Invite a contact or resend an invitation from their profile, 2",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:a96b5477-6a9a-4841-985c-f2d4534364d3",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2822514493/6488a883c06f3d68f56d82fe56ce/upload_18441691659675109900.png"
+        },
+        {
+          "position": "Invite clients during a bulk upload, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:7e182ca2-427b-4cd6-9aef-a5467492ccf5",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2822514528/73aaf810a74552d14d7f26430321/upload_13609404243589919287.png"
+        }
+      ]
+    }
+  }
+}
