@@ -63,6 +63,12 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 - An orange Baldwin placeholder for the Office Ranking Report sits right above the Baldwin screenshot of it, with empty alt text. Likely leftover; delete.
 - Visual Status CRMLS is Not Started, though CRMLS screenshots are in.
 
+**Common Perchwell FAQs** (Baldwin, no Notion row)
+- The live article still says "Search Analytics". When it is migrated, use "Analytics view" (Tara's decision, November 18, 2026).
+
+**Appraiser Capabilities in Perchwell** (exists only in the old Master Article List, which is read-only)
+- It says "Use Search Analytics View" as a heading and again in a bold sentence. When it is migrated into the new database, use "Analytics view" and drop the bold.
+
 ## Integrations
 
 **Offer Manager Integration** (16777012), no Notion row
