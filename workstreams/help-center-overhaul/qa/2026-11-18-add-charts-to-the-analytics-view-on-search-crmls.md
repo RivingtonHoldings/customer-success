@@ -45,5 +45,5 @@ Same as the Baldwin draft (100.0) with one deduction: Answer completeness check 
 2. **Market Inventory and Monthly.** The Trends item says only what the screen shows. Confirm what the chart shows and whether "Monthly" is a setting or a fixed label.
 3. **Video.** The CRMLS row has no video; Video Status CRMLS is Not Needed, which is an assumption. Change it if a CRMLS recording is wanted.
 4. **Analytics FAQ link.** The CRMLS article links to Analytics FAQ, which has no CRMLS record yet (Intercom URL CRMLS is empty). Port that record first.
-5. **Search Analytics.** The empty CRMLS Analytics view is headed "Search Analytics" on screen. The set uses "Analytics view" (this article, Analytics FAQ) and "Search Analytics" (Search Page Overview). Pick one.
+5. **Search Analytics.** Resolved November 18, 2026: Tara chose "Analytics view" for the whole set, although the empty CRMLS view is headed "Search Analytics" on screen. A heading is a readout, not a control, so the member's word wins.
 6. **Purpose lines and the 8-chart limit** carry over from the Baldwin draft's open items; neither is confirmed for CRMLS.
