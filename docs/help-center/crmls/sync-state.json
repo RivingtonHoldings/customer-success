@@ -1,15 +1,15 @@
 {
- "last_run": "2026-11-19T17:17:28Z",
+ "last_run": "2026-11-19T20:44:43Z",
  "help_center_id": 4767477,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
   "18232805": {
    "file": "bulk-upload-contacts-from-a-csv-file.md",
-   "updated_at": 1795108623,
+   "updated_at": 1795121048,
    "state": "published",
    "title": "Bulk Upload Contacts from a CSV File",
    "content_id": "23616210",
-   "body_sha1": "342fb775223e0fe66b63f1b0c7e7b443fef007d1"
+   "body_sha1": "a87552c4691d7bca9f756c15fc9764ab221c3d3e"
   },
   "18516368": {
    "file": "invite-clients-to-perchwell-and-resend-invitations.md",
