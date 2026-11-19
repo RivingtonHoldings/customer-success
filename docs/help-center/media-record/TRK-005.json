@@ -1,0 +1,52 @@
+{
+  "tracker_id": "TRK-005",
+  "article_name": "Bulk Upload Contacts from a CSV File",
+  "records": {
+    "baldwin": {
+      "intercom_article_id": 10732227,
+      "title": "Bulk Upload Contacts from a CSV File",
+      "intercom_updated_at": "2026-11-19T17:01:27Z",
+      "published_on": "2026-11-19",
+      "notion_last_edited": "2026-11-19T16:28:42Z",
+      "media": [
+        {
+          "position": "Open the Bulk Upload window on the Contacts page, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:052fe5d4-82ef-4e6e-97e0-622c8c776034",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702293/2cfc2946c9b6874f284871f57aad/upload_8315645668320994760.png"
+        },
+        {
+          "position": "Download and fill in the CSV template, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:6e8ff591-3161-4195-b7b0-58113eecd26d",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2785702322/bdc1bbb432ba346862abb697b45a/upload_2202889507652372943.png"
+        }
+      ]
+    },
+    "crmls": {
+      "intercom_article_id": 18232805,
+      "title": "Bulk Upload Contacts from a CSV File",
+      "intercom_updated_at": "2026-11-19T17:03:00Z",
+      "published_on": "2026-11-19",
+      "notion_last_edited": "2026-11-19T16:28:42Z",
+      "media": [
+        {
+          "position": "Open the Bulk Upload window on the Contacts page, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:052fe5d4-82ef-4e6e-97e0-622c8c776034",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png"
+        },
+        {
+          "position": "Download and fill in the CSV template, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:6e8ff591-3161-4195-b7b0-58113eecd26d",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png"
+        }
+      ]
+    }
+  }
+}

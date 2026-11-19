@@ -10,17 +10,17 @@ collection: "Client Collaboration"
 collection_ids: [16866981]
 collections: ["Client Collaboration"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-11-04T19:26:48Z
-updated_at: 2026-11-05T00:31:42Z
+updated_at: 2026-11-19T17:03:00Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T22:04:17Z
+synced_at: 2026-11-19T17:04:26Z
 ---
 
 # Bulk Upload Contacts from a CSV File
 
-Use this article to bulk upload multiple contacts to Perchwell from a CSV (comma-separated values) file: open the Upload Contacts window, download and fill in the CSV template, upload the file, fix any import errors, and invite the uploaded contacts.
+Use this article to bulk upload multiple contacts to Perchwell from a CSV (comma-separated values) file: open the Bulk Upload window, download and fill in the CSV template, upload the file, fix any import errors, and invite the uploaded contacts.
 
 # When to bulk upload contacts
 
@@ -32,31 +32,31 @@ Bulk upload contacts when you have a list of contacts to add to Perchwell at onc
 
 Members who joined Perchwell from a legacy platform may already have their contacts in Perchwell.
 
-# Open the Upload Contacts window on the Contacts page
+# Open the Bulk Upload window on the Contacts page
 
-Open the Upload Contacts window from Upload on the Contacts page. Bulk upload works in Perchwell in a web browser, not in the Perchwell mobile app.
+Open the Bulk Upload window from Upload on the Contacts page. Bulk upload works in Perchwell in a web browser, not in the Perchwell mobile app.
 
 ## Steps:
 1. Click Contacts in the top navigation
 2. Click Upload in the upper right of the Contacts page
 
-The Upload Contacts window opens.
+The Bulk Upload window opens.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png?expires=1793917800&signature=acc89f2e5062362752042841501eb63f9328188bc865c36d8d489e5e95198492&req=dicvEcB3n4NeXvMW1HO4zf6icTanjacKfgWdF7mPRYPrzUAj9HXizpeEQtgo%0AqFDYCay2gj6fr046rRA%3D%0A)
+[![The Contacts page with the Upload button highlighted in the upper right.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992217/493ed20621797ab358e2c65b7430/upload_18389703819877904429.png?expires=1795219200&signature=59502687bdc3386981cd9d7cae04683fd6d06372bac95eb1f7baf25378196c59&req=dicvEcB3n4NeXvMW3nq%2Bgfe8bRrsqDCS1qwFZpNTqG9I6Lui9M0P%2BwvE7GnU%0ATAa5az517XolxP6SWNXioeJmBa4%3D%0A)
 
 # Download and fill in the CSV template
 
-Download the CSV template from the Upload Contacts window, then add your contacts to it.
+Download the CSV template from the Bulk Upload window, then add your contacts to it.
 
 ## Steps:
-1. Click CSV template in the Upload Contacts window
+1. Click Download CSV Template
 2. Open the downloaded template in a spreadsheet program
 3. Enter your contacts in the template
 4. Save the file in CSV format
 
-Your CSV file is ready to upload in the Upload Contacts window
+Your CSV file is ready to upload in the Bulk Upload window.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png?expires=1793917800&signature=9d9d6236c4b7d7f4873ebcc3a405851c536e39e53d20e9d6692f203e9af2bc67&req=dicvEcB3n4NZWPMW1HO4zaQlvzO8%2B3oQAtzXx1JVPVRD5RaQb%2FU8ocprS%2B59%0APWFLfG25NIN0lnW8Kj0%3D%0A)
+[![The Bulk Upload window with the Download CSV Template button, the Upload .CSV file here area, and the Cancel and Upload buttons.](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2787992261/97823c1e71920ac547df6a7ee72d/upload_8453483178607672024.png?expires=1795219200&signature=f609d5e628066f401293325e90f9ae4648318822b09225e2bbe33bde723f8521&req=dicvEcB3n4NZWPMW3nq%2BgTQrV4fkIJ%2F0LP%2BmX0CQ3KwngtUP5GtI%2FKYqV%2BaZ%0A9a7xqhqVlaSEdnKshTrWLBQ7%2Bnc%3D%0A)
 
 ## CSV template requirements for bulk upload
 
@@ -65,18 +65,21 @@ Fill in the CSV template to these requirements so the bulk upload finishes witho
 - Optional fields: Add a Phone and up to five additional emails in Additional Email 1 through Additional Email 5.
 - Unique email addresses: Give each contact a different email address. Duplicate emails are not allowed.
 - Column headers: Keep the template's column headers exactly as they are. Do not rename or reorder them.
+- File size: Upload a file of 5 MB or less.
 
 > **Tip:** When exporting a CSV file from Apple Numbers, deselect "Include table names" to prevent an extra row from appearing in the exported file.
 
 # Upload the CSV file and review the import summary
 
-Upload your completed CSV file in the Upload Contacts window, then check the import summary before you finish.
+Upload your completed CSV file in the Bulk Upload window, then check the import summary before you finish.
 
 ## Steps:
-1. Drag your CSV file into the upload area, or click Browse or drag and drop
-2. Click Next
-3. Review the contact count and any error messages in the import summary
-4. Click Next
+1. Click Upload .CSV file here
+2. Select your CSV file
+3. Click Upload
+4. Review the contact count and any error messages in the import summary
+5. *(Optional)* Turn on Invite to Perchwell to invite every contact in the file
+6. Click Submit
 
 Perchwell adds the uploaded contacts to the Contacts page.
 
@@ -90,10 +93,10 @@ Fix bulk upload errors by correcting your CSV file and uploading it again. The i
 ## Steps:
 1. Correct each error in your CSV file
 2. Save the file in CSV format
-3. Upload the corrected CSV file in the Upload Contacts window
-4. Click Next
+3. Upload the corrected CSV file in the Bulk Upload window
+4. Click Upload
 5. Review the import summary
-6. Click Next
+6. Click Submit
 
 Perchwell adds the uploaded contacts to the Contacts page.
 
@@ -101,4 +104,4 @@ Perchwell adds the uploaded contacts to the Contacts page.
 
 # Invite bulk uploaded contacts to Perchwell
 
-Invite bulk uploaded contacts to Perchwell after the upload finishes, from each contact's profile or all at once from the Actions menu on the Contacts page. The Upload Contacts window does not send invitations. This article walks you through sending an invitation: [Invite Clients to Perchwell and Resend Invitations](https://support.perchwell.com/crmls/en/articles/11373895-invite-clients-to-perchwell-and-resend-invitations).
+Invite bulk uploaded contacts to Perchwell as you upload them, with Invite to Perchwell on the import summary, or later from each contact's profile or all at once from the Actions menu on the Contacts page. This article walks you through sending an invitation: Invite Clients to Perchwell and Resend Invitations.
