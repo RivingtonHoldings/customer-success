@@ -1,8 +1,24 @@
 {
- "last_run": "2026-11-18T20:15:11Z",
+ "last_run": "2026-11-19T03:47:11Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13959293": {
+   "file": "create-a-quick-cma-report.md",
+   "updated_at": 1793759892,
+   "state": "published",
+   "title": "Create a Quick CMA Report",
+   "content_id": "16237971",
+   "body_sha1": "019bd57e84113a1a5e89c07a0d7d8ee740ae75fc"
+  },
+  "13627189": {
+   "file": "add-and-edit-listings.md",
+   "updated_at": 1795040348,
+   "state": "published",
+   "title": "Add and Edit Listings",
+   "content_id": "15700488",
+   "body_sha1": "22a593531b5e6f175cecba08ad3f601b69a4febd"
+  },
   "13903171": {
    "file": "find-listings-in-the-listings-widget.md",
    "updated_at": 1795025714,
@@ -75,14 +91,6 @@
    "content_id": "17293244",
    "body_sha1": "6da528ccb6bf1a6dbc4d4522e3bf7a7c708f74b8"
   },
-  "8391759": {
-   "file": "masquerade-an-agent-s-account.md",
-   "updated_at": 1782959830,
-   "state": "draft",
-   "title": "Masquerade an Agent's Account",
-   "content_id": "8399496",
-   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
-  },
   "11010696": {
    "file": "filter-your-search-by-status-and-price-changes.md",
    "updated_at": 1793836651,
@@ -122,14 +130,6 @@
    "title": "Create a Search with Filters",
    "content_id": "16154782",
    "body_sha1": "bb24b97fad5394b07fe0844eb1b2d9857e1ba981"
-  },
-  "13959293": {
-   "file": "create-a-quick-cma-report.md",
-   "updated_at": 1793759892,
-   "state": "published",
-   "title": "Create a Quick CMA Report",
-   "content_id": "16237971",
-   "body_sha1": "019bd57e84113a1a5e89c07a0d7d8ee740ae75fc"
   },
   "12816780": {
    "file": "create-a-one-page-report.md",
@@ -538,14 +538,6 @@
    "title": "Add Listings to a Tag",
    "content_id": "19552103",
    "body_sha1": "72db8503469f70e0c1f30dfaae355ebdf1002abe"
-  },
-  "13627189": {
-   "file": "add-and-edit-listings.md",
-   "updated_at": 1793814747,
-   "state": "published",
-   "title": "Add and Edit Listings",
-   "content_id": "15700488",
-   "body_sha1": "18f8c94c77edf0010423058eaaa7fc5399971749"
   },
   "14785355": {
    "file": "add-and-edit-listings-in-the-perchwell-mobile-app.md",
@@ -1018,6 +1010,14 @@
    "title": "May Features",
    "content_id": "18332952",
    "body_sha1": "636cc1ec1cacc08737169cf0f03189601ae9a03d"
+  },
+  "8391759": {
+   "file": "masquerade-an-agent-s-account.md",
+   "updated_at": 1782959830,
+   "state": "draft",
+   "title": "Masquerade an Agent's Account",
+   "content_id": "8399496",
+   "body_sha1": "61a820415b8f1f6a01e26611d093403b1a791d91"
   }
  }
 }
