@@ -20,9 +20,6 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Create a Listing Report**, TRK-067
 - The sample has a "% Change +9893.57%" row that looks like a data error.
 
-**Create a Quick CMA Report (CRMLS)**, TRK-127
-- The live CRMLS record (13959293) says up to 12 fields in landscape. CRMLS is 11 (Tara, November 5, 2026); the Notion draft now says 11, and the live record is corrected when TRK-127 ports. Baldwin's 12 is right for Baldwin: do not change TRK-070.
-
 ## Contacts and client collaboration
 
 **Export Contacts to a CSV File**, TRK-009
@@ -71,3 +68,29 @@ Fixes found on Notion drafts that are not done yet. Before editing or porting an
 **Offer Manager Integration** (16777012), no Notion row
 - Two [confirm] notes were removed from the live steps on November 4, 2026, but neither question was answered: confirm the Offer Manager link sits on the Listing Detail page, and where on the page, then add a screenshot.
 - Links use intercom.help addresses and the body has bold UI names; bring it to the standard in a rewrite.
+
+## CRMLS rows not yet published (as of November 18, 2026)
+
+TRK-025, TRK-095, and TRK-127 are live for CRMLS. These are not.
+
+**Listing Detail Page Overview (CRMLS)**, TRK-125 (Draft)
+- Edit wording is out of the Notion page (CRMLS has no editing). The Actions menu screenshot still shows the old menu with Edit; reshoot it without Edit. Tara is holding the row until the team removes the incorrect menu language.
+- The CRMLS draft (18247110) has no collection. A teammate publishes it and places it in a CRMLS collection. Then set the row to Ready to Transfer and run `/publish crmls TRK-125`, which also adds the CRMLS video.
+
+**Listing Detail Page in the Perchwell Mobile App (CRMLS)**, TRK-126 (Draft)
+- Edit wording and the Admin tab section are out of the Notion page. It links to TRK-125's article, so TRK-125 publishes first.
+- The Actions tab screenshot alt text lists Auto CMA, but the bullets list eight options and the text says nine. Check against the app.
+- The CRMLS draft (18247081) sits in Mobile (19802008). Set Ready to Transfer, then `/publish crmls TRK-126`.
+
+**Then vs. Now rows with `[confirm: link to ...]` placeholders**, all Ready to Transfer. Replace each placeholder with a real link in Notion before any publish:
+- TRK-129 Find Familiar Features by Their Perchwell Names
+- TRK-131 Review Your Data Moved from Matrix
+- TRK-132 Review Saved Searches Moved from Matrix
+- TRK-134 What Changed When You Moved to Perchwell
+- TRK-136 Why Listings and Market Data Can Look Different in Perchwell
+
+**"Analytics view" rename**, not yet pushed: TRK-129, TRK-134, and TRK-135 (Find the Perchwell Report That Replaces Each Matrix Report).
+
+**Invite Clients link**: TRK-133 (Find and Update Contacts Moved from Matrix) and TRK-137 (Find OneHome Features in the Perchwell Client Portal). Their links point to the live Baldwin Invite Clients article (11373895). Decide whether that is deliberate or CRMLS has its own version.
+
+**Listing Field Changes in Perchwell**, TRK-130: the Notion text matches the live article; the row is still Ready to Transfer. Mark it Live in Intercom once confirmed.
