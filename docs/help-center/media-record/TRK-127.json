@@ -1,0 +1,57 @@
+{
+  "tracker_id": "TRK-127",
+  "article_name": "Create a Quick CMA Report",
+  "records": {
+    "crmls": {
+      "intercom_article_id": 18247092,
+      "title": "Create a Quick CMA Report",
+      "intercom_updated_at": "2026-11-19T03:46:04Z",
+      "published_on": "2026-11-18",
+      "notion_last_edited": "2026-11-19T03:40:01Z",
+      "media": [
+        {
+          "position": "Create a Quick CMA from your search results or a listing, 1",
+          "kind": "video",
+          "caption_label": "CRMLS:",
+          "identity": "video:https://www.loom.com/share/b25778928c1744d281a4a1db2a355134",
+          "published_as": "https://www.loom.com/embed/b25778928c1744d281a4a1db2a355134"
+        },
+        {
+          "position": "Create a Quick CMA from your search results or a listing, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:911f53af-c777-4209-9667-130a3f21523c",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png"
+        },
+        {
+          "position": "Reorder or remove listings in the Quick CMA, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:70ef4ded-d9ce-4aa0-838d-8b7ddb2b38dc",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png"
+        },
+        {
+          "position": "Choose the fields in the Quick CMA, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:a399a69b-0eb6-414e-925b-4099e0c553d8",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png"
+        },
+        {
+          "position": "Add contact information, exact addresses, or a summary to the Quick CMA, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:07389e59-2808-4a55-913e-4a5efc773c25",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png"
+        },
+        {
+          "position": "Email, print, or download the Quick CMA, 1",
+          "kind": "image",
+          "caption_label": "CRMLS",
+          "identity": "file:8f4879bc-6a9e-4078-9ed8-0d1857481fb5",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png"
+        }
+      ]
+    }
+  }
+}

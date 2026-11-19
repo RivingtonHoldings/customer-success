@@ -1,6 +1,6 @@
 # CRMLS help center mirror
 
-Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-18T20:15:13Z. Articles: 81 (79 published, 2 draft).
+Read-only mirror of the live Intercom help center (help center ID 4767477). Refreshed by `/sync-help-center`; do not edit these files by hand. Last sync: 2026-11-19T03:47:13Z. Articles: 81 (79 published, 2 draft).
 
 Each file carries frontmatter with the Intercom article ID, the content ID Fin cites, title, public URL, collections, state, author ID, timestamps, and labels. Image links point at Intercom's CDN without the expiring signature, so they may need an Intercom login to open.
 
@@ -85,7 +85,7 @@ Collection ID 16867011. 9 articles.
 - [Create a Market Conditions Addendum Report (1004MC)](create-a-market-conditions-addendum-report-1004mc.md), updated 2026-11-05
 - [Create a Media Report](create-a-media-report.md), updated 2026-11-05
 - [Create a One Page Report](create-a-one-page-report.md), updated 2026-11-05
-- [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-05
+- [Create a Quick CMA Report](create-a-quick-cma-report.md), updated 2026-11-19
 - [Create a Show Sheet](create-a-show-sheet.md), updated 2026-11-05
 - [Create an Itinerary Report](create-an-itinerary-report.md), updated 2026-11-05
 

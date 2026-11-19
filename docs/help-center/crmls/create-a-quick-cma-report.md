@@ -10,12 +10,12 @@ collection: "Reports"
 collection_ids: [16867011]
 collections: ["Reports"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-11-05T17:03:38Z
-updated_at: 2026-11-05T17:51:03Z
+updated_at: 2026-11-19T03:46:04Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-05T22:04:17Z
+synced_at: 2026-11-19T03:47:13Z
 ---
 
 # Create a Quick CMA Report
@@ -44,7 +44,9 @@ In a listing preview on the Search page, Actions creates the Quick CMA from all 
 
 The report window moves to the Customize Report step with your listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png?expires=1793917800&signature=e3ead0cae0d037fc4f103eec7c056f465e2236a3e2f09169e1626f8d2da30754&req=dicuFst9mIhZX%2FMW1HO4zanIu8rp9UHHlQEOaII25zx1X10pm10Ao879yGPj%0A0va%2FZO2A0QIRWyvek4k%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790235966/9d3c996c08931f94d2bc6bcb5714/upload_5108493813422138274.png?expires=1795061700&signature=5dae8ea119cae9d7d2ac2d3f4ad927b268f82e89ec707198f26a236904c763b6&req=dicuFst9mIhZX%2FMW1HO4zanIu8zg8kfIlQEOcoYw7gb8FQHFecPFlPYn01ZD%0Aw1uv%0A)
+
+[Embedded video](https://www.loom.com/embed/b25778928c1744d281a4a1db2a355134)
 
 # Customize the Quick CMA
 
@@ -65,7 +67,7 @@ Reorder or remove listings on the Customize Report step, where the Quick CMA gro
 - Click the X to the right of a listing to remove it from the Quick CMA
 - Click View Listing to open the listing
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png?expires=1793917800&signature=d44c2c827ba1ea18dc034232d30e7174255285af816623291dbea0df09d8e7e5&req=dicuFst9m4FfWfMW1HO4zYCkurOkA3sxF2nA9JSuYwu8IRrY4K9amgjs3p6W%0AexUnwu31VtxAbSv0i3w%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236000/945f888342ae829703854c77863e/upload_15274298954268633313.png?expires=1795061700&signature=e904922bbb765d25ef420054f541c05cd5afbb8634cc7fb5e74f256fff3e7204&req=dicuFst9m4FfWfMW1HO4zYCkurWtBH0%2BF2nA7pCoajGMIB%2B1j0dJ%2B7dkBwJ9%0A6S29%0A)
 
 ## Choose the Quick CMA layout
 
@@ -98,7 +100,7 @@ Select the fields each listing shows under Select fields to show in the Quick CM
 
 If a listing is missing a detail in the Quick CMA, the listing agent may not have entered it.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png?expires=1793917800&signature=23556fd21dcd8525aaa5e2a26503060b0c2e8c7a9ed47401331f945eace2ee29&req=dicuFst9m4FdXfMW1HO4zTis%2B4uDpXuRQ4qFa8u%2FjvddbYOJJvNZs7JOjtvT%0AOQQmNHCbUE339eIOEiI%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236024/14f77ef1d5498f9c9c932880050d/upload_6954480379640593811.png?expires=1795061700&signature=31298f2c3b43a2e24554b44d9b35088ae8c11f833989a5efdad49af53dd2a214&req=dicuFst9m4FdXfMW1HO4zTis%2B42Kon2eQ4qFcc%2B5h81UBFwNsg3GU3%2F5Ne3w%0APCTe%0A)
 
 ## Choose how listing links open in the Quick CMA
 
@@ -117,13 +119,13 @@ Perchwell remembers your selections on the Customize Report step, which means yo
 
 > **Tip:** For clickable listing links in the PDF, select both Include exact address and Open links externally with your branding.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png?expires=1793917800&signature=b1509014684f9889470f984d3b6c9086f3ef05b2a8670eefe733159f80728012&req=dicuFst9m4FaWvMW1HO4zbipM%2Bqt0AmkisX7JQkoP9NfmaoepLrNKi7CxGSz%0AxJJdv1YEbKHTNZg5G%2FU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236053/f47b02dc4b18b58fc6aefc61ec93/upload_1352107878913401304.png?expires=1795061700&signature=9044abf0eb38b59d34f698342607eb3dab604bf5b46184de687b8395b2229c18&req=dicuFst9m4FaWvMW1HO4zbipM%2Byk1w%2BrisX7Pw0uNunAJNj3L4W01%2BoU97cq%0AXrtO%0A)
 
 # Email, print, or download the Quick CMA
 
 Email, print, or download the Quick CMA from the Generate Report step of the report window. Click Next on the Customize Report step to open it, and click Previous to change a setting.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png?expires=1793917800&signature=0b9f13ae901673b2d5f8979df88aa21828c6659e1c835c289add7ec8b16cd84a&req=dicuFst9m4FYUPMW1HO4zcpMBeyKh8MLAvoe63u2QzlVlFDPMgwcw24WAOb%2B%0A%2BkOkEBsiethv5R9%2Brvk%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2790236079/1f554f25006139552617702dcd4a/upload_8948586713036184880.png?expires=1795061700&signature=0c6a04e2999e378eae0220deb94460b378c1711cdfff65ea1d55ddbf8fafa3b5&req=dicuFst9m4FYUPMW1HO4zcpMBeqDgMUEAvoe8X%2BwSgMdu7UP6EdpFWNOe0dh%0ARi8m%0A)
 
 ## Email the Quick CMA
 
