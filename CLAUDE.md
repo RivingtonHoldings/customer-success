@@ -86,6 +86,16 @@ Each rung requires more than the one before it.
 
 Pushes are on as of September 17, 2026. `/port-to-intercom` is the only path that writes to Intercom (`/publish` is a wrapper that shows a plain-language preview and then runs it per MLS, with no write path of its own): it checks its preconditions first and refuses when one fails, and it closes the loop by moving the Notion row to `Live in Intercom`. Rung 3's four conditions apply on every update, with no batching. The Intercom article write tools are on the ask list in `.claude/settings.json` so they always prompt; that list names each connector by server ID, and the ID differs per teammate, so a teammate whose session prompts by default adds theirs. Everything else runs without permission prompts: file edits, shell commands, web reads, and Notion page writes are pre-approved in the same file, which means the Intercom article write tools and Notion deletes are the only prompts left, and each one goes to whoever is running the session.
 
+## The Baldwin Bible
+
+[The Baldwin Bible](https://app.notion.com/p/6658b9e0143882d2a99281e520bbb6f6) is the team's internal Notion notebook on Baldwin: known issues, workarounds, ticket status, and what members have been told before. Use it as a supplement, never as the primary source.
+
+- Answer Baldwin questions from the help center mirror (`docs/help-center/baldwin/`) and `docs/product-context.md` first. Those reflect what members and Fin see.
+- Then check the relevant Bible chapter for supporting evidence or advice: a known bug, an open ticket, a workaround, or an earlier answer given to members. Name the chapter when you use it.
+- When the Bible and a help center article disagree, point out the difference rather than picking one. An entry marked open, unconfirmed, or "confirm before telling a member" is not a confirmed answer.
+- The Bible is internal. Its Slack, Jira, Intercom, and Fathom links never go into articles, macros, or member replies.
+- Only Kevin edits the Bible. In anyone else's session, Claude reads it but never writes to it, even though Notion page writes are pre-approved in `.claude/settings.json`. If something looks wrong or out of date, Claude drafts the suggested change and tells the teammate to send it to Kevin.
+
 ## Privacy
 
 Member names, emails, phone numbers, and addresses never appear in committed files. Raw conversation excerpts, exports, and anything quoting a member verbatim go in a `confidential/` folder, which is git-ignored. Before saving any file outside `confidential/`, strip identifiers and replace them with neutral placeholders like "the member" or "[email]". When in doubt, put it in `confidential/`.
