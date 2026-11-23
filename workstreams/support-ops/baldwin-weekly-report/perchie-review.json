@@ -374,6 +374,328 @@
      ]
     }
    ]
+  },
+  {
+   "label": "Nov 16 to 23",
+   "year": 2026,
+   "notion_url": "https://app.notion.com/p/4218b9e0143881d18c10eb96d467559a",
+   "pool": 53,
+   "conversations": [
+    {
+     "id": "215476879096586",
+     "question": "Why is a listing from 2022 that I do not have listed showing up as a draft?",
+     "perchie_answer": "Perchie acknowledged the concern and offered to connect the member with a live agent; the member asked for one.",
+     "verdict": "No answer",
+     "cause": "Fin rule or guidance",
+     "source_article": "delete-a-draft-listing.md",
+     "fix_id": "F13",
+     "source_title": "Delete a Draft Listing",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/16864886-delete-a-draft-listing"
+    },
+    {
+     "id": "215476909124442",
+     "question": "Why does a search for only Coming Soon, Active, and Active Under Contract show rental properties?",
+     "perchie_answer": "Perchie restated the problem and offered to connect the agent to a live agent without explaining why rentals appear.",
+     "verdict": "No answer",
+     "cause": "Fin rule or guidance",
+     "source_article": "filter-your-search-by-property-type-and-subtype.md",
+     "fix_id": "F15",
+     "source_title": "Filter Your Search by Property Type and Subtype",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/13922158-filter-your-search-by-property-type-and-subtype"
+    },
+    {
+     "id": "215476913509920",
+     "question": "My listing shows the wrong listing date and the field is locked; how do I fix it?",
+     "perchie_answer": "Perchie acknowledged the wrong, locked listing date and offered to connect the member to a live agent, which the member accepted. This was a bug report, so handing off was right.",
+     "verdict": "Not a Perchie question",
+     "cause": "Product bug or data issue",
+     "source_article": null,
+     "fix_id": null,
+     "source_title": null,
+     "source_url": null
+    },
+    {
+     "id": "215476914554969",
+     "question": "Can you add a missing neighborhood to the subdivision dropdown for my new listing?",
+     "perchie_answer": "Restated the problem twice and offered a live agent, then handed off when the agent said yes.",
+     "verdict": "No answer",
+     "cause": "Article missing",
+     "source_article": null,
+     "fix_id": "F12",
+     "source_title": null,
+     "source_url": null
+    },
+    {
+     "id": "215476933951009",
+     "question": "Why can't I edit my listing that is labeled Awaiting Approval?",
+     "perchie_answer": "Perchie restated the problem and offered to connect a live agent without explaining the Awaiting Approval status.",
+     "verdict": "No answer",
+     "cause": "Article missing",
+     "source_article": "manage-listings-page-overview.md",
+     "fix_id": "F16",
+     "source_title": "Manage Listings Page Overview",
+     "source_url": "https://support.perchwell.com/en/articles/13623016-manage-listings-page-overview"
+    },
+    {
+     "id": "215476939544525",
+     "question": "How do I build a CMA when the subject property does not show up in Perchwell search?",
+     "perchie_answer": "Perchie acknowledged the problem and offered a live agent without giving steps; the member accepted.",
+     "verdict": "No answer",
+     "cause": "Article missing",
+     "source_article": "create-a-cma-with-a-subject-property.md",
+     "fix_id": "F14",
+     "source_title": "Create a CMA with a Subject Property",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15216797-create-a-cma-with-a-subject-property"
+    },
+    {
+     "id": "215476943752058",
+     "question": "Why is my listing draft not showing up in the mobile app?",
+     "perchie_answer": "Perchie restated the problem and offered to connect a live agent without giving any steps.",
+     "verdict": "No answer",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "add-and-edit-listings-in-the-perchwell-mobile-app.md",
+     "fix_id": "F17",
+     "source_title": "Add and Edit Listings in the Perchwell Mobile App",
+     "source_url": "https://support.perchwell.com/en/articles/14785355-add-and-edit-listings-in-the-perchwell-mobile-app"
+    },
+    {
+     "id": "215476953986154",
+     "question": "How do I search by the selling agent on past deals?",
+     "perchie_answer": "Perchie said to use the Agent filter on the Filters tab, enter the agent's name, and choose Buy-side for the selling side.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "search-faq.md",
+     "fix_id": null,
+     "source_title": "Search FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15200328-search-faq"
+    },
+    {
+     "id": "215476959239062",
+     "question": "Why does the form not return to the main screen after I select the selling agent when changing a listing to Active under contract?",
+     "perchie_answer": "Acknowledged the problem and offered a live agent, then handed off when the agent said yes because of a deadline fee. This was a bug report, so handing off was right.",
+     "verdict": "Not a Perchie question",
+     "cause": "Product bug or data issue",
+     "source_article": null,
+     "fix_id": null,
+     "source_title": null,
+     "source_url": null
+    },
+    {
+     "id": "215476962010473",
+     "question": "My edited listing is not showing as sold and I do not have permission to get back into it.",
+     "perchie_answer": "Perchie acknowledged the issue and offered to connect the member with a live agent, which the member accepted. This was a bug report, so handing off was right.",
+     "verdict": "Not a Perchie question",
+     "cause": "Product bug or data issue",
+     "source_article": null,
+     "fix_id": null,
+     "source_title": null,
+     "source_url": null
+    },
+    {
+     "id": "215476963393542",
+     "question": "I am trying to mark a listing Pending, it says 4 of 84 required fields are missing, and the View incomplete fields link is not working.",
+     "perchie_answer": "Perchie apologized and offered to connect the agent to a live agent, which the agent accepted.",
+     "verdict": "Partly correct",
+     "cause": "Fin rule or guidance",
+     "source_article": "add-and-edit-listings.md",
+     "fix_id": "F12",
+     "source_title": "Add and Edit Listings",
+     "source_url": "https://support.perchwell.com/en/articles/13627189-add-and-edit-listings"
+    },
+    {
+     "id": "215476889652206",
+     "question": "How do I create a saved search?",
+     "perchie_answer": "First explained how to open saved searches and turn on alerts, then gave the steps to set filters on the Search page, click Save, and name the search.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "create-a-search-with-filters.md",
+     "fix_id": null,
+     "source_title": "Create a Search with Filters",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/13903380-create-a-search-with-filters"
+    },
+    {
+     "id": "215476879503421",
+     "question": "How do I duplicate a listing that is already expired?",
+     "perchie_answer": "Perchie said to select the listing on Manage Listings and click Duplicate at the bottom, which creates a draft, and noted Days on Market starts at zero when an expired listing is relisted this way.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "listing-maintenance-faq.md",
+     "fix_id": null,
+     "source_title": "Listing Maintenance FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq"
+    },
+    {
+     "id": "215476870511736",
+     "question": "How can I get a QR code for a listing that is large enough to put on a sign?",
+     "perchie_answer": "Pointed the agent to the One Page Report and Show Sheet QR codes, then said the QR code size is fixed by the report template and cannot be enlarged.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "reports-faq.md",
+     "fix_id": null,
+     "source_title": "Reports FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/15201097-reports-faq"
+    },
+    {
+     "id": "215476889589547",
+     "question": "How do I change a listing from Active to Pending, and what about Active Under Contract?",
+     "perchie_answer": "Perchie said to open the listing from Manage Listings with the pencil icon, set the Status field to Pending and save, and cited a 3-business-day rule; it then correctly explained Active Under Contract versus Pending.",
+     "verdict": "Partly correct",
+     "cause": "Article missing",
+     "source_article": "add-and-edit-listings.md",
+     "fix_id": "F3",
+     "source_title": "Add and Edit Listings",
+     "source_url": "https://support.perchwell.com/en/articles/13627189-add-and-edit-listings"
+    },
+    {
+     "id": "215476873369714",
+     "question": "How do I attach the search I just created to a contact?",
+     "perchie_answer": "Perchie said to open Saved Searches, click the pencil icon on the search, check the contact in the Contacts dropdown, and click Update.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "manage-your-saved-searches.md",
+     "fix_id": null,
+     "source_title": "Manage Your Saved Searches",
+     "source_url": "https://support.perchwell.com/en/articles/8955646-manage-your-saved-searches"
+    },
+    {
+     "id": "215476900124911",
+     "question": "Where do I find the video on a listing?",
+     "perchie_answer": "Perchie pointed to a 'Photos and Multimedia' section on the Listing Detail Page and said videos come from the Virtual Tour fields; on follow-up it said the listing may have no video and suggested the photo gallery grid icon.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "listing-detail-page-overview.md",
+     "fix_id": "F19",
+     "source_title": "Listing Detail Page Overview",
+     "source_url": "https://support.perchwell.com/en/articles/14074994-listing-detail-page-overview"
+    },
+    {
+     "id": "215476899856532",
+     "question": "How do I find my login information, and how do I find my Baldwin Realtors portal login?",
+     "perchie_answer": "Perchie explained that Perchwell uses the Baldwin portal username and password and to open Perchwell from Quick Links; on the follow-up it repeated the same answer without saying how to recover a forgotten portal username or password.",
+     "verdict": "Partly correct",
+     "cause": "Article unclear or missing the member's words",
+     "source_article": "login-and-troubleshooting-faq.md",
+     "fix_id": "F18",
+     "source_title": "Login and Troubleshooting FAQ",
+     "source_url": "https://support.perchwell.com/baldwin/en/articles/14710265-login-and-troubleshooting-faq"
+    },
+    {
+     "id": "215476912212035",
+     "question": "How do I report a listing that has false information?",
+     "perchie_answer": "Directed the agent to CRS Listing Integrity under Agent Tools on the listing page or the Report a Listing integration, and gave the MLS staff contact.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "listing-detail-page-overview.md",
+     "fix_id": null,
+     "source_title": "Listing Detail Page Overview",
+     "source_url": "https://support.perchwell.com/en/articles/14074994-listing-detail-page-overview"
+    },
+    {
+     "id": "215476899537228",
+     "question": "How do I change my saved search alerts from immediate to daily?",
+     "perchie_answer": "Gave steps to open the saved search, choose Daily in the Frequency dropdown, optionally pick Morning or Evening, and click Update.",
+     "verdict": "Correct",
+     "cause": "None",
+     "source_article": "set-up-email-alerts-for-saved-searches.md",
+     "fix_id": null,
+     "source_title": "Set Up Email Alerts for Saved Searches",
+     "source_url": "https://support.perchwell.com/en/articles/11112420-set-up-email-alerts-for-saved-searches"
+    }
+   ],
+   "fixes": [
+    {
+     "id": "F12",
+     "type": "article",
+     "target": "Add and Edit Listings",
+     "change": "Add \"Request a missing subdivision\": members cannot add one themselves; Baldwin MLS staff send the request to Perchwell, which adds it, usually within days. Add \"Find the missing required fields\": the orange number next to each section name and the orange bar on each required field show what is left, for when the View incomplete fields link does nothing. Draft together with F3 on the same article.",
+     "status": "Proposed",
+     "conversations": [
+      "215476914554969",
+      "215476963393542"
+     ]
+    },
+    {
+     "id": "F13",
+     "type": "article",
+     "target": "Delete a Draft Listing",
+     "change": "Add \"A draft I did not make is on my Manage Listings page\": it most likely came from someone duplicating one of your listings; open it with the pencil icon and click Delete to remove it. Use the words unknown draft and old listing.",
+     "status": "Proposed",
+     "conversations": [
+      "215476879096586"
+     ]
+    },
+    {
+     "id": "F14",
+     "type": "article",
+     "target": "Create a CMA with a Subject Property",
+     "change": "Add \"My subject property is not in Perchwell\": off-market and public-record properties are not pulled in, so add the subject property by hand and build the CMA from comps. Needs the options confirmed in the product; draft together with last week's F10 on the same article.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476939544525"
+     ]
+    },
+    {
+     "id": "F15",
+     "type": "article",
+     "target": "Filter Your Search by Property Type and Subtype",
+     "change": "Add \"Why do rentals show up in my for-sale search?\": status filters such as Active and Coming Soon include rentals, so select the sale property types in the Property Type quick filter in the upper left. Name attached and detached, since members search with those words.",
+     "status": "Proposed",
+     "conversations": [
+      "215476909124442"
+     ]
+    },
+    {
+     "id": "F16",
+     "type": "article",
+     "target": "Manage Listings Page Overview",
+     "change": "Add \"What does Awaiting Approval mean?\": some brokerages require a broker admin to approve a listing before it goes live; the agent cannot edit it while it waits, and the broker admin approves it or sends it back to Draft.",
+     "status": "Proposed",
+     "conversations": [
+      "215476933951009"
+     ]
+    },
+    {
+     "id": "F17",
+     "type": "article",
+     "target": "Add and Edit Listings in the Perchwell Mobile App",
+     "change": "Add \"Why don't I see my draft in the app?\": tap My Listings, open Filters, clear the other filters, select Drafts under Publication Status, and select every listing status.",
+     "status": "Proposed",
+     "conversations": [
+      "215476943752058"
+     ]
+    },
+    {
+     "id": "F18",
+     "type": "article",
+     "target": "Login and Troubleshooting FAQ",
+     "change": "Add \"I forgot my Baldwin REALTORS portal username or password\": use the portal's password reset link, or contact Baldwin MLS staff. Draft together with F11 on the same article.",
+     "status": "Proposed",
+     "conversations": [
+      "215476899856532"
+     ]
+    },
+    {
+     "id": "F19",
+     "type": "article",
+     "target": "Listing Detail Page Overview",
+     "change": "Say exactly where a listing's video or virtual tour opens on the Listing Detail Page, and use the word video next to virtual tour. Which tour fields show there depends on last week's F6, so confirm both together.",
+     "status": "Waiting on a teammate",
+     "conversations": [
+      "215476900124911"
+     ]
+    },
+    {
+     "id": "R4",
+     "type": "rule",
+     "target": "Answer first, then offer a teammate",
+     "change": "When a help center article answers the question, give that answer before offering a live agent, even when the member sounds stuck or frustrated. Two chats this week got only a handoff offer when an article had the answer (an unexpected draft, rentals in a for-sale search).",
+     "status": "Proposed",
+     "conversations": [
+      "215476879096586",
+      "215476909124442"
+     ]
+    }
+   ]
   }
  ]
 }

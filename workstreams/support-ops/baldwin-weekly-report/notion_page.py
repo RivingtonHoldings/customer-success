@@ -35,7 +35,11 @@ links name text inside one cell.
         - the week page links: every week in history.json with a notion_url
           is listed right after the line "Newest first.", newest first, and
           any copy of those links elsewhere on the page (a new child page
-          lands at the bottom) is removed;
+          lands at the bottom) is removed. The text inside a <page> tag is
+          the child page's title, and replace_content renames the page to it,
+          so each link keeps the title the page already shows; a page not yet
+          on the main page gets "Week of <first> to <last>, <year>" from the
+          week's start and end (or its notion_title in history.json);
         - the "Trends across weeks" section, up to the next level 2 heading;
         - with --perchie, the body of the "Perchie Review Loop" toggle.
       It stops with an error if an anchor is missing instead of guessing.
@@ -49,6 +53,10 @@ import argparse
 import json
 import re
 import sys
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+ET = ZoneInfo("America/New_York")
 
 SPECIAL = "\\*_`[]<>~$"
 
@@ -144,6 +152,28 @@ def trends_md(trends):
     return render(tb, shift=1)
 
 
+def week_title(w):
+    """The week page's full title, as the week spec's h1 writes it:
+    "Week of November 16 to 23, 2026", "Week of October 31 to November 9, 2026",
+    or "Week of December 28, 2026 to January 3, 2027". A notion_title in the
+    week's history entry wins."""
+    if w.get("notion_title"):
+        return w["notion_title"]
+    def day(v, back=0):
+        # history.json holds Unix seconds; the oldest week has an ISO date instead.
+        if isinstance(v, str):
+            return datetime.fromisoformat(v).date()
+        return datetime.fromtimestamp(v - back, ET).date()
+    first, last = day(w["start"]), day(w["end"], back=1)
+    if first.year != last.year:
+        span = f"{first:%B} {first.day}, {first.year} to {last:%B} {last.day}, {last.year}"
+    elif first.month != last.month:
+        span = f"{first:%B} {first.day} to {last:%B} {last.day}, {last.year}"
+    else:
+        span = f"{first:%B} {first.day} to {last.day}, {last.year}"
+    return "Week of " + span
+
+
 def merge_main(current, history, trends, perchie=None):
     text = current
     # 1. Week page links.
@@ -151,13 +181,20 @@ def merge_main(current, history, trends, perchie=None):
     if not weeks:
         raise SystemExit("No week in history.json has a notion_url")
     ids = [w["notion_url"].rstrip("/").split("/")[-1].split("?")[0][-32:] for w in weeks]
+    # The text inside a <page> tag is the child page's title, and replace_content
+    # renames the page to it. Keep the title the page already shows; build it from
+    # the week's dates only for a page not yet on the main page.
+    titles = []
+    for pid, w in zip(ids, weeks):
+        m = re.search(r'<page url="[^"]*' + pid + r'[^"]*">(.*?)</page>', text, re.S)
+        titles.append(m.group(1).strip() if m and m.group(1).strip() else esc(week_title(w)))
     for pid in ids:
         text = re.sub(r'\n*<page url="[^"]*' + pid + r'[^"]*">.*?</page>', "", text, flags=re.S)
     anchor = "Newest first."
     if text.count(anchor) != 1:
         raise SystemExit('Expected the line "Newest first." exactly once on the main page')
-    tags = "\n\n".join(f'<page url="https://app.notion.com/p/{pid}">{esc(w.get("notion_title", w["label"]))}</page>'
-                        for pid, w in zip(ids, weeks))
+    tags = "\n\n".join(f'<page url="https://app.notion.com/p/{pid}">{t}</page>'
+                        for pid, t in zip(ids, titles))
     text = text.replace(anchor, anchor + "\n\n" + tags, 1)
     # 2. Trends across weeks, up to the next level 2 heading (plain or toggle).
     start = text.find("## Trends across weeks")

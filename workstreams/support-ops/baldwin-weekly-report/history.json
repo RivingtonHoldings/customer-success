@@ -127,6 +127,44 @@
       "note": "Full 7-day window, Mon Nov 9 7:48 AM to Mon Nov 16 8:31 AM Eastern; the Friday Nov 13 run failed when the computer slept. 27 read in full, 41 themed from titles. 9 empty chats, internal tests, and one outbound outage notice were left out.",
       "slides_url": "https://docs.google.com/presentation/d/17AcHOukffA3hkuiDM-77oIgtovlLl8zrqRhWhepmTRo/edit",
       "notion_url": "https://app.notion.com/p/41a8b9e01438811289d1cf9bc3c7ca79"
+    },
+    {
+      "label": "Nov 16 to 23",
+      "start": 1794835913,
+      "end": 1795436928,
+      "complete": true,
+      "conversations": 78,
+      "themes": {
+        "Printing and reports": 9,
+        "Listing status changes": 9,
+        "Listing entry and duplicating": 13,
+        "Finding listings and search": 13,
+        "Contacts and client sharing": 8,
+        "Agent phone numbers": 2,
+        "Missing subdivisions and areas": 5,
+        "Listing documents and photos": 5,
+        "Listing data accuracy (CDOM, HOA)": 5,
+        "Seller activity report": 1,
+        "Login and account access": 3,
+        "Social sharing and syndication": 3,
+        "Other": 2
+      },
+      "signals": {
+        "Fin handed to a teammate": 11,
+        "Fin thumbs down": 0,
+        "Member ratings of 1 or 2 out of 5": 1,
+        "Member ratings of 4 or 5 out of 5": 1
+      },
+      "kinds": {
+        "question": 49,
+        "request": 11,
+        "bug": 14,
+        "admin": 1,
+        "feedback": 3
+      },
+      "note": "Full 7-day window, Mon Nov 16 8:31 AM to Mon Nov 23 7:28 AM Eastern; the Friday Nov 20 run did not start. All 78 read in full. 11 internal tests and 5 empty or test chats were left out.",
+      "notion_url": "https://app.notion.com/p/4218b9e0143881d18c10eb96d467559a",
+      "slides_url": "https://docs.google.com/presentation/d/1Bt2LVF5hk6pNjJK3uB-gEAmG3nawlhqmVYWYpWF8eGE/edit"
     }
   ],
   "persisting": [
@@ -140,9 +178,9 @@
     {
       "issue": "Subdivisions, cities, and counties missing from lookups",
       "first_seen": "Week of Oct 19",
-      "reports": 21,
-      "status": "Added on request by support; PWEB-23739 resolved; MLS staff forwarded 4 more this week",
-      "last_report": "Nov 9 to 16"
+      "reports": 26,
+      "status": "Added on request by support; MLS staff forwarded 4 more this week (PWEB-23854, PWEB-23895, PWEB-23905, PWEB-23906)",
+      "last_report": "Nov 16 to 23"
     },
     {
       "issue": "Agents cannot change their own profile; edits revert or are locked",
@@ -154,9 +192,16 @@
     {
       "issue": "Agent phone number wrong or not saving",
       "first_seen": "Week of Oct 19",
-      "reports": 8,
-      "status": "No tracker",
-      "last_report": "Oct 26 to 31"
+      "reports": 10,
+      "status": "No tracker; this week an agent's Zillow listings showed the office number",
+      "last_report": "Nov 16 to 23"
+    },
+    {
+      "issue": "CDOM or DOM wrong",
+      "first_seen": "Week of Oct 19",
+      "reports": 7,
+      "status": "PWEB-23580, PWEB-23637; relist carry-over on PWEB-23865, PWEB-23866",
+      "last_report": "Nov 16 to 23"
     },
     {
       "issue": "Printed text too small to read",
@@ -169,7 +214,7 @@
       "issue": "Seller activity report, as Paragon had",
       "first_seen": "Week of Oct 19",
       "reports": 6,
-      "status": "PWEB-22992; the Listing Performance Report went out to members the week of Oct 31, so this may be closed",
+      "status": "PWEB-22992; the Listing Performance Report is out, and this week's question was answered from it, so this may be closed",
       "last_report": "Oct 26 to 31"
     },
     {
@@ -180,26 +225,19 @@
       "last_report": "Nov 9 to 16"
     },
     {
-      "issue": "CDOM or DOM wrong",
-      "first_seen": "Week of Oct 19",
-      "reports": 5,
-      "status": "PWEB-23580, PWEB-23637",
-      "last_report": "Oct 31 to Nov 9"
-    },
-    {
       "issue": "Photo upload fails or is limited in Manage Listings",
       "first_seen": "Week of Oct 31",
-      "reports": 3,
-      "status": "No tracker; this week's report got no teammate answer",
-      "last_report": "Nov 9 to 16"
+      "reports": 4,
+      "status": "No tracker; this week's week-long upload stall got no teammate answer",
+      "last_report": "Nov 16 to 23"
     },
     {
       "issue": "Add a contact or text a listing without an email address",
       "first_seen": "Week of Oct 26",
-      "reports": 3,
-      "status": "No tracker",
-      "last_report": "Oct 31 to Nov 9"
+      "reports": 4,
+      "status": "PWEB-22539",
+      "last_report": "Nov 16 to 23"
     }
   ],
-  "persisting_note": "Counts last updated with the week of Nov 9 to 16. This window had 1 invited contact edit report and no profile edit reports. Photo upload fails or is limited in Manage Listings joined (2 reports the week before, 1 this week). Dropped on a tie at 3 reports with no new report since Oct 26 to 31: Listing documents error in Manage Listings (PWEB-23664). Watching: Photos cannot be reordered on Samsung Android devices (MOBILE-4373), Draft will not save when Active with a future entry date (PWEB-23828), Withdrawn missing from status options, and a Leased listing that cannot be edited back to Active."
+  "persisting_note": "Counts last updated with the week of Nov 16 to 23. This window had no invited contact edit reports and no profile edit reports. Watching: overlapping columns on printed search results (PWEB-23861, 2 MLS staff reports this week), street direction that will not delete (PWEB-23320), foreclosure label stuck on Zillow after a correction (2 chats, one listing), inactive teams selectable on listings."
 }
