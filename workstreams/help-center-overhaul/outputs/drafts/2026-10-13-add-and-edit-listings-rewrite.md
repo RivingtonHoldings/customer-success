@@ -10,15 +10,15 @@ source_notion_url: https://app.notion.com/p/27e8b9e01438809997dee4c519f5566f
 migrated_from: master-article-list
 ---
 
-<!-- Synced from Notion October 19, 2026 | Article Status: Draft | MLS/AOR: Baldwin | Collection: Manage Listings | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3f88b9e01438816581e8c763a35944c0 -->
+<!-- Synced from Notion November 23, 2026 | Article Status: Draft | MLS/AOR: Baldwin | Collection: Manage Listings | Roles: All Except Client | Video Included: Yes | Visuals Included: Yes | Notion: https://app.notion.com/p/3f88b9e01438816581e8c763a35944c0 -->
 
 # Add and Edit Listings
 
 **Description:** Add a new listing or update one you already have from Manage Listings, then save it as a draft or submit it to your MLS.
 
-Use this article, as an agent with the right permissions, to add a listing, fill in the Add/Edit form with Autofill, check the map pin, complete required fields, move through the form with keyboard shortcuts, write public remarks with AI Scribe, set syndication, upload documents and photos, edit a listing you already have, and save a draft or submit it.
+Use this article, as an agent with the right permissions, to add a listing, fill in the Add/Edit form with Autofill, check the map pin, complete required fields, move through the form with keyboard shortcuts, write public remarks with AI Scribe, set syndication, upload documents and photos, reorder and delete photos, edit a listing you already have, and save a draft or submit it.
 
-> Video placeholder: Add and edit a listing, from Add New Listing on the Manage Listings page through Autofill, required fields, and Submit listing, then opening a live listing with the pencil icon and clicking Submit updates
+https://www.loom.com/share/31c06108fa08420d859b1a60e5d931ce
 
 ## Add a new listing in Manage Listings
 
@@ -73,11 +73,13 @@ The bar at the bottom of the form counts the missing required fields, for exampl
 
 Perchwell checks your entries against MLS and brokerage rules as you fill in the form. Resolve any validation message before you submit.
 
+> **Tip:** Move through the Add/Edit form from the keyboard instead of the mouse. The section Fill in the Add/Edit form with keyboard shortcuts lists each shortcut and the fields it works in.
+
 > Screenshot added in Notion, October 14, 2026. Screenshot placeholder: The bottom of the Add/Edit form with the missing required fields bar and View incomplete fields | Alt text: The bar at the bottom of the Add/Edit form showing the number of missing required fields and the View incomplete fields link.
 
 ## Fill in the Add/Edit form with keyboard shortcuts
 
-Fill in the Add/Edit form from the keyboard on desktop. Keyboard shortcuts work in fields that show a list of suggestions as you type, including searchable dropdowns such as City, County, and Property sub-type. [confirm: the on-screen spelling of the Property sub-type field in Add/Edit]
+Fill in the Add/Edit form from the keyboard on desktop. Keyboard shortcuts work in fields that show a list of suggestions as you type, including searchable dropdowns such as City, County, and Property sub type.
 
 - Up Arrow and Down Arrow: Move through the suggestions in an open list
 - Enter: Select the highlighted suggestion, or the first match when none is highlighted
@@ -87,13 +89,13 @@ Fill in the Add/Edit form from the keyboard on desktop. Keyboard shortcuts work 
 
 In a field that takes multiple values, type the next value and press Enter again to add it.
 
-Keyboard shortcuts do not cover date fields, the Agent and Unit fields, or the Perchwell mobile app. Select those with the mouse or, in the app, by tapping. [confirm: the on-screen names of the Agent and Unit fields]
+Keyboard shortcuts do not cover date fields, the Listing agents and Unit # fields, or the Perchwell mobile app. Select those with the mouse or, in the app, by tapping.
 
-> Screenshot placeholder: A field in the Add/Edit form with its suggestion list open and one suggestion highlighted | Alt text: A field in the Add/Edit form with its suggestion list open and one suggestion highlighted from the keyboard.
+> Screenshot added in Notion, October 27, 2026. Screenshot placeholder: A field in the Add/Edit form with its suggestion list open and one suggestion highlighted | Alt text: A field in the Add/Edit form with its suggestion list open and one suggestion highlighted from the keyboard.
 
 ## Write public remarks with AI Scribe
 
-Turn on AI Scribe for the Public remarks field in the Add/Edit form. AI Scribe writes a first draft of the public remarks from the details you entered. Public remarks hold up to 2,000 characters. Review the generated text for accuracy and fair housing compliance before you submit. [AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe) explains how to set the tone, length, and features to highlight.
+Turn on AI Scribe for the Public remarks field in the Add/Edit form. AI Scribe writes a first draft of the public remarks from the details you entered. Public remarks hold up to 2,000 characters. Review the generated text for accuracy and fair housing compliance before you submit. [Write a Listing Description with AI Scribe](https://support.perchwell.com/baldwin/en/articles/11801815-ai-scribe) explains how to set the tone, length, and features to highlight.
 
 ## Set syndication settings for your listing
 
@@ -105,16 +107,36 @@ Choose where your listing is published online in the Syndication Settings sectio
 - Allow AVM on VOW: Allow VOW (virtual office website) sites to show an AVM (automated valuation model) for the listing
 - Allow comments on VOW: Allow VOW sites to show comments on the listing
 
-Under Syndicate To, select each site that receives the listing: Realtor.com, Homes.com, and ListHub.
+Under Syndicate To, select each site that receives the listing: [Realtor.com](http://Realtor.com), [Homes.com](http://Homes.com), and ListHub.
 
 ## Upload documents and photos to your listing
 
 Upload documents and photos in the Documents and Media sections of the Add/Edit form.
 
 - Documents: Click Add document to attach a file, such as an authorization form or marketing materials. Each file can be up to 50 MB.
-- Media: Click Upload, or drop photos onto the upload area, to add listing photos in PNG or JPG/JPEG format. Each photo can be up to 15 MB.
+- Media: Click Upload, or drop photos onto the upload area, to add listing photos in PNG or JPG/JPEG format. Each photo can be up to 20 MB.
 
 Add a video or virtual tour as a link rather than a file. Enter the link in the Virtual Tour #1, Virtual Tour #2, or Branded Virtual Tour field in the Property Detail section. The [Listing Maintenance FAQ](https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq) shows where those fields sit.
+
+## Reorder and delete photos in your listing
+
+Reorder photos in the Media section of the Add/Edit form. The first photo is the primary photo, and it is always public. Each other photo has a dropdown to set it to Public or Private. Private photos are visible to other agents, not the public. A private photo you move to the first position becomes public.
+
+Drag a photo by the six dots at its top left to move it. To see all the photos at once, reorder them in the Order photos window instead.
+
+### Steps:
+
+1. Click Order photos above the photos in the Media section
+2. Drag a photo by its six dots to a new position
+3. Click Confirm order
+
+Confirm order returns you to the Add/Edit form but does not save the new order. Click Save draft, Submit listing, or Submit updates to keep it; without saving, you lose the new order.
+
+To delete a photo, click the trash can icon on it, in the Media section or the Order photos window. The photo is removed without a confirmation message, and the deletion cannot be undone.
+
+> Screenshot placeholder: The Media section with Order photos above the first photo | Alt text: The Media section of the Add/Edit form with the Order photos button above the first photo.
+
+> Screenshot placeholder: The Order photos window with the photo grid | Alt text: The Order photos window showing listing photos in a grid, with Cancel and Confirm order in the lower right.
 
 ## Edit an existing listing in Manage Listings
 
@@ -127,7 +149,7 @@ Edit a listing you already have from the Manage Listings page.
 
 The Add/Edit form opens on the Edit listing tab. Update the fields you need, then keep your changes with the buttons in the lower right of the form. Save a draft, submit a listing, or submit updates explains each button.
 
-[Manage Listings Page Overview](https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview) explains how to filter the list to find a listing, including drafts. To open your own listing from the Dashboard, see [Listings Widget Overview](https://support.perchwell.com/baldwin/en/articles/13903171-listings-widget-overview).
+[Manage Listings Page Overview](https://support.perchwell.com/baldwin/en/articles/13623016-manage-listings-page-overview) explains how to filter the list to find a listing, including drafts. To open your own listing from the Dashboard, see [Find Listings in the Listings Widget](https://support.perchwell.com/baldwin/en/articles/13903171-listings-widget-overview).
 
 ## Save a draft, submit a listing, or submit updates
 
