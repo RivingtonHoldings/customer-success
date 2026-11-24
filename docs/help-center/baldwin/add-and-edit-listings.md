@@ -12,10 +12,10 @@ collections: ["Listing Maintenance"]
 state: published
 author_id: 5472692
 created_at: 2026-02-05T03:53:38Z
-updated_at: 2026-11-24T13:36:37Z
+updated_at: 2026-11-24T13:51:54Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-24T13:37:56Z
+synced_at: 2026-11-24T13:52:45Z
 ---
 
 # Add and Edit Listings
@@ -38,7 +38,7 @@ The Add/Edit form shows the fields for the property type you selected. The form 
 
 Members who came from a legacy platform may know Manage Listings as Maintain Listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png?expires=1795528800&signature=1234fc97119277308a0721a6fd1ef7605c6119753d9ac78f82b1355ea846a98d&req=dicvEMl3lYBaWfMW1HO4ze9oTXaroyVEBUYLPB%2FHE4retlWPkZXIMxEM%2F8Wj%0AKxb8%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png?expires=1795529700&signature=6f68d9f9b8419575ed42bb89755c49472162ce72c4291e3928be6fd210751db9&req=dicvEMl3lYBaWfMW1HO4ze9oTXaroyRLBUYLPB%2FHE4qttS6oS7WzaVIwixsC%0AfI12%0A)
 
 # Fill in listing details with Autofill
 
@@ -57,7 +57,7 @@ Enter a PPIN (Parcel/Property Index Number) in its own Tax PPIN # field, not in 
 
 Members who came from a legacy platform may know Autofill as CRS Tax Autofill.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png?expires=1795528800&signature=e1c702409e3c666b80d034ef06cbc125b2c64c05ebba18336ccc3128c520caed&req=dicvEMl3lYBZWvMW1HO4zX5cYOrtGOahEXqJynpcXzLl34ZGreus08LusGAu%0AcOen%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png?expires=1795529700&signature=6c4bb373329b30107fda0bfe4bb2a80872b35b0d5508c4703b2fcb68d91c0282&req=dicvEMl3lYBZWvMW1HO4zX5cYOrtGOeuEXqJynpcXzLxy6%2BQl7nEZcfsyS%2BA%0AFiRU%0A)
 
 # Check the map pin for your listing
 
@@ -76,7 +76,7 @@ Perchwell checks your entries against MLS and brokerage rules as you fill in the
 
 > **Tip:** Move through the Add/Edit form from the keyboard instead of the mouse. The section Fill in the Add/Edit form with keyboard shortcuts lists each shortcut and the fields it works in.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png?expires=1795528800&signature=91cdd30e8a0ef11086e963d691beda0585bb15618cdd0a19ea51b99fc5570e6a&req=dicvEMl3lYBYWvMW1HO4zXQAr%2FO9OkA172G1MmwIpBdgYEO93eZecEuY5GRh%0ADQhE%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png?expires=1795529700&signature=d358cfb49f3a5c1b0e6b402ab8b04c03b9b2929aa25b82add6867b5c4d997072&req=dicvEMl3lYBYWvMW1HO4zXQAr%2FO9OkE672G1MmwIpBcirfj6U2u1fJNDhC%2F5%0AEgQ4%0A)
 
 # Fill in the Add/Edit form with keyboard shortcuts
 
@@ -91,7 +91,7 @@ In a field that takes multiple values, type the next value and press Enter again
 
 Keyboard shortcuts do not cover date fields, the Listing agents and Unit # fields, or the Perchwell mobile app. Select those with the mouse or, in the app, by tapping.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png?expires=1795528800&signature=208b2892ba6fdfcf789df4bfc606f9da18db4afafdf27cf034e4f38d41136612&req=dicvEMl3lYBXXfMW1HO4zWT6SR9sjvxIfr3Z4gq0%2F65ylAa4BLya6O2QY0Tw%0A%2B0bP%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png?expires=1795529700&signature=8996625c7ff6a4040a18e4ead2fcb61d45a56ab1df7754ca97c23033c0ca3d47&req=dicvEMl3lYBXXfMW1HO4zWT6SR9sjv1Hfr3Z4gq0%2F67aWP42mugD0kjtQ49W%0ASsFU%0A)
 
 # Write public remarks with AI Scribe
 
@@ -134,7 +134,9 @@ To delete a photo, click the trash can icon on it, in the Media section or the O
 
 > **Important:** A deleted photo is removed without a confirmation message and cannot be undone.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png?expires=1795528800&signature=bc90e527241731134be0c62a0fa4058930d5bbf6cd32e4f091d7141ea4568f0e&req=digkF854nolYWvMW1HO4zQqihix4LxF%2Bxm832xzaIUipuz4vercsn3Jbfc97%0AreGk%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png?expires=1795528800&signature=63482102af06f14542bb67a76d1bcae359fe5179d049b95f79368eef544adf8e&req=digkF854noheX%2FMW1HO4zXTjHY83HNwNINaHpQ2XJBuArZHjTO4wF4BAfRxk%0ATVHw%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png?expires=1795529700&signature=e6f325b28cdf1a0ee129cb9b3e4f8ce00e7e7429d605aea8e656ae7e11a41877&req=digkF854nolYWvMW1HO4zQqihix4LxBxxm832xzaIUgd%2FyBFL3kNicsBOP24%0A7EcZ%0A)
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png?expires=1795529700&signature=323d7673a784c72a899e44651eb0344e2a5e12bffa43b2c77a220ead46366c5b&req=digkF854noheX%2FMW1HO4zXTjHY83HN0CINaHpQ2XJBsWP2kuxJ5Z%2F%2BoNgLuH%0A9h9Q%0A)
 
 # Edit an existing listing in Manage Listings
 
@@ -159,4 +161,4 @@ To delete a listing that is still a draft, click Delete in the lower left of the
 
 Members who came from a legacy platform may know a draft as a Partial.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png?expires=1795528800&signature=8a6ea5192a48a506980412a629a3018c469f4d5d4d60531b9ea1782465c43849&req=dicvEMl3lYBWXfMW1HO4zZbvpzxqx%2FowVzKVJ8ldhLnQRh1kdlnQux9XAfYF%0A5Itq%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png?expires=1795529700&signature=893b0b9b211d50c693146206dad2b00d3a865d4dbf809dcd8ffc51d2ecdc35e9&req=dicvEMl3lYBWXfMW1HO4zZbvpzxqx%2Fs%2FVzKVJ8ldhLlNP9j7hDaOVyEjmr36%0ACinC%0A)
