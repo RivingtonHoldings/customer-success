@@ -1,0 +1,71 @@
+{
+  "tracker_id": "TRK-044",
+  "article_name": "Add and Edit Listings",
+  "records": {
+    "baldwin": {
+      "intercom_article_id": 13627189,
+      "title": "Add and Edit Listings",
+      "intercom_updated_at": "2026-11-24T13:36:37Z",
+      "published_on": "2026-11-24",
+      "notion_last_edited": "2026-11-24T13:33:30.742Z",
+      "media": [
+        {
+          "position": "Opening, 1",
+          "kind": "video",
+          "caption_label": "Baldwin",
+          "identity": "video:https://www.loom.com/share/31c06108fa08420d859b1a60e5d931ce",
+          "published_as": "https://www.loom.com/embed/31c06108fa08420d859b1a60e5d931ce"
+        },
+        {
+          "position": "Add a new listing in Manage Listings, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:3e5997fe-c891-45b3-a94a-7275a5f040d4",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png"
+        },
+        {
+          "position": "Fill in listing details with Autofill, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:7c09f424-e252-4450-9cf8-0211f5941472",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png"
+        },
+        {
+          "position": "Complete required fields in the Add/Edit form, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:0e44fe2e-0ab9-426c-b878-27ed8887cc58",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png"
+        },
+        {
+          "position": "Fill in the Add/Edit form with keyboard shortcuts, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:d6005adc-4ef4-4794-9dd1-69f4b463eb72",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png"
+        },
+        {
+          "position": "Reorder and delete photos in your listing, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:4e6763d1-d84d-4638-a097-0df70f6466d8",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png"
+        },
+        {
+          "position": "Reorder and delete photos in your listing, 2",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:fa6f1665-4db8-4d4e-87d0-8963f0dd2d60",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png"
+        },
+        {
+          "position": "Save a draft, submit a listing, or submit updates, 1",
+          "kind": "image",
+          "caption_label": "Baldwin",
+          "identity": "file:7b99f972-9fb2-4d4a-bcec-67cdb0bb4bad",
+          "published_as": "https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png"
+        }
+      ]
+    }
+  }
+}

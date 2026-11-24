@@ -10,17 +10,17 @@ collection: "Listing Maintenance"
 collection_ids: [17797908]
 collections: ["Listing Maintenance"]
 state: published
-author_id: 8314814
+author_id: 5472692
 created_at: 2026-02-05T03:53:38Z
-updated_at: 2026-11-18T22:19:08Z
+updated_at: 2026-11-24T13:36:37Z
 labels: []
 body_source: public-help-center
-synced_at: 2026-11-19T03:47:11Z
+synced_at: 2026-11-24T13:37:56Z
 ---
 
 # Add and Edit Listings
 
-Use this article, as an agent with the right permissions, to add a listing, fill in the Add/Edit form with Autofill, check the map pin, complete required fields, move through the form with keyboard shortcuts, write public remarks with AI Scribe, set syndication, upload documents and photos, edit a listing you already have, and save a draft or submit it.
+Use this article, as an agent with the right permissions, to add a listing, fill in the Add/Edit form with Autofill, check the map pin, complete required fields, move through the form with keyboard shortcuts, write public remarks with AI Scribe, set syndication, upload documents and photos, reorder and delete photos, edit a listing you already have, and save a draft or submit it.
 
 [Embedded video](https://www.loom.com/embed/31c06108fa08420d859b1a60e5d931ce)
 
@@ -38,7 +38,7 @@ The Add/Edit form shows the fields for the property type you selected. The form 
 
 Members who came from a legacy platform may know Manage Listings as Maintain Listings.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png?expires=1795061700&signature=ae7c83eb73536cb3ce897c83f471964f177b42fb9f427bb5ea6e3f49f718be37&req=dicvEMl3lYBaWfMW1HO4ze9oTXaupyxLBUYLJhvBGrDhX%2FOAJYX1nZoxT23E%0A7dnQITciL99HNWyIvkU%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098150/2e6a12143f96fef739593925217c/upload_14676397715170763167.png?expires=1795528800&signature=1234fc97119277308a0721a6fd1ef7605c6119753d9ac78f82b1355ea846a98d&req=dicvEMl3lYBaWfMW1HO4ze9oTXaroyVEBUYLPB%2FHE4retlWPkZXIMxEM%2F8Wj%0AKxb8%0A)
 
 # Fill in listing details with Autofill
 
@@ -57,7 +57,7 @@ Enter a PPIN (Parcel/Property Index Number) in its own Tax PPIN # field, not in 
 
 Members who came from a legacy platform may know Autofill as CRS Tax Autofill.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png?expires=1795061700&signature=ee751fe2c182b2853e10000af11cb8fed79e7a35ea6ea7ac7293ba60ae8c10aa&req=dicvEMl3lYBZWvMW1HO4zX5cYOroHO%2BuEXqJ0H5aVgjMfvJGU2x2G5YJFpfC%0ArmnZpDVur7hwZVTiYm4%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098163/fa7c8dfea33146dfab54791960b6/upload_11538096594988787895.png?expires=1795528800&signature=e1c702409e3c666b80d034ef06cbc125b2c64c05ebba18336ccc3128c520caed&req=dicvEMl3lYBZWvMW1HO4zX5cYOrtGOahEXqJynpcXzLl34ZGreus08LusGAu%0AcOen%0A)
 
 # Check the map pin for your listing
 
@@ -76,7 +76,7 @@ Perchwell checks your entries against MLS and brokerage rules as you fill in the
 
 > **Tip:** Move through the Add/Edit form from the keyboard instead of the mouse. The section Fill in the Add/Edit form with keyboard shortcuts lists each shortcut and the fields it works in.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png?expires=1795061700&signature=0bad9c1991a7b4ef9dff93312a5add44cc38b606ab957d1ac8c8e965367eb55b&req=dicvEMl3lYBYWvMW1HO4zXQAr%2FO4Pkk672G1KGgOrS1VBJ%2FL3tOPyyV0Pgiz%0ADMfg57ZRwDx33VDjZkg%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098173/64e88d2f0865af9b231560947e7b/upload_18363436702285603659.png?expires=1795528800&signature=91cdd30e8a0ef11086e963d691beda0585bb15618cdd0a19ea51b99fc5570e6a&req=dicvEMl3lYBYWvMW1HO4zXQAr%2FO9OkA172G1MmwIpBdgYEO93eZecEuY5GRh%0ADQhE%0A)
 
 # Fill in the Add/Edit form with keyboard shortcuts
 
@@ -91,7 +91,7 @@ In a field that takes multiple values, type the next value and press Enter again
 
 Keyboard shortcuts do not cover date fields, the Listing agents and Unit # fields, or the Perchwell mobile app. Select those with the mouse or, in the app, by tapping.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png?expires=1795061700&signature=88cb3314ae226307b67a78fbe13ee5f1244cbd07c2dd9a5c92dd50a2dd7dc157&req=dicvEMl3lYBXXfMW1HO4zWT6SR9pivVHfr3Z%2BA6y9pTWVws%2BSSBb%2FBTaHpbq%0AkjKh35mcv4IQkKlS2Lc%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098184/f444fbff7bf4438a95db71072e33/upload_9846631207711503930.png?expires=1795528800&signature=208b2892ba6fdfcf789df4bfc606f9da18db4afafdf27cf034e4f38d41136612&req=dicvEMl3lYBXXfMW1HO4zWT6SR9sjvxIfr3Z4gq0%2F65ylAa4BLya6O2QY0Tw%0A%2B0bP%0A)
 
 # Write public remarks with AI Scribe
 
@@ -116,6 +116,26 @@ Upload documents and photos in the Documents and Media sections of the Add/Edit 
 
 Add a video or virtual tour as a link rather than a file. Enter the link in the Virtual Tour #1, Virtual Tour #2, or Branded Virtual Tour field in the Property Detail section. The [Listing Maintenance FAQ](https://support.perchwell.com/baldwin/en/articles/15199904-listing-maintenance-faq) shows where those fields sit.
 
+# Reorder and delete photos in your listing
+
+Reorder and delete photos in the Media section of the Add/Edit form. The first photo is the primary photo, and it is always public. Select Public or Private from the dropdown on each other photo. Private photos are visible to other agents, not the public. A private photo you move to the first position becomes public.
+
+Drag a photo by the six dots at its upper left to move it. To see all the photos at once, reorder them in the Order photos window instead.
+
+## Steps:
+1. Click Order photos above the photos in the Media section
+2. Drag a photo by its six dots to a new position
+3. Click Confirm order
+4. Click Save draft, Submit listing, or Submit updates to keep the new order
+
+Confirm order returns you to the Add/Edit form. Leaving the form without saving loses the new order.
+
+To delete a photo, click the trash can icon on it, in the Media section or the Order photos window.
+
+> **Important:** A deleted photo is removed without a confirmation message and cannot be undone.
+
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763873/5d5f42cab4cc98788fb82d724776/upload_9712971899918207305.png?expires=1795528800&signature=bc90e527241731134be0c62a0fa4058930d5bbf6cd32e4f091d7141ea4568f0e&req=digkF854nolYWvMW1HO4zQqihix4LxF%2Bxm832xzaIUipuz4vercsn3Jbfc97%0AreGk%0A)[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2831763916/387569f0fb946f61f69f7f7e1025/upload_4963520418088583796.png?expires=1795528800&signature=63482102af06f14542bb67a76d1bcae359fe5179d049b95f79368eef544adf8e&req=digkF854noheX%2FMW1HO4zXTjHY83HNwNINaHpQ2XJBuArZHjTO4wF4BAfRxk%0ATVHw%0A)
+
 # Edit an existing listing in Manage Listings
 
 Edit a listing you already have from the Manage Listings page.
@@ -139,4 +159,4 @@ To delete a listing that is still a draft, click Delete in the lower left of the
 
 Members who came from a legacy platform may know a draft as a Partial.
 
-[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png?expires=1795061700&signature=b74989f3c4ac6aebfd911a2a4702ed125872577f7c5e79e43c18e933e0fd7212&req=dicvEMl3lYBWXfMW1HO4zZbvpzxvw%2FM%2FVzKVPc1bjYM4q8xOTfSCBI4cUpJq%0Abn32bl83%2FH4VdjzIfmo%3D%0A)
+[![image](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png)](https://perchwell.intercom-attachments-1.com/i/o/trq7czv5/2786098194/2ffee89b502e78efc155b7442f41/upload_13492968718108288015.png?expires=1795528800&signature=8a6ea5192a48a506980412a629a3018c469f4d5d4d60531b9ea1782465c43849&req=dicvEMl3lYBWXfMW1HO4zZbvpzxqx%2FowVzKVJ8ldhLnQRh1kdlnQux9XAfYF%0A5Itq%0A)

@@ -120,23 +120,26 @@ Add a video or virtual tour as a link rather than a file. Enter the link in the 
 
 ## Reorder and delete photos in your listing
 
-Reorder photos in the Media section of the Add/Edit form. The first photo is the primary photo, and it is always public. Each other photo has a dropdown to set it to Public or Private. Private photos are visible to other agents, not the public. A private photo you move to the first position becomes public.
+Reorder and delete photos in the Media section of the Add/Edit form. The first photo is the primary photo, and it is always public. Select Public or Private from the dropdown on each other photo. Private photos are visible to other agents, not the public. A private photo you move to the first position becomes public.
 
-Drag a photo by the six dots at its top left to move it. To see all the photos at once, reorder them in the Order photos window instead.
+Drag a photo by the six dots at its upper left to move it. To see all the photos at once, reorder them in the Order photos window instead.
 
 ### Steps:
 
 1. Click Order photos above the photos in the Media section
 2. Drag a photo by its six dots to a new position
 3. Click Confirm order
+4. Click Save draft, Submit listing, or Submit updates to keep the new order
 
-Confirm order returns you to the Add/Edit form but does not save the new order. Click Save draft, Submit listing, or Submit updates to keep it; without saving, you lose the new order.
+Confirm order returns you to the Add/Edit form. Leaving the form without saving loses the new order.
 
-To delete a photo, click the trash can icon on it, in the Media section or the Order photos window. The photo is removed without a confirmation message, and the deletion cannot be undone.
+To delete a photo, click the trash can icon on it, in the Media section or the Order photos window.
 
-> Screenshot placeholder: The Media section with Order photos above the first photo | Alt text: The Media section of the Add/Edit form with the Order photos button above the first photo.
+> **Important:** A deleted photo is removed without a confirmation message and cannot be undone.
 
-> Screenshot placeholder: The Order photos window with the photo grid | Alt text: The Order photos window showing listing photos in a grid, with Cancel and Confirm order in the lower right.
+> Screenshot added in Notion, November 23, 2026. Screenshot placeholder: The Media section with Order photos above the first photo | Alt text: The Media section of the Add/Edit form with the Order photos button above the first photo.
+
+> Screenshot added in Notion, November 23, 2026. Screenshot placeholder: The Order photos window with the photo grid | Alt text: The Order photos window showing listing photos in a grid, with Cancel and Confirm order in the lower right.
 
 ## Edit an existing listing in Manage Listings
 

@@ -1,8 +1,16 @@
 {
- "last_run": "2026-11-19T20:44:41Z",
+ "last_run": "2026-11-24T13:37:56Z",
  "help_center_id": 4755399,
  "source": "metadata from Intercom list_articles; bodies from the public help center (published) and get_article (drafts)",
  "articles": {
+  "13627189": {
+   "file": "add-and-edit-listings.md",
+   "updated_at": 1795527397,
+   "state": "published",
+   "title": "Add and Edit Listings",
+   "content_id": "15700488",
+   "body_sha1": "1782d29d1ff30f231246de40e7105cfe658e023d"
+  },
   "10732227": {
    "file": "bulk-upload-contacts-from-a-csv-file.md",
    "updated_at": 1795121036,
@@ -26,14 +34,6 @@
    "title": "Create a Quick CMA Report",
    "content_id": "16237971",
    "body_sha1": "019bd57e84113a1a5e89c07a0d7d8ee740ae75fc"
-  },
-  "13627189": {
-   "file": "add-and-edit-listings.md",
-   "updated_at": 1795040348,
-   "state": "published",
-   "title": "Add and Edit Listings",
-   "content_id": "15700488",
-   "body_sha1": "22a593531b5e6f175cecba08ad3f601b69a4febd"
   },
   "13903171": {
    "file": "find-listings-in-the-listings-widget.md",
